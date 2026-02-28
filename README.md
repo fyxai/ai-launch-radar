@@ -1,12 +1,27 @@
 # AI Launch Radar
 
-A radar for daily AI product/model releases with impact scoring and category heatmap.
+Tracks newly active AI startup/tool repositories from GitHub signals.
 
-## Why interesting
-- Trending: launch monitoring + market intelligence
-- Useful: watch competitors and opportunities in real time
+## Quick start
 
-## Next milestone
-- Multi-source ingestion (X, blogs, GitHub)
-- De-duplication + entity resolution
-- Weekly intelligence digest
+```bash
+npm ci
+npm run update-data
+npm run build
+npm run start
+```
+
+## Scripts
+
+- `npm run update-data` — fetches public GitHub signals and updates `data/signals.json`
+- `npm run build` — validates generated JSON
+- `npm run start` — prints a concise top-list view in the terminal
+
+## Automation
+
+A GitHub Actions workflow at `.github/workflows/update.yml` runs every 4 hours:
+
+- cron: `0 */4 * * *`
+- runs `npm ci`
+- runs `npm run update-data`
+- commits and pushes only when `data/signals.json` changed

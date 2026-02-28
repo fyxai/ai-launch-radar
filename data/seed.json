@@ -1,0 +1,9 @@
+{
+  "project": "AI Launch Radar",
+  "description": "Tracks newly active AI startup/tool repositories from GitHub signals.",
+  "source": {
+    "type": "github-search",
+    "query": "topic:startup stars:>50 pushed:>=2024-01-01"
+  },
+  "items": []
+}

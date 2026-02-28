@@ -1,0 +1,176 @@
+{
+  "project": "AI Launch Radar",
+  "description": "Tracks newly active AI startup/tool repositories from GitHub signals.",
+  "source": {
+    "type": "github-search",
+    "query": "topic:startup stars:>50 pushed:>=2024-01-01"
+  },
+  "total_found": 72,
+  "items": [
+    {
+      "id": 304483342,
+      "full_name": "zfdang/Android-Touch-Helper",
+      "html_url": "https://github.com/zfdang/Android-Touch-Helper",
+      "description": "开屏跳过-安卓系统的开屏广告自动跳过助手",
+      "stars": 5291,
+      "forks": 505,
+      "language": "Java",
+      "pushed_at": "2026-01-04T02:51:51Z",
+      "updated_at": "2026-02-25T19:01:57Z"
+    },
+    {
+      "id": 83980248,
+      "full_name": "forter/security-101-for-saas-startups",
+      "html_url": "https://github.com/forter/security-101-for-saas-startups",
+      "description": "security tips for startups",
+      "stars": 4638,
+      "forks": 290,
+      "language": "Unknown",
+      "pushed_at": "2026-01-27T12:03:01Z",
+      "updated_at": "2026-02-27T08:36:49Z"
+    },
+    {
+      "id": 986349490,
+      "full_name": "EdoStra/Marketing-for-Founders",
+      "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
+      "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
+      "stars": 3225,
+      "forks": 371,
+      "language": "Unknown",
+      "pushed_at": "2026-01-24T09:18:08Z",
+      "updated_at": "2026-02-27T20:37:22Z"
+    },
+    {
+      "id": 309097908,
+      "full_name": "25H/Maya",
+      "html_url": "https://github.com/25H/Maya",
+      "description": "Maye 一个简洁小巧的快速启动工具",
+      "stars": 1652,
+      "forks": 127,
+      "language": "Less",
+      "pushed_at": "2026-02-26T00:02:44Z",
+      "updated_at": "2026-02-28T01:04:33Z"
+    },
+    {
+      "id": 109404010,
+      "full_name": "bahmutov/start-server-and-test",
+      "html_url": "https://github.com/bahmutov/start-server-and-test",
+      "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
+      "stars": 1574,
+      "forks": 96,
+      "language": "JavaScript",
+      "pushed_at": "2026-02-26T06:34:28Z",
+      "updated_at": "2026-02-24T19:02:53Z"
+    },
+    {
+      "id": 76633312,
+      "full_name": "Ibexoft/awesome-startup-tools-list",
+      "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
+      "description": "List of all tools (apps, services) that startups should use.",
+      "stars": 953,
+      "forks": 164,
+      "language": "Unknown",
+      "pushed_at": "2026-02-17T04:55:12Z",
+      "updated_at": "2026-02-26T19:33:00Z"
+    },
+    {
+      "id": 158286982,
+      "full_name": "maximmax42/Discord-CustomRP",
+      "html_url": "https://github.com/maximmax42/Discord-CustomRP",
+      "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
+      "stars": 903,
+      "forks": 112,
+      "language": "C#",
+      "pushed_at": "2026-02-16T12:58:45Z",
+      "updated_at": "2026-02-27T09:26:51Z"
+    },
+    {
+      "id": 233135728,
+      "full_name": "dstein64/vim-startuptime",
+      "html_url": "https://github.com/dstein64/vim-startuptime",
+      "description": "A plugin for viewing Vim and Neovim startup event timing information.",
+      "stars": 656,
+      "forks": 11,
+      "language": "Vim Script",
+      "pushed_at": "2026-02-16T03:49:13Z",
+      "updated_at": "2026-02-19T20:34:43Z"
+    },
+    {
+      "id": 557249295,
+      "full_name": "johackim/awesome-indiehackers",
+      "html_url": "https://github.com/johackim/awesome-indiehackers",
+      "description": "Awesome list about indie hackers",
+      "stars": 566,
+      "forks": 30,
+      "language": "Unknown",
+      "pushed_at": "2026-02-15T17:29:46Z",
+      "updated_at": "2026-02-15T17:29:50Z"
+    },
+    {
+      "id": 132757250,
+      "full_name": "charlax/entrepreneurship-resources",
+      "html_url": "https://github.com/charlax/entrepreneurship-resources",
+      "description": "A list of articles, books, videos related to entrepreneurship",
+      "stars": 552,
+      "forks": 63,
+      "language": "JavaScript",
+      "pushed_at": "2026-01-30T02:56:18Z",
+      "updated_at": "2026-02-26T02:04:30Z"
+    },
+    {
+      "id": 218981625,
+      "full_name": "ravi-ojha/startuptoolbox",
+      "html_url": "https://github.com/ravi-ojha/startuptoolbox",
+      "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
+      "stars": 451,
+      "forks": 70,
+      "language": "Unknown",
+      "pushed_at": "2026-01-29T09:18:22Z",
+      "updated_at": "2026-02-22T02:19:09Z"
+    },
+    {
+      "id": 458493266,
+      "full_name": "tuan3w/awesome-tech-rss",
+      "html_url": "https://github.com/tuan3w/awesome-tech-rss",
+      "description": "List of awesome RSS channels related to startup, science and technology.",
+      "stars": 449,
+      "forks": 27,
+      "language": "Python",
+      "pushed_at": "2026-02-10T13:46:37Z",
+      "updated_at": "2026-02-28T01:58:25Z"
+    },
+    {
+      "id": 834628174,
+      "full_name": "get-convex/convex-saas",
+      "html_url": "https://github.com/get-convex/convex-saas",
+      "description": "A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn.",
+      "stars": 340,
+      "forks": 41,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-05T02:22:46Z",
+      "updated_at": "2026-02-27T20:50:13Z"
+    },
+    {
+      "id": 72835816,
+      "full_name": "pegaltier/awesome-utils-dev",
+      "html_url": "https://github.com/pegaltier/awesome-utils-dev",
+      "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
+      "stars": 277,
+      "forks": 61,
+      "language": "JavaScript",
+      "pushed_at": "2026-02-27T19:08:09Z",
+      "updated_at": "2026-02-27T19:08:12Z"
+    },
+    {
+      "id": 73848752,
+      "full_name": "HenrikBengtsson/startup",
+      "html_url": "https://github.com/HenrikBengtsson/startup",
+      "description": ":wrench: R package: startup - Friendly R Startup Configuration",
+      "stars": 167,
+      "forks": 5,
+      "language": "R",
+      "pushed_at": "2026-02-28T00:27:31Z",
+      "updated_at": "2026-02-28T00:27:34Z"
+    }
+  ]
+}
