@@ -5,19 +5,8 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 72,
+  "total_found": 73,
   "items": [
-    {
-      "id": 304483342,
-      "full_name": "zfdang/Android-Touch-Helper",
-      "html_url": "https://github.com/zfdang/Android-Touch-Helper",
-      "description": "开屏跳过-安卓系统的开屏广告自动跳过助手",
-      "stars": 5291,
-      "forks": 505,
-      "language": "Java",
-      "pushed_at": "2026-01-04T02:51:51Z",
-      "updated_at": "2026-02-25T19:01:57Z"
-    },
     {
       "id": 83980248,
       "full_name": "forter/security-101-for-saas-startups",
@@ -45,11 +34,11 @@
       "full_name": "25H/Maya",
       "html_url": "https://github.com/25H/Maya",
       "description": "Maye 一个简洁小巧的快速启动工具",
-      "stars": 1652,
+      "stars": 1653,
       "forks": 127,
       "language": "Less",
       "pushed_at": "2026-02-26T00:02:44Z",
-      "updated_at": "2026-02-28T01:04:33Z"
+      "updated_at": "2026-02-28T08:11:13Z"
     },
     {
       "id": 109404010,
@@ -133,11 +122,11 @@
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 450,
+      "stars": 451,
       "forks": 27,
       "language": "Python",
       "pushed_at": "2026-02-10T13:46:37Z",
-      "updated_at": "2026-02-28T03:54:57Z"
+      "updated_at": "2026-02-28T07:54:53Z"
     },
     {
       "id": 834628174,
@@ -171,6 +160,17 @@
       "language": "R",
       "pushed_at": "2026-02-28T00:27:31Z",
       "updated_at": "2026-02-28T00:27:34Z"
+    },
+    {
+      "id": 30541426,
+      "full_name": "dlresende/extreme-carpaccio",
+      "html_url": "https://github.com/dlresende/extreme-carpaccio",
+      "description": "Slicing and coding game",
+      "stars": 128,
+      "forks": 121,
+      "language": "JavaScript",
+      "pushed_at": "2026-02-24T16:03:12Z",
+      "updated_at": "2026-01-22T16:04:16Z"
     }
   ]
 }
