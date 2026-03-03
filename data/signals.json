@@ -78,11 +78,11 @@
       "full_name": "dstein64/vim-startuptime",
       "html_url": "https://github.com/dstein64/vim-startuptime",
       "description": "A plugin for viewing Vim and Neovim startup event timing information.",
-      "stars": 656,
+      "stars": 657,
       "forks": 11,
       "language": "Vim Script",
       "pushed_at": "2026-02-16T03:49:13Z",
-      "updated_at": "2026-02-19T20:34:43Z"
+      "updated_at": "2026-03-03T13:48:21Z"
     },
     {
       "id": 557249295,
