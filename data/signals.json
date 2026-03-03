@@ -12,11 +12,11 @@
       "full_name": "forter/security-101-for-saas-startups",
       "html_url": "https://github.com/forter/security-101-for-saas-startups",
       "description": "security tips for startups",
-      "stars": 4640,
+      "stars": 4641,
       "forks": 290,
       "language": "Unknown",
       "pushed_at": "2026-01-27T12:03:01Z",
-      "updated_at": "2026-03-02T10:01:39Z"
+      "updated_at": "2026-03-03T01:48:12Z"
     },
     {
       "id": 986349490,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 953,
-      "forks": 164,
+      "forks": 165,
       "language": "Unknown",
       "pushed_at": "2026-02-28T03:39:58Z",
       "updated_at": "2026-02-28T03:40:01Z"
@@ -90,7 +90,7 @@
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
       "stars": 566,
-      "forks": 30,
+      "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-02-15T17:29:46Z",
       "updated_at": "2026-02-15T17:29:50Z"
@@ -122,22 +122,22 @@
       "full_name": "ravi-ojha/startuptoolbox",
       "html_url": "https://github.com/ravi-ojha/startuptoolbox",
       "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
-      "stars": 453,
+      "stars": 454,
       "forks": 71,
       "language": "Unknown",
       "pushed_at": "2026-01-29T09:18:22Z",
-      "updated_at": "2026-03-02T09:14:21Z"
+      "updated_at": "2026-03-03T00:22:52Z"
     },
     {
       "id": 834628174,
       "full_name": "get-convex/convex-saas",
       "html_url": "https://github.com/get-convex/convex-saas",
       "description": "A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn.",
-      "stars": 340,
+      "stars": 339,
       "forks": 41,
       "language": "TypeScript",
       "pushed_at": "2026-02-05T02:22:46Z",
-      "updated_at": "2026-02-27T20:50:13Z"
+      "updated_at": "2026-03-02T23:11:09Z"
     },
     {
       "id": 72835816,
