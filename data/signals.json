@@ -16,18 +16,18 @@
       "forks": 289,
       "language": "Unknown",
       "pushed_at": "2026-01-27T12:03:01Z",
-      "updated_at": "2026-03-09T17:45:27Z"
+      "updated_at": "2026-03-09T20:46:03Z"
     },
     {
       "id": 986349490,
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 3276,
+      "stars": 3278,
       "forks": 381,
       "language": "Unknown",
       "pushed_at": "2026-01-24T09:18:08Z",
-      "updated_at": "2026-03-09T17:59:30Z"
+      "updated_at": "2026-03-09T20:45:46Z"
     },
     {
       "id": 309097908,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 956,
-      "forks": 170,
+      "forks": 171,
       "language": "Unknown",
       "pushed_at": "2026-02-28T03:39:58Z",
       "updated_at": "2026-03-08T23:37:38Z"
@@ -133,11 +133,11 @@
       "full_name": "get-convex/convex-saas",
       "html_url": "https://github.com/get-convex/convex-saas",
       "description": "A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn.",
-      "stars": 342,
+      "stars": 343,
       "forks": 40,
       "language": "TypeScript",
       "pushed_at": "2026-02-05T02:22:46Z",
-      "updated_at": "2026-03-08T09:17:06Z"
+      "updated_at": "2026-03-09T20:36:41Z"
     },
     {
       "id": 72835816,
