@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 957,
-      "forks": 171,
+      "forks": 172,
       "language": "Unknown",
       "pushed_at": "2026-02-28T03:39:58Z",
       "updated_at": "2026-03-11T19:22:17Z"
@@ -111,11 +111,11 @@
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 489,
+      "stars": 490,
       "forks": 28,
       "language": "Python",
       "pushed_at": "2026-02-10T13:46:37Z",
-      "updated_at": "2026-03-12T03:18:08Z"
+      "updated_at": "2026-03-12T06:00:13Z"
     },
     {
       "id": 218981625,
@@ -133,11 +133,11 @@
       "full_name": "get-convex/convex-saas",
       "html_url": "https://github.com/get-convex/convex-saas",
       "description": "A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn.",
-      "stars": 344,
+      "stars": 345,
       "forks": 40,
       "language": "TypeScript",
       "pushed_at": "2026-02-05T02:22:46Z",
-      "updated_at": "2026-03-11T14:43:20Z"
+      "updated_at": "2026-03-12T07:07:42Z"
     },
     {
       "id": 72835816,
@@ -166,11 +166,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 122,
+      "stars": 123,
       "forks": 0,
       "language": "C++",
       "pushed_at": "2026-03-07T05:19:55Z",
-      "updated_at": "2026-03-11T10:55:13Z"
+      "updated_at": "2026-03-12T06:50:14Z"
     }
   ]
 }
