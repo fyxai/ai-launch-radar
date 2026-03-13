@@ -78,22 +78,22 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 562,
+      "stars": 563,
       "forks": 65,
       "language": "JavaScript",
       "pushed_at": "2026-01-30T02:56:18Z",
-      "updated_at": "2026-03-12T21:08:52Z"
+      "updated_at": "2026-03-13T11:16:06Z"
     },
     {
       "id": 458493266,
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 495,
+      "stars": 496,
       "forks": 28,
       "language": "Python",
       "pushed_at": "2026-02-10T13:46:37Z",
-      "updated_at": "2026-03-12T19:32:44Z"
+      "updated_at": "2026-03-13T12:43:38Z"
     },
     {
       "id": 218981625,
@@ -111,11 +111,11 @@
       "full_name": "get-convex/convex-saas",
       "html_url": "https://github.com/get-convex/convex-saas",
       "description": "A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn.",
-      "stars": 345,
-      "forks": 40,
+      "stars": 346,
+      "forks": 41,
       "language": "TypeScript",
       "pushed_at": "2026-02-05T02:22:46Z",
-      "updated_at": "2026-03-12T07:07:42Z"
+      "updated_at": "2026-03-13T10:02:25Z"
     },
     {
       "id": 72835816,
@@ -140,6 +140,17 @@
       "updated_at": "2026-02-28T00:27:34Z"
     },
     {
+      "id": 1173376661,
+      "full_name": "Gingiris/gingiris-launch",
+      "html_url": "https://github.com/Gingiris/gingiris-launch",
+      "description": "🚀 AI Product Launch Playbook — 30x PH #1, 6k stars in 7 days. KOL, UGC, Reddit & go-to-market SOPs. Open source & MIT licensed.",
+      "stars": 126,
+      "forks": 63,
+      "language": "Unknown",
+      "pushed_at": "2026-03-13T09:09:17Z",
+      "updated_at": "2026-03-13T14:00:12Z"
+    },
+    {
       "id": 1165088446,
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
@@ -149,17 +160,6 @@
       "language": "C++",
       "pushed_at": "2026-03-07T05:19:55Z",
       "updated_at": "2026-03-13T00:03:07Z"
-    },
-    {
-      "id": 1173376661,
-      "full_name": "Gingiris/gingiris-launch",
-      "html_url": "https://github.com/Gingiris/gingiris-launch",
-      "description": "🚀 AI Product Launch Playbook — 30x PH #1, 6k stars in 7 days. KOL, UGC, Reddit & go-to-market SOPs. Open source & MIT licensed.",
-      "stars": 107,
-      "forks": 60,
-      "language": "Unknown",
-      "pushed_at": "2026-03-13T09:09:17Z",
-      "updated_at": "2026-03-13T09:52:15Z"
     },
     {
       "id": 308613525,
