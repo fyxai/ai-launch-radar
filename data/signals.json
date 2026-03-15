@@ -78,11 +78,11 @@
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 501,
+      "stars": 503,
       "forks": 29,
       "language": "Python",
       "pushed_at": "2026-02-10T13:46:37Z",
-      "updated_at": "2026-03-14T18:23:34Z"
+      "updated_at": "2026-03-15T19:57:50Z"
     },
     {
       "id": 834628174,
@@ -103,8 +103,8 @@
       "stars": 278,
       "forks": 63,
       "language": "JavaScript",
-      "pushed_at": "2026-03-10T17:33:38Z",
-      "updated_at": "2026-03-10T17:33:42Z"
+      "pushed_at": "2026-03-15T18:15:18Z",
+      "updated_at": "2026-03-15T18:15:22Z"
     },
     {
       "id": 873944107,
@@ -166,11 +166,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
-      "stars": 105,
+      "stars": 106,
       "forks": 10,
       "language": "Unknown",
       "pushed_at": "2026-03-11T22:20:04Z",
-      "updated_at": "2026-03-15T15:26:27Z"
+      "updated_at": "2026-03-15T19:21:38Z"
     }
   ]
 }
