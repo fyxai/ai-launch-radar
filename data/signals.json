@@ -74,23 +74,12 @@
       "updated_at": "2026-03-08T11:30:14Z"
     },
     {
-      "id": 132757250,
-      "full_name": "charlax/entrepreneurship-resources",
-      "html_url": "https://github.com/charlax/entrepreneurship-resources",
-      "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 564,
-      "forks": 65,
-      "language": "JavaScript",
-      "pushed_at": "2026-01-30T02:56:18Z",
-      "updated_at": "2026-03-13T14:58:47Z"
-    },
-    {
       "id": 458493266,
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
       "stars": 501,
-      "forks": 28,
+      "forks": 29,
       "language": "Python",
       "pushed_at": "2026-02-10T13:46:37Z",
       "updated_at": "2026-03-14T18:23:34Z"
@@ -144,11 +133,11 @@
       "full_name": "Gingiris/gingiris-launch",
       "html_url": "https://github.com/Gingiris/gingiris-launch",
       "description": "🚀 AI Product Launch Playbook — 30x PH #1, 6k stars in 7 days. KOL, UGC, Reddit & go-to-market SOPs. Open source & MIT licensed.",
-      "stars": 138,
+      "stars": 139,
       "forks": 67,
       "language": "Unknown",
       "pushed_at": "2026-03-14T16:37:01Z",
-      "updated_at": "2026-03-15T04:26:58Z"
+      "updated_at": "2026-03-15T13:27:48Z"
     },
     {
       "id": 1165088446,
@@ -160,6 +149,17 @@
       "language": "C++",
       "pushed_at": "2026-03-13T15:48:41Z",
       "updated_at": "2026-03-15T08:52:37Z"
+    },
+    {
+      "id": 421823225,
+      "full_name": "catchpig/kmvvm",
+      "html_url": "https://github.com/catchpig/kmvvm",
+      "description": "Kotlin+Flow+Retrofit+OKHttp+ViewBanding+ViewModel+LiveData封装的MVVM框架,支持协程方式访问网络请求,kotlin最新的编译时框架ksp,可定义全局加载失败页面,并支持全局刷新数据的点击事件,还可定义全局列表的空页面",
+      "stars": 117,
+      "forks": 26,
+      "language": "Kotlin",
+      "pushed_at": "2026-03-15T11:54:31Z",
+      "updated_at": "2026-03-15T11:54:34Z"
     },
     {
       "id": 1174682625,
