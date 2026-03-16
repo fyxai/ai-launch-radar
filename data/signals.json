@@ -12,11 +12,11 @@
       "full_name": "25H/Maya",
       "html_url": "https://github.com/25H/Maya",
       "description": "Maye 一个简洁小巧的快速启动工具",
-      "stars": 1653,
+      "stars": 1652,
       "forks": 127,
       "language": "Less",
       "pushed_at": "2026-02-26T00:02:44Z",
-      "updated_at": "2026-03-12T13:56:34Z"
+      "updated_at": "2026-03-16T07:49:26Z"
     },
     {
       "id": 109404010,
@@ -46,7 +46,7 @@
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
       "stars": 905,
-      "forks": 112,
+      "forks": 113,
       "language": "C#",
       "pushed_at": "2026-03-14T18:22:53Z",
       "updated_at": "2026-03-14T18:22:56Z"
@@ -67,11 +67,11 @@
       "full_name": "johackim/awesome-indiehackers",
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
-      "stars": 567,
+      "stars": 568,
       "forks": 34,
       "language": "Unknown",
       "pushed_at": "2026-02-15T17:29:46Z",
-      "updated_at": "2026-03-08T11:30:14Z"
+      "updated_at": "2026-03-16T08:34:36Z"
     },
     {
       "id": 458493266,
@@ -133,22 +133,22 @@
       "full_name": "Gingiris/gingiris-launch",
       "html_url": "https://github.com/Gingiris/gingiris-launch",
       "description": "🚀 AI Product Launch Playbook — 30x PH #1, 6k stars in 7 days. KOL, UGC, Reddit & go-to-market SOPs. Open source & MIT licensed.",
-      "stars": 142,
+      "stars": 143,
       "forks": 67,
       "language": "Unknown",
       "pushed_at": "2026-03-14T16:37:01Z",
-      "updated_at": "2026-03-16T03:46:09Z"
+      "updated_at": "2026-03-16T09:22:18Z"
     },
     {
       "id": 1165088446,
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 134,
+      "stars": 135,
       "forks": 0,
       "language": "C++",
       "pushed_at": "2026-03-13T15:48:41Z",
-      "updated_at": "2026-03-15T08:52:37Z"
+      "updated_at": "2026-03-16T10:56:47Z"
     },
     {
       "id": 421823225,
@@ -169,8 +169,8 @@
       "stars": 107,
       "forks": 10,
       "language": "Unknown",
-      "pushed_at": "2026-03-11T22:20:04Z",
-      "updated_at": "2026-03-16T05:56:58Z"
+      "pushed_at": "2026-03-16T09:02:14Z",
+      "updated_at": "2026-03-16T09:01:19Z"
     }
   ]
 }
