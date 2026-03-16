@@ -34,11 +34,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 962,
-      "forks": 175,
+      "stars": 963,
+      "forks": 176,
       "language": "Unknown",
       "pushed_at": "2026-02-28T03:39:58Z",
-      "updated_at": "2026-03-16T14:00:20Z"
+      "updated_at": "2026-03-16T20:29:43Z"
     },
     {
       "id": 158286982,
@@ -166,11 +166,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
-      "stars": 109,
+      "stars": 110,
       "forks": 10,
       "language": "Unknown",
       "pushed_at": "2026-03-16T09:02:14Z",
-      "updated_at": "2026-03-16T14:36:32Z"
+      "updated_at": "2026-03-16T20:35:18Z"
     }
   ]
 }
