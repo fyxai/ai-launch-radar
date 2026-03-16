@@ -35,7 +35,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 962,
-      "forks": 174,
+      "forks": 175,
       "language": "Unknown",
       "pushed_at": "2026-02-28T03:39:58Z",
       "updated_at": "2026-03-16T14:00:20Z"
@@ -89,11 +89,11 @@
       "full_name": "get-convex/convex-saas",
       "html_url": "https://github.com/get-convex/convex-saas",
       "description": "A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn.",
-      "stars": 346,
+      "stars": 347,
       "forks": 42,
       "language": "TypeScript",
       "pushed_at": "2026-02-05T02:22:46Z",
-      "updated_at": "2026-03-13T10:02:25Z"
+      "updated_at": "2026-03-16T18:08:09Z"
     },
     {
       "id": 72835816,
