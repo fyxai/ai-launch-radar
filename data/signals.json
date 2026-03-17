@@ -8,6 +8,17 @@
   "total_found": 76,
   "items": [
     {
+      "id": 304483342,
+      "full_name": "zfdang/Android-Touch-Helper",
+      "html_url": "https://github.com/zfdang/Android-Touch-Helper",
+      "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
+      "stars": 5290,
+      "forks": 503,
+      "language": "Java",
+      "pushed_at": "2026-03-17T02:04:59Z",
+      "updated_at": "2026-03-17T02:05:59Z"
+    },
+    {
       "id": 309097908,
       "full_name": "25H/Maya",
       "html_url": "https://github.com/25H/Maya",
@@ -34,11 +45,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 963,
+      "stars": 964,
       "forks": 176,
       "language": "Unknown",
       "pushed_at": "2026-02-28T03:39:58Z",
-      "updated_at": "2026-03-16T20:29:43Z"
+      "updated_at": "2026-03-17T00:01:28Z"
     },
     {
       "id": 158286982,
@@ -67,11 +78,11 @@
       "full_name": "johackim/awesome-indiehackers",
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
-      "stars": 568,
+      "stars": 569,
       "forks": 34,
       "language": "Unknown",
       "pushed_at": "2026-02-15T17:29:46Z",
-      "updated_at": "2026-03-16T08:34:36Z"
+      "updated_at": "2026-03-17T01:52:19Z"
     },
     {
       "id": 458493266,
@@ -111,11 +122,11 @@
       "full_name": "thedaviddias/indie-dev-toolkit",
       "html_url": "https://github.com/thedaviddias/indie-dev-toolkit",
       "description": "🚀 A curated list of tools and resources for indie hackers, solo founders, and bootstrapped startups.",
-      "stars": 244,
+      "stars": 245,
       "forks": 23,
       "language": "Unknown",
       "pushed_at": "2026-03-13T15:53:00Z",
-      "updated_at": "2026-03-15T01:18:42Z"
+      "updated_at": "2026-03-17T01:52:21Z"
     },
     {
       "id": 73848752,
@@ -160,17 +171,6 @@
       "language": "Kotlin",
       "pushed_at": "2026-03-15T11:54:31Z",
       "updated_at": "2026-03-15T11:54:34Z"
-    },
-    {
-      "id": 1174682625,
-      "full_name": "ferdinandobons/startup-skill",
-      "html_url": "https://github.com/ferdinandobons/startup-skill",
-      "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
-      "stars": 110,
-      "forks": 10,
-      "language": "Unknown",
-      "pushed_at": "2026-03-16T09:02:14Z",
-      "updated_at": "2026-03-16T20:35:18Z"
     }
   ]
 }
