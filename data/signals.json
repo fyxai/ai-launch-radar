@@ -12,11 +12,11 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5290,
+      "stars": 5289,
       "forks": 502,
       "language": "Java",
       "pushed_at": "2026-03-17T02:04:59Z",
-      "updated_at": "2026-03-17T02:05:59Z"
+      "updated_at": "2026-03-18T03:39:35Z"
     },
     {
       "id": 309097908,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 963,
-      "forks": 177,
+      "forks": 178,
       "language": "Unknown",
       "pushed_at": "2026-02-28T03:39:58Z",
       "updated_at": "2026-03-17T11:17:49Z"
@@ -133,11 +133,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 138,
+      "stars": 139,
       "forks": 0,
       "language": "C++",
       "pushed_at": "2026-03-17T11:14:34Z",
-      "updated_at": "2026-03-17T18:13:44Z"
+      "updated_at": "2026-03-18T03:18:52Z"
     },
     {
       "id": 421823225,
@@ -155,11 +155,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
-      "stars": 114,
+      "stars": 115,
       "forks": 10,
       "language": "Unknown",
       "pushed_at": "2026-03-16T09:02:14Z",
-      "updated_at": "2026-03-17T20:30:18Z"
+      "updated_at": "2026-03-17T23:08:46Z"
     },
     {
       "id": 308613525,
