@@ -57,10 +57,10 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 963,
-      "forks": 181,
+      "forks": 183,
       "language": "Unknown",
-      "pushed_at": "2026-02-28T03:39:58Z",
-      "updated_at": "2026-03-17T11:17:49Z"
+      "pushed_at": "2026-03-20T13:23:41Z",
+      "updated_at": "2026-03-20T13:23:46Z"
     },
     {
       "id": 158286982,
@@ -78,22 +78,22 @@
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 511,
+      "stars": 512,
       "forks": 29,
       "language": "Python",
       "pushed_at": "2026-03-18T14:36:11Z",
-      "updated_at": "2026-03-20T06:03:46Z"
+      "updated_at": "2026-03-20T13:07:18Z"
     },
     {
       "id": 72835816,
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 279,
+      "stars": 280,
       "forks": 63,
       "language": "JavaScript",
       "pushed_at": "2026-03-15T18:15:18Z",
-      "updated_at": "2026-03-16T15:05:46Z"
+      "updated_at": "2026-03-20T14:28:41Z"
     },
     {
       "id": 873944107,
@@ -122,11 +122,11 @@
       "full_name": "Gingiris/gingiris-launch",
       "html_url": "https://github.com/Gingiris/gingiris-launch",
       "description": "🚀 AI Product Launch Playbook — 30x PH #1, 6k stars in 7 days. KOL, UGC, Reddit & go-to-market SOPs. Open source & MIT licensed.",
-      "stars": 151,
+      "stars": 162,
       "forks": 72,
       "language": "Unknown",
       "pushed_at": "2026-03-14T16:37:01Z",
-      "updated_at": "2026-03-20T09:21:55Z"
+      "updated_at": "2026-03-20T14:31:12Z"
     },
     {
       "id": 1165088446,
@@ -144,11 +144,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
-      "stars": 130,
-      "forks": 15,
+      "stars": 132,
+      "forks": 16,
       "language": "Unknown",
       "pushed_at": "2026-03-18T16:54:35Z",
-      "updated_at": "2026-03-20T07:47:46Z"
+      "updated_at": "2026-03-20T13:09:42Z"
     },
     {
       "id": 421823225,
