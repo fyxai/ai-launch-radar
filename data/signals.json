@@ -34,11 +34,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1647,
+      "stars": 1648,
       "forks": 606,
       "language": "Python",
       "pushed_at": "2026-03-17T15:26:32Z",
-      "updated_at": "2026-03-17T15:26:33Z"
+      "updated_at": "2026-03-21T21:17:00Z"
     },
     {
       "id": 109404010,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 964,
-      "forks": 184,
+      "forks": 183,
       "language": "Unknown",
       "pushed_at": "2026-03-20T13:23:41Z",
       "updated_at": "2026-03-20T20:29:57Z"
@@ -82,7 +82,7 @@
       "forks": 29,
       "language": "Python",
       "pushed_at": "2026-03-18T14:36:11Z",
-      "updated_at": "2026-03-21T20:07:44Z"
+      "updated_at": "2026-03-22T02:43:02Z"
     },
     {
       "id": 72835816,
@@ -100,11 +100,11 @@
       "full_name": "thedaviddias/indie-dev-toolkit",
       "html_url": "https://github.com/thedaviddias/indie-dev-toolkit",
       "description": "🚀 A curated list of tools and resources for indie hackers, solo founders, and bootstrapped startups.",
-      "stars": 245,
+      "stars": 247,
       "forks": 23,
       "language": "Unknown",
       "pushed_at": "2026-03-13T15:53:00Z",
-      "updated_at": "2026-03-17T01:52:21Z"
+      "updated_at": "2026-03-22T03:56:20Z"
     },
     {
       "id": 1173376661,
@@ -133,22 +133,22 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 147,
+      "stars": 148,
       "forks": 0,
       "language": "C++",
       "pushed_at": "2026-03-21T00:37:10Z",
-      "updated_at": "2026-03-21T08:05:09Z"
+      "updated_at": "2026-03-22T02:21:47Z"
     },
     {
       "id": 1174682625,
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
-      "stars": 134,
+      "stars": 135,
       "forks": 16,
       "language": "Unknown",
       "pushed_at": "2026-03-20T14:50:19Z",
-      "updated_at": "2026-03-21T02:17:13Z"
+      "updated_at": "2026-03-21T23:23:35Z"
     },
     {
       "id": 421823225,
