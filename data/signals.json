@@ -34,11 +34,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1648,
+      "stars": 1649,
       "forks": 606,
       "language": "Python",
       "pushed_at": "2026-03-17T15:26:32Z",
-      "updated_at": "2026-03-21T21:17:00Z"
+      "updated_at": "2026-03-23T17:17:58Z"
     },
     {
       "id": 109404010,
@@ -48,8 +48,8 @@
       "stars": 1575,
       "forks": 96,
       "language": "JavaScript",
-      "pushed_at": "2026-03-23T11:53:02Z",
-      "updated_at": "2026-03-23T11:53:07Z"
+      "pushed_at": "2026-03-23T17:03:40Z",
+      "updated_at": "2026-03-23T17:03:45Z"
     },
     {
       "id": 76633312,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 965,
-      "forks": 184,
+      "forks": 185,
       "language": "Unknown",
       "pushed_at": "2026-03-20T13:23:41Z",
       "updated_at": "2026-03-22T18:01:25Z"
@@ -89,11 +89,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 282,
+      "stars": 283,
       "forks": 63,
       "language": "JavaScript",
       "pushed_at": "2026-03-21T16:28:35Z",
-      "updated_at": "2026-03-22T20:25:43Z"
+      "updated_at": "2026-03-23T17:06:55Z"
     },
     {
       "id": 873944107,
@@ -133,11 +133,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 154,
+      "stars": 153,
       "forks": 0,
       "language": "C++",
       "pushed_at": "2026-03-23T13:29:59Z",
-      "updated_at": "2026-03-23T15:30:27Z"
+      "updated_at": "2026-03-23T16:47:48Z"
     },
     {
       "id": 1174682625,
