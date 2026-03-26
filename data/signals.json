@@ -56,11 +56,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 966,
+      "stars": 967,
       "forks": 184,
       "language": "Unknown",
       "pushed_at": "2026-03-20T13:23:41Z",
-      "updated_at": "2026-03-25T17:43:07Z"
+      "updated_at": "2026-03-26T13:16:52Z"
     },
     {
       "id": 158286982,
@@ -78,11 +78,11 @@
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 531,
+      "stars": 532,
       "forks": 29,
       "language": "Python",
       "pushed_at": "2026-03-18T14:36:11Z",
-      "updated_at": "2026-03-26T03:57:00Z"
+      "updated_at": "2026-03-26T12:26:11Z"
     },
     {
       "id": 72835816,
@@ -133,11 +133,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 163,
+      "stars": 164,
       "forks": 0,
       "language": "C++",
       "pushed_at": "2026-03-26T09:49:23Z",
-      "updated_at": "2026-03-26T10:07:36Z"
+      "updated_at": "2026-03-26T14:56:14Z"
     },
     {
       "id": 1174682625,
@@ -166,11 +166,11 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 111,
+      "stars": 112,
       "forks": 11,
       "language": "Unknown",
       "pushed_at": "2026-03-25T02:36:38Z",
-      "updated_at": "2026-03-26T09:09:42Z"
+      "updated_at": "2026-03-26T14:30:37Z"
     }
   ]
 }
