@@ -46,7 +46,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 968,
-      "forks": 185,
+      "forks": 186,
       "language": "Unknown",
       "pushed_at": "2026-03-20T13:23:41Z",
       "updated_at": "2026-03-27T17:31:14Z"
@@ -56,11 +56,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 906,
+      "stars": 907,
       "forks": 113,
       "language": "C#",
       "pushed_at": "2026-03-25T13:20:18Z",
-      "updated_at": "2026-03-25T13:20:27Z"
+      "updated_at": "2026-03-27T18:38:31Z"
     },
     {
       "id": 557249295,
@@ -78,11 +78,11 @@
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 537,
+      "stars": 538,
       "forks": 29,
       "language": "Python",
       "pushed_at": "2026-03-18T14:36:11Z",
-      "updated_at": "2026-03-27T18:23:11Z"
+      "updated_at": "2026-03-27T21:07:20Z"
     },
     {
       "id": 72835816,
@@ -92,8 +92,8 @@
       "stars": 283,
       "forks": 63,
       "language": "JavaScript",
-      "pushed_at": "2026-03-21T16:28:35Z",
-      "updated_at": "2026-03-23T17:06:55Z"
+      "pushed_at": "2026-03-27T20:58:42Z",
+      "updated_at": "2026-03-27T20:58:46Z"
     },
     {
       "id": 873944107,
@@ -166,11 +166,11 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 113,
+      "stars": 114,
       "forks": 12,
       "language": "Unknown",
       "pushed_at": "2026-03-25T02:36:38Z",
-      "updated_at": "2026-03-27T18:30:05Z"
+      "updated_at": "2026-03-27T19:16:54Z"
     }
   ]
 }
