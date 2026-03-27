@@ -37,19 +37,19 @@
       "stars": 1575,
       "forks": 96,
       "language": "JavaScript",
-      "pushed_at": "2026-03-25T19:29:36Z",
-      "updated_at": "2026-03-25T17:43:35Z"
+      "pushed_at": "2026-03-27T15:47:52Z",
+      "updated_at": "2026-03-27T15:47:56Z"
     },
     {
       "id": 76633312,
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 967,
+      "stars": 968,
       "forks": 185,
       "language": "Unknown",
       "pushed_at": "2026-03-20T13:23:41Z",
-      "updated_at": "2026-03-26T13:16:52Z"
+      "updated_at": "2026-03-27T17:31:14Z"
     },
     {
       "id": 158286982,
@@ -78,11 +78,11 @@
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 536,
+      "stars": 537,
       "forks": 29,
       "language": "Python",
       "pushed_at": "2026-03-18T14:36:11Z",
-      "updated_at": "2026-03-27T13:32:38Z"
+      "updated_at": "2026-03-27T18:23:11Z"
     },
     {
       "id": 72835816,
@@ -144,11 +144,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
-      "stars": 148,
+      "stars": 149,
       "forks": 22,
       "language": "Unknown",
       "pushed_at": "2026-03-24T08:27:46Z",
-      "updated_at": "2026-03-27T11:48:46Z"
+      "updated_at": "2026-03-27T15:33:25Z"
     },
     {
       "id": 421823225,
@@ -166,11 +166,11 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 112,
+      "stars": 113,
       "forks": 12,
       "language": "Unknown",
       "pushed_at": "2026-03-25T02:36:38Z",
-      "updated_at": "2026-03-26T14:30:37Z"
+      "updated_at": "2026-03-27T18:30:05Z"
     }
   ]
 }
