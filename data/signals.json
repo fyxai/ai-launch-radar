@@ -12,22 +12,11 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5292,
+      "stars": 5289,
       "forks": 502,
       "language": "Java",
       "pushed_at": "2026-03-20T01:11:19Z",
-      "updated_at": "2026-03-26T01:26:42Z"
-    },
-    {
-      "id": 309097908,
-      "full_name": "25H/Maya",
-      "html_url": "https://github.com/25H/Maya",
-      "description": "Maye 一个简洁小巧的快速启动工具",
-      "stars": 1651,
-      "forks": 127,
-      "language": "Less",
-      "pushed_at": "2026-02-26T00:02:44Z",
-      "updated_at": "2026-03-25T05:06:15Z"
+      "updated_at": "2026-03-27T13:23:19Z"
     },
     {
       "id": 69400040,
@@ -74,15 +63,26 @@
       "updated_at": "2026-03-25T13:20:27Z"
     },
     {
+      "id": 557249295,
+      "full_name": "johackim/awesome-indiehackers",
+      "html_url": "https://github.com/johackim/awesome-indiehackers",
+      "description": "Awesome list about indie hackers",
+      "stars": 571,
+      "forks": 33,
+      "language": "Unknown",
+      "pushed_at": "2026-03-27T10:49:52Z",
+      "updated_at": "2026-03-27T13:28:58Z"
+    },
+    {
       "id": 458493266,
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 535,
+      "stars": 536,
       "forks": 29,
       "language": "Python",
       "pushed_at": "2026-03-18T14:36:11Z",
-      "updated_at": "2026-03-27T05:24:39Z"
+      "updated_at": "2026-03-27T13:32:38Z"
     },
     {
       "id": 72835816,
@@ -144,11 +144,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
-      "stars": 147,
+      "stars": 148,
       "forks": 22,
       "language": "Unknown",
       "pushed_at": "2026-03-24T08:27:46Z",
-      "updated_at": "2026-03-27T04:10:47Z"
+      "updated_at": "2026-03-27T11:48:46Z"
     },
     {
       "id": 421823225,
