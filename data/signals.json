@@ -56,11 +56,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 905,
+      "stars": 906,
       "forks": 113,
       "language": "C#",
       "pushed_at": "2026-03-25T13:20:18Z",
-      "updated_at": "2026-03-28T14:45:40Z"
+      "updated_at": "2026-03-29T16:20:51Z"
     },
     {
       "id": 557249295,
@@ -136,7 +136,7 @@
       "stars": 166,
       "forks": 0,
       "language": "C++",
-      "pushed_at": "2026-03-29T05:35:53Z",
+      "pushed_at": "2026-03-29T15:11:46Z",
       "updated_at": "2026-03-29T07:43:11Z"
     },
     {
@@ -144,11 +144,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
-      "stars": 156,
+      "stars": 158,
       "forks": 23,
       "language": "Unknown",
       "pushed_at": "2026-03-24T08:27:46Z",
-      "updated_at": "2026-03-29T12:04:14Z"
+      "updated_at": "2026-03-29T16:19:52Z"
     },
     {
       "id": 421823225,
