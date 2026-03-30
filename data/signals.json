@@ -12,22 +12,22 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5289,
+      "stars": 5290,
       "forks": 502,
       "language": "Java",
       "pushed_at": "2026-03-20T01:11:19Z",
-      "updated_at": "2026-03-30T10:45:53Z"
+      "updated_at": "2026-03-30T17:05:22Z"
     },
     {
       "id": 69400040,
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1649,
+      "stars": 1650,
       "forks": 607,
       "language": "Python",
       "pushed_at": "2026-03-17T15:26:32Z",
-      "updated_at": "2026-03-28T05:51:31Z"
+      "updated_at": "2026-03-30T17:43:07Z"
     },
     {
       "id": 109404010,
@@ -78,11 +78,11 @@
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 540,
+      "stars": 541,
       "forks": 30,
       "language": "Python",
       "pushed_at": "2026-03-18T14:36:11Z",
-      "updated_at": "2026-03-29T17:45:21Z"
+      "updated_at": "2026-03-30T18:39:41Z"
     },
     {
       "id": 72835816,
@@ -144,11 +144,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
-      "stars": 162,
+      "stars": 163,
       "forks": 24,
       "language": "Unknown",
       "pushed_at": "2026-03-24T08:27:46Z",
-      "updated_at": "2026-03-30T14:40:23Z"
+      "updated_at": "2026-03-30T18:13:24Z"
     },
     {
       "id": 421823225,
