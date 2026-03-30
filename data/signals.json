@@ -12,11 +12,11 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5290,
+      "stars": 5289,
       "forks": 502,
       "language": "Java",
       "pushed_at": "2026-03-20T01:11:19Z",
-      "updated_at": "2026-03-30T05:19:52Z"
+      "updated_at": "2026-03-30T10:45:53Z"
     },
     {
       "id": 69400040,
@@ -89,33 +89,44 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 283,
+      "stars": 282,
       "forks": 64,
       "language": "JavaScript",
       "pushed_at": "2026-03-28T21:29:18Z",
-      "updated_at": "2026-03-28T21:29:21Z"
+      "updated_at": "2026-03-30T10:50:03Z"
     },
     {
       "id": 873944107,
       "full_name": "thedaviddias/indie-dev-toolkit",
       "html_url": "https://github.com/thedaviddias/indie-dev-toolkit",
       "description": "🚀 A curated list of tools and resources for indie hackers, solo founders, and bootstrapped startups.",
-      "stars": 249,
+      "stars": 250,
       "forks": 24,
       "language": "Unknown",
       "pushed_at": "2026-03-13T15:53:00Z",
-      "updated_at": "2026-03-25T14:56:34Z"
+      "updated_at": "2026-03-30T10:45:34Z"
     },
     {
       "id": 1173376661,
       "full_name": "Gingiris/gingiris-launch",
       "html_url": "https://github.com/Gingiris/gingiris-launch",
       "description": "🚀 Product Hunt Launch Playbook — Proven tactics from 30x daily #1 winner. Complete go-to-market guide for AI products, startups & open source. Real case studies: Manus, Devin, AFFiNE.",
-      "stars": 180,
+      "stars": 181,
       "forks": 75,
       "language": "Unknown",
       "pushed_at": "2026-03-29T21:07:47Z",
-      "updated_at": "2026-03-30T08:38:43Z"
+      "updated_at": "2026-03-30T09:16:39Z"
+    },
+    {
+      "id": 1165088446,
+      "full_name": "25H/MayeNano",
+      "html_url": "https://github.com/25H/MayeNano",
+      "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
+      "stars": 167,
+      "forks": 0,
+      "language": "C++",
+      "pushed_at": "2026-03-29T15:11:46Z",
+      "updated_at": "2026-03-30T10:57:42Z"
     },
     {
       "id": 73848752,
@@ -129,26 +140,15 @@
       "updated_at": "2026-02-28T00:27:34Z"
     },
     {
-      "id": 1165088446,
-      "full_name": "25H/MayeNano",
-      "html_url": "https://github.com/25H/MayeNano",
-      "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 166,
-      "forks": 0,
-      "language": "C++",
-      "pushed_at": "2026-03-29T15:11:46Z",
-      "updated_at": "2026-03-29T07:43:11Z"
-    },
-    {
       "id": 1174682625,
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
-      "stars": 160,
+      "stars": 161,
       "forks": 24,
       "language": "Unknown",
       "pushed_at": "2026-03-24T08:27:46Z",
-      "updated_at": "2026-03-30T02:19:15Z"
+      "updated_at": "2026-03-30T10:55:18Z"
     },
     {
       "id": 421823225,
