@@ -12,22 +12,22 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5291,
+      "stars": 5292,
       "forks": 502,
       "language": "Java",
       "pushed_at": "2026-03-20T01:11:19Z",
-      "updated_at": "2026-03-31T01:19:26Z"
+      "updated_at": "2026-03-31T10:35:49Z"
     },
     {
       "id": 69400040,
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1650,
+      "stars": 1645,
       "forks": 607,
       "language": "Python",
       "pushed_at": "2026-03-17T15:26:32Z",
-      "updated_at": "2026-03-30T17:43:07Z"
+      "updated_at": "2026-03-31T10:41:36Z"
     },
     {
       "id": 109404010,
@@ -74,15 +74,26 @@
       "updated_at": "2026-03-30T02:27:34Z"
     },
     {
+      "id": 132757250,
+      "full_name": "charlax/entrepreneurship-resources",
+      "html_url": "https://github.com/charlax/entrepreneurship-resources",
+      "description": "A list of articles, books, videos related to entrepreneurship",
+      "stars": 569,
+      "forks": 66,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-31T13:02:15Z",
+      "updated_at": "2026-03-31T13:02:20Z"
+    },
+    {
       "id": 458493266,
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 542,
+      "stars": 544,
       "forks": 31,
       "language": "Python",
       "pushed_at": "2026-03-18T14:36:11Z",
-      "updated_at": "2026-03-31T08:30:38Z"
+      "updated_at": "2026-03-31T11:05:22Z"
     },
     {
       "id": 72835816,
@@ -127,17 +138,6 @@
       "language": "C++",
       "pushed_at": "2026-03-29T15:11:46Z",
       "updated_at": "2026-03-30T16:20:08Z"
-    },
-    {
-      "id": 73848752,
-      "full_name": "HenrikBengtsson/startup",
-      "html_url": "https://github.com/HenrikBengtsson/startup",
-      "description": ":wrench: R package: startup - Friendly R Startup Configuration",
-      "stars": 167,
-      "forks": 5,
-      "language": "R",
-      "pushed_at": "2026-02-28T00:27:31Z",
-      "updated_at": "2026-02-28T00:27:34Z"
     },
     {
       "id": 1174682625,
