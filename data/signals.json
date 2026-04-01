@@ -5,7 +5,7 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 78,
+  "total_found": 79,
   "items": [
     {
       "id": 304483342,
@@ -24,7 +24,7 @@
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
       "stars": 1643,
-      "forks": 607,
+      "forks": 608,
       "language": "Python",
       "pushed_at": "2026-03-17T15:26:32Z",
       "updated_at": "2026-04-01T16:00:05Z"
@@ -56,11 +56,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 906,
+      "stars": 907,
       "forks": 113,
       "language": "C#",
       "pushed_at": "2026-03-25T13:20:18Z",
-      "updated_at": "2026-03-29T16:20:51Z"
+      "updated_at": "2026-04-01T17:36:50Z"
     },
     {
       "id": 557249295,
@@ -89,11 +89,11 @@
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 549,
+      "stars": 551,
       "forks": 31,
       "language": "Python",
       "pushed_at": "2026-03-18T14:36:11Z",
-      "updated_at": "2026-04-01T16:34:21Z"
+      "updated_at": "2026-04-01T17:09:01Z"
     },
     {
       "id": 72835816,
