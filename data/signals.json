@@ -46,7 +46,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 968,
-      "forks": 189,
+      "forks": 190,
       "language": "Unknown",
       "pushed_at": "2026-03-20T13:23:41Z",
       "updated_at": "2026-03-29T11:33:36Z"
@@ -89,22 +89,22 @@
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 544,
+      "stars": 545,
       "forks": 31,
       "language": "Python",
       "pushed_at": "2026-03-18T14:36:11Z",
-      "updated_at": "2026-03-31T11:05:22Z"
+      "updated_at": "2026-04-01T02:21:16Z"
     },
     {
       "id": 72835816,
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 283,
+      "stars": 284,
       "forks": 64,
       "language": "JavaScript",
       "pushed_at": "2026-03-31T16:42:57Z",
-      "updated_at": "2026-03-31T16:43:01Z"
+      "updated_at": "2026-03-31T22:42:49Z"
     },
     {
       "id": 873944107,
@@ -123,7 +123,7 @@
       "html_url": "https://github.com/Gingiris/gingiris-launch",
       "description": "🚀 Product Hunt Launch Playbook — Proven tactics from 30x daily #1 winner. Complete go-to-market guide for AI products, startups & open source. Real case studies: Manus, Devin, AFFiNE.",
       "stars": 180,
-      "forks": 75,
+      "forks": 73,
       "language": "Unknown",
       "pushed_at": "2026-03-29T21:07:47Z",
       "updated_at": "2026-03-31T20:06:00Z"
