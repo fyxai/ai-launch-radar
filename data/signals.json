@@ -89,11 +89,11 @@
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 553,
+      "stars": 554,
       "forks": 31,
       "language": "Python",
       "pushed_at": "2026-03-18T14:36:11Z",
-      "updated_at": "2026-04-02T08:17:13Z"
+      "updated_at": "2026-04-02T15:27:52Z"
     },
     {
       "id": 72835816,
@@ -105,17 +105,6 @@
       "language": "JavaScript",
       "pushed_at": "2026-04-01T16:39:16Z",
       "updated_at": "2026-04-01T16:39:23Z"
-    },
-    {
-      "id": 873944107,
-      "full_name": "thedaviddias/indie-dev-toolkit",
-      "html_url": "https://github.com/thedaviddias/indie-dev-toolkit",
-      "description": "🚀 A curated list of tools and resources for indie hackers, solo founders, and bootstrapped startups.",
-      "stars": 250,
-      "forks": 24,
-      "language": "Unknown",
-      "pushed_at": "2026-03-13T15:53:00Z",
-      "updated_at": "2026-03-30T10:45:34Z"
     },
     {
       "id": 1173376661,
@@ -144,11 +133,22 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
-      "stars": 172,
+      "stars": 174,
       "forks": 24,
       "language": "Unknown",
       "pushed_at": "2026-03-24T08:27:46Z",
-      "updated_at": "2026-04-02T08:45:14Z"
+      "updated_at": "2026-04-02T15:58:13Z"
+    },
+    {
+      "id": 30541426,
+      "full_name": "dlresende/extreme-carpaccio",
+      "html_url": "https://github.com/dlresende/extreme-carpaccio",
+      "description": "Slicing and coding game",
+      "stars": 128,
+      "forks": 121,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-02T16:05:17Z",
+      "updated_at": "2026-04-02T16:04:01Z"
     },
     {
       "id": 421823225,
