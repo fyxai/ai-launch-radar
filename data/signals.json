@@ -13,7 +13,7 @@
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
       "stars": 5294,
-      "forks": 503,
+      "forks": 502,
       "language": "Java",
       "pushed_at": "2026-03-20T01:11:19Z",
       "updated_at": "2026-04-01T16:03:42Z"
@@ -45,11 +45,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 968,
+      "stars": 969,
       "forks": 189,
       "language": "Unknown",
       "pushed_at": "2026-03-20T13:23:41Z",
-      "updated_at": "2026-03-29T11:33:36Z"
+      "updated_at": "2026-04-02T03:14:33Z"
     },
     {
       "id": 158286982,
@@ -166,11 +166,11 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 116,
+      "stars": 115,
       "forks": 12,
       "language": "Unknown",
       "pushed_at": "2026-04-01T10:12:28Z",
-      "updated_at": "2026-04-01T10:12:32Z"
+      "updated_at": "2026-04-02T04:52:14Z"
     }
   ]
 }
