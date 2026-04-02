@@ -23,11 +23,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1643,
+      "stars": 1642,
       "forks": 608,
       "language": "Python",
       "pushed_at": "2026-03-17T15:26:32Z",
-      "updated_at": "2026-04-01T16:00:05Z"
+      "updated_at": "2026-04-02T18:45:52Z"
     },
     {
       "id": 109404010,
@@ -45,11 +45,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 969,
-      "forks": 191,
+      "stars": 970,
+      "forks": 190,
       "language": "Unknown",
       "pushed_at": "2026-04-02T10:18:13Z",
-      "updated_at": "2026-04-02T10:18:18Z"
+      "updated_at": "2026-04-02T17:04:27Z"
     },
     {
       "id": 158286982,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
       "stars": 571,
-      "forks": 34,
+      "forks": 33,
       "language": "Unknown",
       "pushed_at": "2026-03-27T10:49:52Z",
       "updated_at": "2026-03-31T16:33:08Z"
@@ -79,7 +79,7 @@
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
       "stars": 569,
-      "forks": 66,
+      "forks": 67,
       "language": "JavaScript",
       "pushed_at": "2026-03-31T13:02:15Z",
       "updated_at": "2026-03-31T13:02:20Z"
@@ -101,7 +101,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 284,
-      "forks": 64,
+      "forks": 65,
       "language": "JavaScript",
       "pushed_at": "2026-04-01T16:39:16Z",
       "updated_at": "2026-04-01T16:39:23Z"
@@ -133,11 +133,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
-      "stars": 174,
+      "stars": 175,
       "forks": 24,
       "language": "Unknown",
       "pushed_at": "2026-03-24T08:27:46Z",
-      "updated_at": "2026-04-02T15:58:13Z"
+      "updated_at": "2026-04-02T20:19:46Z"
     },
     {
       "id": 30541426,
