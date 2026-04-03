@@ -12,11 +12,11 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5294,
+      "stars": 5295,
       "forks": 502,
       "language": "Java",
       "pushed_at": "2026-03-20T01:11:19Z",
-      "updated_at": "2026-04-01T16:03:42Z"
+      "updated_at": "2026-04-03T00:31:58Z"
     },
     {
       "id": 69400040,
@@ -45,22 +45,22 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 970,
-      "forks": 190,
+      "stars": 971,
+      "forks": 189,
       "language": "Unknown",
       "pushed_at": "2026-04-02T10:18:13Z",
-      "updated_at": "2026-04-02T17:04:27Z"
+      "updated_at": "2026-04-02T22:29:48Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 907,
+      "stars": 908,
       "forks": 113,
       "language": "C#",
       "pushed_at": "2026-03-25T13:20:18Z",
-      "updated_at": "2026-04-01T17:36:50Z"
+      "updated_at": "2026-04-02T23:09:48Z"
     },
     {
       "id": 557249295,
@@ -79,7 +79,7 @@
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
       "stars": 569,
-      "forks": 67,
+      "forks": 66,
       "language": "JavaScript",
       "pushed_at": "2026-03-31T13:02:15Z",
       "updated_at": "2026-03-31T13:02:20Z"
@@ -89,11 +89,11 @@
       "full_name": "tuan3w/awesome-tech-rss",
       "html_url": "https://github.com/tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 554,
+      "stars": 555,
       "forks": 31,
       "language": "Python",
       "pushed_at": "2026-03-18T14:36:11Z",
-      "updated_at": "2026-04-02T15:27:52Z"
+      "updated_at": "2026-04-03T02:23:58Z"
     },
     {
       "id": 72835816,
@@ -101,7 +101,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 284,
-      "forks": 65,
+      "forks": 64,
       "language": "JavaScript",
       "pushed_at": "2026-04-01T16:39:16Z",
       "updated_at": "2026-04-01T16:39:23Z"
@@ -137,7 +137,7 @@
       "forks": 24,
       "language": "Unknown",
       "pushed_at": "2026-03-24T08:27:46Z",
-      "updated_at": "2026-04-02T20:19:46Z"
+      "updated_at": "2026-04-02T21:04:55Z"
     },
     {
       "id": 30541426,
