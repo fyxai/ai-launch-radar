@@ -5,7 +5,7 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 79,
+  "total_found": 80,
   "items": [
     {
       "id": 304483342,
@@ -19,17 +19,6 @@
       "updated_at": "2026-04-05T07:20:22Z"
     },
     {
-      "id": 69400040,
-      "full_name": "tableau/TabPy",
-      "html_url": "https://github.com/tableau/TabPy",
-      "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1644,
-      "forks": 608,
-      "language": "Python",
-      "pushed_at": "2026-03-17T15:26:32Z",
-      "updated_at": "2026-04-06T15:09:08Z"
-    },
-    {
       "id": 109404010,
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
@@ -37,8 +26,8 @@
       "stars": 1576,
       "forks": 96,
       "language": "JavaScript",
-      "pushed_at": "2026-04-05T16:53:11Z",
-      "updated_at": "2026-04-05T16:53:16Z"
+      "pushed_at": "2026-04-06T18:26:37Z",
+      "updated_at": "2026-04-06T18:26:41Z"
     },
     {
       "id": 76633312,
@@ -46,7 +35,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 972,
-      "forks": 193,
+      "forks": 196,
       "language": "Unknown",
       "pushed_at": "2026-04-02T10:18:13Z",
       "updated_at": "2026-04-03T22:27:21Z"
@@ -59,8 +48,8 @@
       "stars": 908,
       "forks": 113,
       "language": "C#",
-      "pushed_at": "2026-03-25T13:20:18Z",
-      "updated_at": "2026-04-03T15:18:39Z"
+      "pushed_at": "2026-04-06T16:58:12Z",
+      "updated_at": "2026-04-06T16:58:19Z"
     },
     {
       "id": 557249295,
@@ -114,8 +103,19 @@
       "stars": 287,
       "forks": 65,
       "language": "JavaScript",
-      "pushed_at": "2026-04-05T11:53:56Z",
-      "updated_at": "2026-04-06T04:15:15Z"
+      "pushed_at": "2026-04-06T20:00:56Z",
+      "updated_at": "2026-04-06T20:01:08Z"
+    },
+    {
+      "id": 1174682625,
+      "full_name": "ferdinandobons/startup-skill",
+      "html_url": "https://github.com/ferdinandobons/startup-skill",
+      "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
+      "stars": 191,
+      "forks": 28,
+      "language": "Unknown",
+      "pushed_at": "2026-03-24T08:27:46Z",
+      "updated_at": "2026-04-06T17:42:55Z"
     },
     {
       "id": 1173376661,
@@ -127,17 +127,6 @@
       "language": "Unknown",
       "pushed_at": "2026-04-06T08:36:14Z",
       "updated_at": "2026-04-06T08:36:18Z"
-    },
-    {
-      "id": 1174682625,
-      "full_name": "ferdinandobons/startup-skill",
-      "html_url": "https://github.com/ferdinandobons/startup-skill",
-      "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
-      "stars": 190,
-      "forks": 28,
-      "language": "Unknown",
-      "pushed_at": "2026-03-24T08:27:46Z",
-      "updated_at": "2026-04-06T10:11:33Z"
     },
     {
       "id": 1165088446,
@@ -171,6 +160,17 @@
       "language": "Kotlin",
       "pushed_at": "2026-04-06T13:38:39Z",
       "updated_at": "2026-04-06T13:38:44Z"
+    },
+    {
+      "id": 1179396737,
+      "full_name": "doanbactam/awesome-builder-programs",
+      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
+      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
+      "stars": 115,
+      "forks": 12,
+      "language": "Unknown",
+      "pushed_at": "2026-04-01T10:12:28Z",
+      "updated_at": "2026-04-02T04:52:14Z"
     }
   ]
 }
