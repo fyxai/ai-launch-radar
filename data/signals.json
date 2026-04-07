@@ -12,11 +12,11 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5294,
+      "stars": 5295,
       "forks": 502,
       "language": "Java",
       "pushed_at": "2026-03-20T01:11:19Z",
-      "updated_at": "2026-04-05T07:20:22Z"
+      "updated_at": "2026-04-07T01:32:11Z"
     },
     {
       "id": 109404010,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
       "stars": 575,
-      "forks": 34,
+      "forks": 35,
       "language": "Unknown",
       "pushed_at": "2026-03-27T10:49:52Z",
       "updated_at": "2026-04-06T09:01:39Z"
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
       "stars": 191,
-      "forks": 28,
+      "forks": 29,
       "language": "Unknown",
       "pushed_at": "2026-03-24T08:27:46Z",
       "updated_at": "2026-04-06T17:42:55Z"
@@ -133,11 +133,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 185,
+      "stars": 187,
       "forks": 0,
       "language": "C++",
       "pushed_at": "2026-04-04T14:46:38Z",
-      "updated_at": "2026-04-06T14:53:55Z"
+      "updated_at": "2026-04-07T02:06:52Z"
     },
     {
       "id": 30541426,
