@@ -45,11 +45,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 907,
+      "stars": 908,
       "forks": 113,
       "language": "C#",
       "pushed_at": "2026-04-06T16:58:12Z",
-      "updated_at": "2026-04-07T19:06:09Z"
+      "updated_at": "2026-04-08T12:33:37Z"
     },
     {
       "id": 557249295,
@@ -133,11 +133,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 188,
+      "stars": 189,
       "forks": 0,
       "language": "C++",
       "pushed_at": "2026-04-04T14:46:38Z",
-      "updated_at": "2026-04-07T07:42:34Z"
+      "updated_at": "2026-04-08T09:21:42Z"
     },
     {
       "id": 30541426,
@@ -151,6 +151,17 @@
       "updated_at": "2026-04-02T16:04:01Z"
     },
     {
+      "id": 1179396737,
+      "full_name": "doanbactam/awesome-builder-programs",
+      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
+      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
+      "stars": 118,
+      "forks": 12,
+      "language": "Unknown",
+      "pushed_at": "2026-04-08T04:04:29Z",
+      "updated_at": "2026-04-08T11:53:59Z"
+    },
+    {
       "id": 421823225,
       "full_name": "catchpig/kmvvm",
       "html_url": "https://github.com/catchpig/kmvvm",
@@ -160,17 +171,6 @@
       "language": "Kotlin",
       "pushed_at": "2026-04-06T13:38:39Z",
       "updated_at": "2026-04-06T13:38:44Z"
-    },
-    {
-      "id": 1179396737,
-      "full_name": "doanbactam/awesome-builder-programs",
-      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
-      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 117,
-      "forks": 12,
-      "language": "Unknown",
-      "pushed_at": "2026-04-08T04:04:29Z",
-      "updated_at": "2026-04-08T08:02:56Z"
     }
   ]
 }
