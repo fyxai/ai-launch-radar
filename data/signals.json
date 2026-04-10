@@ -34,11 +34,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 977,
+      "stars": 976,
       "forks": 195,
       "language": "Unknown",
       "pushed_at": "2026-04-07T10:19:10Z",
-      "updated_at": "2026-04-10T01:25:18Z"
+      "updated_at": "2026-04-10T09:00:30Z"
     },
     {
       "id": 158286982,
@@ -78,22 +78,22 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 572,
+      "stars": 571,
       "forks": 67,
       "language": "JavaScript",
       "pushed_at": "2026-03-31T13:02:15Z",
-      "updated_at": "2026-04-09T09:12:10Z"
+      "updated_at": "2026-04-10T09:00:29Z"
     },
     {
       "id": 922299292,
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 490,
+      "stars": 489,
       "forks": 13,
       "language": "Swift",
       "pushed_at": "2026-04-04T10:53:16Z",
-      "updated_at": "2026-04-04T10:52:50Z"
+      "updated_at": "2026-04-10T06:41:16Z"
     },
     {
       "id": 72835816,
@@ -122,11 +122,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 198,
+      "stars": 199,
       "forks": 0,
       "language": "C++",
       "pushed_at": "2026-04-09T04:01:37Z",
-      "updated_at": "2026-04-10T03:36:04Z"
+      "updated_at": "2026-04-10T07:31:09Z"
     },
     {
       "id": 1173376661,
