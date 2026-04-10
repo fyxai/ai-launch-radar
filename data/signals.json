@@ -34,11 +34,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 975,
+      "stars": 977,
       "forks": 195,
       "language": "Unknown",
       "pushed_at": "2026-04-07T10:19:10Z",
-      "updated_at": "2026-04-09T12:47:25Z"
+      "updated_at": "2026-04-10T01:25:18Z"
     },
     {
       "id": 158286982,
@@ -63,6 +63,17 @@
       "updated_at": "2026-04-07T21:58:12Z"
     },
     {
+      "id": 458493266,
+      "full_name": "tuan3w/awesome-tech-rss",
+      "html_url": "https://github.com/tuan3w/awesome-tech-rss",
+      "description": "List of awesome RSS channels related to startup, science and technology.",
+      "stars": 573,
+      "forks": 30,
+      "language": "Python",
+      "pushed_at": "2026-03-18T14:36:11Z",
+      "updated_at": "2026-04-10T02:29:08Z"
+    },
+    {
       "id": 132757250,
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
@@ -72,17 +83,6 @@
       "language": "JavaScript",
       "pushed_at": "2026-03-31T13:02:15Z",
       "updated_at": "2026-04-09T09:12:10Z"
-    },
-    {
-      "id": 458493266,
-      "full_name": "tuan3w/awesome-tech-rss",
-      "html_url": "https://github.com/tuan3w/awesome-tech-rss",
-      "description": "List of awesome RSS channels related to startup, science and technology.",
-      "stars": 571,
-      "forks": 30,
-      "language": "Python",
-      "pushed_at": "2026-03-18T14:36:11Z",
-      "updated_at": "2026-04-09T20:21:35Z"
     },
     {
       "id": 922299292,
@@ -100,11 +100,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 288,
-      "forks": 64,
+      "stars": 289,
+      "forks": 65,
       "language": "JavaScript",
       "pushed_at": "2026-04-09T19:17:43Z",
-      "updated_at": "2026-04-09T19:17:47Z"
+      "updated_at": "2026-04-09T22:41:17Z"
     },
     {
       "id": 1174682625,
@@ -112,10 +112,10 @@
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
       "stars": 205,
-      "forks": 30,
+      "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-03-24T08:27:46Z",
-      "updated_at": "2026-04-09T20:49:30Z"
+      "updated_at": "2026-04-09T21:46:09Z"
     },
     {
       "id": 1165088446,
@@ -133,11 +133,11 @@
       "full_name": "Gingiris/gingiris-launch",
       "html_url": "https://github.com/Gingiris/gingiris-launch",
       "description": "🚀 Product Hunt Launch Playbook — Proven tactics from 30x daily #1 winner. Complete go-to-market guide for AI products, startups & open source. Real case studies: Manus, Devin, AFFiNE.",
-      "stars": 191,
+      "stars": 192,
       "forks": 69,
       "language": "Unknown",
       "pushed_at": "2026-04-09T00:41:05Z",
-      "updated_at": "2026-04-09T07:50:39Z"
+      "updated_at": "2026-04-09T23:14:46Z"
     },
     {
       "id": 30541426,
