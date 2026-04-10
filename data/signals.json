@@ -35,7 +35,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 977,
-      "forks": 195,
+      "forks": 196,
       "language": "Unknown",
       "pushed_at": "2026-04-07T10:19:10Z",
       "updated_at": "2026-04-10T13:08:35Z"
@@ -59,7 +59,7 @@
       "stars": 656,
       "forks": 11,
       "language": "Vim Script",
-      "pushed_at": "2026-04-10T16:53:03Z",
+      "pushed_at": "2026-04-10T16:56:52Z",
       "updated_at": "2026-04-10T16:53:09Z"
     },
     {
@@ -103,8 +103,8 @@
       "stars": 289,
       "forks": 65,
       "language": "JavaScript",
-      "pushed_at": "2026-04-09T19:17:43Z",
-      "updated_at": "2026-04-09T22:41:17Z"
+      "pushed_at": "2026-04-10T18:45:14Z",
+      "updated_at": "2026-04-10T18:45:19Z"
     },
     {
       "id": 1174682625,
@@ -112,10 +112,10 @@
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
       "stars": 206,
-      "forks": 31,
+      "forks": 32,
       "language": "Unknown",
       "pushed_at": "2026-03-24T08:27:46Z",
-      "updated_at": "2026-04-10T12:47:39Z"
+      "updated_at": "2026-04-10T19:47:33Z"
     },
     {
       "id": 1165088446,
