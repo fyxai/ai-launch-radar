@@ -12,11 +12,11 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5298,
+      "stars": 5296,
       "forks": 502,
       "language": "Java",
-      "pushed_at": "2026-03-20T01:11:19Z",
-      "updated_at": "2026-04-11T14:27:56Z"
+      "pushed_at": "2026-04-12T11:08:52Z",
+      "updated_at": "2026-04-12T11:39:38Z"
     },
     {
       "id": 109404010,
@@ -169,8 +169,8 @@
       "stars": 117,
       "forks": 26,
       "language": "Kotlin",
-      "pushed_at": "2026-04-06T13:38:39Z",
-      "updated_at": "2026-04-06T13:38:44Z"
+      "pushed_at": "2026-04-12T11:29:31Z",
+      "updated_at": "2026-04-12T11:29:34Z"
     }
   ]
 }
