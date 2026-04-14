@@ -23,11 +23,11 @@
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1576,
+      "stars": 1577,
       "forks": 96,
       "language": "JavaScript",
       "pushed_at": "2026-04-10T16:36:19Z",
-      "updated_at": "2026-04-10T16:33:26Z"
+      "updated_at": "2026-04-14T02:06:13Z"
     },
     {
       "id": 76633312,
@@ -100,11 +100,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 289,
+      "stars": 290,
       "forks": 65,
       "language": "JavaScript",
       "pushed_at": "2026-04-12T20:42:11Z",
-      "updated_at": "2026-04-12T20:42:15Z"
+      "updated_at": "2026-04-13T23:43:27Z"
     },
     {
       "id": 1174682625,
@@ -122,22 +122,22 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 208,
+      "stars": 209,
       "forks": 0,
       "language": "C++",
       "pushed_at": "2026-04-10T14:58:18Z",
-      "updated_at": "2026-04-13T14:07:54Z"
+      "updated_at": "2026-04-14T00:33:18Z"
     },
     {
       "id": 1173376661,
       "full_name": "Gingiris/gingiris-launch",
       "html_url": "https://github.com/Gingiris/gingiris-launch",
       "description": "🚀 Product Hunt Launch Playbook — Proven tactics from 30x daily #1 winner. Complete go-to-market guide for AI products, startups & open source. Real case studies: Manus, Devin, AFFiNE.",
-      "stars": 194,
+      "stars": 195,
       "forks": 69,
       "language": "Unknown",
       "pushed_at": "2026-04-09T00:41:05Z",
-      "updated_at": "2026-04-11T16:09:24Z"
+      "updated_at": "2026-04-14T02:34:00Z"
     },
     {
       "id": 30541426,
