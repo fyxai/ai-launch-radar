@@ -110,12 +110,12 @@
       "id": 1174682625,
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
-      "description": "AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code",
+      "description": "AI agent skills for startup validation, competitive intelligence, and planning",
       "stars": 227,
       "forks": 38,
       "language": "Unknown",
       "pushed_at": "2026-03-24T08:27:46Z",
-      "updated_at": "2026-04-15T22:37:41Z"
+      "updated_at": "2026-04-16T20:07:54Z"
     },
     {
       "id": 1165088446,
@@ -125,8 +125,8 @@
       "stars": 217,
       "forks": 0,
       "language": "C++",
-      "pushed_at": "2026-04-10T14:58:18Z",
-      "updated_at": "2026-04-16T15:38:57Z"
+      "pushed_at": "2026-04-16T20:27:12Z",
+      "updated_at": "2026-04-16T20:27:16Z"
     },
     {
       "id": 1173376661,
