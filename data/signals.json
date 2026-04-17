@@ -5,7 +5,7 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 79,
+  "total_found": 80,
   "items": [
     {
       "id": 304483342,
@@ -45,11 +45,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 911,
+      "stars": 910,
       "forks": 113,
       "language": "C#",
       "pushed_at": "2026-04-06T16:58:12Z",
-      "updated_at": "2026-04-14T16:40:43Z"
+      "updated_at": "2026-04-17T16:12:47Z"
     },
     {
       "id": 233135728,
@@ -103,8 +103,8 @@
       "stars": 290,
       "forks": 66,
       "language": "JavaScript",
-      "pushed_at": "2026-04-12T20:42:11Z",
-      "updated_at": "2026-04-13T23:43:27Z"
+      "pushed_at": "2026-04-17T16:53:49Z",
+      "updated_at": "2026-04-17T16:53:53Z"
     },
     {
       "id": 1174682625,
@@ -122,11 +122,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 220,
+      "stars": 221,
       "forks": 0,
       "language": "C++",
       "pushed_at": "2026-04-16T20:27:12Z",
-      "updated_at": "2026-04-17T09:50:52Z"
+      "updated_at": "2026-04-17T14:06:13Z"
     },
     {
       "id": 1173376661,
