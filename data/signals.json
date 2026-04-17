@@ -5,7 +5,7 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 80,
+  "total_found": 79,
   "items": [
     {
       "id": 304483342,
@@ -122,11 +122,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 219,
+      "stars": 220,
       "forks": 0,
       "language": "C++",
       "pushed_at": "2026-04-16T20:27:12Z",
-      "updated_at": "2026-04-17T08:26:40Z"
+      "updated_at": "2026-04-17T09:50:52Z"
     },
     {
       "id": 1173376661,
