@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6074,
+      "stars": 6075,
       "forks": 572,
       "language": "Unknown",
       "pushed_at": "2026-04-18T13:09:32Z",
-      "updated_at": "2026-04-18T16:38:46Z"
+      "updated_at": "2026-04-19T01:39:14Z"
     },
     {
       "id": 304483342,
@@ -39,6 +39,17 @@
       "language": "JavaScript",
       "pushed_at": "2026-04-10T16:36:19Z",
       "updated_at": "2026-04-14T02:06:13Z"
+    },
+    {
+      "id": 568140947,
+      "full_name": "mategol/PySilon-malware",
+      "html_url": "https://github.com/mategol/PySilon-malware",
+      "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
+      "stars": 1202,
+      "forks": 195,
+      "language": "Python",
+      "pushed_at": "2026-04-18T22:13:42Z",
+      "updated_at": "2026-04-18T23:52:47Z"
     },
     {
       "id": 76633312,
@@ -72,17 +83,6 @@
       "language": "Vim Script",
       "pushed_at": "2026-04-10T16:56:52Z",
       "updated_at": "2026-04-10T16:53:09Z"
-    },
-    {
-      "id": 557249295,
-      "full_name": "johackim/awesome-indiehackers",
-      "html_url": "https://github.com/johackim/awesome-indiehackers",
-      "description": "Awesome list about indie hackers",
-      "stars": 577,
-      "forks": 38,
-      "language": "Unknown",
-      "pushed_at": "2026-03-27T10:49:52Z",
-      "updated_at": "2026-04-07T21:58:12Z"
     },
     {
       "id": 132757250,
@@ -151,6 +151,17 @@
       "updated_at": "2026-04-02T16:04:01Z"
     },
     {
+      "id": 1173554424,
+      "full_name": "Gingiris/gingiris-opensource",
+      "html_url": "https://github.com/Gingiris/gingiris-opensource",
+      "description": "⭐ Open Source Marketing Playbook — How to get 10k+ GitHub stars. Complete OSS launch strategy from AFFiNE (33k stars in 18 months). GitHub trending, HackerNews, developer community.",
+      "stars": 124,
+      "forks": 17,
+      "language": "Unknown",
+      "pushed_at": "2026-04-09T00:40:20Z",
+      "updated_at": "2026-04-19T02:26:52Z"
+    },
+    {
       "id": 1179396737,
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
@@ -160,17 +171,6 @@
       "language": "Unknown",
       "pushed_at": "2026-04-09T14:51:12Z",
       "updated_at": "2026-04-09T14:51:18Z"
-    },
-    {
-      "id": 421823225,
-      "full_name": "catchpig/kmvvm",
-      "html_url": "https://github.com/catchpig/kmvvm",
-      "description": "Kotlin+Flow+Retrofit+OKHttp+ViewBanding+ViewModel+LiveData封装的MVVM框架,支持协程方式访问网络请求,kotlin最新的编译时框架ksp,可定义全局加载失败页面,并支持全局刷新数据的点击事件,还可定义全局列表的空页面",
-      "stars": 117,
-      "forks": 26,
-      "language": "Kotlin",
-      "pushed_at": "2026-04-12T11:29:31Z",
-      "updated_at": "2026-04-13T18:07:14Z"
     }
   ]
 }
