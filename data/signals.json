@@ -16,7 +16,7 @@
       "forks": 574,
       "language": "Unknown",
       "pushed_at": "2026-04-18T13:09:32Z",
-      "updated_at": "2026-04-23T19:54:15Z"
+      "updated_at": "2026-04-24T00:52:08Z"
     },
     {
       "id": 304483342,
@@ -34,11 +34,11 @@
       "full_name": "25H/Maya",
       "html_url": "https://github.com/25H/Maya",
       "description": "Maye 一个简洁小巧的快速启动工具",
-      "stars": 1646,
+      "stars": 1647,
       "forks": 127,
       "language": "Less",
       "pushed_at": "2026-04-21T12:27:00Z",
-      "updated_at": "2026-04-23T19:29:21Z"
+      "updated_at": "2026-04-23T23:16:11Z"
     },
     {
       "id": 109404010,
@@ -56,11 +56,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1213,
+      "stars": 1214,
       "forks": 196,
       "language": "Python",
       "pushed_at": "2026-04-22T10:41:13Z",
-      "updated_at": "2026-04-23T20:08:13Z"
+      "updated_at": "2026-04-24T00:48:20Z"
     },
     {
       "id": 76633312,
@@ -78,11 +78,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 910,
+      "stars": 911,
       "forks": 113,
       "language": "C#",
       "pushed_at": "2026-04-23T16:36:52Z",
-      "updated_at": "2026-04-23T16:36:56Z"
+      "updated_at": "2026-04-24T01:28:02Z"
     },
     {
       "id": 233135728,
@@ -166,11 +166,11 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 123,
+      "stars": 124,
       "forks": 11,
       "language": "Unknown",
       "pushed_at": "2026-04-19T13:49:56Z",
-      "updated_at": "2026-04-19T13:50:00Z"
+      "updated_at": "2026-04-23T23:14:51Z"
     }
   ]
 }
