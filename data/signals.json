@@ -67,11 +67,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 987,
+      "stars": 986,
       "forks": 203,
       "language": "Unknown",
       "pushed_at": "2026-04-07T10:19:10Z",
-      "updated_at": "2026-04-24T04:57:26Z"
+      "updated_at": "2026-04-24T17:19:30Z"
     },
     {
       "id": 158286982,
@@ -114,8 +114,8 @@
       "stars": 291,
       "forks": 66,
       "language": "JavaScript",
-      "pushed_at": "2026-04-23T20:36:19Z",
-      "updated_at": "2026-04-23T20:36:24Z"
+      "pushed_at": "2026-04-24T19:50:40Z",
+      "updated_at": "2026-04-24T19:50:44Z"
     },
     {
       "id": 1165088446,
@@ -151,17 +151,6 @@
       "updated_at": "2026-04-24T06:48:18Z"
     },
     {
-      "id": 30541426,
-      "full_name": "dlresende/extreme-carpaccio",
-      "html_url": "https://github.com/dlresende/extreme-carpaccio",
-      "description": "Slicing and coding game",
-      "stars": 128,
-      "forks": 120,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-20T18:28:43Z",
-      "updated_at": "2026-04-02T16:04:01Z"
-    },
-    {
       "id": 1179396737,
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
@@ -171,6 +160,17 @@
       "language": "Unknown",
       "pushed_at": "2026-04-19T13:49:56Z",
       "updated_at": "2026-04-23T23:14:51Z"
+    },
+    {
+      "id": 421823225,
+      "full_name": "catchpig/kmvvm",
+      "html_url": "https://github.com/catchpig/kmvvm",
+      "description": "Kotlin+Flow+Retrofit+OKHttp+ViewBanding+ViewModel+LiveData封装的MVVM框架,支持协程方式访问网络请求,kotlin最新的编译时框架ksp,可定义全局加载失败页面,并支持全局刷新数据的点击事件,还可定义全局列表的空页面",
+      "stars": 117,
+      "forks": 26,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-12T11:29:31Z",
+      "updated_at": "2026-04-13T18:07:14Z"
     }
   ]
 }
