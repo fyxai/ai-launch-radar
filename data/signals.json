@@ -5,7 +5,7 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 82,
+  "total_found": 83,
   "items": [
     {
       "id": 986349490,
@@ -13,7 +13,7 @@
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
       "stars": 6146,
-      "forks": 580,
+      "forks": 579,
       "language": "Unknown",
       "pushed_at": "2026-04-18T13:09:32Z",
       "updated_at": "2026-05-02T16:45:41Z"
@@ -74,17 +74,6 @@
       "updated_at": "2026-05-02T02:27:07Z"
     },
     {
-      "id": 233135728,
-      "full_name": "dstein64/vim-startuptime",
-      "html_url": "https://github.com/dstein64/vim-startuptime",
-      "description": "A plugin for viewing Vim and Neovim startup event timing information.",
-      "stars": 655,
-      "forks": 11,
-      "language": "Vim Script",
-      "pushed_at": "2026-04-10T16:56:52Z",
-      "updated_at": "2026-05-02T07:21:05Z"
-    },
-    {
       "id": 132757250,
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
@@ -107,15 +96,26 @@
       "updated_at": "2026-04-30T11:52:00Z"
     },
     {
+      "id": 834628174,
+      "full_name": "get-convex/convex-saas",
+      "html_url": "https://github.com/get-convex/convex-saas",
+      "description": "A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn.",
+      "stars": 356,
+      "forks": 43,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-02T17:49:25Z",
+      "updated_at": "2026-05-02T17:49:30Z"
+    },
+    {
       "id": 72835816,
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 292,
+      "stars": 293,
       "forks": 67,
       "language": "JavaScript",
       "pushed_at": "2026-04-26T07:45:53Z",
-      "updated_at": "2026-04-30T08:34:48Z"
+      "updated_at": "2026-05-02T18:17:05Z"
     },
     {
       "id": 1165088446,
