@@ -16,7 +16,7 @@
       "forks": 579,
       "language": "Unknown",
       "pushed_at": "2026-04-18T13:09:32Z",
-      "updated_at": "2026-05-02T16:45:41Z"
+      "updated_at": "2026-05-03T02:48:10Z"
     },
     {
       "id": 304483342,
@@ -56,11 +56,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1219,
+      "stars": 1220,
       "forks": 201,
       "language": "Python",
       "pushed_at": "2026-04-24T03:39:33Z",
-      "updated_at": "2026-05-01T21:41:04Z"
+      "updated_at": "2026-05-02T22:29:27Z"
     },
     {
       "id": 158286982,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
       "stars": 913,
-      "forks": 113,
+      "forks": 112,
       "language": "C#",
       "pushed_at": "2026-04-25T16:23:44Z",
       "updated_at": "2026-05-02T02:27:07Z"
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 293,
-      "forks": 67,
+      "forks": 68,
       "language": "JavaScript",
       "pushed_at": "2026-04-26T07:45:53Z",
       "updated_at": "2026-05-02T18:17:05Z"
@@ -123,7 +123,7 @@
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
       "stars": 243,
-      "forks": 4,
+      "forks": 5,
       "language": "C++",
       "pushed_at": "2026-04-30T23:04:53Z",
       "updated_at": "2026-05-02T15:43:27Z"
@@ -133,11 +133,11 @@
       "full_name": "Gingiris/gingiris-opensource",
       "html_url": "https://github.com/Gingiris/gingiris-opensource",
       "description": "⭐ Open Source Marketing Playbook — How to get 10k+ GitHub stars. Complete OSS launch strategy from AFFiNE (33k stars in 18 months). GitHub trending, HackerNews, developer community.",
-      "stars": 203,
+      "stars": 204,
       "forks": 36,
       "language": "Unknown",
       "pushed_at": "2026-04-27T05:29:15Z",
-      "updated_at": "2026-05-01T20:35:27Z"
+      "updated_at": "2026-05-02T23:41:12Z"
     },
     {
       "id": 1173376661,
