@@ -12,22 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6155,
+      "stars": 6157,
       "forks": 579,
       "language": "Unknown",
       "pushed_at": "2026-04-18T13:09:32Z",
-      "updated_at": "2026-05-04T12:24:36Z"
-    },
-    {
-      "id": 304483342,
-      "full_name": "zfdang/Android-Touch-Helper",
-      "html_url": "https://github.com/zfdang/Android-Touch-Helper",
-      "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5303,
-      "forks": 502,
-      "language": "Java",
-      "pushed_at": "2026-04-12T11:08:52Z",
-      "updated_at": "2026-05-04T07:34:19Z"
+      "updated_at": "2026-05-04T16:28:07Z"
     },
     {
       "id": 309097908,
@@ -60,7 +49,7 @@
       "forks": 203,
       "language": "Python",
       "pushed_at": "2026-04-24T03:39:33Z",
-      "updated_at": "2026-05-03T08:18:37Z"
+      "updated_at": "2026-05-04T17:33:19Z"
     },
     {
       "id": 158286982,
@@ -122,11 +111,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 244,
+      "stars": 245,
       "forks": 5,
       "language": "C++",
       "pushed_at": "2026-04-30T23:04:53Z",
-      "updated_at": "2026-05-04T11:06:17Z"
+      "updated_at": "2026-05-04T17:11:18Z"
     },
     {
       "id": 1173554424,
@@ -149,6 +138,17 @@
       "language": "Unknown",
       "pushed_at": "2026-04-27T05:29:09Z",
       "updated_at": "2026-04-29T22:16:05Z"
+    },
+    {
+      "id": 73848752,
+      "full_name": "HenrikBengtsson/startup",
+      "html_url": "https://github.com/HenrikBengtsson/startup",
+      "description": ":wrench: R package: startup - Friendly R Startup Configuration",
+      "stars": 169,
+      "forks": 6,
+      "language": "R",
+      "pushed_at": "2026-05-04T16:10:35Z",
+      "updated_at": "2026-05-04T16:10:12Z"
     },
     {
       "id": 1179396737,
