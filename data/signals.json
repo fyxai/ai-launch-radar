@@ -12,11 +12,11 @@
       "full_name": "25H/Maya",
       "html_url": "https://github.com/25H/Maya",
       "description": "Maye 一个简洁小巧的快速启动工具",
-      "stars": 1649,
+      "stars": 1648,
       "forks": 127,
       "language": "Less",
       "pushed_at": "2026-04-21T12:27:00Z",
-      "updated_at": "2026-05-03T07:46:10Z"
+      "updated_at": "2026-05-07T07:52:03Z"
     },
     {
       "id": 69400040,
@@ -67,11 +67,11 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 575,
-      "forks": 67,
+      "stars": 576,
+      "forks": 68,
       "language": "JavaScript",
       "pushed_at": "2026-05-01T18:43:51Z",
-      "updated_at": "2026-05-03T23:10:33Z"
+      "updated_at": "2026-05-07T08:46:57Z"
     },
     {
       "id": 922299292,
@@ -111,11 +111,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 249,
+      "stars": 248,
       "forks": 5,
       "language": "C++",
       "pushed_at": "2026-04-30T23:04:53Z",
-      "updated_at": "2026-05-06T15:03:34Z"
+      "updated_at": "2026-05-07T07:48:05Z"
     },
     {
       "id": 1173554424,
@@ -166,11 +166,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 106,
+      "stars": 107,
       "forks": 12,
       "language": "Unknown",
       "pushed_at": "2026-05-01T20:12:45Z",
-      "updated_at": "2026-05-07T06:11:35Z"
+      "updated_at": "2026-05-07T09:32:35Z"
     }
   ]
 }
