@@ -46,7 +46,7 @@
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
       "stars": 1227,
-      "forks": 203,
+      "forks": 204,
       "language": "Python",
       "pushed_at": "2026-04-24T03:39:33Z",
       "updated_at": "2026-05-08T18:48:00Z"
@@ -133,11 +133,11 @@
       "full_name": "Gingiris/gingiris-launch",
       "html_url": "https://github.com/Gingiris/gingiris-launch",
       "description": "🚀 Product Hunt Launch Playbook — Proven tactics from 30x daily #1 winner. Complete go-to-market guide for AI products, startups & open source. Real case studies: Manus, Devin, AFFiNE.",
-      "stars": 174,
+      "stars": 176,
       "forks": 29,
       "language": "Unknown",
       "pushed_at": "2026-05-07T03:01:55Z",
-      "updated_at": "2026-05-08T07:44:03Z"
+      "updated_at": "2026-05-10T18:34:23Z"
     },
     {
       "id": 73848752,
@@ -166,11 +166,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 117,
+      "stars": 118,
       "forks": 13,
       "language": "Unknown",
       "pushed_at": "2026-05-01T20:12:45Z",
-      "updated_at": "2026-05-10T10:33:43Z"
+      "updated_at": "2026-05-10T17:38:21Z"
     }
   ]
 }
