@@ -111,11 +111,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 258,
+      "stars": 259,
       "forks": 7,
       "language": "C++",
       "pushed_at": "2026-04-30T23:04:53Z",
-      "updated_at": "2026-05-12T21:40:48Z"
+      "updated_at": "2026-05-13T10:09:21Z"
     },
     {
       "id": 1173554424,
@@ -133,11 +133,11 @@
       "full_name": "Gingiris/gingiris-launch",
       "html_url": "https://github.com/Gingiris/gingiris-launch",
       "description": "🚀 Product Hunt Launch Playbook — Proven tactics from 30x daily #1 winner. Complete go-to-market guide for AI products, startups & open source. Real case studies: Manus, Devin, AFFiNE.",
-      "stars": 178,
+      "stars": 179,
       "forks": 30,
       "language": "Unknown",
       "pushed_at": "2026-05-07T03:01:55Z",
-      "updated_at": "2026-05-11T22:58:19Z"
+      "updated_at": "2026-05-13T09:21:05Z"
     },
     {
       "id": 73848752,
@@ -166,11 +166,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 121,
+      "stars": 122,
       "forks": 13,
       "language": "Unknown",
       "pushed_at": "2026-05-01T20:12:45Z",
-      "updated_at": "2026-05-13T06:11:29Z"
+      "updated_at": "2026-05-13T09:58:57Z"
     }
   ]
 }
