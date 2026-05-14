@@ -5,7 +5,7 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 84,
+  "total_found": 85,
   "items": [
     {
       "id": 309097908,
@@ -74,17 +74,6 @@
       "updated_at": "2026-05-07T08:46:57Z"
     },
     {
-      "id": 922299292,
-      "full_name": "FuzzyIdeas/StartupFolder",
-      "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
-      "description": "Run anything at startup by placing it in a special folder",
-      "stars": 500,
-      "forks": 13,
-      "language": "Swift",
-      "pushed_at": "2026-04-19T12:42:49Z",
-      "updated_at": "2026-05-11T17:32:00Z"
-    },
-    {
       "id": 834628174,
       "full_name": "get-convex/convex-saas",
       "html_url": "https://github.com/get-convex/convex-saas",
@@ -103,8 +92,8 @@
       "stars": 293,
       "forks": 70,
       "language": "JavaScript",
-      "pushed_at": "2026-05-14T08:14:49Z",
-      "updated_at": "2026-05-14T08:14:53Z"
+      "pushed_at": "2026-05-14T10:48:56Z",
+      "updated_at": "2026-05-14T10:49:00Z"
     },
     {
       "id": 1165088446,
@@ -140,6 +129,17 @@
       "updated_at": "2026-05-13T09:21:05Z"
     },
     {
+      "id": 1092407718,
+      "full_name": "macro-inc/macro",
+      "html_url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified OS for your startup: email, tasks, calls, messages, agents, docs, diagrams, (soon, crm) in one @linked together with team-level memory.",
+      "stars": 173,
+      "forks": 13,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-14T00:00:01Z",
+      "updated_at": "2026-05-14T12:40:37Z"
+    },
+    {
       "id": 73848752,
       "full_name": "HenrikBengtsson/startup",
       "html_url": "https://github.com/HenrikBengtsson/startup",
@@ -151,6 +151,17 @@
       "updated_at": "2026-05-04T16:10:12Z"
     },
     {
+      "id": 1209890423,
+      "full_name": "MaxKmet/idea-validation-agents",
+      "html_url": "https://github.com/MaxKmet/idea-validation-agents",
+      "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
+      "stars": 126,
+      "forks": 13,
+      "language": "Unknown",
+      "pushed_at": "2026-05-01T20:12:45Z",
+      "updated_at": "2026-05-14T13:07:58Z"
+    },
+    {
       "id": 1179396737,
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
@@ -160,17 +171,6 @@
       "language": "Unknown",
       "pushed_at": "2026-04-19T13:49:56Z",
       "updated_at": "2026-05-11T16:15:27Z"
-    },
-    {
-      "id": 1209890423,
-      "full_name": "MaxKmet/idea-validation-agents",
-      "html_url": "https://github.com/MaxKmet/idea-validation-agents",
-      "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 124,
-      "forks": 13,
-      "language": "Unknown",
-      "pushed_at": "2026-05-01T20:12:45Z",
-      "updated_at": "2026-05-13T14:11:05Z"
     }
   ]
 }
