@@ -56,11 +56,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 914,
+      "stars": 915,
       "forks": 112,
       "language": "C#",
       "pushed_at": "2026-04-25T16:23:44Z",
-      "updated_at": "2026-05-03T05:05:26Z"
+      "updated_at": "2026-05-15T19:31:19Z"
     },
     {
       "id": 132757250,
@@ -136,8 +136,8 @@
       "stars": 175,
       "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-05-15T17:22:18Z",
-      "updated_at": "2026-05-15T17:22:21Z"
+      "pushed_at": "2026-05-15T21:02:49Z",
+      "updated_at": "2026-05-15T21:02:00Z"
     },
     {
       "id": 73848752,
