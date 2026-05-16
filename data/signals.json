@@ -59,8 +59,8 @@
       "stars": 915,
       "forks": 112,
       "language": "C#",
-      "pushed_at": "2026-04-25T16:23:44Z",
-      "updated_at": "2026-05-15T19:31:19Z"
+      "pushed_at": "2026-05-16T12:38:50Z",
+      "updated_at": "2026-05-16T12:38:54Z"
     },
     {
       "id": 132757250,
@@ -90,7 +90,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 293,
-      "forks": 70,
+      "forks": 71,
       "language": "JavaScript",
       "pushed_at": "2026-05-15T09:52:56Z",
       "updated_at": "2026-05-15T09:53:00Z"
@@ -155,11 +155,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 127,
-      "forks": 13,
+      "stars": 139,
+      "forks": 14,
       "language": "Unknown",
       "pushed_at": "2026-05-01T20:12:45Z",
-      "updated_at": "2026-05-15T02:58:13Z"
+      "updated_at": "2026-05-16T13:17:08Z"
     },
     {
       "id": 1179396737,
