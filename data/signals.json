@@ -68,7 +68,7 @@
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
       "stars": 576,
-      "forks": 68,
+      "forks": 69,
       "language": "JavaScript",
       "pushed_at": "2026-05-01T18:43:51Z",
       "updated_at": "2026-05-07T08:46:57Z"
@@ -78,11 +78,11 @@
       "full_name": "get-convex/convex-saas",
       "html_url": "https://github.com/get-convex/convex-saas",
       "description": "A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn.",
-      "stars": 360,
+      "stars": 361,
       "forks": 43,
       "language": "TypeScript",
       "pushed_at": "2026-05-02T17:49:25Z",
-      "updated_at": "2026-05-13T23:39:36Z"
+      "updated_at": "2026-05-16T17:24:22Z"
     },
     {
       "id": 72835816,
@@ -92,8 +92,8 @@
       "stars": 293,
       "forks": 71,
       "language": "JavaScript",
-      "pushed_at": "2026-05-15T09:52:56Z",
-      "updated_at": "2026-05-15T09:53:00Z"
+      "pushed_at": "2026-05-16T20:32:15Z",
+      "updated_at": "2026-05-16T20:32:19Z"
     },
     {
       "id": 1165088446,
@@ -111,11 +111,11 @@
       "full_name": "Gingiris/gingiris-opensource",
       "html_url": "https://github.com/Gingiris/gingiris-opensource",
       "description": "⭐ Open Source Marketing Playbook — How to get 10k+ GitHub stars. Complete OSS launch strategy from AFFiNE (60k stars in 24 months). GitHub trending, HackerNews launch, Reddit r/programming, developer community, awesome-lists, contributor acquisition.",
-      "stars": 216,
-      "forks": 38,
+      "stars": 217,
+      "forks": 39,
       "language": "Unknown",
       "pushed_at": "2026-05-07T03:01:58Z",
-      "updated_at": "2026-05-15T17:00:57Z"
+      "updated_at": "2026-05-16T20:49:13Z"
     },
     {
       "id": 1173376661,
@@ -136,8 +136,8 @@
       "stars": 175,
       "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-05-15T22:45:38Z",
-      "updated_at": "2026-05-15T22:45:42Z"
+      "pushed_at": "2026-05-16T19:47:05Z",
+      "updated_at": "2026-05-16T19:47:08Z"
     },
     {
       "id": 73848752,
@@ -155,11 +155,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 142,
+      "stars": 144,
       "forks": 14,
       "language": "Unknown",
       "pushed_at": "2026-05-01T20:12:45Z",
-      "updated_at": "2026-05-16T16:12:30Z"
+      "updated_at": "2026-05-16T20:30:51Z"
     },
     {
       "id": 1179396737,
