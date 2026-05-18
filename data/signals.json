@@ -34,11 +34,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1230,
+      "stars": 1229,
       "forks": 203,
       "language": "Python",
       "pushed_at": "2026-04-24T03:39:33Z",
-      "updated_at": "2026-05-17T00:26:31Z"
+      "updated_at": "2026-05-18T18:43:22Z"
     },
     {
       "id": 158286982,
@@ -125,8 +125,8 @@
       "stars": 175,
       "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-05-18T17:54:51Z",
-      "updated_at": "2026-05-18T17:54:28Z"
+      "pushed_at": "2026-05-18T21:11:27Z",
+      "updated_at": "2026-05-18T21:10:33Z"
     },
     {
       "id": 73848752,
@@ -144,11 +144,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 158,
+      "stars": 159,
       "forks": 16,
       "language": "Unknown",
       "pushed_at": "2026-05-01T20:12:45Z",
-      "updated_at": "2026-05-18T13:49:11Z"
+      "updated_at": "2026-05-18T20:09:07Z"
     },
     {
       "id": 30541426,
