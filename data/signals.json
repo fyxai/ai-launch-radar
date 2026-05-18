@@ -8,17 +8,6 @@
   "total_found": 85,
   "items": [
     {
-      "id": 309097908,
-      "full_name": "25H/Maya",
-      "html_url": "https://github.com/25H/Maya",
-      "description": "Maye 一个简洁小巧的快速启动工具",
-      "stars": 1649,
-      "forks": 127,
-      "language": "Less",
-      "pushed_at": "2026-04-21T12:27:00Z",
-      "updated_at": "2026-05-13T02:57:06Z"
-    },
-    {
       "id": 69400040,
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
@@ -35,7 +24,7 @@
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
       "stars": 1576,
-      "forks": 96,
+      "forks": 97,
       "language": "JavaScript",
       "pushed_at": "2026-05-13T05:28:12Z",
       "updated_at": "2026-05-13T05:25:23Z"
@@ -60,7 +49,7 @@
       "forks": 112,
       "language": "C#",
       "pushed_at": "2026-05-16T12:38:50Z",
-      "updated_at": "2026-05-17T23:06:26Z"
+      "updated_at": "2026-05-18T12:35:45Z"
     },
     {
       "id": 132757250,
@@ -111,11 +100,11 @@
       "full_name": "Gingiris/gingiris-opensource",
       "html_url": "https://github.com/Gingiris/gingiris-opensource",
       "description": "⭐ Open Source Marketing Playbook — How to get 10k+ GitHub stars. Complete OSS launch strategy from AFFiNE (60k stars in 24 months). GitHub trending, HackerNews launch, Reddit r/programming, developer community, awesome-lists, contributor acquisition.",
-      "stars": 233,
-      "forks": 39,
+      "stars": 237,
+      "forks": 40,
       "language": "Unknown",
       "pushed_at": "2026-05-07T03:01:58Z",
-      "updated_at": "2026-05-18T07:53:28Z"
+      "updated_at": "2026-05-18T10:07:53Z"
     },
     {
       "id": 1173376661,
@@ -136,8 +125,8 @@
       "stars": 175,
       "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-05-16T21:38:15Z",
-      "updated_at": "2026-05-17T20:25:31Z"
+      "pushed_at": "2026-05-18T15:31:48Z",
+      "updated_at": "2026-05-18T15:33:24Z"
     },
     {
       "id": 73848752,
@@ -155,22 +144,33 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 157,
+      "stars": 158,
       "forks": 16,
       "language": "Unknown",
       "pushed_at": "2026-05-01T20:12:45Z",
-      "updated_at": "2026-05-18T00:01:21Z"
+      "updated_at": "2026-05-18T13:49:11Z"
     },
     {
-      "id": 1179396737,
-      "full_name": "doanbactam/awesome-builder-programs",
-      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
-      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 124,
-      "forks": 11,
+      "id": 30541426,
+      "full_name": "dlresende/extreme-carpaccio",
+      "html_url": "https://github.com/dlresende/extreme-carpaccio",
+      "description": "Slicing and coding game",
+      "stars": 128,
+      "forks": 120,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-15T16:03:10Z",
+      "updated_at": "2026-04-02T16:04:01Z"
+    },
+    {
+      "id": 1223761956,
+      "full_name": "derrickgong87/product-idea-excavator",
+      "html_url": "https://github.com/derrickgong87/product-idea-excavator",
+      "description": "Open-source bilingual Claude Skill for product discovery interviews and high-quality PRDs.",
+      "stars": 105,
+      "forks": 19,
       "language": "Unknown",
-      "pushed_at": "2026-04-19T13:49:56Z",
-      "updated_at": "2026-05-11T16:15:27Z"
+      "pushed_at": "2026-04-28T17:21:06Z",
+      "updated_at": "2026-05-18T12:41:25Z"
     }
   ]
 }
