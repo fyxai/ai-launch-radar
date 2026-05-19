@@ -34,11 +34,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1230,
+      "stars": 1229,
       "forks": 203,
       "language": "Python",
       "pushed_at": "2026-04-24T03:39:33Z",
-      "updated_at": "2026-05-19T14:03:24Z"
+      "updated_at": "2026-05-19T19:58:01Z"
     },
     {
       "id": 158286982,
@@ -89,11 +89,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 262,
+      "stars": 261,
       "forks": 7,
       "language": "C++",
       "pushed_at": "2026-04-30T23:04:53Z",
-      "updated_at": "2026-05-16T09:08:54Z"
+      "updated_at": "2026-05-19T21:09:01Z"
     },
     {
       "id": 1173554424,
@@ -121,12 +121,12 @@
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified OS for your startup: email, tasks, calls, messages, agents, docs, diagrams, (soon, crm) in one @linked together with team-level memory.",
+      "description": "Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.",
       "stars": 175,
       "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-05-19T18:03:54Z",
-      "updated_at": "2026-05-19T17:54:14Z"
+      "pushed_at": "2026-05-19T21:14:48Z",
+      "updated_at": "2026-05-19T19:55:49Z"
     },
     {
       "id": 73848752,
