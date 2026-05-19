@@ -48,8 +48,8 @@
       "stars": 917,
       "forks": 112,
       "language": "C#",
-      "pushed_at": "2026-05-16T12:38:50Z",
-      "updated_at": "2026-05-18T17:31:45Z"
+      "pushed_at": "2026-05-19T15:37:39Z",
+      "updated_at": "2026-05-19T15:56:08Z"
     },
     {
       "id": 132757250,
@@ -125,8 +125,8 @@
       "stars": 175,
       "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-05-19T15:19:18Z",
-      "updated_at": "2026-05-19T15:04:55Z"
+      "pushed_at": "2026-05-19T18:03:54Z",
+      "updated_at": "2026-05-19T17:54:14Z"
     },
     {
       "id": 73848752,
@@ -162,15 +162,15 @@
       "updated_at": "2026-04-02T16:04:01Z"
     },
     {
-      "id": 1223761956,
-      "full_name": "derrickgong87/product-idea-excavator",
-      "html_url": "https://github.com/derrickgong87/product-idea-excavator",
-      "description": "Open-source bilingual Claude Skill for product discovery interviews and high-quality PRDs.",
-      "stars": 104,
-      "forks": 19,
-      "language": "Unknown",
-      "pushed_at": "2026-04-28T17:21:06Z",
-      "updated_at": "2026-05-19T15:27:07Z"
+      "id": 308613525,
+      "full_name": "alec-c4/kickstart",
+      "html_url": "https://github.com/alec-c4/kickstart",
+      "description": "Ruby on Rails application templates",
+      "stars": 103,
+      "forks": 8,
+      "language": "Ruby",
+      "pushed_at": "2026-05-13T11:01:07Z",
+      "updated_at": "2026-05-13T11:01:35Z"
     }
   ]
 }
