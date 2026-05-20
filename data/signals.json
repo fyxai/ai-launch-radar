@@ -45,22 +45,22 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1229,
+      "stars": 1230,
       "forks": 202,
       "language": "Python",
       "pushed_at": "2026-04-24T03:39:33Z",
-      "updated_at": "2026-05-19T19:58:01Z"
+      "updated_at": "2026-05-20T11:33:50Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 917,
-      "forks": 112,
+      "stars": 918,
+      "forks": 114,
       "language": "C#",
       "pushed_at": "2026-05-19T15:37:39Z",
-      "updated_at": "2026-05-19T15:56:08Z"
+      "updated_at": "2026-05-20T12:42:24Z"
     },
     {
       "id": 132757250,
@@ -111,11 +111,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 262,
+      "stars": 263,
       "forks": 7,
       "language": "C++",
       "pushed_at": "2026-04-30T23:04:53Z",
-      "updated_at": "2026-05-20T02:22:28Z"
+      "updated_at": "2026-05-20T14:09:16Z"
     },
     {
       "id": 1092407718,
@@ -125,8 +125,19 @@
       "stars": 175,
       "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-05-20T10:23:51Z",
-      "updated_at": "2026-05-19T21:40:25Z"
+      "pushed_at": "2026-05-20T15:16:00Z",
+      "updated_at": "2026-05-20T14:35:45Z"
+    },
+    {
+      "id": 1209890423,
+      "full_name": "MaxKmet/idea-validation-agents",
+      "html_url": "https://github.com/MaxKmet/idea-validation-agents",
+      "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
+      "stars": 171,
+      "forks": 17,
+      "language": "Unknown",
+      "pushed_at": "2026-05-19T10:24:55Z",
+      "updated_at": "2026-05-20T13:50:34Z"
     },
     {
       "id": 73848752,
@@ -138,17 +149,6 @@
       "language": "R",
       "pushed_at": "2026-05-04T16:10:35Z",
       "updated_at": "2026-05-04T16:10:12Z"
-    },
-    {
-      "id": 1209890423,
-      "full_name": "MaxKmet/idea-validation-agents",
-      "html_url": "https://github.com/MaxKmet/idea-validation-agents",
-      "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 168,
-      "forks": 17,
-      "language": "Unknown",
-      "pushed_at": "2026-05-19T10:24:55Z",
-      "updated_at": "2026-05-20T10:06:32Z"
     },
     {
       "id": 30541426,
