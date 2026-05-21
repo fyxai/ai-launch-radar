@@ -12,11 +12,11 @@
       "full_name": "25H/Maya",
       "html_url": "https://github.com/25H/Maya",
       "description": "Maye 一个简洁小巧的快速启动工具",
-      "stars": 1649,
+      "stars": 1650,
       "forks": 127,
       "language": "Less",
       "pushed_at": "2026-04-21T12:27:00Z",
-      "updated_at": "2026-05-13T02:57:06Z"
+      "updated_at": "2026-05-21T12:24:25Z"
     },
     {
       "id": 69400040,
@@ -56,11 +56,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 918,
+      "stars": 919,
       "forks": 114,
       "language": "C#",
       "pushed_at": "2026-05-19T15:37:39Z",
-      "updated_at": "2026-05-20T12:42:24Z"
+      "updated_at": "2026-05-21T12:57:54Z"
     },
     {
       "id": 132757250,
@@ -78,11 +78,11 @@
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 500,
+      "stars": 501,
       "forks": 13,
       "language": "Swift",
       "pushed_at": "2026-04-19T12:42:49Z",
-      "updated_at": "2026-05-18T16:19:58Z"
+      "updated_at": "2026-05-21T12:33:34Z"
     },
     {
       "id": 834628174,
@@ -125,8 +125,8 @@
       "stars": 175,
       "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-05-21T10:56:14Z",
-      "updated_at": "2026-05-21T10:56:17Z"
+      "pushed_at": "2026-05-21T15:21:00Z",
+      "updated_at": "2026-05-21T15:24:14Z"
     },
     {
       "id": 1209890423,
