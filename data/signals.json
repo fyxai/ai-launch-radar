@@ -67,11 +67,11 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 579,
+      "stars": 580,
       "forks": 69,
       "language": "JavaScript",
       "pushed_at": "2026-05-01T18:43:51Z",
-      "updated_at": "2026-05-21T16:49:11Z"
+      "updated_at": "2026-05-22T17:08:13Z"
     },
     {
       "id": 922299292,
@@ -122,11 +122,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.",
-      "stars": 177,
+      "stars": 178,
       "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-05-22T14:38:56Z",
-      "updated_at": "2026-05-22T14:39:09Z"
+      "pushed_at": "2026-05-22T17:53:20Z",
+      "updated_at": "2026-05-22T17:43:30Z"
     },
     {
       "id": 1209890423,
@@ -166,11 +166,11 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 125,
+      "stars": 126,
       "forks": 11,
       "language": "Unknown",
       "pushed_at": "2026-05-22T14:14:59Z",
-      "updated_at": "2026-05-22T14:15:03Z"
+      "updated_at": "2026-05-22T15:51:43Z"
     }
   ]
 }
