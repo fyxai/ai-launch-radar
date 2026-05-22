@@ -5,7 +5,7 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 82,
+  "total_found": 83,
   "items": [
     {
       "id": 309097908,
@@ -56,11 +56,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 919,
+      "stars": 921,
       "forks": 114,
       "language": "C#",
       "pushed_at": "2026-05-19T15:37:39Z",
-      "updated_at": "2026-05-21T12:57:54Z"
+      "updated_at": "2026-05-22T02:22:53Z"
     },
     {
       "id": 132757250,
@@ -122,11 +122,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.",
-      "stars": 175,
+      "stars": 177,
       "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-05-21T21:25:08Z",
-      "updated_at": "2026-05-21T21:23:00Z"
+      "pushed_at": "2026-05-22T02:24:47Z",
+      "updated_at": "2026-05-22T02:24:50Z"
     },
     {
       "id": 1209890423,
