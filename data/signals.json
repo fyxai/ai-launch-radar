@@ -8,17 +8,6 @@
   "total_found": 83,
   "items": [
     {
-      "id": 309097908,
-      "full_name": "25H/Maya",
-      "html_url": "https://github.com/25H/Maya",
-      "description": "Maye 一个简洁小巧的快速启动工具",
-      "stars": 1651,
-      "forks": 127,
-      "language": "Less",
-      "pushed_at": "2026-04-21T12:27:00Z",
-      "updated_at": "2026-05-25T09:58:44Z"
-    },
-    {
       "id": 69400040,
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
@@ -56,11 +45,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 925,
+      "stars": 926,
       "forks": 115,
       "language": "C#",
       "pushed_at": "2026-05-19T15:37:39Z",
-      "updated_at": "2026-05-25T12:34:31Z"
+      "updated_at": "2026-05-25T18:40:38Z"
     },
     {
       "id": 132757250,
@@ -83,6 +72,17 @@
       "language": "TypeScript",
       "pushed_at": "2026-05-02T17:49:25Z",
       "updated_at": "2026-05-20T01:52:47Z"
+    },
+    {
+      "id": 1174682625,
+      "full_name": "ferdinandobons/startup-skill",
+      "html_url": "https://github.com/ferdinandobons/startup-skill",
+      "description": "AI agent skills for startup validation, competitive intelligence, and planning",
+      "stars": 316,
+      "forks": 51,
+      "language": "Unknown",
+      "pushed_at": "2026-05-25T18:06:54Z",
+      "updated_at": "2026-05-25T18:06:46Z"
     },
     {
       "id": 72835816,
@@ -124,9 +124,9 @@
       "description": "Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.",
       "stars": 180,
       "forks": 13,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-25T17:21:53Z",
-      "updated_at": "2026-05-25T17:21:56Z"
+      "language": "Rust",
+      "pushed_at": "2026-05-25T19:53:59Z",
+      "updated_at": "2026-05-25T19:42:50Z"
     },
     {
       "id": 73848752,
