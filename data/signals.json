@@ -12,33 +12,33 @@
       "full_name": "25H/Maya",
       "html_url": "https://github.com/25H/Maya",
       "description": "Maye 一个简洁小巧的快速启动工具",
-      "stars": 1650,
+      "stars": 1651,
       "forks": 127,
       "language": "Less",
       "pushed_at": "2026-04-21T12:27:00Z",
-      "updated_at": "2026-05-21T12:24:25Z"
+      "updated_at": "2026-05-25T09:58:44Z"
     },
     {
       "id": 69400040,
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1644,
+      "stars": 1646,
       "forks": 610,
       "language": "Python",
       "pushed_at": "2026-04-21T22:36:20Z",
-      "updated_at": "2026-05-15T12:59:32Z"
+      "updated_at": "2026-05-25T05:39:08Z"
     },
     {
       "id": 109404010,
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1576,
+      "stars": 1575,
       "forks": 97,
       "language": "JavaScript",
       "pushed_at": "2026-05-13T05:28:12Z",
-      "updated_at": "2026-05-13T05:25:23Z"
+      "updated_at": "2026-05-25T09:24:04Z"
     },
     {
       "id": 568140947,
@@ -56,11 +56,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 922,
+      "stars": 924,
       "forks": 115,
       "language": "C#",
       "pushed_at": "2026-05-19T15:37:39Z",
-      "updated_at": "2026-05-23T15:53:41Z"
+      "updated_at": "2026-05-25T08:30:33Z"
     },
     {
       "id": 132757250,
@@ -100,11 +100,22 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 268,
+      "stars": 269,
       "forks": 7,
       "language": "C++",
       "pushed_at": "2026-04-30T23:04:53Z",
-      "updated_at": "2026-05-24T01:32:43Z"
+      "updated_at": "2026-05-25T09:02:02Z"
+    },
+    {
+      "id": 1209890423,
+      "full_name": "MaxKmet/idea-validation-agents",
+      "html_url": "https://github.com/MaxKmet/idea-validation-agents",
+      "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
+      "stars": 185,
+      "forks": 19,
+      "language": "Unknown",
+      "pushed_at": "2026-05-19T10:24:55Z",
+      "updated_at": "2026-05-25T11:45:44Z"
     },
     {
       "id": 1092407718,
@@ -116,17 +127,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-05-22T23:07:38Z",
       "updated_at": "2026-05-24T13:22:49Z"
-    },
-    {
-      "id": 1209890423,
-      "full_name": "MaxKmet/idea-validation-agents",
-      "html_url": "https://github.com/MaxKmet/idea-validation-agents",
-      "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 179,
-      "forks": 18,
-      "language": "Unknown",
-      "pushed_at": "2026-05-19T10:24:55Z",
-      "updated_at": "2026-05-23T09:25:00Z"
     },
     {
       "id": 73848752,
