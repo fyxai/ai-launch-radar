@@ -37,7 +37,7 @@
       "stars": 1229,
       "forks": 203,
       "language": "Python",
-      "pushed_at": "2026-04-24T03:39:33Z",
+      "pushed_at": "2026-05-25T22:58:28Z",
       "updated_at": "2026-05-23T23:50:12Z"
     },
     {
@@ -67,22 +67,22 @@
       "full_name": "get-convex/convex-saas",
       "html_url": "https://github.com/get-convex/convex-saas",
       "description": "A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn.",
-      "stars": 362,
+      "stars": 363,
       "forks": 43,
       "language": "TypeScript",
       "pushed_at": "2026-05-02T17:49:25Z",
-      "updated_at": "2026-05-20T01:52:47Z"
+      "updated_at": "2026-05-25T23:19:28Z"
     },
     {
       "id": 1174682625,
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 316,
+      "stars": 317,
       "forks": 51,
       "language": "Unknown",
       "pushed_at": "2026-05-25T18:06:54Z",
-      "updated_at": "2026-05-25T18:06:46Z"
+      "updated_at": "2026-05-25T21:27:21Z"
     },
     {
       "id": 72835816,
@@ -122,11 +122,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.",
-      "stars": 180,
+      "stars": 181,
       "forks": 13,
       "language": "Rust",
-      "pushed_at": "2026-05-25T19:53:59Z",
-      "updated_at": "2026-05-25T19:42:50Z"
+      "pushed_at": "2026-05-25T23:09:29Z",
+      "updated_at": "2026-05-25T23:54:28Z"
     },
     {
       "id": 73848752,
@@ -155,11 +155,11 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 125,
+      "stars": 126,
       "forks": 11,
       "language": "Unknown",
       "pushed_at": "2026-05-22T14:14:59Z",
-      "updated_at": "2026-05-23T19:10:19Z"
+      "updated_at": "2026-05-25T23:23:57Z"
     },
     {
       "id": 421823225,
