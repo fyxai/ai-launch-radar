@@ -46,7 +46,7 @@
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
       "stars": 1230,
-      "forks": 203,
+      "forks": 204,
       "language": "Python",
       "pushed_at": "2026-05-25T22:58:28Z",
       "updated_at": "2026-05-26T11:06:49Z"
@@ -67,11 +67,11 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 581,
+      "stars": 582,
       "forks": 69,
       "language": "JavaScript",
       "pushed_at": "2026-05-27T02:43:35Z",
-      "updated_at": "2026-05-27T02:43:39Z"
+      "updated_at": "2026-05-27T06:27:01Z"
     },
     {
       "id": 834628174,
@@ -111,33 +111,33 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 272,
+      "stars": 275,
       "forks": 7,
       "language": "C++",
       "pushed_at": "2026-04-30T23:04:53Z",
-      "updated_at": "2026-05-26T23:41:39Z"
+      "updated_at": "2026-05-27T14:06:53Z"
     },
     {
       "id": 1209890423,
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 203,
-      "forks": 22,
+      "stars": 226,
+      "forks": 25,
       "language": "Unknown",
       "pushed_at": "2026-05-19T10:24:55Z",
-      "updated_at": "2026-05-27T03:34:45Z"
+      "updated_at": "2026-05-27T15:22:49Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.",
-      "stars": 184,
+      "stars": 186,
       "forks": 14,
       "language": "Rust",
-      "pushed_at": "2026-05-27T02:52:26Z",
-      "updated_at": "2026-05-26T23:52:42Z"
+      "pushed_at": "2026-05-27T15:47:54Z",
+      "updated_at": "2026-05-27T15:47:41Z"
     },
     {
       "id": 73848752,
