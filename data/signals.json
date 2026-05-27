@@ -45,11 +45,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1231,
+      "stars": 1232,
       "forks": 204,
       "language": "Python",
       "pushed_at": "2026-05-25T22:58:28Z",
-      "updated_at": "2026-05-27T17:12:56Z"
+      "updated_at": "2026-05-27T19:43:13Z"
     },
     {
       "id": 158286982,
@@ -133,11 +133,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.",
-      "stars": 187,
+      "stars": 188,
       "forks": 14,
       "language": "Rust",
-      "pushed_at": "2026-05-27T18:24:44Z",
-      "updated_at": "2026-05-27T17:58:14Z"
+      "pushed_at": "2026-05-27T21:53:49Z",
+      "updated_at": "2026-05-27T21:53:52Z"
     },
     {
       "id": 73848752,
