@@ -78,22 +78,22 @@
       "full_name": "get-convex/convex-saas",
       "html_url": "https://github.com/get-convex/convex-saas",
       "description": "A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn.",
-      "stars": 363,
-      "forks": 43,
+      "stars": 364,
+      "forks": 44,
       "language": "TypeScript",
       "pushed_at": "2026-05-02T17:49:25Z",
-      "updated_at": "2026-05-25T23:19:28Z"
+      "updated_at": "2026-05-29T02:05:11Z"
     },
     {
       "id": 1174682625,
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 319,
+      "stars": 320,
       "forks": 51,
       "language": "Unknown",
       "pushed_at": "2026-05-25T18:06:54Z",
-      "updated_at": "2026-05-26T14:42:28Z"
+      "updated_at": "2026-05-29T00:42:50Z"
     },
     {
       "id": 72835816,
@@ -122,11 +122,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 240,
-      "forks": 25,
+      "stars": 242,
+      "forks": 26,
       "language": "Unknown",
       "pushed_at": "2026-05-19T10:24:55Z",
-      "updated_at": "2026-05-28T20:01:02Z"
+      "updated_at": "2026-05-29T00:21:23Z"
     },
     {
       "id": 1092407718,
@@ -136,8 +136,8 @@
       "stars": 190,
       "forks": 14,
       "language": "Rust",
-      "pushed_at": "2026-05-28T21:54:30Z",
-      "updated_at": "2026-05-28T21:53:24Z"
+      "pushed_at": "2026-05-29T03:14:04Z",
+      "updated_at": "2026-05-28T22:40:27Z"
     },
     {
       "id": 73848752,
