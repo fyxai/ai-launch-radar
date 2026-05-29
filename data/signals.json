@@ -89,11 +89,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 321,
+      "stars": 320,
       "forks": 51,
       "language": "Unknown",
       "pushed_at": "2026-05-25T18:06:54Z",
-      "updated_at": "2026-05-29T16:24:26Z"
+      "updated_at": "2026-05-29T20:56:54Z"
     },
     {
       "id": 72835816,
@@ -133,11 +133,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.",
-      "stars": 190,
+      "stars": 191,
       "forks": 14,
       "language": "Rust",
-      "pushed_at": "2026-05-29T18:28:39Z",
-      "updated_at": "2026-05-29T18:27:39Z"
+      "pushed_at": "2026-05-29T21:44:44Z",
+      "updated_at": "2026-05-29T21:44:20Z"
     },
     {
       "id": 73848752,
