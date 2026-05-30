@@ -12,11 +12,11 @@
       "full_name": "25H/Maya",
       "html_url": "https://github.com/25H/Maya",
       "description": "Maye 一个简洁小巧的快速启动工具",
-      "stars": 1651,
+      "stars": 1650,
       "forks": 127,
       "language": "Less",
       "pushed_at": "2026-04-21T12:27:00Z",
-      "updated_at": "2026-05-25T09:58:44Z"
+      "updated_at": "2026-05-30T07:45:22Z"
     },
     {
       "id": 69400040,
@@ -122,22 +122,22 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 243,
+      "stars": 244,
       "forks": 26,
       "language": "Unknown",
       "pushed_at": "2026-05-19T10:24:55Z",
-      "updated_at": "2026-05-29T22:41:02Z"
+      "updated_at": "2026-05-30T09:14:08Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.",
-      "stars": 191,
+      "stars": 192,
       "forks": 14,
       "language": "Rust",
       "pushed_at": "2026-05-30T00:11:04Z",
-      "updated_at": "2026-05-29T23:22:21Z"
+      "updated_at": "2026-05-30T09:25:15Z"
     },
     {
       "id": 73848752,
