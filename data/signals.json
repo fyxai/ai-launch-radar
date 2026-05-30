@@ -24,7 +24,7 @@
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
       "stars": 1646,
-      "forks": 610,
+      "forks": 609,
       "language": "Python",
       "pushed_at": "2026-04-21T22:36:20Z",
       "updated_at": "2026-05-25T05:39:08Z"
@@ -122,11 +122,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 242,
+      "stars": 243,
       "forks": 26,
       "language": "Unknown",
       "pushed_at": "2026-05-19T10:24:55Z",
-      "updated_at": "2026-05-29T00:21:23Z"
+      "updated_at": "2026-05-29T22:41:02Z"
     },
     {
       "id": 1092407718,
@@ -136,8 +136,8 @@
       "stars": 191,
       "forks": 14,
       "language": "Rust",
-      "pushed_at": "2026-05-29T21:44:44Z",
-      "updated_at": "2026-05-29T21:44:20Z"
+      "pushed_at": "2026-05-30T00:11:04Z",
+      "updated_at": "2026-05-29T23:22:21Z"
     },
     {
       "id": 73848752,
