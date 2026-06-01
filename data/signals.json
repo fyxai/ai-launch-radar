@@ -12,11 +12,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1646,
+      "stars": 1647,
       "forks": 609,
       "language": "Python",
       "pushed_at": "2026-04-21T22:36:20Z",
-      "updated_at": "2026-05-25T05:39:08Z"
+      "updated_at": "2026-06-01T03:23:14Z"
     },
     {
       "id": 109404010,
@@ -133,11 +133,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.",
-      "stars": 193,
-      "forks": 14,
+      "stars": 194,
+      "forks": 16,
       "language": "Rust",
-      "pushed_at": "2026-05-31T18:25:30Z",
-      "updated_at": "2026-05-31T18:25:33Z"
+      "pushed_at": "2026-06-01T01:50:27Z",
+      "updated_at": "2026-06-01T01:50:30Z"
     },
     {
       "id": 73848752,
