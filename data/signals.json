@@ -89,11 +89,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 328,
+      "stars": 331,
       "forks": 51,
       "language": "Unknown",
       "pushed_at": "2026-05-25T18:06:54Z",
-      "updated_at": "2026-06-02T12:51:37Z"
+      "updated_at": "2026-06-02T22:12:29Z"
     },
     {
       "id": 72835816,
@@ -122,11 +122,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 245,
+      "stars": 246,
       "forks": 25,
       "language": "Unknown",
       "pushed_at": "2026-05-19T10:24:55Z",
-      "updated_at": "2026-06-02T07:48:23Z"
+      "updated_at": "2026-06-02T20:13:27Z"
     },
     {
       "id": 1092407718,
@@ -136,8 +136,8 @@
       "stars": 208,
       "forks": 18,
       "language": "Rust",
-      "pushed_at": "2026-06-02T19:36:25Z",
-      "updated_at": "2026-06-02T19:24:48Z"
+      "pushed_at": "2026-06-02T22:21:46Z",
+      "updated_at": "2026-06-02T22:18:30Z"
     },
     {
       "id": 73848752,
