@@ -35,7 +35,7 @@
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
       "stars": 1239,
-      "forks": 205,
+      "forks": 206,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
       "updated_at": "2026-06-02T18:18:18Z"
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
       "stars": 583,
-      "forks": 69,
+      "forks": 70,
       "language": "JavaScript",
       "pushed_at": "2026-05-27T02:43:35Z",
       "updated_at": "2026-06-03T10:37:14Z"
@@ -89,11 +89,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 358,
-      "forks": 56,
+      "stars": 362,
+      "forks": 57,
       "language": "Unknown",
       "pushed_at": "2026-05-25T18:06:54Z",
-      "updated_at": "2026-06-03T11:46:18Z"
+      "updated_at": "2026-06-03T17:18:56Z"
     },
     {
       "id": 72835816,
@@ -122,22 +122,22 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 249,
+      "stars": 252,
       "forks": 25,
       "language": "Unknown",
       "pushed_at": "2026-05-19T10:24:55Z",
-      "updated_at": "2026-06-03T08:40:14Z"
+      "updated_at": "2026-06-03T19:29:49Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 210,
-      "forks": 19,
+      "stars": 213,
+      "forks": 20,
       "language": "Rust",
-      "pushed_at": "2026-06-03T03:46:33Z",
-      "updated_at": "2026-06-03T05:14:39Z"
+      "pushed_at": "2026-06-03T19:37:08Z",
+      "updated_at": "2026-06-03T19:05:20Z"
     },
     {
       "id": 73848752,
