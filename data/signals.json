@@ -15,19 +15,19 @@
       "stars": 1648,
       "forks": 609,
       "language": "Python",
-      "pushed_at": "2026-04-21T22:36:20Z",
-      "updated_at": "2026-06-02T07:18:52Z"
+      "pushed_at": "2026-06-04T16:12:02Z",
+      "updated_at": "2026-06-04T16:01:32Z"
     },
     {
       "id": 109404010,
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1573,
+      "stars": 1572,
       "forks": 98,
       "language": "JavaScript",
       "pushed_at": "2026-06-04T13:58:08Z",
-      "updated_at": "2026-06-04T13:58:49Z"
+      "updated_at": "2026-06-04T15:39:29Z"
     },
     {
       "id": 568140947,
@@ -78,11 +78,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 368,
+      "stars": 369,
       "forks": 59,
       "language": "Unknown",
       "pushed_at": "2026-05-25T18:06:54Z",
-      "updated_at": "2026-06-04T12:23:24Z"
+      "updated_at": "2026-06-04T17:14:51Z"
     },
     {
       "id": 834628174,
@@ -100,11 +100,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 295,
+      "stars": 296,
       "forks": 73,
       "language": "JavaScript",
       "pushed_at": "2026-05-30T13:42:48Z",
-      "updated_at": "2026-06-01T17:36:22Z"
+      "updated_at": "2026-06-04T16:30:18Z"
     },
     {
       "id": 1165088446,
@@ -133,11 +133,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 218,
+      "stars": 219,
       "forks": 20,
       "language": "Rust",
-      "pushed_at": "2026-06-04T15:12:20Z",
-      "updated_at": "2026-06-04T14:42:40Z"
+      "pushed_at": "2026-06-04T18:15:27Z",
+      "updated_at": "2026-06-04T18:15:30Z"
     },
     {
       "id": 73848752,
