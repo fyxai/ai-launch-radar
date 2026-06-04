@@ -122,22 +122,22 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 255,
+      "stars": 256,
       "forks": 25,
       "language": "Unknown",
       "pushed_at": "2026-05-19T10:24:55Z",
-      "updated_at": "2026-06-04T10:51:45Z"
+      "updated_at": "2026-06-04T18:21:50Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 219,
+      "stars": 220,
       "forks": 20,
       "language": "Rust",
-      "pushed_at": "2026-06-04T18:15:27Z",
-      "updated_at": "2026-06-04T18:15:30Z"
+      "pushed_at": "2026-06-04T21:12:05Z",
+      "updated_at": "2026-06-04T20:36:50Z"
     },
     {
       "id": 73848752,
