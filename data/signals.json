@@ -26,8 +26,8 @@
       "stars": 1573,
       "forks": 98,
       "language": "JavaScript",
-      "pushed_at": "2026-06-02T14:46:58Z",
-      "updated_at": "2026-06-02T14:50:36Z"
+      "pushed_at": "2026-06-04T06:54:20Z",
+      "updated_at": "2026-06-04T06:50:49Z"
     },
     {
       "id": 568140947,
@@ -67,11 +67,22 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 583,
-      "forks": 70,
+      "stars": 582,
+      "forks": 71,
       "language": "JavaScript",
       "pushed_at": "2026-05-27T02:43:35Z",
-      "updated_at": "2026-06-03T10:37:14Z"
+      "updated_at": "2026-06-04T08:28:43Z"
+    },
+    {
+      "id": 1174682625,
+      "full_name": "ferdinandobons/startup-skill",
+      "html_url": "https://github.com/ferdinandobons/startup-skill",
+      "description": "AI agent skills for startup validation, competitive intelligence, and planning",
+      "stars": 367,
+      "forks": 57,
+      "language": "Unknown",
+      "pushed_at": "2026-05-25T18:06:54Z",
+      "updated_at": "2026-06-04T10:39:34Z"
     },
     {
       "id": 834628174,
@@ -83,17 +94,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-05-02T17:49:25Z",
       "updated_at": "2026-06-02T14:06:58Z"
-    },
-    {
-      "id": 1174682625,
-      "full_name": "ferdinandobons/startup-skill",
-      "html_url": "https://github.com/ferdinandobons/startup-skill",
-      "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 364,
-      "forks": 57,
-      "language": "Unknown",
-      "pushed_at": "2026-05-25T18:06:54Z",
-      "updated_at": "2026-06-03T23:21:36Z"
     },
     {
       "id": 72835816,
@@ -122,11 +122,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 253,
+      "stars": 255,
       "forks": 25,
       "language": "Unknown",
       "pushed_at": "2026-05-19T10:24:55Z",
-      "updated_at": "2026-06-04T02:05:32Z"
+      "updated_at": "2026-06-04T10:51:45Z"
     },
     {
       "id": 1092407718,
