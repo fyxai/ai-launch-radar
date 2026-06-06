@@ -111,33 +111,33 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 285,
+      "stars": 286,
       "forks": 8,
       "language": "C++",
       "pushed_at": "2026-04-30T23:04:53Z",
-      "updated_at": "2026-06-05T18:15:54Z"
+      "updated_at": "2026-06-06T07:02:25Z"
     },
     {
       "id": 1209890423,
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 257,
+      "stars": 258,
       "forks": 25,
       "language": "Unknown",
       "pushed_at": "2026-05-19T10:24:55Z",
-      "updated_at": "2026-06-06T06:53:11Z"
+      "updated_at": "2026-06-06T09:55:23Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 221,
+      "stars": 222,
       "forks": 21,
       "language": "Rust",
       "pushed_at": "2026-06-05T22:57:22Z",
-      "updated_at": "2026-06-06T03:32:18Z"
+      "updated_at": "2026-06-06T07:29:36Z"
     },
     {
       "id": 73848752,
