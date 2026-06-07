@@ -78,22 +78,22 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 386,
+      "stars": 387,
       "forks": 61,
       "language": "Unknown",
       "pushed_at": "2026-05-25T18:06:54Z",
-      "updated_at": "2026-06-07T13:14:25Z"
+      "updated_at": "2026-06-07T14:53:25Z"
     },
     {
       "id": 834628174,
       "full_name": "get-convex/convex-saas",
       "html_url": "https://github.com/get-convex/convex-saas",
       "description": "A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn.",
-      "stars": 367,
+      "stars": 368,
       "forks": 45,
       "language": "TypeScript",
       "pushed_at": "2026-05-02T17:49:25Z",
-      "updated_at": "2026-06-02T14:06:58Z"
+      "updated_at": "2026-06-07T14:59:05Z"
     },
     {
       "id": 72835816,
@@ -133,11 +133,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 229,
+      "stars": 230,
       "forks": 21,
       "language": "Rust",
       "pushed_at": "2026-06-06T17:49:12Z",
-      "updated_at": "2026-06-07T07:42:26Z"
+      "updated_at": "2026-06-07T15:25:18Z"
     },
     {
       "id": 73848752,
