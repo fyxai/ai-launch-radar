@@ -78,11 +78,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 406,
+      "stars": 407,
       "forks": 62,
       "language": "Unknown",
       "pushed_at": "2026-06-09T23:05:35Z",
-      "updated_at": "2026-06-10T09:12:09Z"
+      "updated_at": "2026-06-10T17:39:43Z"
     },
     {
       "id": 834628174,
@@ -100,11 +100,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 296,
+      "stars": 297,
       "forks": 73,
       "language": "JavaScript",
       "pushed_at": "2026-06-05T08:38:47Z",
-      "updated_at": "2026-06-09T19:23:30Z"
+      "updated_at": "2026-06-10T17:06:57Z"
     },
     {
       "id": 1165088446,
@@ -133,11 +133,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 238,
+      "stars": 240,
       "forks": 21,
       "language": "Rust",
-      "pushed_at": "2026-06-10T15:34:29Z",
-      "updated_at": "2026-06-10T15:36:32Z"
+      "pushed_at": "2026-06-10T18:30:47Z",
+      "updated_at": "2026-06-10T18:11:56Z"
     },
     {
       "id": 73848752,
