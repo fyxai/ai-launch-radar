@@ -34,22 +34,22 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1244,
+      "stars": 1242,
       "forks": 207,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-06-08T14:12:16Z"
+      "updated_at": "2026-06-10T00:21:20Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 929,
+      "stars": 928,
       "forks": 115,
       "language": "C#",
       "pushed_at": "2026-06-05T13:44:00Z",
-      "updated_at": "2026-06-09T00:12:33Z"
+      "updated_at": "2026-06-10T00:20:46Z"
     },
     {
       "id": 233135728,
@@ -67,11 +67,11 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 584,
+      "stars": 583,
       "forks": 72,
       "language": "JavaScript",
       "pushed_at": "2026-05-27T02:43:35Z",
-      "updated_at": "2026-06-06T01:49:05Z"
+      "updated_at": "2026-06-09T23:56:15Z"
     },
     {
       "id": 1174682625,
@@ -81,8 +81,8 @@
       "stars": 404,
       "forks": 62,
       "language": "Unknown",
-      "pushed_at": "2026-05-25T18:06:54Z",
-      "updated_at": "2026-06-09T21:11:21Z"
+      "pushed_at": "2026-06-09T23:05:35Z",
+      "updated_at": "2026-06-09T23:05:37Z"
     },
     {
       "id": 834628174,
@@ -122,22 +122,22 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 261,
+      "stars": 262,
       "forks": 26,
       "language": "Unknown",
       "pushed_at": "2026-05-19T10:24:55Z",
-      "updated_at": "2026-06-09T20:32:52Z"
+      "updated_at": "2026-06-10T02:54:33Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 240,
+      "stars": 238,
       "forks": 21,
       "language": "Rust",
-      "pushed_at": "2026-06-09T21:48:33Z",
-      "updated_at": "2026-06-09T21:35:07Z"
+      "pushed_at": "2026-06-10T03:53:47Z",
+      "updated_at": "2026-06-10T00:19:28Z"
     },
     {
       "id": 73848752,
