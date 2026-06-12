@@ -45,11 +45,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 928,
+      "stars": 929,
       "forks": 115,
       "language": "C#",
       "pushed_at": "2026-06-05T13:44:00Z",
-      "updated_at": "2026-06-10T00:20:46Z"
+      "updated_at": "2026-06-12T19:23:28Z"
     },
     {
       "id": 233135728,
@@ -78,11 +78,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 416,
+      "stars": 417,
       "forks": 63,
       "language": "Unknown",
       "pushed_at": "2026-06-09T23:05:35Z",
-      "updated_at": "2026-06-12T13:37:08Z"
+      "updated_at": "2026-06-12T20:57:12Z"
     },
     {
       "id": 834628174,
@@ -133,11 +133,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 247,
-      "forks": 22,
+      "stars": 248,
+      "forks": 23,
       "language": "Rust",
-      "pushed_at": "2026-06-12T18:02:10Z",
-      "updated_at": "2026-06-12T17:55:28Z"
+      "pushed_at": "2026-06-12T21:44:44Z",
+      "updated_at": "2026-06-12T21:44:46Z"
     },
     {
       "id": 73848752,
