@@ -45,11 +45,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 929,
+      "stars": 928,
       "forks": 115,
       "language": "C#",
       "pushed_at": "2026-06-05T13:44:00Z",
-      "updated_at": "2026-06-12T19:23:28Z"
+      "updated_at": "2026-06-13T21:54:19Z"
     },
     {
       "id": 233135728,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/dstein64/vim-startuptime",
       "description": "A plugin for viewing Vim and Neovim startup event timing information.",
       "stars": 662,
-      "forks": 11,
+      "forks": 12,
       "language": "Vim Script",
       "pushed_at": "2026-05-30T22:10:45Z",
       "updated_at": "2026-06-07T18:40:37Z"
@@ -78,11 +78,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 420,
+      "stars": 424,
       "forks": 62,
       "language": "Unknown",
       "pushed_at": "2026-06-09T23:05:35Z",
-      "updated_at": "2026-06-13T21:11:59Z"
+      "updated_at": "2026-06-14T03:36:33Z"
     },
     {
       "id": 834628174,
@@ -122,22 +122,22 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 267,
+      "stars": 268,
       "forks": 27,
       "language": "Unknown",
       "pushed_at": "2026-05-19T10:24:55Z",
-      "updated_at": "2026-06-13T17:20:58Z"
+      "updated_at": "2026-06-13T23:41:54Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 249,
+      "stars": 250,
       "forks": 23,
       "language": "Rust",
       "pushed_at": "2026-06-13T17:30:22Z",
-      "updated_at": "2026-06-13T17:10:54Z"
+      "updated_at": "2026-06-14T00:36:05Z"
     },
     {
       "id": 73848752,
