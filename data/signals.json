@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6392,
+      "stars": 6393,
       "forks": 595,
       "language": "Unknown",
       "pushed_at": "2026-06-17T16:42:15Z",
-      "updated_at": "2026-06-18T02:25:16Z"
+      "updated_at": "2026-06-18T07:29:25Z"
     },
     {
       "id": 69400040,
@@ -35,21 +35,21 @@
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
       "stars": 1572,
-      "forks": 98,
+      "forks": 99,
       "language": "JavaScript",
-      "pushed_at": "2026-06-17T14:48:19Z",
-      "updated_at": "2026-06-17T14:46:25Z"
+      "pushed_at": "2026-06-18T10:42:33Z",
+      "updated_at": "2026-06-18T10:42:33Z"
     },
     {
       "id": 568140947,
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1244,
+      "stars": 1243,
       "forks": 208,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-06-17T12:59:01Z"
+      "updated_at": "2026-06-18T07:17:27Z"
     },
     {
       "id": 158286982,
@@ -78,11 +78,11 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 586,
+      "stars": 587,
       "forks": 72,
       "language": "JavaScript",
       "pushed_at": "2026-05-27T02:43:35Z",
-      "updated_at": "2026-06-13T21:06:53Z"
+      "updated_at": "2026-06-18T06:42:22Z"
     },
     {
       "id": 922299292,
@@ -100,11 +100,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 479,
+      "stars": 481,
       "forks": 70,
       "language": "Unknown",
       "pushed_at": "2026-06-09T23:05:35Z",
-      "updated_at": "2026-06-17T19:30:05Z"
+      "updated_at": "2026-06-18T09:51:33Z"
     },
     {
       "id": 72835816,
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 297,
-      "forks": 74,
+      "forks": 75,
       "language": "JavaScript",
       "pushed_at": "2026-06-05T08:38:47Z",
       "updated_at": "2026-06-10T17:06:57Z"
@@ -133,11 +133,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 266,
-      "forks": 21,
+      "stars": 267,
+      "forks": 22,
       "language": "Rust",
       "pushed_at": "2026-06-18T00:35:33Z",
-      "updated_at": "2026-06-18T00:35:35Z"
+      "updated_at": "2026-06-18T05:27:43Z"
     },
     {
       "id": 470693636,
