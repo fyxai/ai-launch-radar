@@ -133,11 +133,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 278,
+      "stars": 280,
       "forks": 28,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-06-20T15:11:54Z"
+      "updated_at": "2026-06-21T01:51:55Z"
     },
     {
       "id": 1092407718,
@@ -147,7 +147,7 @@
       "stars": 272,
       "forks": 23,
       "language": "Rust",
-      "pushed_at": "2026-06-20T19:40:10Z",
+      "pushed_at": "2026-06-21T03:14:50Z",
       "updated_at": "2026-06-20T11:32:37Z"
     },
     {
