@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6407,
+      "stars": 6410,
       "forks": 595,
       "language": "Unknown",
       "pushed_at": "2026-06-17T16:42:15Z",
-      "updated_at": "2026-06-22T00:50:14Z"
+      "updated_at": "2026-06-22T13:13:24Z"
     },
     {
       "id": 136873512,
@@ -48,7 +48,7 @@
       "stars": 1573,
       "forks": 98,
       "language": "JavaScript",
-      "pushed_at": "2026-06-18T13:57:05Z",
+      "pushed_at": "2026-06-22T06:57:58Z",
       "updated_at": "2026-06-21T09:27:19Z"
     },
     {
@@ -56,11 +56,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1246,
+      "stars": 1247,
       "forks": 209,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-06-21T21:43:58Z"
+      "updated_at": "2026-06-22T13:19:38Z"
     },
     {
       "id": 158286982,
@@ -118,6 +118,17 @@
       "updated_at": "2026-06-22T02:10:18Z"
     },
     {
+      "id": 1209890423,
+      "full_name": "MaxKmet/idea-validation-agents",
+      "html_url": "https://github.com/MaxKmet/idea-validation-agents",
+      "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
+      "stars": 309,
+      "forks": 31,
+      "language": "Unknown",
+      "pushed_at": "2026-06-16T15:18:56Z",
+      "updated_at": "2026-06-22T13:17:35Z"
+    },
+    {
       "id": 72835816,
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
@@ -129,26 +140,15 @@
       "updated_at": "2026-06-19T20:42:09Z"
     },
     {
-      "id": 1209890423,
-      "full_name": "MaxKmet/idea-validation-agents",
-      "html_url": "https://github.com/MaxKmet/idea-validation-agents",
-      "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 290,
-      "forks": 30,
-      "language": "Unknown",
-      "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-06-22T03:40:44Z"
-    },
-    {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 276,
-      "forks": 23,
+      "stars": 282,
+      "forks": 24,
       "language": "Rust",
-      "pushed_at": "2026-06-21T03:14:50Z",
-      "updated_at": "2026-06-22T03:58:05Z"
+      "pushed_at": "2026-06-22T12:56:20Z",
+      "updated_at": "2026-06-22T09:39:54Z"
     },
     {
       "id": 470693636,
