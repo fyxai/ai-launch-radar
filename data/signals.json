@@ -34,11 +34,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1649,
+      "stars": 1650,
       "forks": 610,
       "language": "Python",
       "pushed_at": "2026-06-04T16:12:02Z",
-      "updated_at": "2026-06-07T12:22:57Z"
+      "updated_at": "2026-06-24T08:17:31Z"
     },
     {
       "id": 109404010,
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
       "stars": 491,
-      "forks": 71,
+      "forks": 72,
       "language": "Unknown",
       "pushed_at": "2026-06-09T23:05:35Z",
       "updated_at": "2026-06-24T02:37:34Z"
