@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6415,
-      "forks": 595,
+      "stars": 6417,
+      "forks": 596,
       "language": "Unknown",
       "pushed_at": "2026-06-17T16:42:15Z",
-      "updated_at": "2026-06-23T18:53:11Z"
+      "updated_at": "2026-06-24T02:05:58Z"
     },
     {
       "id": 136873512,
@@ -67,11 +67,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 933,
+      "stars": 934,
       "forks": 117,
       "language": "C#",
       "pushed_at": "2026-06-05T13:44:00Z",
-      "updated_at": "2026-06-23T19:02:41Z"
+      "updated_at": "2026-06-23T23:04:31Z"
     },
     {
       "id": 233135728,
@@ -111,22 +111,22 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 490,
+      "stars": 491,
       "forks": 71,
       "language": "Unknown",
       "pushed_at": "2026-06-09T23:05:35Z",
-      "updated_at": "2026-06-22T02:10:18Z"
+      "updated_at": "2026-06-24T02:37:34Z"
     },
     {
       "id": 1209890423,
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 323,
+      "stars": 329,
       "forks": 36,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-06-23T13:49:27Z"
+      "updated_at": "2026-06-24T02:42:58Z"
     },
     {
       "id": 72835816,
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 297,
-      "forks": 75,
+      "forks": 76,
       "language": "JavaScript",
       "pushed_at": "2026-06-19T16:16:42Z",
       "updated_at": "2026-06-19T20:42:09Z"
@@ -147,8 +147,8 @@
       "stars": 287,
       "forks": 25,
       "language": "Rust",
-      "pushed_at": "2026-06-23T21:30:29Z",
-      "updated_at": "2026-06-23T21:24:42Z"
+      "pushed_at": "2026-06-24T03:02:24Z",
+      "updated_at": "2026-06-24T02:56:47Z"
     },
     {
       "id": 470693636,
