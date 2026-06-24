@@ -56,11 +56,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1251,
+      "stars": 1250,
       "forks": 211,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-06-24T16:51:19Z"
+      "updated_at": "2026-06-24T21:10:55Z"
     },
     {
       "id": 158286982,
@@ -111,11 +111,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 492,
+      "stars": 494,
       "forks": 72,
       "language": "Unknown",
       "pushed_at": "2026-06-09T23:05:35Z",
-      "updated_at": "2026-06-24T13:09:02Z"
+      "updated_at": "2026-06-24T18:45:45Z"
     },
     {
       "id": 1209890423,
@@ -147,8 +147,8 @@
       "stars": 287,
       "forks": 25,
       "language": "Rust",
-      "pushed_at": "2026-06-24T17:54:47Z",
-      "updated_at": "2026-06-24T17:54:24Z"
+      "pushed_at": "2026-06-24T21:17:23Z",
+      "updated_at": "2026-06-24T20:59:46Z"
     },
     {
       "id": 470693636,
