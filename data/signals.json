@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6429,
-      "forks": 597,
+      "stars": 6430,
+      "forks": 598,
       "language": "Unknown",
       "pushed_at": "2026-06-17T16:42:15Z",
-      "updated_at": "2026-06-25T20:00:45Z"
+      "updated_at": "2026-06-26T00:53:21Z"
     },
     {
       "id": 136873512,
@@ -34,11 +34,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1651,
+      "stars": 1652,
       "forks": 611,
       "language": "Python",
       "pushed_at": "2026-06-04T16:12:02Z",
-      "updated_at": "2026-06-25T12:08:58Z"
+      "updated_at": "2026-06-26T01:21:20Z"
     },
     {
       "id": 109404010,
@@ -56,11 +56,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1254,
+      "stars": 1255,
       "forks": 211,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-06-25T18:15:32Z"
+      "updated_at": "2026-06-25T22:58:54Z"
     },
     {
       "id": 158286982,
@@ -122,11 +122,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 339,
-      "forks": 38,
+      "stars": 341,
+      "forks": 39,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-06-25T15:27:56Z"
+      "updated_at": "2026-06-26T02:37:54Z"
     },
     {
       "id": 72835816,
@@ -144,11 +144,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 290,
+      "stars": 291,
       "forks": 25,
       "language": "Rust",
-      "pushed_at": "2026-06-25T21:31:38Z",
-      "updated_at": "2026-06-25T21:20:00Z"
+      "pushed_at": "2026-06-26T02:20:56Z",
+      "updated_at": "2026-06-26T02:20:58Z"
     },
     {
       "id": 470693636,
