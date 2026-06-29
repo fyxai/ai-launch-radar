@@ -16,7 +16,7 @@
       "forks": 602,
       "language": "Unknown",
       "pushed_at": "2026-06-17T16:42:15Z",
-      "updated_at": "2026-06-29T10:15:31Z"
+      "updated_at": "2026-06-29T17:41:45Z"
     },
     {
       "id": 136873512,
@@ -89,11 +89,11 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 588,
+      "stars": 589,
       "forks": 71,
       "language": "JavaScript",
-      "pushed_at": "2026-05-27T02:43:35Z",
-      "updated_at": "2026-06-22T23:49:51Z"
+      "pushed_at": "2026-06-29T16:00:21Z",
+      "updated_at": "2026-06-29T16:01:10Z"
     },
     {
       "id": 1174682625,
@@ -122,11 +122,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 346,
+      "stars": 347,
       "forks": 41,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-06-29T10:33:43Z"
+      "updated_at": "2026-06-29T16:46:36Z"
     },
     {
       "id": 72835816,
@@ -147,8 +147,8 @@
       "stars": 296,
       "forks": 27,
       "language": "Rust",
-      "pushed_at": "2026-06-29T12:01:06Z",
-      "updated_at": "2026-06-28T20:41:38Z"
+      "pushed_at": "2026-06-29T18:03:45Z",
+      "updated_at": "2026-06-29T18:03:40Z"
     },
     {
       "id": 470693636,
