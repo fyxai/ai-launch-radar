@@ -56,11 +56,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1253,
+      "stars": 1254,
       "forks": 209,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-06-28T16:27:41Z"
+      "updated_at": "2026-06-28T21:33:40Z"
     },
     {
       "id": 158286982,
@@ -111,11 +111,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 503,
+      "stars": 504,
       "forks": 73,
       "language": "Unknown",
       "pushed_at": "2026-06-09T23:05:35Z",
-      "updated_at": "2026-06-28T18:42:17Z"
+      "updated_at": "2026-06-28T21:05:01Z"
     },
     {
       "id": 1209890423,
@@ -147,7 +147,7 @@
       "stars": 296,
       "forks": 27,
       "language": "Rust",
-      "pushed_at": "2026-06-26T17:23:40Z",
+      "pushed_at": "2026-06-29T01:58:11Z",
       "updated_at": "2026-06-28T20:41:38Z"
     },
     {
@@ -162,15 +162,15 @@
       "updated_at": "2026-06-25T00:46:22Z"
     },
     {
-      "id": 30541426,
-      "full_name": "dlresende/extreme-carpaccio",
-      "html_url": "https://github.com/dlresende/extreme-carpaccio",
-      "description": "Slicing and coding game",
-      "stars": 128,
-      "forks": 120,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-15T16:10:22Z",
-      "updated_at": "2026-06-15T16:05:02Z"
+      "id": 1179396737,
+      "full_name": "doanbactam/awesome-builder-programs",
+      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
+      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
+      "stars": 129,
+      "forks": 11,
+      "language": "Unknown",
+      "pushed_at": "2026-06-25T06:05:30Z",
+      "updated_at": "2026-06-28T21:23:05Z"
     }
   ]
 }
