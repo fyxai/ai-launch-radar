@@ -23,11 +23,11 @@
       "full_name": "trekhleb/promote-your-next-startup",
       "html_url": "https://github.com/trekhleb/promote-your-next-startup",
       "description": "🚀 Free resources you may use to promote your next startup",
-      "stars": 2209,
+      "stars": 2210,
       "forks": 191,
       "language": "Unknown",
       "pushed_at": "2026-06-19T00:02:44Z",
-      "updated_at": "2026-06-19T00:03:10Z"
+      "updated_at": "2026-06-30T13:24:00Z"
     },
     {
       "id": 69400040,
@@ -56,11 +56,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1254,
-      "forks": 209,
+      "stars": 1253,
+      "forks": 208,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-06-28T21:33:40Z"
+      "updated_at": "2026-06-30T12:08:53Z"
     },
     {
       "id": 158286982,
@@ -100,11 +100,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 505,
+      "stars": 508,
       "forks": 73,
       "language": "Unknown",
       "pushed_at": "2026-06-09T23:05:35Z",
-      "updated_at": "2026-06-29T11:13:41Z"
+      "updated_at": "2026-06-30T14:10:39Z"
     },
     {
       "id": 922299292,
@@ -122,11 +122,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 348,
+      "stars": 349,
       "forks": 41,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-06-30T07:03:41Z"
+      "updated_at": "2026-06-30T11:58:26Z"
     },
     {
       "id": 72835816,
@@ -147,8 +147,8 @@
       "stars": 296,
       "forks": 27,
       "language": "Rust",
-      "pushed_at": "2026-06-30T04:08:34Z",
-      "updated_at": "2026-06-29T22:52:59Z"
+      "pushed_at": "2026-06-30T14:16:18Z",
+      "updated_at": "2026-06-30T12:33:22Z"
     },
     {
       "id": 470693636,
