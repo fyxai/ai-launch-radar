@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6442,
+      "stars": 6444,
       "forks": 602,
       "language": "Unknown",
       "pushed_at": "2026-06-17T16:42:15Z",
-      "updated_at": "2026-06-29T17:41:45Z"
+      "updated_at": "2026-06-30T01:16:48Z"
     },
     {
       "id": 136873512,
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 297,
-      "forks": 76,
+      "forks": 77,
       "language": "JavaScript",
       "pushed_at": "2026-06-29T19:37:18Z",
       "updated_at": "2026-06-29T19:37:23Z"
@@ -147,8 +147,8 @@
       "stars": 296,
       "forks": 27,
       "language": "Rust",
-      "pushed_at": "2026-06-29T21:21:17Z",
-      "updated_at": "2026-06-29T21:21:21Z"
+      "pushed_at": "2026-06-30T00:18:01Z",
+      "updated_at": "2026-06-29T22:52:59Z"
     },
     {
       "id": 470693636,
@@ -169,8 +169,8 @@
       "stars": 129,
       "forks": 11,
       "language": "Unknown",
-      "pushed_at": "2026-06-25T06:05:30Z",
-      "updated_at": "2026-06-28T21:23:05Z"
+      "pushed_at": "2026-06-30T03:07:17Z",
+      "updated_at": "2026-06-30T03:07:21Z"
     }
   ]
 }
