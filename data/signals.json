@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6445,
+      "stars": 6446,
       "forks": 602,
       "language": "Unknown",
       "pushed_at": "2026-06-17T16:42:15Z",
-      "updated_at": "2026-06-30T04:03:13Z"
+      "updated_at": "2026-06-30T17:35:08Z"
     },
     {
       "id": 136873512,
@@ -100,22 +100,22 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 508,
+      "stars": 512,
       "forks": 73,
       "language": "Unknown",
       "pushed_at": "2026-06-09T23:05:35Z",
-      "updated_at": "2026-06-30T14:10:39Z"
+      "updated_at": "2026-06-30T16:28:07Z"
     },
     {
       "id": 922299292,
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 505,
+      "stars": 504,
       "forks": 13,
       "language": "Swift",
       "pushed_at": "2026-06-14T19:03:12Z",
-      "updated_at": "2026-06-29T10:20:09Z"
+      "updated_at": "2026-06-30T16:48:49Z"
     },
     {
       "id": 1209890423,
@@ -129,6 +129,17 @@
       "updated_at": "2026-06-30T11:58:26Z"
     },
     {
+      "id": 1092407718,
+      "full_name": "macro-inc/macro",
+      "html_url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
+      "stars": 297,
+      "forks": 27,
+      "language": "Rust",
+      "pushed_at": "2026-06-30T17:30:49Z",
+      "updated_at": "2026-06-30T17:30:53Z"
+    },
+    {
       "id": 72835816,
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
@@ -138,17 +149,6 @@
       "language": "JavaScript",
       "pushed_at": "2026-06-29T19:37:18Z",
       "updated_at": "2026-06-29T19:37:23Z"
-    },
-    {
-      "id": 1092407718,
-      "full_name": "macro-inc/macro",
-      "html_url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 296,
-      "forks": 27,
-      "language": "Rust",
-      "pushed_at": "2026-06-30T14:16:18Z",
-      "updated_at": "2026-06-30T12:33:22Z"
     },
     {
       "id": 470693636,
