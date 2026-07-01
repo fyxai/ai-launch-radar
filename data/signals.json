@@ -48,19 +48,19 @@
       "stars": 1573,
       "forks": 98,
       "language": "JavaScript",
-      "pushed_at": "2026-06-30T09:12:33Z",
-      "updated_at": "2026-06-30T09:15:23Z"
+      "pushed_at": "2026-07-01T10:44:58Z",
+      "updated_at": "2026-07-01T10:44:31Z"
     },
     {
       "id": 568140947,
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1252,
+      "stars": 1250,
       "forks": 208,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-06-30T20:19:46Z"
+      "updated_at": "2026-07-01T11:17:17Z"
     },
     {
       "id": 158286982,
@@ -89,11 +89,11 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 589,
+      "stars": 590,
       "forks": 71,
       "language": "JavaScript",
       "pushed_at": "2026-06-29T16:00:21Z",
-      "updated_at": "2026-06-29T16:01:10Z"
+      "updated_at": "2026-07-01T06:48:50Z"
     },
     {
       "id": 1174682625,
@@ -103,8 +103,8 @@
       "stars": 512,
       "forks": 74,
       "language": "Unknown",
-      "pushed_at": "2026-06-09T23:05:35Z",
-      "updated_at": "2026-06-30T16:28:07Z"
+      "pushed_at": "2026-07-01T07:03:04Z",
+      "updated_at": "2026-07-01T07:03:02Z"
     },
     {
       "id": 922299292,
@@ -122,11 +122,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 351,
-      "forks": 41,
+      "stars": 352,
+      "forks": 42,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-07-01T04:00:28Z"
+      "updated_at": "2026-07-01T11:18:57Z"
     },
     {
       "id": 1092407718,
@@ -136,7 +136,7 @@
       "stars": 298,
       "forks": 28,
       "language": "Rust",
-      "pushed_at": "2026-07-01T04:03:30Z",
+      "pushed_at": "2026-07-01T04:36:39Z",
       "updated_at": "2026-07-01T04:03:35Z"
     },
     {
