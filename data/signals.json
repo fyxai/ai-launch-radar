@@ -46,10 +46,10 @@
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
       "stars": 1573,
-      "forks": 98,
+      "forks": 97,
       "language": "JavaScript",
-      "pushed_at": "2026-07-01T10:44:58Z",
-      "updated_at": "2026-07-01T10:44:31Z"
+      "pushed_at": "2026-07-01T19:48:47Z",
+      "updated_at": "2026-07-01T19:48:51Z"
     },
     {
       "id": 568140947,
@@ -60,7 +60,7 @@
       "forks": 208,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-07-01T14:33:51Z"
+      "updated_at": "2026-07-01T18:53:32Z"
     },
     {
       "id": 158286982,
@@ -122,22 +122,22 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 352,
-      "forks": 42,
+      "stars": 353,
+      "forks": 43,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-07-01T11:18:57Z"
+      "updated_at": "2026-07-01T19:53:29Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 300,
-      "forks": 28,
+      "stars": 304,
+      "forks": 29,
       "language": "Rust",
-      "pushed_at": "2026-07-01T16:56:32Z",
-      "updated_at": "2026-07-01T17:41:06Z"
+      "pushed_at": "2026-07-01T21:23:56Z",
+      "updated_at": "2026-07-01T20:30:01Z"
     },
     {
       "id": 72835816,
