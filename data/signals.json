@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6451,
+      "stars": 6452,
       "forks": 601,
       "language": "Unknown",
       "pushed_at": "2026-07-01T16:24:52Z",
-      "updated_at": "2026-07-02T01:03:30Z"
+      "updated_at": "2026-07-02T05:45:52Z"
     },
     {
       "id": 136873512,
@@ -122,11 +122,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 353,
+      "stars": 354,
       "forks": 43,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-07-01T19:53:29Z"
+      "updated_at": "2026-07-02T06:19:36Z"
     },
     {
       "id": 1092407718,
@@ -134,9 +134,9 @@
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
       "stars": 306,
-      "forks": 29,
+      "forks": 30,
       "language": "Rust",
-      "pushed_at": "2026-07-02T03:42:13Z",
+      "pushed_at": "2026-07-02T03:47:18Z",
       "updated_at": "2026-07-02T02:34:39Z"
     },
     {
