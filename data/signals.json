@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6453,
-      "forks": 601,
+      "stars": 6454,
+      "forks": 602,
       "language": "Unknown",
       "pushed_at": "2026-07-01T16:24:52Z",
-      "updated_at": "2026-07-02T11:28:58Z"
+      "updated_at": "2026-07-02T15:32:23Z"
     },
     {
       "id": 136873512,
@@ -34,11 +34,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1651,
+      "stars": 1652,
       "forks": 611,
       "language": "Python",
       "pushed_at": "2026-06-26T17:18:32Z",
-      "updated_at": "2026-06-26T17:18:36Z"
+      "updated_at": "2026-07-02T16:24:35Z"
     },
     {
       "id": 109404010,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
       "stars": 1251,
-      "forks": 208,
+      "forks": 207,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
       "updated_at": "2026-07-01T18:53:32Z"
@@ -133,22 +133,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 313,
-      "forks": 30,
+      "stars": 326,
+      "forks": 31,
       "language": "Rust",
-      "pushed_at": "2026-07-02T13:56:23Z",
-      "updated_at": "2026-07-02T14:04:30Z"
+      "pushed_at": "2026-07-02T17:44:30Z",
+      "updated_at": "2026-07-02T16:58:19Z"
     },
     {
       "id": 72835816,
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 298,
+      "stars": 299,
       "forks": 77,
       "language": "JavaScript",
       "pushed_at": "2026-06-29T19:37:18Z",
-      "updated_at": "2026-07-01T12:52:28Z"
+      "updated_at": "2026-07-02T16:45:37Z"
     },
     {
       "id": 470693636,
