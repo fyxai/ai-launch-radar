@@ -100,11 +100,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 513,
+      "stars": 514,
       "forks": 75,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
-      "updated_at": "2026-07-01T15:42:36Z"
+      "updated_at": "2026-07-03T07:19:14Z"
     },
     {
       "id": 922299292,
@@ -136,7 +136,7 @@
       "stars": 331,
       "forks": 32,
       "language": "Rust",
-      "pushed_at": "2026-07-03T03:25:19Z",
+      "pushed_at": "2026-07-03T03:37:11Z",
       "updated_at": "2026-07-03T03:09:40Z"
     },
     {
@@ -147,8 +147,8 @@
       "stars": 299,
       "forks": 77,
       "language": "JavaScript",
-      "pushed_at": "2026-06-29T19:37:18Z",
-      "updated_at": "2026-07-02T16:45:37Z"
+      "pushed_at": "2026-07-03T06:51:50Z",
+      "updated_at": "2026-07-03T06:51:54Z"
     },
     {
       "id": 470693636,
@@ -166,11 +166,11 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 129,
+      "stars": 130,
       "forks": 11,
       "language": "Unknown",
       "pushed_at": "2026-06-30T03:07:17Z",
-      "updated_at": "2026-06-30T03:07:21Z"
+      "updated_at": "2026-07-03T05:18:53Z"
     }
   ]
 }
