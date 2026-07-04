@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6475,
+      "stars": 6477,
       "forks": 603,
       "language": "Unknown",
       "pushed_at": "2026-07-01T16:24:52Z",
-      "updated_at": "2026-07-03T21:04:37Z"
+      "updated_at": "2026-07-04T03:03:13Z"
     },
     {
       "id": 136873512,
@@ -133,11 +133,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 342,
-      "forks": 32,
+      "stars": 350,
+      "forks": 33,
       "language": "Rust",
-      "pushed_at": "2026-07-03T21:01:23Z",
-      "updated_at": "2026-07-03T20:09:20Z"
+      "pushed_at": "2026-07-04T03:03:48Z",
+      "updated_at": "2026-07-04T02:28:21Z"
     },
     {
       "id": 72835816,
@@ -169,8 +169,8 @@
       "stars": 130,
       "forks": 11,
       "language": "Unknown",
-      "pushed_at": "2026-06-30T03:07:17Z",
-      "updated_at": "2026-07-03T05:18:53Z"
+      "pushed_at": "2026-07-04T02:31:00Z",
+      "updated_at": "2026-07-04T02:31:03Z"
     }
   ]
 }
