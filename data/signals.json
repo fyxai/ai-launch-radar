@@ -111,22 +111,22 @@
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 503,
+      "stars": 502,
       "forks": 13,
       "language": "Swift",
       "pushed_at": "2026-06-14T19:03:12Z",
-      "updated_at": "2026-07-07T09:43:39Z"
+      "updated_at": "2026-07-07T19:29:28Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 383,
-      "forks": 37,
+      "stars": 391,
+      "forks": 42,
       "language": "Rust",
-      "pushed_at": "2026-07-07T18:00:06Z",
-      "updated_at": "2026-07-07T17:45:12Z"
+      "pushed_at": "2026-07-07T21:23:30Z",
+      "updated_at": "2026-07-07T21:03:42Z"
     },
     {
       "id": 1209890423,
