@@ -45,11 +45,11 @@
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1576,
+      "stars": 1577,
       "forks": 97,
       "language": "JavaScript",
       "pushed_at": "2026-07-06T07:41:23Z",
-      "updated_at": "2026-07-08T09:00:48Z"
+      "updated_at": "2026-07-09T00:56:13Z"
     },
     {
       "id": 568140947,
@@ -89,11 +89,11 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 592,
+      "stars": 591,
       "forks": 71,
       "language": "JavaScript",
       "pushed_at": "2026-06-29T16:00:21Z",
-      "updated_at": "2026-07-05T12:50:14Z"
+      "updated_at": "2026-07-08T23:36:09Z"
     },
     {
       "id": 1174682625,
@@ -101,7 +101,7 @@
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
       "stars": 526,
-      "forks": 76,
+      "forks": 77,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
       "updated_at": "2026-07-08T20:30:12Z"
@@ -122,11 +122,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 399,
+      "stars": 400,
       "forks": 43,
       "language": "Rust",
-      "pushed_at": "2026-07-08T21:08:42Z",
-      "updated_at": "2026-07-08T20:19:35Z"
+      "pushed_at": "2026-07-09T02:19:48Z",
+      "updated_at": "2026-07-09T02:53:11Z"
     },
     {
       "id": 1209890423,
