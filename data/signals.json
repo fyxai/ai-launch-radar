@@ -56,11 +56,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1247,
+      "stars": 1248,
       "forks": 206,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-07-08T05:57:01Z"
+      "updated_at": "2026-07-09T22:52:28Z"
     },
     {
       "id": 158286982,
@@ -122,22 +122,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 426,
+      "stars": 428,
       "forks": 75,
       "language": "Rust",
-      "pushed_at": "2026-07-09T21:18:15Z",
-      "updated_at": "2026-07-09T21:05:41Z"
+      "pushed_at": "2026-07-10T00:42:58Z",
+      "updated_at": "2026-07-10T01:53:39Z"
     },
     {
       "id": 1209890423,
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 367,
+      "stars": 368,
       "forks": 42,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-07-09T11:27:14Z"
+      "updated_at": "2026-07-10T03:08:37Z"
     },
     {
       "id": 72835816,
