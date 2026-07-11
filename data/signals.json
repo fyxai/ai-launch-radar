@@ -56,11 +56,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1246,
+      "stars": 1247,
       "forks": 205,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-07-10T16:56:50Z"
+      "updated_at": "2026-07-11T18:11:04Z"
     },
     {
       "id": 158286982,
@@ -100,11 +100,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 543,
+      "stars": 545,
       "forks": 205,
       "language": "Rust",
-      "pushed_at": "2026-07-11T15:18:03Z",
-      "updated_at": "2026-07-11T16:34:09Z"
+      "pushed_at": "2026-07-11T20:30:25Z",
+      "updated_at": "2026-07-11T20:42:15Z"
     },
     {
       "id": 1174682625,
@@ -133,11 +133,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 375,
+      "stars": 376,
       "forks": 43,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-07-11T16:42:05Z"
+      "updated_at": "2026-07-11T17:19:12Z"
     },
     {
       "id": 72835816,
@@ -147,8 +147,8 @@
       "stars": 300,
       "forks": 77,
       "language": "JavaScript",
-      "pushed_at": "2026-07-11T16:45:13Z",
-      "updated_at": "2026-07-11T16:45:19Z"
+      "pushed_at": "2026-07-11T19:39:22Z",
+      "updated_at": "2026-07-11T19:39:26Z"
     },
     {
       "id": 470693636,
