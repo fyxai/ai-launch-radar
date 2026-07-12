@@ -45,11 +45,11 @@
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1577,
+      "stars": 1578,
       "forks": 97,
       "language": "JavaScript",
       "pushed_at": "2026-07-06T07:41:23Z",
-      "updated_at": "2026-07-09T00:56:13Z"
+      "updated_at": "2026-07-12T18:39:46Z"
     },
     {
       "id": 568140947,
@@ -100,11 +100,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 557,
+      "stars": 559,
       "forks": 209,
       "language": "Rust",
-      "pushed_at": "2026-07-12T16:43:03Z",
-      "updated_at": "2026-07-12T16:47:04Z"
+      "pushed_at": "2026-07-12T20:45:36Z",
+      "updated_at": "2026-07-12T20:47:24Z"
     },
     {
       "id": 1174682625,
