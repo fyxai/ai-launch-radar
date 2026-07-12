@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6520,
+      "stars": 6519,
       "forks": 611,
       "language": "Unknown",
       "pushed_at": "2026-07-01T16:24:52Z",
-      "updated_at": "2026-07-11T13:22:28Z"
+      "updated_at": "2026-07-12T03:29:08Z"
     },
     {
       "id": 136873512,
@@ -56,11 +56,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1247,
-      "forks": 205,
+      "stars": 1248,
+      "forks": 206,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-07-11T18:11:04Z"
+      "updated_at": "2026-07-12T03:52:06Z"
     },
     {
       "id": 158286982,
@@ -100,11 +100,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 548,
-      "forks": 205,
+      "stars": 554,
+      "forks": 208,
       "language": "Rust",
-      "pushed_at": "2026-07-12T00:01:16Z",
-      "updated_at": "2026-07-12T02:44:09Z"
+      "pushed_at": "2026-07-12T03:39:01Z",
+      "updated_at": "2026-07-12T06:21:13Z"
     },
     {
       "id": 1174682625,
@@ -133,22 +133,22 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 376,
+      "stars": 377,
       "forks": 43,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-07-11T17:19:12Z"
+      "updated_at": "2026-07-12T04:34:21Z"
     },
     {
       "id": 72835816,
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 300,
+      "stars": 301,
       "forks": 77,
       "language": "JavaScript",
       "pushed_at": "2026-07-11T21:43:44Z",
-      "updated_at": "2026-07-11T21:43:49Z"
+      "updated_at": "2026-07-12T04:05:05Z"
     },
     {
       "id": 470693636,
