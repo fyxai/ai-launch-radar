@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6522,
+      "stars": 6523,
       "forks": 611,
       "language": "Unknown",
       "pushed_at": "2026-07-01T16:24:52Z",
-      "updated_at": "2026-07-12T12:49:07Z"
+      "updated_at": "2026-07-12T14:01:31Z"
     },
     {
       "id": 136873512,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
       "stars": 939,
-      "forks": 117,
+      "forks": 116,
       "language": "C#",
       "pushed_at": "2026-06-05T13:44:00Z",
       "updated_at": "2026-07-08T12:49:21Z"
@@ -89,22 +89,22 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 592,
+      "stars": 593,
       "forks": 71,
       "language": "JavaScript",
       "pushed_at": "2026-06-29T16:00:21Z",
-      "updated_at": "2026-07-09T18:33:30Z"
+      "updated_at": "2026-07-12T14:00:19Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 555,
+      "stars": 557,
       "forks": 209,
       "language": "Rust",
-      "pushed_at": "2026-07-12T12:36:19Z",
-      "updated_at": "2026-07-12T12:36:28Z"
+      "pushed_at": "2026-07-12T16:43:03Z",
+      "updated_at": "2026-07-12T16:47:04Z"
     },
     {
       "id": 1174682625,
@@ -133,11 +133,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 377,
+      "stars": 378,
       "forks": 43,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-07-12T04:34:21Z"
+      "updated_at": "2026-07-12T16:14:37Z"
     },
     {
       "id": 72835816,
