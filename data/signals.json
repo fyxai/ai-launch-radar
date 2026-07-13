@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6525,
+      "stars": 6527,
       "forks": 611,
       "language": "Unknown",
       "pushed_at": "2026-07-01T16:24:52Z",
-      "updated_at": "2026-07-12T23:07:23Z"
+      "updated_at": "2026-07-13T06:45:21Z"
     },
     {
       "id": 136873512,
@@ -35,7 +35,7 @@
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
       "stars": 1652,
-      "forks": 612,
+      "forks": 611,
       "language": "Python",
       "pushed_at": "2026-06-26T17:18:32Z",
       "updated_at": "2026-07-11T04:28:56Z"
@@ -100,11 +100,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 568,
+      "stars": 571,
       "forks": 210,
       "language": "Rust",
       "pushed_at": "2026-07-13T02:30:00Z",
-      "updated_at": "2026-07-13T02:10:21Z"
+      "updated_at": "2026-07-13T06:01:06Z"
     },
     {
       "id": 1174682625,
@@ -156,7 +156,7 @@
       "html_url": "https://github.com/tuconnaisyouknow/BadUSB_keyloggerInjector",
       "description": "This script allows you to inject an invisible keylogger thanks to a Bad USB.",
       "stars": 162,
-      "forks": 74,
+      "forks": 75,
       "language": "Python",
       "pushed_at": "2026-06-17T23:54:01Z",
       "updated_at": "2026-07-11T22:22:16Z"
@@ -166,11 +166,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 138,
-      "forks": 30,
+      "stars": 155,
+      "forks": 32,
       "language": "Python",
       "pushed_at": "2026-07-12T01:26:38Z",
-      "updated_at": "2026-07-13T02:44:22Z"
+      "updated_at": "2026-07-13T06:54:06Z"
     }
   ]
 }
