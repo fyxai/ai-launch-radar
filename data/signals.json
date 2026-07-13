@@ -15,8 +15,8 @@
       "stars": 6528,
       "forks": 611,
       "language": "Unknown",
-      "pushed_at": "2026-07-01T16:24:52Z",
-      "updated_at": "2026-07-13T09:30:02Z"
+      "pushed_at": "2026-07-13T14:23:35Z",
+      "updated_at": "2026-07-13T14:27:25Z"
     },
     {
       "id": 136873512,
@@ -56,11 +56,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1246,
+      "stars": 1248,
       "forks": 206,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-07-12T21:44:22Z"
+      "updated_at": "2026-07-13T13:49:56Z"
     },
     {
       "id": 158286982,
@@ -100,11 +100,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 572,
+      "stars": 574,
       "forks": 212,
       "language": "Rust",
-      "pushed_at": "2026-07-13T02:30:00Z",
-      "updated_at": "2026-07-13T10:11:10Z"
+      "pushed_at": "2026-07-13T14:30:23Z",
+      "updated_at": "2026-07-13T14:16:04Z"
     },
     {
       "id": 1174682625,
@@ -122,22 +122,22 @@
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 502,
+      "stars": 503,
       "forks": 13,
       "language": "Swift",
       "pushed_at": "2026-06-14T19:03:12Z",
-      "updated_at": "2026-07-07T19:29:28Z"
+      "updated_at": "2026-07-13T12:05:47Z"
     },
     {
       "id": 1209890423,
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 379,
+      "stars": 382,
       "forks": 43,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-07-13T00:41:46Z"
+      "updated_at": "2026-07-13T13:00:00Z"
     },
     {
       "id": 72835816,
@@ -166,11 +166,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 156,
+      "stars": 157,
       "forks": 34,
       "language": "Python",
       "pushed_at": "2026-07-12T01:26:38Z",
-      "updated_at": "2026-07-13T09:44:57Z"
+      "updated_at": "2026-07-13T12:08:05Z"
     }
   ]
 }
