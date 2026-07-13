@@ -56,22 +56,22 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1248,
+      "stars": 1249,
       "forks": 206,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-07-13T13:49:56Z"
+      "updated_at": "2026-07-13T19:49:01Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 938,
+      "stars": 939,
       "forks": 116,
       "language": "C#",
       "pushed_at": "2026-06-05T13:44:00Z",
-      "updated_at": "2026-07-12T21:44:01Z"
+      "updated_at": "2026-07-13T19:48:27Z"
     },
     {
       "id": 132757250,
@@ -92,8 +92,8 @@
       "stars": 576,
       "forks": 211,
       "language": "Rust",
-      "pushed_at": "2026-07-13T17:47:12Z",
-      "updated_at": "2026-07-13T17:47:25Z"
+      "pushed_at": "2026-07-13T20:54:00Z",
+      "updated_at": "2026-07-13T20:52:39Z"
     },
     {
       "id": 1174682625,
@@ -140,6 +140,17 @@
       "updated_at": "2026-07-12T04:05:05Z"
     },
     {
+      "id": 1298346646,
+      "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
+      "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "stars": 194,
+      "forks": 21,
+      "language": "Python",
+      "pushed_at": "2026-07-12T14:24:36Z",
+      "updated_at": "2026-07-13T20:55:43Z"
+    },
+    {
       "id": 470693636,
       "full_name": "tuconnaisyouknow/BadUSB_keyloggerInjector",
       "html_url": "https://github.com/tuconnaisyouknow/BadUSB_keyloggerInjector",
@@ -155,22 +166,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 158,
+      "stars": 159,
       "forks": 34,
       "language": "Python",
       "pushed_at": "2026-07-12T01:26:38Z",
-      "updated_at": "2026-07-13T14:46:50Z"
-    },
-    {
-      "id": 1179396737,
-      "full_name": "doanbactam/awesome-builder-programs",
-      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
-      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 129,
-      "forks": 11,
-      "language": "Unknown",
-      "pushed_at": "2026-07-04T02:31:00Z",
-      "updated_at": "2026-07-10T09:32:08Z"
+      "updated_at": "2026-07-13T19:32:06Z"
     }
   ]
 }
