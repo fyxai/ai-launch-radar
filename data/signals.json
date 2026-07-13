@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6527,
+      "stars": 6528,
       "forks": 611,
       "language": "Unknown",
       "pushed_at": "2026-07-01T16:24:52Z",
-      "updated_at": "2026-07-13T06:45:21Z"
+      "updated_at": "2026-07-13T09:30:02Z"
     },
     {
       "id": 136873512,
@@ -48,8 +48,8 @@
       "stars": 1578,
       "forks": 97,
       "language": "JavaScript",
-      "pushed_at": "2026-07-06T07:41:23Z",
-      "updated_at": "2026-07-12T18:39:46Z"
+      "pushed_at": "2026-07-13T07:20:15Z",
+      "updated_at": "2026-07-13T07:19:15Z"
     },
     {
       "id": 568140947,
@@ -100,11 +100,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 571,
-      "forks": 210,
+      "stars": 572,
+      "forks": 212,
       "language": "Rust",
       "pushed_at": "2026-07-13T02:30:00Z",
-      "updated_at": "2026-07-13T06:01:06Z"
+      "updated_at": "2026-07-13T10:11:10Z"
     },
     {
       "id": 1174682625,
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
       "stars": 528,
-      "forks": 79,
+      "forks": 78,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
       "updated_at": "2026-07-11T02:52:42Z"
@@ -155,22 +155,22 @@
       "full_name": "tuconnaisyouknow/BadUSB_keyloggerInjector",
       "html_url": "https://github.com/tuconnaisyouknow/BadUSB_keyloggerInjector",
       "description": "This script allows you to inject an invisible keylogger thanks to a Bad USB.",
-      "stars": 162,
+      "stars": 163,
       "forks": 75,
       "language": "Python",
       "pushed_at": "2026-06-17T23:54:01Z",
-      "updated_at": "2026-07-11T22:22:16Z"
+      "updated_at": "2026-07-13T09:57:35Z"
     },
     {
       "id": 1297386391,
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 155,
-      "forks": 32,
+      "stars": 156,
+      "forks": 34,
       "language": "Python",
       "pushed_at": "2026-07-12T01:26:38Z",
-      "updated_at": "2026-07-13T06:54:06Z"
+      "updated_at": "2026-07-13T09:44:57Z"
     }
   ]
 }
