@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6530,
+      "stars": 6532,
       "forks": 610,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-13T16:42:55Z"
+      "updated_at": "2026-07-13T23:45:23Z"
     },
     {
       "id": 136873512,
@@ -56,11 +56,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1249,
+      "stars": 1250,
       "forks": 206,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-07-13T19:49:01Z"
+      "updated_at": "2026-07-13T21:55:26Z"
     },
     {
       "id": 158286982,
@@ -89,11 +89,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 576,
+      "stars": 582,
       "forks": 211,
       "language": "Rust",
-      "pushed_at": "2026-07-13T20:54:00Z",
-      "updated_at": "2026-07-13T20:52:39Z"
+      "pushed_at": "2026-07-14T00:01:39Z",
+      "updated_at": "2026-07-14T00:25:09Z"
     },
     {
       "id": 1174682625,
@@ -101,7 +101,7 @@
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
       "stars": 529,
-      "forks": 78,
+      "forks": 79,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
       "updated_at": "2026-07-13T17:17:54Z"
@@ -129,6 +129,17 @@
       "updated_at": "2026-07-13T16:58:00Z"
     },
     {
+      "id": 1298346646,
+      "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
+      "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "stars": 316,
+      "forks": 29,
+      "language": "Python",
+      "pushed_at": "2026-07-13T22:12:12Z",
+      "updated_at": "2026-07-14T02:30:51Z"
+    },
+    {
       "id": 72835816,
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
@@ -140,15 +151,15 @@
       "updated_at": "2026-07-12T04:05:05Z"
     },
     {
-      "id": 1298346646,
-      "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
-      "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
-      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 194,
-      "forks": 21,
+      "id": 1297386391,
+      "full_name": "djfksjd/ir-search",
+      "html_url": "https://github.com/djfksjd/ir-search",
+      "description": "🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)",
+      "stars": 163,
+      "forks": 34,
       "language": "Python",
-      "pushed_at": "2026-07-12T14:24:36Z",
-      "updated_at": "2026-07-13T20:55:43Z"
+      "pushed_at": "2026-07-12T01:26:38Z",
+      "updated_at": "2026-07-14T00:36:16Z"
     },
     {
       "id": 470693636,
@@ -160,17 +171,6 @@
       "language": "Python",
       "pushed_at": "2026-06-17T23:54:01Z",
       "updated_at": "2026-07-13T09:57:35Z"
-    },
-    {
-      "id": 1297386391,
-      "full_name": "djfksjd/ir-search",
-      "html_url": "https://github.com/djfksjd/ir-search",
-      "description": "🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 159,
-      "forks": 34,
-      "language": "Python",
-      "pushed_at": "2026-07-12T01:26:38Z",
-      "updated_at": "2026-07-13T19:32:06Z"
     }
   ]
 }
