@@ -13,7 +13,7 @@
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
       "stars": 6532,
-      "forks": 610,
+      "forks": 611,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
       "updated_at": "2026-07-13T23:45:23Z"
@@ -56,22 +56,22 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1250,
+      "stars": 1251,
       "forks": 206,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-07-13T21:55:26Z"
+      "updated_at": "2026-07-14T05:32:38Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 939,
+      "stars": 940,
       "forks": 116,
       "language": "C#",
       "pushed_at": "2026-06-05T13:44:00Z",
-      "updated_at": "2026-07-13T19:48:27Z"
+      "updated_at": "2026-07-14T06:03:45Z"
     },
     {
       "id": 132757250,
@@ -89,11 +89,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 582,
-      "forks": 211,
+      "stars": 585,
+      "forks": 212,
       "language": "Rust",
       "pushed_at": "2026-07-14T00:01:39Z",
-      "updated_at": "2026-07-14T00:25:09Z"
+      "updated_at": "2026-07-14T05:47:54Z"
     },
     {
       "id": 1174682625,
@@ -101,7 +101,7 @@
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
       "stars": 529,
-      "forks": 79,
+      "forks": 80,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
       "updated_at": "2026-07-13T17:17:54Z"
@@ -122,22 +122,22 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 384,
+      "stars": 385,
       "forks": 43,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-07-13T16:58:00Z"
+      "updated_at": "2026-07-14T06:08:59Z"
     },
     {
       "id": 1298346646,
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 316,
-      "forks": 29,
+      "stars": 349,
+      "forks": 32,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-14T02:30:51Z"
+      "updated_at": "2026-07-14T06:10:55Z"
     },
     {
       "id": 72835816,
@@ -155,11 +155,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 163,
+      "stars": 164,
       "forks": 34,
       "language": "Python",
       "pushed_at": "2026-07-12T01:26:38Z",
-      "updated_at": "2026-07-14T00:36:16Z"
+      "updated_at": "2026-07-14T03:04:46Z"
     },
     {
       "id": 470693636,
