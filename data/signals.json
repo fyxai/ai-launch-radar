@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6535,
+      "stars": 6537,
       "forks": 612,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-14T12:04:21Z"
+      "updated_at": "2026-07-14T15:39:22Z"
     },
     {
       "id": 136873512,
@@ -78,11 +78,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 594,
-      "forks": 219,
+      "stars": 599,
+      "forks": 222,
       "language": "Rust",
-      "pushed_at": "2026-07-14T13:24:36Z",
-      "updated_at": "2026-07-14T13:46:36Z"
+      "pushed_at": "2026-07-14T17:13:46Z",
+      "updated_at": "2026-07-14T17:09:38Z"
     },
     {
       "id": 132757250,
@@ -107,6 +107,17 @@
       "updated_at": "2026-07-14T10:51:48Z"
     },
     {
+      "id": 1298346646,
+      "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
+      "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "stars": 509,
+      "forks": 45,
+      "language": "Python",
+      "pushed_at": "2026-07-13T22:12:12Z",
+      "updated_at": "2026-07-14T17:15:22Z"
+    },
+    {
       "id": 922299292,
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
@@ -116,17 +127,6 @@
       "language": "Swift",
       "pushed_at": "2026-06-14T19:03:12Z",
       "updated_at": "2026-07-13T12:05:47Z"
-    },
-    {
-      "id": 1298346646,
-      "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
-      "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
-      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 447,
-      "forks": 40,
-      "language": "Python",
-      "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-14T13:33:57Z"
     },
     {
       "id": 1209890423,
@@ -155,11 +155,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 170,
-      "forks": 35,
+      "stars": 173,
+      "forks": 36,
       "language": "Python",
       "pushed_at": "2026-07-14T07:55:22Z",
-      "updated_at": "2026-07-14T11:39:41Z"
+      "updated_at": "2026-07-14T15:29:34Z"
     },
     {
       "id": 470693636,
