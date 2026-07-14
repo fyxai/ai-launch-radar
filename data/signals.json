@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6537,
+      "stars": 6538,
       "forks": 612,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-14T15:39:22Z"
+      "updated_at": "2026-07-14T20:57:24Z"
     },
     {
       "id": 136873512,
@@ -74,17 +74,6 @@
       "updated_at": "2026-07-14T06:03:45Z"
     },
     {
-      "id": 1092407718,
-      "full_name": "macro-inc/macro",
-      "html_url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 599,
-      "forks": 222,
-      "language": "Rust",
-      "pushed_at": "2026-07-14T17:13:46Z",
-      "updated_at": "2026-07-14T17:09:38Z"
-    },
-    {
       "id": 132757250,
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
@@ -96,26 +85,37 @@
       "updated_at": "2026-07-12T14:00:19Z"
     },
     {
-      "id": 1174682625,
-      "full_name": "ferdinandobons/startup-skill",
-      "html_url": "https://github.com/ferdinandobons/startup-skill",
-      "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 531,
-      "forks": 80,
-      "language": "Unknown",
-      "pushed_at": "2026-07-01T07:03:04Z",
-      "updated_at": "2026-07-14T10:51:48Z"
+      "id": 1092407718,
+      "full_name": "macro-inc/macro",
+      "html_url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
+      "stars": 593,
+      "forks": 217,
+      "language": "Rust",
+      "pushed_at": "2026-07-14T21:00:02Z",
+      "updated_at": "2026-07-14T21:00:05Z"
     },
     {
       "id": 1298346646,
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 509,
-      "forks": 45,
+      "stars": 571,
+      "forks": 50,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-14T17:15:22Z"
+      "updated_at": "2026-07-14T20:53:12Z"
+    },
+    {
+      "id": 1174682625,
+      "full_name": "ferdinandobons/startup-skill",
+      "html_url": "https://github.com/ferdinandobons/startup-skill",
+      "description": "AI agent skills for startup validation, competitive intelligence, and planning",
+      "stars": 534,
+      "forks": 80,
+      "language": "Unknown",
+      "pushed_at": "2026-07-01T07:03:04Z",
+      "updated_at": "2026-07-14T20:59:28Z"
     },
     {
       "id": 922299292,
