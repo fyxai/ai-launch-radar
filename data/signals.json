@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6538,
+      "stars": 6539,
       "forks": 612,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-15T10:17:49Z"
+      "updated_at": "2026-07-15T14:38:36Z"
     },
     {
       "id": 136873512,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
       "stars": 940,
-      "forks": 116,
+      "forks": 117,
       "language": "C#",
       "pushed_at": "2026-06-05T13:44:00Z",
       "updated_at": "2026-07-14T06:03:45Z"
@@ -78,22 +78,22 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 676,
+      "stars": 693,
       "forks": 63,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-15T13:22:58Z"
+      "updated_at": "2026-07-15T17:06:05Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 611,
+      "stars": 613,
       "forks": 220,
       "language": "Rust",
-      "pushed_at": "2026-07-15T13:38:46Z",
-      "updated_at": "2026-07-15T13:32:22Z"
+      "pushed_at": "2026-07-15T17:04:40Z",
+      "updated_at": "2026-07-15T16:58:58Z"
     },
     {
       "id": 132757250,
