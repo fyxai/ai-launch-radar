@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6539,
+      "stars": 6540,
       "forks": 612,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-15T14:38:36Z"
+      "updated_at": "2026-07-15T20:46:57Z"
     },
     {
       "id": 136873512,
@@ -56,11 +56,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1252,
+      "stars": 1254,
       "forks": 206,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-07-15T00:01:37Z"
+      "updated_at": "2026-07-15T20:23:20Z"
     },
     {
       "id": 158286982,
@@ -78,22 +78,22 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 693,
-      "forks": 63,
+      "stars": 703,
+      "forks": 66,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-15T17:06:05Z"
+      "updated_at": "2026-07-15T20:39:34Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 613,
+      "stars": 614,
       "forks": 220,
       "language": "Rust",
-      "pushed_at": "2026-07-15T17:04:40Z",
-      "updated_at": "2026-07-15T16:58:58Z"
+      "pushed_at": "2026-07-15T20:59:05Z",
+      "updated_at": "2026-07-15T20:59:09Z"
     },
     {
       "id": 132757250,
@@ -133,11 +133,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 386,
+      "stars": 387,
       "forks": 43,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-07-15T06:05:15Z"
+      "updated_at": "2026-07-15T17:48:16Z"
     },
     {
       "id": 72835816,
