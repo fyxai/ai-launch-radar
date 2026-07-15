@@ -56,11 +56,11 @@
       "full_name": "mategol/PySilon",
       "html_url": "https://github.com/mategol/PySilon",
       "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1251,
+      "stars": 1252,
       "forks": 206,
       "language": "Python",
       "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-07-14T11:18:40Z"
+      "updated_at": "2026-07-15T00:01:37Z"
     },
     {
       "id": 158286982,
@@ -74,6 +74,28 @@
       "updated_at": "2026-07-14T06:03:45Z"
     },
     {
+      "id": 1298346646,
+      "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
+      "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "stars": 606,
+      "forks": 56,
+      "language": "Python",
+      "pushed_at": "2026-07-13T22:12:12Z",
+      "updated_at": "2026-07-15T02:33:04Z"
+    },
+    {
+      "id": 1092407718,
+      "full_name": "macro-inc/macro",
+      "html_url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
+      "stars": 601,
+      "forks": 215,
+      "language": "Rust",
+      "pushed_at": "2026-07-15T02:14:19Z",
+      "updated_at": "2026-07-15T01:56:52Z"
+    },
+    {
       "id": 132757250,
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
@@ -83,28 +105,6 @@
       "language": "JavaScript",
       "pushed_at": "2026-06-29T16:00:21Z",
       "updated_at": "2026-07-12T14:00:19Z"
-    },
-    {
-      "id": 1092407718,
-      "full_name": "macro-inc/macro",
-      "html_url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 593,
-      "forks": 217,
-      "language": "Rust",
-      "pushed_at": "2026-07-14T21:00:02Z",
-      "updated_at": "2026-07-14T21:00:05Z"
-    },
-    {
-      "id": 1298346646,
-      "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
-      "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
-      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 571,
-      "forks": 50,
-      "language": "Python",
-      "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-14T20:53:12Z"
     },
     {
       "id": 1174682625,
@@ -155,11 +155,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 173,
+      "stars": 176,
       "forks": 36,
       "language": "Python",
       "pushed_at": "2026-07-14T07:55:22Z",
-      "updated_at": "2026-07-14T15:29:34Z"
+      "updated_at": "2026-07-15T01:12:40Z"
     },
     {
       "id": 470693636,
