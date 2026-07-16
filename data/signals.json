@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6544,
+      "stars": 6546,
       "forks": 612,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-16T16:52:33Z"
+      "updated_at": "2026-07-16T18:34:04Z"
     },
     {
       "id": 136873512,
@@ -78,22 +78,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 750,
-      "forks": 75,
+      "stars": 757,
+      "forks": 77,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-16T17:01:06Z"
-    },
-    {
-      "id": 1092407718,
-      "full_name": "macro-inc/macro",
-      "html_url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 615,
-      "forks": 217,
-      "language": "Rust",
-      "pushed_at": "2026-07-16T17:06:39Z",
-      "updated_at": "2026-07-16T17:16:39Z"
+      "updated_at": "2026-07-16T20:39:28Z"
     },
     {
       "id": 132757250,
@@ -118,6 +107,17 @@
       "updated_at": "2026-07-16T11:15:33Z"
     },
     {
+      "id": 1092407718,
+      "full_name": "macro-inc/macro",
+      "html_url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
+      "stars": 522,
+      "forks": 109,
+      "language": "Rust",
+      "pushed_at": "2026-07-16T20:57:58Z",
+      "updated_at": "2026-07-16T20:54:43Z"
+    },
+    {
       "id": 922299292,
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
@@ -133,11 +133,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 389,
+      "stars": 390,
       "forks": 43,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-07-16T15:18:12Z"
+      "updated_at": "2026-07-16T20:09:56Z"
     },
     {
       "id": 72835816,
