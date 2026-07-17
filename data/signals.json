@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 780,
-      "forks": 80,
+      "stars": 785,
+      "forks": 81,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-17T16:56:17Z"
+      "updated_at": "2026-07-17T20:35:28Z"
     },
     {
       "id": 132757250,
@@ -89,22 +89,22 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 539,
+      "stars": 540,
       "forks": 82,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
-      "updated_at": "2026-07-17T01:19:05Z"
+      "updated_at": "2026-07-17T20:27:26Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 528,
-      "forks": 111,
+      "stars": 529,
+      "forks": 109,
       "language": "Rust",
-      "pushed_at": "2026-07-17T17:11:58Z",
-      "updated_at": "2026-07-17T17:12:18Z"
+      "pushed_at": "2026-07-17T20:50:37Z",
+      "updated_at": "2026-07-17T20:22:41Z"
     },
     {
       "id": 922299292,
