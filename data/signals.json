@@ -52,17 +52,6 @@
       "updated_at": "2026-07-15T23:59:36Z"
     },
     {
-      "id": 568140947,
-      "full_name": "mategol/PySilon",
-      "html_url": "https://github.com/mategol/PySilon",
-      "description": "Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",
-      "stars": 1254,
-      "forks": 206,
-      "language": "Python",
-      "pushed_at": "2026-05-31T06:57:45Z",
-      "updated_at": "2026-07-15T20:23:20Z"
-    },
-    {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
@@ -78,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 770,
-      "forks": 79,
+      "stars": 774,
+      "forks": 80,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-17T09:46:18Z"
+      "updated_at": "2026-07-17T13:04:34Z"
     },
     {
       "id": 132757250,
@@ -112,10 +101,10 @@
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
       "stars": 527,
-      "forks": 109,
+      "forks": 110,
       "language": "Rust",
-      "pushed_at": "2026-07-17T09:13:37Z",
-      "updated_at": "2026-07-17T09:33:44Z"
+      "pushed_at": "2026-07-17T13:01:33Z",
+      "updated_at": "2026-07-17T13:02:10Z"
     },
     {
       "id": 922299292,
@@ -147,8 +136,8 @@
       "stars": 301,
       "forks": 76,
       "language": "JavaScript",
-      "pushed_at": "2026-07-17T09:04:13Z",
-      "updated_at": "2026-07-17T09:04:47Z"
+      "pushed_at": "2026-07-17T12:00:54Z",
+      "updated_at": "2026-07-17T12:01:52Z"
     },
     {
       "id": 1297386391,
@@ -171,6 +160,17 @@
       "language": "Python",
       "pushed_at": "2026-06-17T23:54:01Z",
       "updated_at": "2026-07-16T10:06:54Z"
+    },
+    {
+      "id": 97059536,
+      "full_name": "fabiospampinato/vscode-terminals",
+      "html_url": "https://github.com/fabiospampinato/vscode-terminals",
+      "description": "An extension for setting-up multiple terminals at once, or just running some commands.",
+      "stars": 143,
+      "forks": 27,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-17T13:15:15Z",
+      "updated_at": "2026-07-17T13:16:15Z"
     }
   ]
 }
