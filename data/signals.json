@@ -78,11 +78,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 761,
+      "stars": 765,
       "forks": 79,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-17T00:58:27Z"
+      "updated_at": "2026-07-17T06:09:09Z"
     },
     {
       "id": 132757250,
@@ -111,22 +111,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 524,
+      "stars": 525,
       "forks": 109,
       "language": "Rust",
-      "pushed_at": "2026-07-17T01:58:42Z",
-      "updated_at": "2026-07-17T01:56:04Z"
+      "pushed_at": "2026-07-17T02:57:31Z",
+      "updated_at": "2026-07-17T03:28:37Z"
     },
     {
       "id": 922299292,
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 504,
+      "stars": 505,
       "forks": 13,
       "language": "Swift",
       "pushed_at": "2026-06-14T19:03:12Z",
-      "updated_at": "2026-07-16T21:01:23Z"
+      "updated_at": "2026-07-17T05:07:00Z"
     },
     {
       "id": 1209890423,
@@ -155,11 +155,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 181,
+      "stars": 182,
       "forks": 41,
       "language": "Python",
       "pushed_at": "2026-07-14T07:55:22Z",
-      "updated_at": "2026-07-17T00:41:32Z"
+      "updated_at": "2026-07-17T03:45:07Z"
     },
     {
       "id": 470693636,
