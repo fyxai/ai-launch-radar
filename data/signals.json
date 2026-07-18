@@ -34,11 +34,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1652,
+      "stars": 1653,
       "forks": 611,
       "language": "Python",
       "pushed_at": "2026-06-26T17:18:32Z",
-      "updated_at": "2026-07-11T04:28:56Z"
+      "updated_at": "2026-07-18T18:03:47Z"
     },
     {
       "id": 109404010,
@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 809,
+      "stars": 816,
       "forks": 88,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-18T16:58:51Z"
+      "updated_at": "2026-07-18T20:04:34Z"
     },
     {
       "id": 132757250,
@@ -100,11 +100,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 539,
-      "forks": 109,
+      "stars": 540,
+      "forks": 110,
       "language": "Rust",
-      "pushed_at": "2026-07-18T15:33:35Z",
-      "updated_at": "2026-07-18T16:02:32Z"
+      "pushed_at": "2026-07-18T20:05:13Z",
+      "updated_at": "2026-07-18T20:05:17Z"
     },
     {
       "id": 922299292,
