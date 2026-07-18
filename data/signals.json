@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6547,
+      "stars": 6549,
       "forks": 612,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-17T14:21:30Z"
+      "updated_at": "2026-07-17T22:42:11Z"
     },
     {
       "id": 136873512,
@@ -67,22 +67,22 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 785,
+      "stars": 790,
       "forks": 81,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-17T20:35:28Z"
+      "updated_at": "2026-07-18T02:29:12Z"
     },
     {
       "id": 132757250,
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 593,
+      "stars": 594,
       "forks": 72,
       "language": "JavaScript",
       "pushed_at": "2026-06-29T16:00:21Z",
-      "updated_at": "2026-07-12T14:00:19Z"
+      "updated_at": "2026-07-18T01:14:34Z"
     },
     {
       "id": 1174682625,
@@ -100,11 +100,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 529,
-      "forks": 109,
+      "stars": 533,
+      "forks": 108,
       "language": "Rust",
-      "pushed_at": "2026-07-17T20:50:37Z",
-      "updated_at": "2026-07-17T20:22:41Z"
+      "pushed_at": "2026-07-18T00:17:58Z",
+      "updated_at": "2026-07-18T02:02:36Z"
     },
     {
       "id": 922299292,
@@ -169,8 +169,8 @@
       "stars": 143,
       "forks": 27,
       "language": "TypeScript",
-      "pushed_at": "2026-07-17T13:15:15Z",
-      "updated_at": "2026-07-17T13:16:15Z"
+      "pushed_at": "2026-07-17T22:16:05Z",
+      "updated_at": "2026-07-17T22:16:09Z"
     }
   ]
 }
