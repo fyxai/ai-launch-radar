@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 817,
-      "forks": 88,
+      "stars": 823,
+      "forks": 91,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-18T22:17:38Z"
+      "updated_at": "2026-07-19T09:44:15Z"
     },
     {
       "id": 132757250,
@@ -89,11 +89,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 543,
+      "stars": 544,
       "forks": 110,
       "language": "Rust",
       "pushed_at": "2026-07-18T23:07:13Z",
-      "updated_at": "2026-07-19T06:01:00Z"
+      "updated_at": "2026-07-19T06:47:02Z"
     },
     {
       "id": 1174682625,
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 301,
-      "forks": 76,
+      "forks": 77,
       "language": "JavaScript",
       "pushed_at": "2026-07-17T12:00:54Z",
       "updated_at": "2026-07-17T12:01:52Z"
