@@ -34,11 +34,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1653,
+      "stars": 1652,
       "forks": 611,
       "language": "Python",
       "pushed_at": "2026-06-26T17:18:32Z",
-      "updated_at": "2026-07-18T18:03:47Z"
+      "updated_at": "2026-07-19T18:29:12Z"
     },
     {
       "id": 109404010,
@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 835,
-      "forks": 93,
+      "stars": 838,
+      "forks": 94,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-19T16:42:21Z"
+      "updated_at": "2026-07-19T18:56:11Z"
     },
     {
       "id": 132757250,
@@ -89,22 +89,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 548,
+      "stars": 550,
       "forks": 112,
       "language": "Rust",
-      "pushed_at": "2026-07-19T16:56:51Z",
-      "updated_at": "2026-07-19T16:58:53Z"
+      "pushed_at": "2026-07-19T20:14:53Z",
+      "updated_at": "2026-07-19T19:05:47Z"
     },
     {
       "id": 1174682625,
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 541,
+      "stars": 543,
       "forks": 82,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
-      "updated_at": "2026-07-18T23:52:18Z"
+      "updated_at": "2026-07-19T18:43:18Z"
     },
     {
       "id": 922299292,
