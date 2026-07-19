@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 823,
-      "forks": 91,
+      "stars": 829,
+      "forks": 92,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-19T09:44:15Z"
+      "updated_at": "2026-07-19T13:16:25Z"
     },
     {
       "id": 132757250,
@@ -133,22 +133,22 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 301,
+      "stars": 302,
       "forks": 77,
       "language": "JavaScript",
       "pushed_at": "2026-07-17T12:00:54Z",
-      "updated_at": "2026-07-17T12:01:52Z"
+      "updated_at": "2026-07-19T09:58:01Z"
     },
     {
       "id": 1297386391,
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 183,
+      "stars": 184,
       "forks": 41,
       "language": "Python",
       "pushed_at": "2026-07-14T07:55:22Z",
-      "updated_at": "2026-07-17T15:30:39Z"
+      "updated_at": "2026-07-19T13:13:46Z"
     },
     {
       "id": 470693636,
