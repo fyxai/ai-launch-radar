@@ -12,22 +12,22 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6558,
+      "stars": 6559,
       "forks": 614,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-20T11:25:40Z"
+      "updated_at": "2026-07-20T15:47:00Z"
     },
     {
       "id": 136873512,
       "full_name": "trekhleb/promote-your-next-startup",
       "html_url": "https://github.com/trekhleb/promote-your-next-startup",
       "description": "🚀 Free resources you may use to promote your next startup",
-      "stars": 2211,
+      "stars": 2212,
       "forks": 191,
       "language": "Unknown",
       "pushed_at": "2026-06-19T00:02:44Z",
-      "updated_at": "2026-07-17T06:27:05Z"
+      "updated_at": "2026-07-20T17:30:30Z"
     },
     {
       "id": 69400040,
@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 853,
+      "stars": 858,
       "forks": 97,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-20T13:42:23Z"
+      "updated_at": "2026-07-20T17:50:04Z"
     },
     {
       "id": 132757250,
@@ -89,22 +89,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 558,
+      "stars": 559,
       "forks": 114,
       "language": "Rust",
-      "pushed_at": "2026-07-20T13:55:58Z",
-      "updated_at": "2026-07-20T13:50:42Z"
+      "pushed_at": "2026-07-20T18:04:20Z",
+      "updated_at": "2026-07-20T18:04:27Z"
     },
     {
       "id": 1174682625,
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 543,
+      "stars": 544,
       "forks": 82,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
-      "updated_at": "2026-07-19T18:43:18Z"
+      "updated_at": "2026-07-20T17:55:40Z"
     },
     {
       "id": 922299292,
@@ -145,7 +145,7 @@
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
       "stars": 185,
-      "forks": 41,
+      "forks": 42,
       "language": "Python",
       "pushed_at": "2026-07-20T02:56:14Z",
       "updated_at": "2026-07-20T13:47:52Z"
