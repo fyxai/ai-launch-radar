@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 883,
+      "stars": 884,
       "forks": 99,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-21T20:34:56Z"
+      "updated_at": "2026-07-21T23:13:11Z"
     },
     {
       "id": 132757250,
@@ -89,22 +89,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 570,
+      "stars": 572,
       "forks": 116,
       "language": "Rust",
-      "pushed_at": "2026-07-21T20:58:44Z",
-      "updated_at": "2026-07-21T20:51:37Z"
+      "pushed_at": "2026-07-22T02:30:40Z",
+      "updated_at": "2026-07-22T02:00:43Z"
     },
     {
       "id": 1174682625,
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 546,
+      "stars": 547,
       "forks": 85,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
-      "updated_at": "2026-07-21T08:35:19Z"
+      "updated_at": "2026-07-22T01:16:51Z"
     },
     {
       "id": 922299292,
@@ -123,7 +123,7 @@
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
       "stars": 392,
-      "forks": 44,
+      "forks": 45,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
       "updated_at": "2026-07-21T06:38:11Z"
