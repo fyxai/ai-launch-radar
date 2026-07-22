@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6565,
+      "stars": 6567,
       "forks": 615,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-22T08:08:09Z"
+      "updated_at": "2026-07-22T13:17:38Z"
     },
     {
       "id": 136873512,
@@ -28,6 +28,17 @@
       "language": "Unknown",
       "pushed_at": "2026-06-19T00:02:44Z",
       "updated_at": "2026-07-21T07:34:53Z"
+    },
+    {
+      "id": 163879399,
+      "full_name": "issaafalkattan/React-Landing-Page-Template",
+      "html_url": "https://github.com/issaafalkattan/React-Landing-Page-Template",
+      "description": "A simple react one page landing page templates for startups/companies",
+      "stars": 1655,
+      "forks": 1219,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-21T11:10:52Z",
+      "updated_at": "2026-07-22T12:11:57Z"
     },
     {
       "id": 69400040,
@@ -52,26 +63,15 @@
       "updated_at": "2026-07-22T05:25:04Z"
     },
     {
-      "id": 158286982,
-      "full_name": "maximmax42/Discord-CustomRP",
-      "html_url": "https://github.com/maximmax42/Discord-CustomRP",
-      "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 941,
-      "forks": 117,
-      "language": "C#",
-      "pushed_at": "2026-06-05T13:44:00Z",
-      "updated_at": "2026-07-21T11:32:29Z"
-    },
-    {
       "id": 1298346646,
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 894,
+      "stars": 899,
       "forks": 99,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-22T10:11:09Z"
+      "updated_at": "2026-07-22T13:52:58Z"
     },
     {
       "id": 132757250,
@@ -89,11 +89,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 576,
+      "stars": 578,
       "forks": 116,
       "language": "Rust",
-      "pushed_at": "2026-07-22T08:01:05Z",
-      "updated_at": "2026-07-22T06:39:07Z"
+      "pushed_at": "2026-07-22T13:51:24Z",
+      "updated_at": "2026-07-22T13:45:21Z"
     },
     {
       "id": 1174682625,
@@ -144,11 +144,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 186,
+      "stars": 187,
       "forks": 42,
       "language": "Python",
       "pushed_at": "2026-07-20T02:56:14Z",
-      "updated_at": "2026-07-22T09:35:18Z"
+      "updated_at": "2026-07-22T11:13:09Z"
     },
     {
       "id": 470693636,
