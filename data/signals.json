@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 903,
+      "stars": 904,
       "forks": 99,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-22T20:03:28Z"
+      "updated_at": "2026-07-23T03:50:14Z"
     },
     {
       "id": 132757250,
@@ -89,11 +89,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 581,
+      "stars": 582,
       "forks": 115,
       "language": "Rust",
       "pushed_at": "2026-07-23T00:32:36Z",
-      "updated_at": "2026-07-23T01:41:09Z"
+      "updated_at": "2026-07-23T03:32:27Z"
     },
     {
       "id": 1174682625,
@@ -144,11 +144,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 187,
+      "stars": 186,
       "forks": 42,
       "language": "Python",
       "pushed_at": "2026-07-20T02:56:14Z",
-      "updated_at": "2026-07-22T11:13:09Z"
+      "updated_at": "2026-07-23T03:52:18Z"
     },
     {
       "id": 470693636,
