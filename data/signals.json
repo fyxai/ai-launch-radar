@@ -12,22 +12,22 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6566,
+      "stars": 6567,
       "forks": 615,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-22T19:34:20Z"
+      "updated_at": "2026-07-22T23:37:16Z"
     },
     {
       "id": 136873512,
       "full_name": "trekhleb/promote-your-next-startup",
       "html_url": "https://github.com/trekhleb/promote-your-next-startup",
       "description": "🚀 Free resources you may use to promote your next startup",
-      "stars": 2212,
+      "stars": 2213,
       "forks": 191,
       "language": "Unknown",
       "pushed_at": "2026-06-19T00:02:44Z",
-      "updated_at": "2026-07-22T19:32:19Z"
+      "updated_at": "2026-07-22T23:21:12Z"
     },
     {
       "id": 163879399,
@@ -56,11 +56,11 @@
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1579,
+      "stars": 1578,
       "forks": 97,
       "language": "JavaScript",
       "pushed_at": "2026-07-22T05:25:09Z",
-      "updated_at": "2026-07-22T05:25:04Z"
+      "updated_at": "2026-07-22T23:31:59Z"
     },
     {
       "id": 1298346646,
@@ -89,22 +89,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 578,
+      "stars": 581,
       "forks": 115,
       "language": "Rust",
-      "pushed_at": "2026-07-22T21:08:22Z",
-      "updated_at": "2026-07-22T21:00:45Z"
+      "pushed_at": "2026-07-23T00:32:36Z",
+      "updated_at": "2026-07-23T01:41:09Z"
     },
     {
       "id": 1174682625,
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 547,
+      "stars": 549,
       "forks": 85,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
-      "updated_at": "2026-07-22T01:16:51Z"
+      "updated_at": "2026-07-22T22:56:30Z"
     },
     {
       "id": 922299292,
