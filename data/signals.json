@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6568,
+      "stars": 6570,
       "forks": 615,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-23T07:43:42Z"
+      "updated_at": "2026-07-23T12:32:56Z"
     },
     {
       "id": 136873512,
@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 907,
+      "stars": 908,
       "forks": 99,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-23T09:07:49Z"
+      "updated_at": "2026-07-23T13:26:04Z"
     },
     {
       "id": 132757250,
@@ -92,19 +92,19 @@
       "stars": 582,
       "forks": 115,
       "language": "Rust",
-      "pushed_at": "2026-07-23T00:32:36Z",
-      "updated_at": "2026-07-23T09:05:56Z"
+      "pushed_at": "2026-07-23T14:02:02Z",
+      "updated_at": "2026-07-23T13:31:55Z"
     },
     {
       "id": 1174682625,
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 549,
+      "stars": 550,
       "forks": 85,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
-      "updated_at": "2026-07-22T22:56:30Z"
+      "updated_at": "2026-07-23T13:00:52Z"
     },
     {
       "id": 922299292,
@@ -145,10 +145,10 @@
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
       "stars": 186,
-      "forks": 43,
+      "forks": 44,
       "language": "Python",
-      "pushed_at": "2026-07-20T02:56:14Z",
-      "updated_at": "2026-07-23T03:52:18Z"
+      "pushed_at": "2026-07-23T13:14:22Z",
+      "updated_at": "2026-07-23T13:15:12Z"
     },
     {
       "id": 470693636,
