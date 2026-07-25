@@ -89,11 +89,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 613,
-      "forks": 127,
+      "stars": 615,
+      "forks": 130,
       "language": "Rust",
-      "pushed_at": "2026-07-25T14:22:22Z",
-      "updated_at": "2026-07-25T16:30:47Z"
+      "pushed_at": "2026-07-25T20:46:12Z",
+      "updated_at": "2026-07-25T20:46:15Z"
     },
     {
       "id": 132757250,
