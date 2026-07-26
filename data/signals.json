@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6619,
+      "stars": 6621,
       "forks": 619,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-26T10:56:48Z"
+      "updated_at": "2026-07-26T14:20:49Z"
     },
     {
       "id": 136873512,
@@ -82,18 +82,18 @@
       "forks": 102,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-26T06:36:46Z"
+      "updated_at": "2026-07-26T13:34:31Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 629,
-      "forks": 133,
+      "stars": 633,
+      "forks": 134,
       "language": "Rust",
-      "pushed_at": "2026-07-26T05:26:49Z",
-      "updated_at": "2026-07-26T13:00:18Z"
+      "pushed_at": "2026-07-26T16:56:59Z",
+      "updated_at": "2026-07-26T16:29:19Z"
     },
     {
       "id": 132757250,
@@ -145,7 +145,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 302,
-      "forks": 80,
+      "forks": 81,
       "language": "JavaScript",
       "pushed_at": "2026-07-26T12:32:52Z",
       "updated_at": "2026-07-26T12:33:33Z"
@@ -155,11 +155,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 206,
-      "forks": 50,
+      "stars": 208,
+      "forks": 51,
       "language": "Python",
       "pushed_at": "2026-07-25T09:06:41Z",
-      "updated_at": "2026-07-26T12:34:33Z"
+      "updated_at": "2026-07-26T16:07:38Z"
     },
     {
       "id": 470693636,
