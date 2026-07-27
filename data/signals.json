@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6632,
+      "stars": 6635,
       "forks": 620,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-27T09:15:02Z"
+      "updated_at": "2026-07-27T13:49:41Z"
     },
     {
       "id": 136873512,
@@ -89,11 +89,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 647,
+      "stars": 649,
       "forks": 136,
       "language": "Rust",
-      "pushed_at": "2026-07-27T02:46:37Z",
-      "updated_at": "2026-07-27T11:06:23Z"
+      "pushed_at": "2026-07-27T14:31:53Z",
+      "updated_at": "2026-07-27T14:17:33Z"
     },
     {
       "id": 132757250,
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
       "stars": 554,
-      "forks": 86,
+      "forks": 87,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
       "updated_at": "2026-07-26T22:28:40Z"
