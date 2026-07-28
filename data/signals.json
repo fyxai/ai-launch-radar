@@ -82,18 +82,18 @@
       "forks": 103,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-28T03:15:58Z"
+      "updated_at": "2026-07-28T11:48:45Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 668,
+      "stars": 670,
       "forks": 133,
       "language": "Rust",
-      "pushed_at": "2026-07-28T01:05:37Z",
-      "updated_at": "2026-07-28T08:38:57Z"
+      "pushed_at": "2026-07-28T14:08:42Z",
+      "updated_at": "2026-07-28T13:50:40Z"
     },
     {
       "id": 132757250,
@@ -111,11 +111,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 554,
+      "stars": 556,
       "forks": 87,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
-      "updated_at": "2026-07-26T22:28:40Z"
+      "updated_at": "2026-07-28T12:52:09Z"
     },
     {
       "id": 1209890423,
@@ -144,11 +144,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 224,
-      "forks": 58,
+      "stars": 226,
+      "forks": 59,
       "language": "Python",
       "pushed_at": "2026-07-27T21:10:35Z",
-      "updated_at": "2026-07-28T07:47:26Z"
+      "updated_at": "2026-07-28T13:33:34Z"
     },
     {
       "id": 470693636,
