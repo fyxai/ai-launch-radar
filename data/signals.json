@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6646,
+      "stars": 6648,
       "forks": 622,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-28T10:00:08Z"
+      "updated_at": "2026-07-29T01:57:56Z"
     },
     {
       "id": 136873512,
@@ -46,7 +46,7 @@
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
       "stars": 1652,
-      "forks": 612,
+      "forks": 611,
       "language": "Python",
       "pushed_at": "2026-06-26T17:18:32Z",
       "updated_at": "2026-07-19T18:29:12Z"
@@ -89,11 +89,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 673,
+      "stars": 676,
       "forks": 133,
       "language": "Rust",
-      "pushed_at": "2026-07-28T21:07:02Z",
-      "updated_at": "2026-07-28T21:06:47Z"
+      "pushed_at": "2026-07-29T02:08:10Z",
+      "updated_at": "2026-07-29T02:08:12Z"
     },
     {
       "id": 132757250,
@@ -144,11 +144,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 228,
+      "stars": 231,
       "forks": 59,
       "language": "Python",
       "pushed_at": "2026-07-27T21:10:35Z",
-      "updated_at": "2026-07-28T16:06:34Z"
+      "updated_at": "2026-07-29T02:15:28Z"
     },
     {
       "id": 470693636,
