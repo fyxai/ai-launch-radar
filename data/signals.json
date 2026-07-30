@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6660,
-      "forks": 624,
+      "stars": 6666,
+      "forks": 626,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-30T09:29:29Z"
+      "updated_at": "2026-07-30T13:50:06Z"
     },
     {
       "id": 136873512,
@@ -79,7 +79,7 @@
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
       "stars": 941,
-      "forks": 117,
+      "forks": 118,
       "language": "C#",
       "pushed_at": "2026-07-24T20:57:01Z",
       "updated_at": "2026-07-24T20:57:05Z"
@@ -103,8 +103,8 @@
       "stars": 687,
       "forks": 134,
       "language": "Rust",
-      "pushed_at": "2026-07-30T02:53:01Z",
-      "updated_at": "2026-07-30T04:18:43Z"
+      "pushed_at": "2026-07-30T13:20:29Z",
+      "updated_at": "2026-07-30T13:22:41Z"
     },
     {
       "id": 132757250,
@@ -122,11 +122,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 558,
+      "stars": 559,
       "forks": 87,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
-      "updated_at": "2026-07-30T00:53:52Z"
+      "updated_at": "2026-07-30T13:32:41Z"
     },
     {
       "id": 1209890423,
@@ -155,11 +155,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 242,
-      "forks": 59,
+      "stars": 247,
+      "forks": 60,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-07-30T10:03:27Z"
+      "updated_at": "2026-07-30T14:04:35Z"
     },
     {
       "id": 470693636,
