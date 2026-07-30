@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6657,
+      "stars": 6660,
       "forks": 624,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-30T06:24:40Z"
+      "updated_at": "2026-07-30T09:29:29Z"
     },
     {
       "id": 136873512,
@@ -63,6 +63,17 @@
       "updated_at": "2026-07-29T05:45:54Z"
     },
     {
+      "id": 76633312,
+      "full_name": "Ibexoft/awesome-startup-tools-list",
+      "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
+      "description": "List of all tools (apps, services) that startups should use.",
+      "stars": 1031,
+      "forks": 252,
+      "language": "Unknown",
+      "pushed_at": "2026-07-30T10:13:17Z",
+      "updated_at": "2026-07-30T10:15:29Z"
+    },
+    {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
@@ -78,11 +89,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 938,
+      "stars": 939,
       "forks": 104,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-30T05:03:26Z"
+      "updated_at": "2026-07-30T07:21:57Z"
     },
     {
       "id": 1092407718,
@@ -144,11 +155,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 234,
+      "stars": 242,
       "forks": 59,
       "language": "Python",
-      "pushed_at": "2026-07-27T21:10:35Z",
-      "updated_at": "2026-07-30T02:09:03Z"
+      "pushed_at": "2026-07-30T08:10:40Z",
+      "updated_at": "2026-07-30T10:03:27Z"
     },
     {
       "id": 470693636,
@@ -160,17 +171,6 @@
       "language": "Python",
       "pushed_at": "2026-06-17T23:54:01Z",
       "updated_at": "2026-07-16T10:06:54Z"
-    },
-    {
-      "id": 97059536,
-      "full_name": "fabiospampinato/vscode-terminals",
-      "html_url": "https://github.com/fabiospampinato/vscode-terminals",
-      "description": "An extension for setting-up multiple terminals at once, or just running some commands.",
-      "stars": 143,
-      "forks": 27,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-17T22:16:05Z",
-      "updated_at": "2026-07-17T22:16:09Z"
     }
   ]
 }
