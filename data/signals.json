@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6685,
+      "stars": 6686,
       "forks": 628,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-30T23:53:34Z"
+      "updated_at": "2026-07-31T06:06:06Z"
     },
     {
       "id": 136873512,
@@ -67,22 +67,22 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1031,
+      "stars": 1032,
       "forks": 253,
       "language": "Unknown",
       "pushed_at": "2026-07-30T10:13:17Z",
-      "updated_at": "2026-07-30T10:15:29Z"
+      "updated_at": "2026-07-31T05:03:51Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 941,
+      "stars": 942,
       "forks": 118,
       "language": "C#",
       "pushed_at": "2026-07-24T20:57:01Z",
-      "updated_at": "2026-07-24T20:57:05Z"
+      "updated_at": "2026-07-31T04:04:58Z"
     },
     {
       "id": 1298346646,
@@ -100,11 +100,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 689,
+      "stars": 690,
       "forks": 134,
       "language": "Rust",
-      "pushed_at": "2026-07-31T02:41:09Z",
-      "updated_at": "2026-07-31T02:08:49Z"
+      "pushed_at": "2026-07-31T03:36:40Z",
+      "updated_at": "2026-07-31T05:06:55Z"
     },
     {
       "id": 132757250,
@@ -155,11 +155,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 263,
-      "forks": 64,
+      "stars": 271,
+      "forks": 65,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-07-31T02:27:34Z"
+      "updated_at": "2026-07-31T05:23:13Z"
     },
     {
       "id": 470693636,
