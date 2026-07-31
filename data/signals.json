@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6690,
-      "forks": 628,
+      "stars": 6692,
+      "forks": 629,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-07-31T10:12:51Z"
+      "updated_at": "2026-07-31T17:11:27Z"
     },
     {
       "id": 136873512,
@@ -68,10 +68,21 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1032,
-      "forks": 254,
+      "forks": 255,
       "language": "Unknown",
       "pushed_at": "2026-07-31T11:12:44Z",
       "updated_at": "2026-07-31T11:13:45Z"
+    },
+    {
+      "id": 1298346646,
+      "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
+      "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "stars": 942,
+      "forks": 106,
+      "language": "Python",
+      "pushed_at": "2026-07-13T22:12:12Z",
+      "updated_at": "2026-07-31T14:28:24Z"
     },
     {
       "id": 158286982,
@@ -85,26 +96,15 @@
       "updated_at": "2026-07-31T04:04:58Z"
     },
     {
-      "id": 1298346646,
-      "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
-      "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
-      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 941,
-      "forks": 105,
-      "language": "Python",
-      "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-31T13:39:34Z"
-    },
-    {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
       "stars": 691,
-      "forks": 134,
+      "forks": 136,
       "language": "Rust",
-      "pushed_at": "2026-07-31T13:31:45Z",
-      "updated_at": "2026-07-31T13:25:07Z"
+      "pushed_at": "2026-07-31T16:36:33Z",
+      "updated_at": "2026-07-31T16:20:39Z"
     },
     {
       "id": 132757250,
@@ -133,11 +133,11 @@
       "full_name": "MaxKmet/idea-validation-agents",
       "html_url": "https://github.com/MaxKmet/idea-validation-agents",
       "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
-      "stars": 397,
-      "forks": 44,
+      "stars": 403,
+      "forks": 46,
       "language": "Unknown",
       "pushed_at": "2026-06-16T15:18:56Z",
-      "updated_at": "2026-07-28T06:36:22Z"
+      "updated_at": "2026-07-31T17:32:32Z"
     },
     {
       "id": 72835816,
@@ -155,11 +155,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 273,
-      "forks": 65,
+      "stars": 275,
+      "forks": 66,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-07-31T11:20:58Z"
+      "updated_at": "2026-07-31T16:58:37Z"
     },
     {
       "id": 470693636,
