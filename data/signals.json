@@ -68,10 +68,10 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1032,
-      "forks": 253,
+      "forks": 254,
       "language": "Unknown",
-      "pushed_at": "2026-07-30T10:13:17Z",
-      "updated_at": "2026-07-31T05:03:51Z"
+      "pushed_at": "2026-07-31T11:12:44Z",
+      "updated_at": "2026-07-31T11:13:45Z"
     },
     {
       "id": 158286982,
@@ -89,22 +89,22 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 939,
-      "forks": 104,
+      "stars": 941,
+      "forks": 105,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-07-31T08:59:46Z"
+      "updated_at": "2026-07-31T13:39:34Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 690,
+      "stars": 691,
       "forks": 134,
       "language": "Rust",
-      "pushed_at": "2026-07-31T03:36:40Z",
-      "updated_at": "2026-07-31T05:06:55Z"
+      "pushed_at": "2026-07-31T13:31:45Z",
+      "updated_at": "2026-07-31T13:25:07Z"
     },
     {
       "id": 132757250,
@@ -147,19 +147,19 @@
       "stars": 302,
       "forks": 82,
       "language": "JavaScript",
-      "pushed_at": "2026-07-31T10:15:00Z",
-      "updated_at": "2026-07-31T10:15:16Z"
+      "pushed_at": "2026-07-31T11:42:37Z",
+      "updated_at": "2026-07-31T11:42:58Z"
     },
     {
       "id": 1297386391,
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 272,
+      "stars": 273,
       "forks": 65,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-07-31T08:27:43Z"
+      "updated_at": "2026-07-31T11:20:58Z"
     },
     {
       "id": 470693636,
