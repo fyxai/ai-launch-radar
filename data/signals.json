@@ -59,7 +59,7 @@
       "stars": 1578,
       "forks": 97,
       "language": "JavaScript",
-      "pushed_at": "2026-07-29T05:46:03Z",
+      "pushed_at": "2026-08-01T09:55:21Z",
       "updated_at": "2026-07-29T05:45:54Z"
     },
     {
@@ -104,7 +104,7 @@
       "forks": 136,
       "language": "Rust",
       "pushed_at": "2026-08-01T03:31:14Z",
-      "updated_at": "2026-08-01T01:14:48Z"
+      "updated_at": "2026-08-01T06:31:26Z"
     },
     {
       "id": 132757250,
@@ -122,11 +122,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 562,
+      "stars": 563,
       "forks": 87,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
-      "updated_at": "2026-07-31T19:31:26Z"
+      "updated_at": "2026-08-01T09:37:53Z"
     },
     {
       "id": 72835816,
@@ -145,7 +145,7 @@
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
       "stars": 275,
-      "forks": 67,
+      "forks": 68,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
       "updated_at": "2026-07-31T16:58:37Z"
