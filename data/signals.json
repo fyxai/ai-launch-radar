@@ -78,33 +78,33 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 947,
+      "stars": 948,
       "forks": 106,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-08-01T14:36:52Z"
+      "updated_at": "2026-08-01T22:20:48Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 942,
+      "stars": 943,
       "forks": 118,
       "language": "C#",
       "pushed_at": "2026-07-24T20:57:01Z",
-      "updated_at": "2026-07-31T04:04:58Z"
+      "updated_at": "2026-08-02T00:45:33Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 698,
+      "stars": 700,
       "forks": 136,
       "language": "Rust",
-      "pushed_at": "2026-08-01T03:31:14Z",
-      "updated_at": "2026-08-01T20:27:20Z"
+      "pushed_at": "2026-08-02T02:12:34Z",
+      "updated_at": "2026-08-02T00:22:12Z"
     },
     {
       "id": 132757250,
