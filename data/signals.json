@@ -70,8 +70,8 @@
       "stars": 1033,
       "forks": 261,
       "language": "Unknown",
-      "pushed_at": "2026-07-31T11:12:44Z",
-      "updated_at": "2026-08-02T20:05:10Z"
+      "pushed_at": "2026-08-03T14:38:20Z",
+      "updated_at": "2026-08-03T14:38:52Z"
     },
     {
       "id": 1298346646,
@@ -79,10 +79,10 @@
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
       "stars": 950,
-      "forks": 107,
+      "forks": 108,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-08-02T22:10:13Z"
+      "updated_at": "2026-08-03T14:18:12Z"
     },
     {
       "id": 158286982,
@@ -103,8 +103,8 @@
       "stars": 713,
       "forks": 137,
       "language": "Rust",
-      "pushed_at": "2026-08-03T02:28:12Z",
-      "updated_at": "2026-08-03T10:42:46Z"
+      "pushed_at": "2026-08-03T13:59:43Z",
+      "updated_at": "2026-08-03T14:01:47Z"
     },
     {
       "id": 132757250,
@@ -122,11 +122,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 569,
+      "stars": 570,
       "forks": 88,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
-      "updated_at": "2026-08-03T09:21:35Z"
+      "updated_at": "2026-08-03T13:03:36Z"
     },
     {
       "id": 72835816,
