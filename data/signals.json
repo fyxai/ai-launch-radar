@@ -48,7 +48,7 @@
       "stars": 1652,
       "forks": 611,
       "language": "Python",
-      "pushed_at": "2026-08-03T17:35:14Z",
+      "pushed_at": "2026-08-03T19:50:18Z",
       "updated_at": "2026-07-31T20:05:44Z"
     },
     {
@@ -82,7 +82,7 @@
       "forks": 108,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-08-03T14:18:12Z"
+      "updated_at": "2026-08-03T20:46:40Z"
     },
     {
       "id": 158286982,
@@ -99,12 +99,12 @@
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
-      "stars": 715,
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "stars": 716,
       "forks": 137,
       "language": "Rust",
-      "pushed_at": "2026-08-03T17:46:42Z",
-      "updated_at": "2026-08-03T17:40:15Z"
+      "pushed_at": "2026-08-03T20:50:54Z",
+      "updated_at": "2026-08-03T20:51:03Z"
     },
     {
       "id": 132757250,
