@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1033,
-      "forks": 259,
+      "forks": 260,
       "language": "Unknown",
       "pushed_at": "2026-07-31T11:12:44Z",
       "updated_at": "2026-08-02T20:05:10Z"
@@ -79,7 +79,7 @@
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
       "stars": 950,
-      "forks": 106,
+      "forks": 107,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
       "updated_at": "2026-08-02T22:10:13Z"
@@ -122,11 +122,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 566,
+      "stars": 567,
       "forks": 88,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
-      "updated_at": "2026-08-03T00:04:55Z"
+      "updated_at": "2026-08-03T05:19:59Z"
     },
     {
       "id": 72835816,
