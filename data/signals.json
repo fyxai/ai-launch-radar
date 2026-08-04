@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1032,
-      "forks": 261,
+      "forks": 260,
       "language": "Unknown",
       "pushed_at": "2026-08-03T14:38:20Z",
       "updated_at": "2026-08-04T10:34:52Z"
@@ -92,19 +92,19 @@
       "stars": 942,
       "forks": 118,
       "language": "C#",
-      "pushed_at": "2026-08-03T15:21:24Z",
-      "updated_at": "2026-08-04T06:12:31Z"
+      "pushed_at": "2026-08-04T13:45:42Z",
+      "updated_at": "2026-08-04T13:47:18Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 725,
-      "forks": 137,
+      "stars": 735,
+      "forks": 138,
       "language": "Rust",
-      "pushed_at": "2026-08-04T00:48:12Z",
-      "updated_at": "2026-08-04T09:16:17Z"
+      "pushed_at": "2026-08-04T14:12:55Z",
+      "updated_at": "2026-08-04T14:11:26Z"
     },
     {
       "id": 132757250,
@@ -122,11 +122,11 @@
       "full_name": "ferdinandobons/startup-skill",
       "html_url": "https://github.com/ferdinandobons/startup-skill",
       "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 573,
+      "stars": 575,
       "forks": 88,
       "language": "Unknown",
       "pushed_at": "2026-07-01T07:03:04Z",
-      "updated_at": "2026-08-03T17:48:01Z"
+      "updated_at": "2026-08-04T13:50:13Z"
     },
     {
       "id": 72835816,
@@ -144,11 +144,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 278,
+      "stars": 279,
       "forks": 68,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-08-03T07:43:05Z"
+      "updated_at": "2026-08-04T11:58:32Z"
     },
     {
       "id": 1257010968,
