@@ -5,7 +5,7 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 91,
+  "total_found": 92,
   "items": [
     {
       "id": 986349490,
@@ -56,33 +56,33 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1037,
+      "stars": 1038,
       "forks": 262,
       "language": "Unknown",
       "pushed_at": "2026-08-05T12:07:52Z",
-      "updated_at": "2026-08-05T12:59:14Z"
+      "updated_at": "2026-08-05T16:43:49Z"
     },
     {
       "id": 1298346646,
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 951,
-      "forks": 108,
+      "stars": 952,
+      "forks": 109,
       "language": "Python",
       "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-08-04T06:20:03Z"
+      "updated_at": "2026-08-05T16:51:43Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 942,
+      "stars": 941,
       "forks": 118,
       "language": "C#",
       "pushed_at": "2026-08-04T13:45:42Z",
-      "updated_at": "2026-08-04T13:47:18Z"
+      "updated_at": "2026-08-05T15:05:59Z"
     },
     {
       "id": 1092407718,
@@ -92,8 +92,8 @@
       "stars": 747,
       "forks": 138,
       "language": "Rust",
-      "pushed_at": "2026-08-05T14:00:13Z",
-      "updated_at": "2026-08-05T12:37:54Z"
+      "pushed_at": "2026-08-05T17:37:49Z",
+      "updated_at": "2026-08-05T17:15:47Z"
     },
     {
       "id": 132757250,
@@ -143,12 +143,12 @@
       "id": 1257010968,
       "full_name": "acogood/diffmode_free",
       "html_url": "https://github.com/acogood/diffmode_free",
-      "description": "🚀 Free Claude Code + Codex plugin that runs a real growth-strategy pipeline — competitor read, buyer JTBD map, and 7–9 unconventional acquisition tactics built for bootstrapped founders. ~90 min, local, Apache-2.0.",
+      "description": "Free guerrilla growth tactics for startups, the kind your competitors won't come up with on their own. Runs in Claude Code or Codex: competitor read, buyer map, and 7 to 9 low-budget plays. ~90 min, local, Apache-2.0.",
       "stars": 153,
       "forks": 0,
       "language": "Python",
-      "pushed_at": "2026-08-04T18:10:49Z",
-      "updated_at": "2026-08-04T18:12:32Z"
+      "pushed_at": "2026-08-05T16:06:01Z",
+      "updated_at": "2026-08-05T16:08:22Z"
     },
     {
       "id": 97059536,
