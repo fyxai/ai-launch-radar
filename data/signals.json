@@ -92,30 +92,19 @@
       "stars": 750,
       "forks": 139,
       "language": "Rust",
-      "pushed_at": "2026-08-06T10:19:31Z",
-      "updated_at": "2026-08-06T06:16:24Z"
+      "pushed_at": "2026-08-06T13:57:23Z",
+      "updated_at": "2026-08-06T13:26:08Z"
     },
     {
       "id": 132757250,
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 597,
+      "stars": 598,
       "forks": 75,
       "language": "JavaScript",
       "pushed_at": "2026-08-02T17:19:49Z",
-      "updated_at": "2026-08-06T03:42:10Z"
-    },
-    {
-      "id": 1174682625,
-      "full_name": "ferdinandobons/startup-skill",
-      "html_url": "https://github.com/ferdinandobons/startup-skill",
-      "description": "AI agent skills for startup validation, competitive intelligence, and planning",
-      "stars": 576,
-      "forks": 88,
-      "language": "Unknown",
-      "pushed_at": "2026-07-01T07:03:04Z",
-      "updated_at": "2026-08-04T14:25:20Z"
+      "updated_at": "2026-08-06T13:54:39Z"
     },
     {
       "id": 72835816,
@@ -133,11 +122,22 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 280,
+      "stars": 285,
       "forks": 69,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-08-06T07:18:58Z"
+      "updated_at": "2026-08-06T13:44:17Z"
+    },
+    {
+      "id": 564457094,
+      "full_name": "predmijat/realworlddevopscourse",
+      "html_url": "https://github.com/predmijat/realworlddevopscourse",
+      "description": "Accompanying files for \"Real world Devops project from start to finish\" course",
+      "stars": 268,
+      "forks": 40,
+      "language": "Shell",
+      "pushed_at": "2026-08-06T13:00:15Z",
+      "updated_at": "2026-08-06T13:00:51Z"
     },
     {
       "id": 1257010968,
