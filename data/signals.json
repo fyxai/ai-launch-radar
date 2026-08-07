@@ -8,15 +8,15 @@
   "total_found": 92,
   "items": [
     {
-      "id": 986349490,
-      "full_name": "EdoStra/Marketing-for-Founders",
-      "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
-      "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6717,
-      "forks": 628,
+      "id": 48127781,
+      "full_name": "KrishMunot/awesome-startup",
+      "html_url": "https://github.com/KrishMunot/awesome-startup",
+      "description": ":sunglasses: All the required resources to build your own startup",
+      "stars": 2252,
+      "forks": 260,
       "language": "Unknown",
-      "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-08-07T15:23:48Z"
+      "pushed_at": "2026-08-07T20:11:47Z",
+      "updated_at": "2026-08-07T20:07:04Z"
     },
     {
       "id": 163879399,
@@ -89,11 +89,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 765,
+      "stars": 766,
       "forks": 141,
       "language": "Rust",
-      "pushed_at": "2026-08-07T16:45:28Z",
-      "updated_at": "2026-08-07T16:25:00Z"
+      "pushed_at": "2026-08-07T20:38:03Z",
+      "updated_at": "2026-08-07T19:12:44Z"
     },
     {
       "id": 132757250,
