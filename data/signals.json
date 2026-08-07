@@ -78,22 +78,22 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 941,
+      "stars": 942,
       "forks": 118,
       "language": "C#",
       "pushed_at": "2026-08-04T13:45:42Z",
-      "updated_at": "2026-08-05T15:05:59Z"
+      "updated_at": "2026-08-07T07:44:04Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 758,
-      "forks": 140,
+      "stars": 760,
+      "forks": 141,
       "language": "Rust",
       "pushed_at": "2026-08-07T03:57:39Z",
-      "updated_at": "2026-08-07T03:22:59Z"
+      "updated_at": "2026-08-07T06:06:46Z"
     },
     {
       "id": 132757250,
@@ -122,11 +122,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 295,
-      "forks": 72,
+      "stars": 300,
+      "forks": 73,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-08-07T05:02:30Z"
+      "updated_at": "2026-08-07T08:48:47Z"
     },
     {
       "id": 564457094,
@@ -166,11 +166,11 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 131,
+      "stars": 130,
       "forks": 12,
       "language": "Unknown",
       "pushed_at": "2026-07-31T03:14:49Z",
-      "updated_at": "2026-08-07T04:50:36Z"
+      "updated_at": "2026-08-07T06:50:37Z"
     }
   ]
 }
