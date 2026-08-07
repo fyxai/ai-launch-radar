@@ -12,11 +12,11 @@
       "full_name": "EdoStra/Marketing-for-Founders",
       "html_url": "https://github.com/EdoStra/Marketing-for-Founders",
       "description": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6711,
+      "stars": 6712,
       "forks": 629,
       "language": "Unknown",
       "pushed_at": "2026-07-13T14:23:35Z",
-      "updated_at": "2026-08-06T08:43:29Z"
+      "updated_at": "2026-08-06T23:05:42Z"
     },
     {
       "id": 163879399,
@@ -37,8 +37,8 @@
       "stars": 1652,
       "forks": 611,
       "language": "Python",
-      "pushed_at": "2026-08-04T20:35:16Z",
-      "updated_at": "2026-07-31T20:05:44Z"
+      "pushed_at": "2026-08-06T18:39:23Z",
+      "updated_at": "2026-08-06T18:30:17Z"
     },
     {
       "id": 109404010,
@@ -46,7 +46,7 @@
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
       "stars": 1578,
-      "forks": 97,
+      "forks": 96,
       "language": "JavaScript",
       "pushed_at": "2026-08-06T05:55:36Z",
       "updated_at": "2026-08-06T05:56:46Z"
@@ -57,10 +57,10 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1038,
-      "forks": 262,
+      "forks": 261,
       "language": "Unknown",
-      "pushed_at": "2026-08-05T12:07:52Z",
-      "updated_at": "2026-08-05T16:43:49Z"
+      "pushed_at": "2026-08-06T18:51:37Z",
+      "updated_at": "2026-08-06T18:51:49Z"
     },
     {
       "id": 1298346646,
@@ -89,11 +89,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 750,
+      "stars": 754,
       "forks": 139,
       "language": "Rust",
-      "pushed_at": "2026-08-06T13:57:23Z",
-      "updated_at": "2026-08-06T13:26:08Z"
+      "pushed_at": "2026-08-07T00:33:26Z",
+      "updated_at": "2026-08-06T22:15:49Z"
     },
     {
       "id": 132757250,
@@ -122,11 +122,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 285,
-      "forks": 69,
+      "stars": 292,
+      "forks": 70,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-08-06T13:44:17Z"
+      "updated_at": "2026-08-06T23:23:44Z"
     },
     {
       "id": 564457094,
@@ -144,11 +144,11 @@
       "full_name": "acogood/diffmode_free",
       "html_url": "https://github.com/acogood/diffmode_free",
       "description": "Free guerrilla growth tactics for startups, the kind your competitors won't come up with on their own. Runs in Claude Code or Codex: competitor read, buyer map, and 7 to 9 low-budget plays. ~90 min, local, Apache-2.0.",
-      "stars": 153,
+      "stars": 154,
       "forks": 0,
       "language": "Python",
       "pushed_at": "2026-08-05T19:37:08Z",
-      "updated_at": "2026-08-05T16:08:22Z"
+      "updated_at": "2026-08-06T17:15:17Z"
     },
     {
       "id": 97059536,
