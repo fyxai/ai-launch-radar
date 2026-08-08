@@ -12,11 +12,11 @@
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2252,
+      "stars": 2256,
       "forks": 260,
       "language": "Unknown",
       "pushed_at": "2026-08-07T20:11:47Z",
-      "updated_at": "2026-08-07T20:07:04Z"
+      "updated_at": "2026-08-08T01:28:47Z"
     },
     {
       "id": 163879399,
@@ -78,22 +78,22 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 942,
+      "stars": 943,
       "forks": 118,
       "language": "C#",
       "pushed_at": "2026-08-04T13:45:42Z",
-      "updated_at": "2026-08-07T07:44:04Z"
+      "updated_at": "2026-08-08T00:37:09Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 766,
-      "forks": 141,
+      "stars": 767,
+      "forks": 142,
       "language": "Rust",
-      "pushed_at": "2026-08-07T20:38:03Z",
-      "updated_at": "2026-08-07T19:12:44Z"
+      "pushed_at": "2026-08-08T01:18:11Z",
+      "updated_at": "2026-08-08T01:18:16Z"
     },
     {
       "id": 132757250,
@@ -111,11 +111,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 304,
-      "forks": 74,
+      "stars": 307,
+      "forks": 75,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-08-07T14:43:42Z"
+      "updated_at": "2026-08-07T23:55:18Z"
     },
     {
       "id": 72835816,
