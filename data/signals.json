@@ -5,18 +5,18 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 92,
+  "total_found": 93,
   "items": [
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2258,
+      "stars": 2261,
       "forks": 260,
       "language": "Unknown",
       "pushed_at": "2026-08-07T20:11:47Z",
-      "updated_at": "2026-08-08T04:11:51Z"
+      "updated_at": "2026-08-08T08:35:09Z"
     },
     {
       "id": 163879399,
@@ -63,17 +63,6 @@
       "updated_at": "2026-08-08T02:49:12Z"
     },
     {
-      "id": 1298346646,
-      "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
-      "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
-      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 954,
-      "forks": 109,
-      "language": "Python",
-      "pushed_at": "2026-07-13T22:12:12Z",
-      "updated_at": "2026-08-07T02:31:08Z"
-    },
-    {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
@@ -111,11 +100,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 308,
+      "stars": 309,
       "forks": 76,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-08-08T02:33:28Z"
+      "updated_at": "2026-08-08T08:06:46Z"
     },
     {
       "id": 72835816,
@@ -171,6 +160,17 @@
       "language": "Unknown",
       "pushed_at": "2026-07-31T03:14:49Z",
       "updated_at": "2026-08-07T06:50:37Z"
+    },
+    {
+      "id": 780027215,
+      "full_name": "AayushBharti/ai-saas-landing-starter",
+      "html_url": "https://github.com/AayushBharti/ai-saas-landing-starter",
+      "description": "🌈 Modern AI SaaS landing page with sleek parallax effects and bento box layouts.",
+      "stars": 129,
+      "forks": 21,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-03T10:14:10Z",
+      "updated_at": "2026-08-08T05:02:38Z"
     }
   ]
 }
