@@ -12,11 +12,11 @@
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2293,
-      "forks": 263,
+      "stars": 2295,
+      "forks": 264,
       "language": "Unknown",
       "pushed_at": "2026-08-07T20:11:47Z",
-      "updated_at": "2026-08-09T07:39:17Z"
+      "updated_at": "2026-08-09T11:46:52Z"
     },
     {
       "id": 163879399,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1039,
-      "forks": 264,
+      "forks": 266,
       "language": "Unknown",
       "pushed_at": "2026-08-06T18:51:37Z",
       "updated_at": "2026-08-08T02:49:12Z"
@@ -79,9 +79,9 @@
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "stars": 776,
-      "forks": 148,
+      "forks": 149,
       "language": "Rust",
-      "pushed_at": "2026-08-09T00:03:58Z",
+      "pushed_at": "2026-08-09T12:01:11Z",
       "updated_at": "2026-08-09T05:56:28Z"
     },
     {
@@ -100,11 +100,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 325,
+      "stars": 330,
       "forks": 79,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-08-09T08:31:34Z"
+      "updated_at": "2026-08-09T11:05:06Z"
     },
     {
       "id": 72835816,
@@ -155,22 +155,22 @@
       "full_name": "AayushBharti/ai-saas-landing-starter",
       "html_url": "https://github.com/AayushBharti/ai-saas-landing-starter",
       "description": "🌈 Modern AI SaaS landing page with sleek parallax effects and bento box layouts.",
-      "stars": 132,
+      "stars": 133,
       "forks": 21,
       "language": "TypeScript",
       "pushed_at": "2026-08-03T10:14:10Z",
-      "updated_at": "2026-08-08T16:25:31Z"
+      "updated_at": "2026-08-09T11:31:18Z"
     },
     {
-      "id": 1179396737,
-      "full_name": "doanbactam/awesome-builder-programs",
-      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
-      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 130,
-      "forks": 12,
+      "id": 1311068285,
+      "full_name": "AIDevGTM/gtm-cofounder",
+      "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
+      "description": "The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: positioning, first users, launch, pricing. Built from real dev-tool GTM experience, sharpened by Frankl & Czakon. MIT.",
+      "stars": 131,
+      "forks": 13,
       "language": "Unknown",
-      "pushed_at": "2026-07-31T03:14:49Z",
-      "updated_at": "2026-08-07T06:50:37Z"
+      "pushed_at": "2026-08-04T16:12:39Z",
+      "updated_at": "2026-08-09T12:23:06Z"
     }
   ]
 }
