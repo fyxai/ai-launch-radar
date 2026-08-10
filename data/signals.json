@@ -12,11 +12,11 @@
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2313,
+      "stars": 2316,
       "forks": 268,
       "language": "Unknown",
       "pushed_at": "2026-08-09T19:01:56Z",
-      "updated_at": "2026-08-10T05:03:50Z"
+      "updated_at": "2026-08-10T08:49:37Z"
     },
     {
       "id": 163879399,
@@ -34,11 +34,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1652,
+      "stars": 1653,
       "forks": 611,
       "language": "Python",
       "pushed_at": "2026-08-06T18:39:23Z",
-      "updated_at": "2026-08-06T18:30:17Z"
+      "updated_at": "2026-08-10T06:48:58Z"
     },
     {
       "id": 109404010,
@@ -78,11 +78,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 781,
+      "stars": 784,
       "forks": 149,
       "language": "Rust",
       "pushed_at": "2026-08-10T03:21:10Z",
-      "updated_at": "2026-08-10T05:24:02Z"
+      "updated_at": "2026-08-10T08:44:29Z"
     },
     {
       "id": 132757250,
@@ -100,11 +100,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 340,
+      "stars": 341,
       "forks": 80,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-08-10T04:42:10Z"
+      "updated_at": "2026-08-10T09:13:59Z"
     },
     {
       "id": 72835816,
@@ -112,10 +112,10 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 304,
-      "forks": 83,
+      "forks": 84,
       "language": "JavaScript",
-      "pushed_at": "2026-08-08T20:47:35Z",
-      "updated_at": "2026-08-08T22:03:23Z"
+      "pushed_at": "2026-08-10T07:40:02Z",
+      "updated_at": "2026-08-10T07:40:09Z"
     },
     {
       "id": 564457094,
@@ -133,11 +133,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: positioning, first users, launch, pricing. Built from real dev-tool GTM experience, sharpened by Frankl & Czakon. MIT.",
-      "stars": 156,
+      "stars": 165,
       "forks": 19,
       "language": "Unknown",
       "pushed_at": "2026-08-09T14:16:34Z",
-      "updated_at": "2026-08-10T03:28:39Z"
+      "updated_at": "2026-08-10T09:05:26Z"
     },
     {
       "id": 1257010968,
