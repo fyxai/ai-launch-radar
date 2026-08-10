@@ -67,22 +67,22 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 942,
+      "stars": 943,
       "forks": 118,
       "language": "C#",
       "pushed_at": "2026-08-09T17:32:00Z",
-      "updated_at": "2026-08-10T16:00:52Z"
+      "updated_at": "2026-08-10T18:06:54Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 791,
-      "forks": 151,
+      "stars": 840,
+      "forks": 155,
       "language": "Rust",
-      "pushed_at": "2026-08-10T16:44:20Z",
-      "updated_at": "2026-08-10T16:34:55Z"
+      "pushed_at": "2026-08-10T20:22:26Z",
+      "updated_at": "2026-08-10T20:37:17Z"
     },
     {
       "id": 132757250,
@@ -114,8 +114,8 @@
       "stars": 304,
       "forks": 85,
       "language": "JavaScript",
-      "pushed_at": "2026-08-10T10:06:15Z",
-      "updated_at": "2026-08-10T10:06:36Z"
+      "pushed_at": "2026-08-10T18:48:22Z",
+      "updated_at": "2026-08-10T18:51:03Z"
     },
     {
       "id": 564457094,
@@ -133,22 +133,22 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: positioning, first users, launch, pricing. Built from real dev-tool GTM experience, sharpened by Frankl & Czakon. MIT.",
-      "stars": 172,
-      "forks": 19,
+      "stars": 175,
+      "forks": 20,
       "language": "Unknown",
       "pushed_at": "2026-08-09T14:16:34Z",
-      "updated_at": "2026-08-10T16:40:06Z"
+      "updated_at": "2026-08-10T19:18:19Z"
     },
     {
       "id": 1257010968,
       "full_name": "acogood/diffmode_free",
       "html_url": "https://github.com/acogood/diffmode_free",
       "description": "Free guerrilla growth tactics for startups, the kind your competitors won't come up with on their own. Runs in Claude Code or Codex: competitor read, buyer map, and 7 to 9 low-budget plays. ~90 min, local, Apache-2.0.",
-      "stars": 154,
+      "stars": 158,
       "forks": 0,
       "language": "Python",
-      "pushed_at": "2026-08-05T19:37:08Z",
-      "updated_at": "2026-08-06T17:15:17Z"
+      "pushed_at": "2026-08-10T19:32:56Z",
+      "updated_at": "2026-08-10T19:53:14Z"
     },
     {
       "id": 97059536,
