@@ -12,11 +12,11 @@
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2307,
-      "forks": 267,
+      "stars": 2313,
+      "forks": 268,
       "language": "Unknown",
       "pushed_at": "2026-08-09T19:01:56Z",
-      "updated_at": "2026-08-10T01:19:37Z"
+      "updated_at": "2026-08-10T05:03:50Z"
     },
     {
       "id": 163879399,
@@ -48,7 +48,7 @@
       "stars": 1578,
       "forks": 96,
       "language": "JavaScript",
-      "pushed_at": "2026-08-06T05:55:36Z",
+      "pushed_at": "2026-08-10T04:56:24Z",
       "updated_at": "2026-08-06T05:56:46Z"
     },
     {
@@ -59,8 +59,8 @@
       "stars": 1039,
       "forks": 266,
       "language": "Unknown",
-      "pushed_at": "2026-08-06T18:51:37Z",
-      "updated_at": "2026-08-08T02:49:12Z"
+      "pushed_at": "2026-08-10T04:43:23Z",
+      "updated_at": "2026-08-10T04:43:44Z"
     },
     {
       "id": 158286982,
@@ -78,11 +78,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 779,
+      "stars": 781,
       "forks": 149,
       "language": "Rust",
-      "pushed_at": "2026-08-09T13:23:31Z",
-      "updated_at": "2026-08-09T23:22:01Z"
+      "pushed_at": "2026-08-10T03:21:10Z",
+      "updated_at": "2026-08-10T05:24:02Z"
     },
     {
       "id": 132757250,
@@ -100,11 +100,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 339,
-      "forks": 79,
+      "stars": 340,
+      "forks": 80,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-08-09T23:49:41Z"
+      "updated_at": "2026-08-10T04:42:10Z"
     },
     {
       "id": 72835816,
@@ -129,6 +129,17 @@
       "updated_at": "2026-08-06T13:00:51Z"
     },
     {
+      "id": 1311068285,
+      "full_name": "AIDevGTM/gtm-cofounder",
+      "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
+      "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: positioning, first users, launch, pricing. Built from real dev-tool GTM experience, sharpened by Frankl & Czakon. MIT.",
+      "stars": 156,
+      "forks": 19,
+      "language": "Unknown",
+      "pushed_at": "2026-08-09T14:16:34Z",
+      "updated_at": "2026-08-10T03:28:39Z"
+    },
+    {
       "id": 1257010968,
       "full_name": "acogood/diffmode_free",
       "html_url": "https://github.com/acogood/diffmode_free",
@@ -138,17 +149,6 @@
       "language": "Python",
       "pushed_at": "2026-08-05T19:37:08Z",
       "updated_at": "2026-08-06T17:15:17Z"
-    },
-    {
-      "id": 1311068285,
-      "full_name": "AIDevGTM/gtm-cofounder",
-      "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
-      "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: positioning, first users, launch, pricing. Built from real dev-tool GTM experience, sharpened by Frankl & Czakon. MIT.",
-      "stars": 154,
-      "forks": 18,
-      "language": "Unknown",
-      "pushed_at": "2026-08-09T14:16:34Z",
-      "updated_at": "2026-08-10T01:36:02Z"
     },
     {
       "id": 97059536,
