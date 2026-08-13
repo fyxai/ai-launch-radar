@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 2483,
-      "forks": 267,
+      "stars": 2544,
+      "forks": 272,
       "language": "Rust",
-      "pushed_at": "2026-08-13T16:50:07Z",
-      "updated_at": "2026-08-13T16:55:33Z"
+      "pushed_at": "2026-08-13T20:36:39Z",
+      "updated_at": "2026-08-13T20:41:53Z"
     },
     {
       "id": 48127781,
@@ -133,22 +133,22 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: positioning, first users, launch, pricing. Built from real dev-tool GTM experience, sharpened by Frankl & Czakon. MIT.",
-      "stars": 202,
+      "stars": 204,
       "forks": 23,
       "language": "Unknown",
       "pushed_at": "2026-08-13T14:28:35Z",
-      "updated_at": "2026-08-13T16:43:51Z"
+      "updated_at": "2026-08-13T18:20:39Z"
     },
     {
       "id": 1257010968,
       "full_name": "acogood/diffmode_free",
       "html_url": "https://github.com/acogood/diffmode_free",
       "description": "Free guerrilla growth tactics for startups, the kind your competitors won't come up with on their own. Runs in Claude Code or Codex: competitor read, buyer map, and 7 to 9 low-budget plays. ~90 min, local, Apache-2.0.",
-      "stars": 160,
+      "stars": 159,
       "forks": 0,
       "language": "Python",
       "pushed_at": "2026-08-10T19:32:56Z",
-      "updated_at": "2026-08-12T20:08:53Z"
+      "updated_at": "2026-08-13T18:19:54Z"
     },
     {
       "id": 780027215,
