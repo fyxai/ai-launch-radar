@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 2918,
-      "forks": 299,
+      "stars": 2979,
+      "forks": 301,
       "language": "Rust",
-      "pushed_at": "2026-08-14T16:43:28Z",
-      "updated_at": "2026-08-14T16:52:21Z"
+      "pushed_at": "2026-08-14T20:12:30Z",
+      "updated_at": "2026-08-14T20:29:53Z"
     },
     {
       "id": 48127781,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
       "stars": 984,
-      "forks": 115,
+      "forks": 114,
       "language": "Python",
       "pushed_at": "2026-08-13T09:56:52Z",
       "updated_at": "2026-08-14T16:38:40Z"
