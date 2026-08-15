@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 3071,
-      "forks": 308,
+      "stars": 3133,
+      "forks": 311,
       "language": "Rust",
       "pushed_at": "2026-08-14T22:52:52Z",
-      "updated_at": "2026-08-15T04:30:06Z"
+      "updated_at": "2026-08-15T08:28:07Z"
     },
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2323,
+      "stars": 2324,
       "forks": 268,
       "language": "Unknown",
       "pushed_at": "2026-08-09T19:01:56Z",
-      "updated_at": "2026-08-14T09:50:06Z"
+      "updated_at": "2026-08-15T06:28:10Z"
     },
     {
       "id": 69400040,
@@ -101,7 +101,7 @@
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
       "stars": 358,
-      "forks": 82,
+      "forks": 83,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
       "updated_at": "2026-08-13T10:39:45Z"
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 304,
-      "forks": 83,
+      "forks": 84,
       "language": "JavaScript",
       "pushed_at": "2026-08-12T09:50:54Z",
       "updated_at": "2026-08-12T09:52:00Z"
@@ -133,11 +133,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: positioning, first users, launch, pricing. Built from real dev-tool GTM experience, sharpened by Frankl & Czakon. MIT.",
-      "stars": 212,
+      "stars": 214,
       "forks": 23,
       "language": "Unknown",
-      "pushed_at": "2026-08-13T14:28:35Z",
-      "updated_at": "2026-08-15T01:56:35Z"
+      "pushed_at": "2026-08-15T07:06:59Z",
+      "updated_at": "2026-08-15T07:21:10Z"
     },
     {
       "id": 1257010968,
