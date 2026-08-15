@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 3222,
-      "forks": 318,
+      "stars": 3249,
+      "forks": 320,
       "language": "Rust",
       "pushed_at": "2026-08-14T22:52:52Z",
-      "updated_at": "2026-08-15T16:05:13Z"
+      "updated_at": "2026-08-15T20:17:01Z"
     },
     {
       "id": 48127781,
@@ -34,11 +34,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1653,
+      "stars": 1654,
       "forks": 612,
       "language": "Python",
       "pushed_at": "2026-08-06T18:39:23Z",
-      "updated_at": "2026-08-10T06:48:58Z"
+      "updated_at": "2026-08-15T19:56:57Z"
     },
     {
       "id": 109404010,
@@ -132,12 +132,12 @@
       "id": 1311068285,
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
-      "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: positioning, first users, launch, pricing. Built from real dev-tool GTM experience, sharpened by Frankl & Czakon. MIT.",
-      "stars": 218,
+      "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
+      "stars": 219,
       "forks": 24,
       "language": "Unknown",
-      "pushed_at": "2026-08-15T07:06:59Z",
-      "updated_at": "2026-08-15T16:22:47Z"
+      "pushed_at": "2026-08-15T19:46:18Z",
+      "updated_at": "2026-08-15T19:46:36Z"
     },
     {
       "id": 1257010968,
@@ -155,11 +155,11 @@
       "full_name": "AayushBharti/ai-saas-landing-starter",
       "html_url": "https://github.com/AayushBharti/ai-saas-landing-starter",
       "description": "🌈 Modern AI SaaS landing page with sleek parallax effects and bento box layouts.",
-      "stars": 134,
+      "stars": 133,
       "forks": 21,
       "language": "TypeScript",
       "pushed_at": "2026-08-03T10:14:10Z",
-      "updated_at": "2026-08-12T09:31:58Z"
+      "updated_at": "2026-08-15T18:35:59Z"
     },
     {
       "id": 1179396737,
