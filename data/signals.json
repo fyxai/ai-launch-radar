@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 3357,
-      "forks": 333,
+      "stars": 3387,
+      "forks": 336,
       "language": "Rust",
       "pushed_at": "2026-08-16T04:04:03Z",
-      "updated_at": "2026-08-16T16:13:30Z"
+      "updated_at": "2026-08-16T20:15:39Z"
     },
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2325,
-      "forks": 269,
+      "stars": 2326,
+      "forks": 270,
       "language": "Unknown",
       "pushed_at": "2026-08-09T19:01:56Z",
-      "updated_at": "2026-08-16T06:45:08Z"
+      "updated_at": "2026-08-16T19:49:37Z"
     },
     {
       "id": 69400040,
@@ -35,7 +35,7 @@
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
       "stars": 1655,
-      "forks": 612,
+      "forks": 613,
       "language": "Python",
       "pushed_at": "2026-08-06T18:39:23Z",
       "updated_at": "2026-08-16T07:55:02Z"
@@ -78,11 +78,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 945,
+      "stars": 944,
       "forks": 120,
       "language": "C#",
       "pushed_at": "2026-08-09T17:32:00Z",
-      "updated_at": "2026-08-13T10:48:34Z"
+      "updated_at": "2026-08-16T18:58:03Z"
     },
     {
       "id": 132757250,
