@@ -12,44 +12,44 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 3288,
-      "forks": 327,
+      "stars": 3307,
+      "forks": 330,
       "language": "Rust",
       "pushed_at": "2026-08-16T04:04:03Z",
-      "updated_at": "2026-08-16T04:28:56Z"
+      "updated_at": "2026-08-16T08:25:25Z"
     },
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2324,
+      "stars": 2325,
       "forks": 269,
       "language": "Unknown",
       "pushed_at": "2026-08-09T19:01:56Z",
-      "updated_at": "2026-08-15T06:28:10Z"
+      "updated_at": "2026-08-16T06:45:08Z"
     },
     {
       "id": 69400040,
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1654,
+      "stars": 1655,
       "forks": 612,
       "language": "Python",
       "pushed_at": "2026-08-06T18:39:23Z",
-      "updated_at": "2026-08-15T19:56:57Z"
+      "updated_at": "2026-08-16T07:55:02Z"
     },
     {
       "id": 109404010,
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1578,
+      "stars": 1579,
       "forks": 96,
       "language": "JavaScript",
       "pushed_at": "2026-08-11T05:41:54Z",
-      "updated_at": "2026-08-11T05:42:08Z"
+      "updated_at": "2026-08-16T07:55:14Z"
     },
     {
       "id": 76633312,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1041,
-      "forks": 267,
+      "forks": 268,
       "language": "Unknown",
       "pushed_at": "2026-08-10T04:43:23Z",
       "updated_at": "2026-08-11T21:08:21Z"
@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 985,
+      "stars": 986,
       "forks": 114,
       "language": "Python",
       "pushed_at": "2026-08-13T09:56:52Z",
-      "updated_at": "2026-08-14T23:37:12Z"
+      "updated_at": "2026-08-16T08:05:58Z"
     },
     {
       "id": 158286982,
@@ -79,7 +79,7 @@
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
       "stars": 945,
-      "forks": 119,
+      "forks": 120,
       "language": "C#",
       "pushed_at": "2026-08-09T17:32:00Z",
       "updated_at": "2026-08-13T10:48:34Z"
@@ -155,11 +155,11 @@
       "full_name": "AayushBharti/ai-saas-landing-starter",
       "html_url": "https://github.com/AayushBharti/ai-saas-landing-starter",
       "description": "🌈 Modern AI SaaS landing page with sleek parallax effects and bento box layouts.",
-      "stars": 134,
+      "stars": 135,
       "forks": 21,
       "language": "TypeScript",
       "pushed_at": "2026-08-03T10:14:10Z",
-      "updated_at": "2026-08-16T03:14:14Z"
+      "updated_at": "2026-08-16T05:21:01Z"
     },
     {
       "id": 1179396737,
