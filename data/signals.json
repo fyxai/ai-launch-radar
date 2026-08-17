@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 3459,
-      "forks": 347,
+      "stars": 3487,
+      "forks": 348,
       "language": "Rust",
       "pushed_at": "2026-08-16T04:04:03Z",
-      "updated_at": "2026-08-17T07:47:02Z"
+      "updated_at": "2026-08-17T12:39:28Z"
     },
     {
       "id": 48127781,
@@ -100,11 +100,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 359,
+      "stars": 360,
       "forks": 83,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-08-16T02:20:49Z"
+      "updated_at": "2026-08-17T10:14:22Z"
     },
     {
       "id": 72835816,
@@ -112,10 +112,10 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 303,
-      "forks": 85,
+      "forks": 84,
       "language": "JavaScript",
-      "pushed_at": "2026-08-17T08:13:33Z",
-      "updated_at": "2026-08-17T08:15:10Z"
+      "pushed_at": "2026-08-17T08:59:51Z",
+      "updated_at": "2026-08-17T09:01:42Z"
     },
     {
       "id": 564457094,
@@ -133,11 +133,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 223,
+      "stars": 225,
       "forks": 24,
       "language": "Unknown",
       "pushed_at": "2026-08-17T08:06:57Z",
-      "updated_at": "2026-08-17T08:18:41Z"
+      "updated_at": "2026-08-17T11:05:47Z"
     },
     {
       "id": 1257010968,
