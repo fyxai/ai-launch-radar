@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 3487,
-      "forks": 348,
+      "stars": 3508,
+      "forks": 351,
       "language": "Rust",
-      "pushed_at": "2026-08-16T04:04:03Z",
-      "updated_at": "2026-08-17T12:39:28Z"
+      "pushed_at": "2026-08-17T16:06:09Z",
+      "updated_at": "2026-08-17T16:23:49Z"
     },
     {
       "id": 48127781,
@@ -56,11 +56,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1042,
+      "stars": 1043,
       "forks": 269,
       "language": "Unknown",
       "pushed_at": "2026-08-10T04:43:23Z",
-      "updated_at": "2026-08-17T04:37:04Z"
+      "updated_at": "2026-08-17T16:13:21Z"
     },
     {
       "id": 1298346646,
@@ -89,11 +89,11 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 599,
+      "stars": 600,
       "forks": 77,
       "language": "JavaScript",
       "pushed_at": "2026-08-02T17:19:49Z",
-      "updated_at": "2026-08-17T06:42:54Z"
+      "updated_at": "2026-08-17T16:00:06Z"
     },
     {
       "id": 1297386391,
@@ -114,8 +114,8 @@
       "stars": 303,
       "forks": 84,
       "language": "JavaScript",
-      "pushed_at": "2026-08-17T08:59:51Z",
-      "updated_at": "2026-08-17T09:01:42Z"
+      "pushed_at": "2026-08-17T12:59:18Z",
+      "updated_at": "2026-08-17T13:02:15Z"
     },
     {
       "id": 564457094,
@@ -133,11 +133,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 225,
+      "stars": 226,
       "forks": 24,
       "language": "Unknown",
       "pushed_at": "2026-08-17T08:06:57Z",
-      "updated_at": "2026-08-17T11:05:47Z"
+      "updated_at": "2026-08-17T13:21:59Z"
     },
     {
       "id": 1257010968,
@@ -155,11 +155,11 @@
       "full_name": "AayushBharti/ai-saas-landing-starter",
       "html_url": "https://github.com/AayushBharti/ai-saas-landing-starter",
       "description": "🌈 Modern AI SaaS landing page with sleek parallax effects and bento box layouts.",
-      "stars": 135,
+      "stars": 136,
       "forks": 21,
       "language": "TypeScript",
       "pushed_at": "2026-08-03T10:14:10Z",
-      "updated_at": "2026-08-16T05:21:01Z"
+      "updated_at": "2026-08-17T13:15:31Z"
     },
     {
       "id": 1179396737,
