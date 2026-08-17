@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 3413,
-      "forks": 338,
+      "stars": 3439,
+      "forks": 345,
       "language": "Rust",
       "pushed_at": "2026-08-16T04:04:03Z",
-      "updated_at": "2026-08-17T01:18:27Z"
+      "updated_at": "2026-08-17T04:37:47Z"
     },
     {
       "id": 48127781,
@@ -34,11 +34,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1655,
+      "stars": 1654,
       "forks": 613,
       "language": "Python",
       "pushed_at": "2026-08-06T18:39:23Z",
-      "updated_at": "2026-08-16T07:55:02Z"
+      "updated_at": "2026-08-17T01:48:55Z"
     },
     {
       "id": 109404010,
@@ -56,11 +56,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1041,
-      "forks": 268,
+      "stars": 1042,
+      "forks": 269,
       "language": "Unknown",
       "pushed_at": "2026-08-10T04:43:23Z",
-      "updated_at": "2026-08-11T21:08:21Z"
+      "updated_at": "2026-08-17T04:37:04Z"
     },
     {
       "id": 1298346646,
@@ -78,11 +78,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 944,
+      "stars": 945,
       "forks": 120,
       "language": "C#",
       "pushed_at": "2026-08-09T17:32:00Z",
-      "updated_at": "2026-08-16T18:58:03Z"
+      "updated_at": "2026-08-17T01:43:50Z"
     },
     {
       "id": 132757250,
