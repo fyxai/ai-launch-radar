@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 3584,
-      "forks": 358,
+      "stars": 3605,
+      "forks": 359,
       "language": "Rust",
       "pushed_at": "2026-08-18T02:49:45Z",
-      "updated_at": "2026-08-18T04:21:38Z"
+      "updated_at": "2026-08-18T08:37:13Z"
     },
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2327,
+      "stars": 2328,
       "forks": 271,
       "language": "Unknown",
       "pushed_at": "2026-08-09T19:01:56Z",
-      "updated_at": "2026-08-17T06:45:57Z"
+      "updated_at": "2026-08-18T07:32:47Z"
     },
     {
       "id": 69400040,
@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 989,
+      "stars": 990,
       "forks": 115,
       "language": "Python",
       "pushed_at": "2026-08-13T09:56:52Z",
-      "updated_at": "2026-08-17T04:53:36Z"
+      "updated_at": "2026-08-18T06:03:43Z"
     },
     {
       "id": 158286982,
@@ -100,11 +100,11 @@
       "full_name": "djfksjd/ir-search",
       "html_url": "https://github.com/djfksjd/ir-search",
       "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 360,
+      "stars": 361,
       "forks": 83,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-08-17T10:14:22Z"
+      "updated_at": "2026-08-18T07:04:37Z"
     },
     {
       "id": 72835816,
