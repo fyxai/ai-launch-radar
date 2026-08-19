@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 3730,
-      "forks": 363,
+      "stars": 3749,
+      "forks": 365,
       "language": "Rust",
-      "pushed_at": "2026-08-19T12:47:22Z",
-      "updated_at": "2026-08-19T12:46:58Z"
+      "pushed_at": "2026-08-19T15:55:47Z",
+      "updated_at": "2026-08-19T16:24:51Z"
     },
     {
       "id": 48127781,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1044,
-      "forks": 270,
+      "forks": 271,
       "language": "Unknown",
       "pushed_at": "2026-08-10T04:43:23Z",
       "updated_at": "2026-08-17T23:55:08Z"
