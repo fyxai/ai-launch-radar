@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 3860,
-      "forks": 370,
+      "stars": 3871,
+      "forks": 369,
       "language": "Rust",
-      "pushed_at": "2026-08-20T20:21:04Z",
-      "updated_at": "2026-08-20T20:26:27Z"
+      "pushed_at": "2026-08-21T01:20:34Z",
+      "updated_at": "2026-08-21T01:21:16Z"
     },
     {
       "id": 48127781,
@@ -34,11 +34,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1654,
+      "stars": 1653,
       "forks": 613,
       "language": "Python",
       "pushed_at": "2026-08-20T20:09:51Z",
-      "updated_at": "2026-08-19T21:40:59Z"
+      "updated_at": "2026-08-20T20:53:21Z"
     },
     {
       "id": 109404010,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1047,
-      "forks": 273,
+      "forks": 274,
       "language": "Unknown",
       "pushed_at": "2026-08-10T04:43:23Z",
       "updated_at": "2026-08-20T04:01:34Z"
