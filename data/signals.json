@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 3892,
-      "forks": 370,
+      "stars": 3905,
+      "forks": 372,
       "language": "Rust",
-      "pushed_at": "2026-08-21T04:20:29Z",
-      "updated_at": "2026-08-21T08:22:05Z"
+      "pushed_at": "2026-08-21T11:28:46Z",
+      "updated_at": "2026-08-21T12:49:25Z"
     },
     {
       "id": 48127781,
@@ -34,22 +34,22 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1653,
+      "stars": 1654,
       "forks": 613,
       "language": "Python",
       "pushed_at": "2026-08-20T20:09:51Z",
-      "updated_at": "2026-08-20T20:53:21Z"
+      "updated_at": "2026-08-21T09:25:43Z"
     },
     {
       "id": 109404010,
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1579,
+      "stars": 1580,
       "forks": 96,
       "language": "JavaScript",
       "pushed_at": "2026-08-17T07:18:59Z",
-      "updated_at": "2026-08-17T07:19:18Z"
+      "updated_at": "2026-08-21T12:41:49Z"
     },
     {
       "id": 76633312,
@@ -67,22 +67,22 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 993,
+      "stars": 994,
       "forks": 115,
       "language": "Python",
       "pushed_at": "2026-08-13T09:56:52Z",
-      "updated_at": "2026-08-20T17:44:35Z"
+      "updated_at": "2026-08-21T10:44:05Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 946,
+      "stars": 947,
       "forks": 122,
       "language": "C#",
       "pushed_at": "2026-08-09T17:32:00Z",
-      "updated_at": "2026-08-18T19:48:14Z"
+      "updated_at": "2026-08-21T11:26:02Z"
     },
     {
       "id": 132757250,
