@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 3880,
+      "stars": 3892,
       "forks": 370,
       "language": "Rust",
       "pushed_at": "2026-08-21T04:20:29Z",
-      "updated_at": "2026-08-21T04:20:59Z"
+      "updated_at": "2026-08-21T08:22:05Z"
     },
     {
       "id": 48127781,
@@ -24,7 +24,7 @@
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
       "stars": 2330,
-      "forks": 271,
+      "forks": 270,
       "language": "Unknown",
       "pushed_at": "2026-08-09T19:01:56Z",
       "updated_at": "2026-08-20T08:55:03Z"
@@ -57,10 +57,10 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1047,
-      "forks": 274,
+      "forks": 273,
       "language": "Unknown",
-      "pushed_at": "2026-08-10T04:43:23Z",
-      "updated_at": "2026-08-20T04:01:34Z"
+      "pushed_at": "2026-08-21T05:24:48Z",
+      "updated_at": "2026-08-21T05:25:06Z"
     },
     {
       "id": 1298346646,
@@ -104,7 +104,7 @@
       "forks": 83,
       "language": "Python",
       "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-08-18T07:04:37Z"
+      "updated_at": "2026-08-21T06:20:38Z"
     },
     {
       "id": 72835816,
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 304,
-      "forks": 85,
+      "forks": 84,
       "language": "JavaScript",
       "pushed_at": "2026-08-20T11:25:57Z",
       "updated_at": "2026-08-20T11:26:14Z"
