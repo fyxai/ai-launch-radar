@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 3978,
-      "forks": 378,
+      "stars": 3984,
+      "forks": 379,
       "language": "Rust",
       "pushed_at": "2026-08-23T03:43:40Z",
-      "updated_at": "2026-08-23T04:11:33Z"
+      "updated_at": "2026-08-23T08:17:45Z"
     },
     {
       "id": 48127781,
@@ -169,8 +169,8 @@
       "stars": 131,
       "forks": 12,
       "language": "Unknown",
-      "pushed_at": "2026-07-31T03:14:49Z",
-      "updated_at": "2026-08-14T11:55:23Z"
+      "pushed_at": "2026-08-23T07:54:46Z",
+      "updated_at": "2026-08-23T07:55:06Z"
     }
   ]
 }
