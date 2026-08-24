@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4010,
-      "forks": 384,
+      "stars": 4014,
+      "forks": 385,
       "language": "Rust",
-      "pushed_at": "2026-08-24T12:35:50Z",
-      "updated_at": "2026-08-24T12:06:27Z"
+      "pushed_at": "2026-08-24T16:37:44Z",
+      "updated_at": "2026-08-24T15:18:48Z"
     },
     {
       "id": 48127781,
@@ -45,33 +45,33 @@
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1580,
+      "stars": 1581,
       "forks": 96,
       "language": "JavaScript",
       "pushed_at": "2026-08-17T07:18:59Z",
-      "updated_at": "2026-08-21T12:41:49Z"
+      "updated_at": "2026-08-24T13:38:57Z"
     },
     {
       "id": 76633312,
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1046,
+      "stars": 1047,
       "forks": 273,
       "language": "Unknown",
       "pushed_at": "2026-08-21T05:24:48Z",
-      "updated_at": "2026-08-23T23:37:51Z"
+      "updated_at": "2026-08-24T13:41:32Z"
     },
     {
       "id": 1298346646,
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1001,
-      "forks": 119,
+      "stars": 1002,
+      "forks": 120,
       "language": "Python",
       "pushed_at": "2026-08-24T11:58:50Z",
-      "updated_at": "2026-08-24T12:11:08Z"
+      "updated_at": "2026-08-24T16:05:30Z"
     },
     {
       "id": 158286982,
@@ -133,11 +133,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 243,
+      "stars": 244,
       "forks": 26,
       "language": "Unknown",
       "pushed_at": "2026-08-24T07:31:52Z",
-      "updated_at": "2026-08-24T11:45:25Z"
+      "updated_at": "2026-08-24T14:26:06Z"
     },
     {
       "id": 1257010968,
