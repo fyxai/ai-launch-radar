@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4021,
-      "forks": 387,
+      "stars": 4023,
+      "forks": 389,
       "language": "Rust",
-      "pushed_at": "2026-08-24T23:21:41Z",
-      "updated_at": "2026-08-25T00:02:06Z"
+      "pushed_at": "2026-08-25T04:08:15Z",
+      "updated_at": "2026-08-25T02:55:24Z"
     },
     {
       "id": 48127781,
@@ -26,19 +26,19 @@
       "stars": 2332,
       "forks": 271,
       "language": "Unknown",
-      "pushed_at": "2026-08-09T19:01:56Z",
-      "updated_at": "2026-08-24T16:42:19Z"
+      "pushed_at": "2026-08-25T04:14:21Z",
+      "updated_at": "2026-08-25T04:14:37Z"
     },
     {
       "id": 69400040,
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1654,
+      "stars": 1653,
       "forks": 613,
       "language": "Python",
       "pushed_at": "2026-08-21T15:16:03Z",
-      "updated_at": "2026-08-21T09:25:43Z"
+      "updated_at": "2026-08-25T01:46:08Z"
     },
     {
       "id": 109404010,
@@ -166,11 +166,11 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 131,
+      "stars": 132,
       "forks": 12,
       "language": "Unknown",
-      "pushed_at": "2026-08-23T07:54:46Z",
-      "updated_at": "2026-08-23T07:55:06Z"
+      "pushed_at": "2026-08-25T03:02:43Z",
+      "updated_at": "2026-08-25T03:21:47Z"
     }
   ]
 }
