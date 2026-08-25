@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4035,
+      "stars": 4039,
       "forks": 390,
       "language": "Rust",
-      "pushed_at": "2026-08-25T16:35:57Z",
-      "updated_at": "2026-08-25T16:37:23Z"
+      "pushed_at": "2026-08-25T20:20:48Z",
+      "updated_at": "2026-08-25T20:21:09Z"
     },
     {
       "id": 48127781,
@@ -37,7 +37,7 @@
       "stars": 1654,
       "forks": 613,
       "language": "Python",
-      "pushed_at": "2026-08-25T16:07:45Z",
+      "pushed_at": "2026-08-25T17:09:16Z",
       "updated_at": "2026-08-25T07:29:29Z"
     },
     {
@@ -67,22 +67,22 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1002,
+      "stars": 1004,
       "forks": 120,
       "language": "Python",
       "pushed_at": "2026-08-24T11:58:50Z",
-      "updated_at": "2026-08-24T16:05:30Z"
+      "updated_at": "2026-08-25T17:26:08Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 950,
+      "stars": 951,
       "forks": 124,
       "language": "C#",
-      "pushed_at": "2026-08-09T17:32:00Z",
-      "updated_at": "2026-08-24T12:11:55Z"
+      "pushed_at": "2026-08-25T18:00:42Z",
+      "updated_at": "2026-08-25T19:47:11Z"
     },
     {
       "id": 132757250,
@@ -123,7 +123,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 303,
-      "forks": 84,
+      "forks": 83,
       "language": "JavaScript",
       "pushed_at": "2026-08-24T08:23:58Z",
       "updated_at": "2026-08-24T08:25:32Z"
