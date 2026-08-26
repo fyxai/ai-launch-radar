@@ -15,19 +15,19 @@
       "stars": 4041,
       "forks": 390,
       "language": "Rust",
-      "pushed_at": "2026-08-26T01:20:05Z",
-      "updated_at": "2026-08-26T00:07:49Z"
+      "pushed_at": "2026-08-26T04:27:35Z",
+      "updated_at": "2026-08-26T01:24:07Z"
     },
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2332,
+      "stars": 2333,
       "forks": 272,
       "language": "Unknown",
       "pushed_at": "2026-08-25T04:14:21Z",
-      "updated_at": "2026-08-25T04:14:37Z"
+      "updated_at": "2026-08-26T02:38:11Z"
     },
     {
       "id": 69400040,
@@ -37,8 +37,8 @@
       "stars": 1654,
       "forks": 613,
       "language": "Python",
-      "pushed_at": "2026-08-25T17:09:16Z",
-      "updated_at": "2026-08-25T07:29:29Z"
+      "pushed_at": "2026-08-26T01:52:25Z",
+      "updated_at": "2026-08-26T01:45:48Z"
     },
     {
       "id": 109404010,
@@ -100,11 +100,11 @@
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 524,
+      "stars": 525,
       "forks": 13,
       "language": "Swift",
       "pushed_at": "2026-08-25T06:54:17Z",
-      "updated_at": "2026-08-25T06:55:40Z"
+      "updated_at": "2026-08-26T04:03:58Z"
     },
     {
       "id": 1297386391,
