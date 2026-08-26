@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4041,
+      "stars": 4042,
       "forks": 390,
       "language": "Rust",
       "pushed_at": "2026-08-26T04:27:35Z",
-      "updated_at": "2026-08-26T01:24:07Z"
+      "updated_at": "2026-08-26T06:52:54Z"
     },
     {
       "id": 48127781,
@@ -107,17 +107,6 @@
       "updated_at": "2026-08-26T04:03:58Z"
     },
     {
-      "id": 1297386391,
-      "full_name": "djfksjd/ir-search",
-      "html_url": "https://github.com/djfksjd/ir-search",
-      "description": "🇰🇷 한국 정부 지원사업 전수조사 에이전트 스킬 [Claude Code·Codex·agy(Antigravity)·Cursor·Gemini CLI·Grok Build 지원] K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 즉시/로드맵/변형 3분류 (Korea-only)",
-      "stars": 361,
-      "forks": 84,
-      "language": "Python",
-      "pushed_at": "2026-07-30T08:10:40Z",
-      "updated_at": "2026-08-21T06:20:38Z"
-    },
-    {
       "id": 72835816,
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
@@ -171,6 +160,17 @@
       "language": "TypeScript",
       "pushed_at": "2026-08-24T10:15:30Z",
       "updated_at": "2026-08-25T01:10:23Z"
+    },
+    {
+      "id": 1179396737,
+      "full_name": "doanbactam/awesome-builder-programs",
+      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
+      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
+      "stars": 133,
+      "forks": 12,
+      "language": "Unknown",
+      "pushed_at": "2026-08-26T02:26:46Z",
+      "updated_at": "2026-08-26T02:26:51Z"
     }
   ]
 }
