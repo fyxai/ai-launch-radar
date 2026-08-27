@@ -12,33 +12,33 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4062,
-      "forks": 389,
+      "stars": 4069,
+      "forks": 393,
       "language": "Rust",
-      "pushed_at": "2026-08-27T03:48:18Z",
-      "updated_at": "2026-08-27T07:50:30Z"
+      "pushed_at": "2026-08-27T21:46:53Z",
+      "updated_at": "2026-08-27T21:40:38Z"
     },
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2333,
-      "forks": 272,
+      "stars": 2334,
+      "forks": 271,
       "language": "Unknown",
       "pushed_at": "2026-08-26T21:03:38Z",
-      "updated_at": "2026-08-26T22:12:58Z"
+      "updated_at": "2026-08-27T20:42:28Z"
     },
     {
       "id": 69400040,
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1654,
+      "stars": 1653,
       "forks": 613,
       "language": "Python",
       "pushed_at": "2026-08-26T01:52:25Z",
-      "updated_at": "2026-08-26T01:45:48Z"
+      "updated_at": "2026-08-27T14:50:08Z"
     },
     {
       "id": 109404010,
@@ -56,33 +56,33 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1048,
+      "stars": 1049,
       "forks": 275,
       "language": "Unknown",
       "pushed_at": "2026-08-21T05:24:48Z",
-      "updated_at": "2026-08-26T10:30:52Z"
+      "updated_at": "2026-08-27T10:17:41Z"
     },
     {
       "id": 1298346646,
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1010,
+      "stars": 1013,
       "forks": 120,
       "language": "Python",
       "pushed_at": "2026-08-24T11:58:50Z",
-      "updated_at": "2026-08-27T07:05:16Z"
+      "updated_at": "2026-08-27T14:32:47Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 951,
-      "forks": 124,
+      "stars": 952,
+      "forks": 126,
       "language": "C#",
       "pushed_at": "2026-08-25T18:00:42Z",
-      "updated_at": "2026-08-25T19:47:11Z"
+      "updated_at": "2026-08-27T15:54:23Z"
     },
     {
       "id": 132757250,
@@ -133,22 +133,22 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 248,
-      "forks": 26,
+      "stars": 251,
+      "forks": 27,
       "language": "Unknown",
-      "pushed_at": "2026-08-24T07:31:52Z",
-      "updated_at": "2026-08-27T02:08:14Z"
+      "pushed_at": "2026-08-27T08:35:23Z",
+      "updated_at": "2026-08-27T20:01:02Z"
     },
     {
       "id": 1257010968,
       "full_name": "acogood/diffmode_free",
       "html_url": "https://github.com/acogood/diffmode_free",
       "description": "Free guerrilla growth tactics for startups, the kind your competitors won't come up with on their own. Runs in Claude Code or Codex: competitor read, buyer map, and 7 to 9 low-budget plays. ~90 min, local, Apache-2.0.",
-      "stars": 160,
+      "stars": 159,
       "forks": 0,
       "language": "Python",
       "pushed_at": "2026-08-10T19:32:56Z",
-      "updated_at": "2026-08-21T18:52:00Z"
+      "updated_at": "2026-08-27T21:34:44Z"
     },
     {
       "id": 780027215,
