@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4087,
-      "forks": 396,
+      "stars": 4091,
+      "forks": 398,
       "language": "Rust",
-      "pushed_at": "2026-08-28T21:40:14Z",
-      "updated_at": "2026-08-28T21:40:27Z"
+      "pushed_at": "2026-08-29T04:49:58Z",
+      "updated_at": "2026-08-29T05:44:07Z"
     },
     {
       "id": 48127781,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1050,
-      "forks": 274,
+      "forks": 275,
       "language": "Unknown",
       "pushed_at": "2026-08-21T05:24:48Z",
       "updated_at": "2026-08-28T15:31:46Z"
@@ -78,11 +78,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 953,
+      "stars": 954,
       "forks": 126,
       "language": "C#",
       "pushed_at": "2026-08-25T18:00:42Z",
-      "updated_at": "2026-08-28T03:07:45Z"
+      "updated_at": "2026-08-28T23:11:00Z"
     },
     {
       "id": 132757250,
@@ -133,11 +133,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 253,
+      "stars": 254,
       "forks": 27,
       "language": "Unknown",
       "pushed_at": "2026-08-27T08:35:23Z",
-      "updated_at": "2026-08-28T19:50:24Z"
+      "updated_at": "2026-08-29T02:30:40Z"
     },
     {
       "id": 1257010968,
