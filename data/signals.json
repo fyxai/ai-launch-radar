@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4095,
+      "stars": 4096,
       "forks": 398,
       "language": "Rust",
-      "pushed_at": "2026-08-29T12:49:37Z",
-      "updated_at": "2026-08-29T12:37:48Z"
+      "pushed_at": "2026-08-29T18:26:35Z",
+      "updated_at": "2026-08-29T18:22:59Z"
     },
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2334,
+      "stars": 2335,
       "forks": 270,
       "language": "Unknown",
       "pushed_at": "2026-08-26T21:03:38Z",
-      "updated_at": "2026-08-28T15:51:24Z"
+      "updated_at": "2026-08-29T18:13:57Z"
     },
     {
       "id": 69400040,
@@ -56,22 +56,22 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1051,
+      "stars": 1052,
       "forks": 275,
       "language": "Unknown",
       "pushed_at": "2026-08-21T05:24:48Z",
-      "updated_at": "2026-08-29T12:47:35Z"
+      "updated_at": "2026-08-29T15:16:06Z"
     },
     {
       "id": 1298346646,
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1015,
+      "stars": 1016,
       "forks": 120,
       "language": "Python",
       "pushed_at": "2026-08-24T11:58:50Z",
-      "updated_at": "2026-08-29T10:59:17Z"
+      "updated_at": "2026-08-29T16:14:29Z"
     },
     {
       "id": 158286982,
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 303,
-      "forks": 83,
+      "forks": 84,
       "language": "JavaScript",
       "pushed_at": "2026-08-29T13:26:22Z",
       "updated_at": "2026-08-29T13:27:22Z"
