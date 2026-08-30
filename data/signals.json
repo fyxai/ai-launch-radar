@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4106,
-      "forks": 400,
+      "stars": 4114,
+      "forks": 401,
       "language": "Rust",
-      "pushed_at": "2026-08-30T04:47:09Z",
-      "updated_at": "2026-08-30T12:21:01Z"
+      "pushed_at": "2026-08-30T18:47:42Z",
+      "updated_at": "2026-08-30T18:31:30Z"
     },
     {
       "id": 48127781,
@@ -34,11 +34,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1653,
+      "stars": 1652,
       "forks": 613,
       "language": "Python",
       "pushed_at": "2026-08-26T01:52:25Z",
-      "updated_at": "2026-08-27T14:50:08Z"
+      "updated_at": "2026-08-30T16:37:05Z"
     },
     {
       "id": 109404010,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1051,
-      "forks": 277,
+      "forks": 278,
       "language": "Unknown",
       "pushed_at": "2026-08-21T05:24:48Z",
       "updated_at": "2026-08-30T09:51:33Z"
@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1018,
+      "stars": 1019,
       "forks": 120,
       "language": "Python",
       "pushed_at": "2026-08-24T11:58:50Z",
-      "updated_at": "2026-08-30T10:21:24Z"
+      "updated_at": "2026-08-30T14:03:29Z"
     },
     {
       "id": 158286982,
