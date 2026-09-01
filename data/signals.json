@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4144,
-      "forks": 400,
+      "stars": 4152,
+      "forks": 401,
       "language": "Rust",
-      "pushed_at": "2026-08-31T21:20:53Z",
-      "updated_at": "2026-08-31T21:06:35Z"
+      "pushed_at": "2026-09-01T02:12:28Z",
+      "updated_at": "2026-09-01T03:04:50Z"
     },
     {
       "id": 48127781,
@@ -89,11 +89,11 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 601,
+      "stars": 602,
       "forks": 76,
       "language": "JavaScript",
       "pushed_at": "2026-08-02T17:19:49Z",
-      "updated_at": "2026-08-22T22:35:49Z"
+      "updated_at": "2026-08-31T21:22:49Z"
     },
     {
       "id": 922299292,
@@ -144,11 +144,11 @@
       "full_name": "acogood/diffmode_free",
       "html_url": "https://github.com/acogood/diffmode_free",
       "description": "Free guerrilla growth tactics for startups, the kind your competitors won't come up with on their own. Runs in Claude Code or Codex: competitor read, buyer map, and 7 to 9 low-budget plays. ~90 min, local, Apache-2.0.",
-      "stars": 159,
+      "stars": 160,
       "forks": 0,
       "language": "Python",
       "pushed_at": "2026-08-10T19:32:56Z",
-      "updated_at": "2026-08-27T21:34:44Z"
+      "updated_at": "2026-09-01T02:59:44Z"
     },
     {
       "id": 780027215,
