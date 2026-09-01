@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4165,
-      "forks": 403,
+      "stars": 4170,
+      "forks": 405,
       "language": "Rust",
-      "pushed_at": "2026-09-01T13:06:55Z",
-      "updated_at": "2026-09-01T11:49:34Z"
+      "pushed_at": "2026-09-01T19:08:31Z",
+      "updated_at": "2026-09-01T18:58:16Z"
     },
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2336,
+      "stars": 2337,
       "forks": 270,
       "language": "Unknown",
       "pushed_at": "2026-08-26T21:03:38Z",
-      "updated_at": "2026-08-31T17:06:36Z"
+      "updated_at": "2026-09-01T16:02:21Z"
     },
     {
       "id": 69400040,
@@ -35,7 +35,7 @@
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
       "stars": 1652,
-      "forks": 613,
+      "forks": 612,
       "language": "Python",
       "pushed_at": "2026-08-26T01:52:25Z",
       "updated_at": "2026-08-30T16:37:05Z"
@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1022,
+      "stars": 1023,
       "forks": 121,
       "language": "Python",
       "pushed_at": "2026-08-24T11:58:50Z",
-      "updated_at": "2026-09-01T09:56:39Z"
+      "updated_at": "2026-09-01T18:57:55Z"
     },
     {
       "id": 158286982,
@@ -133,11 +133,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 261,
+      "stars": 262,
       "forks": 27,
       "language": "Unknown",
       "pushed_at": "2026-08-31T14:02:05Z",
-      "updated_at": "2026-08-31T19:02:47Z"
+      "updated_at": "2026-09-01T15:09:21Z"
     },
     {
       "id": 1257010968,
