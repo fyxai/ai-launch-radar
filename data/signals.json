@@ -5,29 +5,29 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 94,
+  "total_found": 93,
   "items": [
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4173,
-      "forks": 407,
+      "stars": 4175,
+      "forks": 408,
       "language": "Rust",
-      "pushed_at": "2026-09-02T04:30:18Z",
-      "updated_at": "2026-09-02T07:38:05Z"
+      "pushed_at": "2026-09-02T16:05:27Z",
+      "updated_at": "2026-09-02T15:49:45Z"
     },
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2339,
-      "forks": 271,
+      "stars": 2340,
+      "forks": 270,
       "language": "Unknown",
       "pushed_at": "2026-08-26T21:03:38Z",
-      "updated_at": "2026-09-02T03:46:41Z"
+      "updated_at": "2026-09-02T13:20:04Z"
     },
     {
       "id": 69400040,
@@ -56,11 +56,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1055,
+      "stars": 1056,
       "forks": 276,
       "language": "Unknown",
       "pushed_at": "2026-09-01T04:14:58Z",
-      "updated_at": "2026-09-01T20:52:15Z"
+      "updated_at": "2026-09-02T13:35:45Z"
     },
     {
       "id": 1298346646,
@@ -78,11 +78,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 954,
+      "stars": 955,
       "forks": 127,
       "language": "C#",
       "pushed_at": "2026-08-25T18:00:42Z",
-      "updated_at": "2026-08-28T23:11:00Z"
+      "updated_at": "2026-09-02T14:03:55Z"
     },
     {
       "id": 132757250,
@@ -112,10 +112,10 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 302,
-      "forks": 84,
+      "forks": 85,
       "language": "JavaScript",
-      "pushed_at": "2026-08-31T16:45:58Z",
-      "updated_at": "2026-08-31T17:25:40Z"
+      "pushed_at": "2026-09-02T14:22:16Z",
+      "updated_at": "2026-09-02T14:37:44Z"
     },
     {
       "id": 564457094,
@@ -155,11 +155,11 @@
       "full_name": "AayushBharti/ai-saas-landing-starter",
       "html_url": "https://github.com/AayushBharti/ai-saas-landing-starter",
       "description": "🌈 Modern AI SaaS landing page with sleek parallax effects and bento box layouts.",
-      "stars": 137,
+      "stars": 138,
       "forks": 21,
       "language": "TypeScript",
       "pushed_at": "2026-08-24T10:15:30Z",
-      "updated_at": "2026-08-29T06:50:08Z"
+      "updated_at": "2026-09-02T11:17:38Z"
     },
     {
       "id": 1179396737,
