@@ -13,21 +13,21 @@
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "stars": 4187,
-      "forks": 408,
+      "forks": 409,
       "language": "Rust",
-      "pushed_at": "2026-09-03T15:57:19Z",
-      "updated_at": "2026-09-03T15:57:08Z"
+      "pushed_at": "2026-09-03T19:03:43Z",
+      "updated_at": "2026-09-03T18:57:19Z"
     },
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2340,
+      "stars": 2341,
       "forks": 270,
       "language": "Unknown",
       "pushed_at": "2026-08-26T21:03:38Z",
-      "updated_at": "2026-09-03T10:59:55Z"
+      "updated_at": "2026-09-03T16:17:36Z"
     },
     {
       "id": 69400040,
@@ -100,11 +100,11 @@
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 525,
+      "stars": 524,
       "forks": 14,
       "language": "Swift",
       "pushed_at": "2026-08-31T07:17:33Z",
-      "updated_at": "2026-08-31T07:19:59Z"
+      "updated_at": "2026-09-03T17:52:58Z"
     },
     {
       "id": 72835816,
@@ -133,11 +133,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 263,
+      "stars": 264,
       "forks": 27,
       "language": "Unknown",
       "pushed_at": "2026-08-31T14:02:05Z",
-      "updated_at": "2026-09-03T15:07:28Z"
+      "updated_at": "2026-09-03T19:11:01Z"
     },
     {
       "id": 1257010968,
