@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4184,
-      "forks": 407,
+      "stars": 4187,
+      "forks": 408,
       "language": "Rust",
-      "pushed_at": "2026-09-03T03:35:03Z",
-      "updated_at": "2026-09-03T07:28:08Z"
+      "pushed_at": "2026-09-03T15:57:19Z",
+      "updated_at": "2026-09-03T15:57:08Z"
     },
     {
       "id": 48127781,
@@ -27,7 +27,7 @@
       "forks": 270,
       "language": "Unknown",
       "pushed_at": "2026-08-26T21:03:38Z",
-      "updated_at": "2026-09-02T13:20:04Z"
+      "updated_at": "2026-09-03T10:59:55Z"
     },
     {
       "id": 69400040,
@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1026,
+      "stars": 1027,
       "forks": 121,
       "language": "Python",
       "pushed_at": "2026-08-24T11:58:50Z",
-      "updated_at": "2026-09-02T06:20:59Z"
+      "updated_at": "2026-09-03T11:59:45Z"
     },
     {
       "id": 158286982,
@@ -133,11 +133,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 262,
+      "stars": 263,
       "forks": 27,
       "language": "Unknown",
       "pushed_at": "2026-08-31T14:02:05Z",
-      "updated_at": "2026-09-03T04:53:33Z"
+      "updated_at": "2026-09-03T15:07:28Z"
     },
     {
       "id": 1257010968,
