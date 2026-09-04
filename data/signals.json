@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4192,
-      "forks": 410,
+      "stars": 4196,
+      "forks": 412,
       "language": "Rust",
-      "pushed_at": "2026-09-04T03:20:38Z",
-      "updated_at": "2026-09-04T01:36:01Z"
+      "pushed_at": "2026-09-04T04:10:42Z",
+      "updated_at": "2026-09-04T06:04:34Z"
     },
     {
       "id": 48127781,
@@ -35,7 +35,7 @@
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
       "stars": 1652,
-      "forks": 612,
+      "forks": 613,
       "language": "Python",
       "pushed_at": "2026-08-26T01:52:25Z",
       "updated_at": "2026-08-30T16:37:05Z"
