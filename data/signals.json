@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4198,
+      "stars": 4199,
       "forks": 412,
       "language": "Rust",
-      "pushed_at": "2026-09-04T15:52:37Z",
-      "updated_at": "2026-09-04T15:08:32Z"
+      "pushed_at": "2026-09-04T18:50:06Z",
+      "updated_at": "2026-09-04T18:33:32Z"
     },
     {
       "id": 48127781,
@@ -85,15 +85,15 @@
       "updated_at": "2026-09-02T14:03:55Z"
     },
     {
-      "id": 132757250,
-      "full_name": "charlax/entrepreneurship-resources",
-      "html_url": "https://github.com/charlax/entrepreneurship-resources",
-      "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 602,
-      "forks": 76,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-02T17:19:49Z",
-      "updated_at": "2026-08-31T21:22:49Z"
+      "id": 218981625,
+      "full_name": "ravi-ojha/startuptoolbox",
+      "html_url": "https://github.com/ravi-ojha/startuptoolbox",
+      "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
+      "stars": 532,
+      "forks": 82,
+      "language": "Unknown",
+      "pushed_at": "2026-09-04T18:37:07Z",
+      "updated_at": "2026-09-04T18:37:13Z"
     },
     {
       "id": 922299292,
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 303,
-      "forks": 85,
+      "forks": 86,
       "language": "JavaScript",
       "pushed_at": "2026-09-02T14:22:16Z",
       "updated_at": "2026-09-03T22:30:25Z"
