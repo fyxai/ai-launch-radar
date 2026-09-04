@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4188,
-      "forks": 409,
+      "stars": 4192,
+      "forks": 410,
       "language": "Rust",
-      "pushed_at": "2026-09-03T22:12:11Z",
-      "updated_at": "2026-09-03T21:12:08Z"
+      "pushed_at": "2026-09-04T03:20:38Z",
+      "updated_at": "2026-09-04T01:36:01Z"
     },
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2341,
+      "stars": 2342,
       "forks": 270,
       "language": "Unknown",
       "pushed_at": "2026-08-26T21:03:38Z",
-      "updated_at": "2026-09-03T16:17:36Z"
+      "updated_at": "2026-09-04T00:49:27Z"
     },
     {
       "id": 69400040,
@@ -56,11 +56,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1057,
-      "forks": 277,
+      "stars": 1058,
+      "forks": 278,
       "language": "Unknown",
       "pushed_at": "2026-09-01T04:14:58Z",
-      "updated_at": "2026-09-03T22:04:52Z"
+      "updated_at": "2026-09-04T00:41:42Z"
     },
     {
       "id": 1298346646,
@@ -111,11 +111,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 302,
+      "stars": 303,
       "forks": 85,
       "language": "JavaScript",
       "pushed_at": "2026-09-02T14:22:16Z",
-      "updated_at": "2026-09-02T14:37:44Z"
+      "updated_at": "2026-09-03T22:30:25Z"
     },
     {
       "id": 564457094,
@@ -166,11 +166,11 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 133,
+      "stars": 135,
       "forks": 12,
       "language": "Unknown",
-      "pushed_at": "2026-08-30T20:09:12Z",
-      "updated_at": "2026-08-30T20:09:27Z"
+      "pushed_at": "2026-09-04T02:11:31Z",
+      "updated_at": "2026-09-04T02:11:35Z"
     }
   ]
 }
