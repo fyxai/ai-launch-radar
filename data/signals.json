@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4199,
+      "stars": 4200,
       "forks": 412,
       "language": "Rust",
-      "pushed_at": "2026-09-04T21:50:38Z",
-      "updated_at": "2026-09-04T19:46:20Z"
+      "pushed_at": "2026-09-05T03:25:29Z",
+      "updated_at": "2026-09-05T03:23:08Z"
     },
     {
       "id": 48127781,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1058,
-      "forks": 278,
+      "forks": 277,
       "language": "Unknown",
       "pushed_at": "2026-09-01T04:14:58Z",
       "updated_at": "2026-09-04T00:41:42Z"
@@ -78,11 +78,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 955,
+      "stars": 956,
       "forks": 127,
       "language": "C#",
       "pushed_at": "2026-08-25T18:00:42Z",
-      "updated_at": "2026-09-02T14:03:55Z"
+      "updated_at": "2026-09-05T01:21:21Z"
     },
     {
       "id": 218981625,
@@ -111,11 +111,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 303,
+      "stars": 302,
       "forks": 86,
       "language": "JavaScript",
       "pushed_at": "2026-09-02T14:22:16Z",
-      "updated_at": "2026-09-03T22:30:25Z"
+      "updated_at": "2026-09-05T03:00:27Z"
     },
     {
       "id": 564457094,
