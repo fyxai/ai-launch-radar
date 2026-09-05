@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4200,
-      "forks": 412,
+      "stars": 4202,
+      "forks": 413,
       "language": "Rust",
-      "pushed_at": "2026-09-05T03:25:29Z",
-      "updated_at": "2026-09-05T03:23:08Z"
+      "pushed_at": "2026-09-05T06:37:58Z",
+      "updated_at": "2026-09-05T08:04:49Z"
     },
     {
       "id": 48127781,
@@ -48,8 +48,8 @@
       "stars": 1581,
       "forks": 96,
       "language": "JavaScript",
-      "pushed_at": "2026-08-31T17:31:19Z",
-      "updated_at": "2026-08-31T18:00:45Z"
+      "pushed_at": "2026-09-05T05:24:21Z",
+      "updated_at": "2026-09-05T05:24:23Z"
     },
     {
       "id": 76633312,
@@ -111,11 +111,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 302,
-      "forks": 86,
+      "stars": 303,
+      "forks": 87,
       "language": "JavaScript",
       "pushed_at": "2026-09-02T14:22:16Z",
-      "updated_at": "2026-09-05T03:00:27Z"
+      "updated_at": "2026-09-05T06:38:12Z"
     },
     {
       "id": 564457094,
