@@ -15,7 +15,7 @@
       "stars": 4215,
       "forks": 414,
       "language": "Rust",
-      "pushed_at": "2026-09-06T17:34:46Z",
+      "pushed_at": "2026-09-06T21:41:24Z",
       "updated_at": "2026-09-06T16:19:05Z"
     },
     {
@@ -23,11 +23,11 @@
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2342,
+      "stars": 2343,
       "forks": 273,
       "language": "Unknown",
       "pushed_at": "2026-08-26T21:03:38Z",
-      "updated_at": "2026-09-04T00:49:27Z"
+      "updated_at": "2026-09-06T18:08:12Z"
     },
     {
       "id": 69400040,
@@ -81,8 +81,8 @@
       "stars": 954,
       "forks": 127,
       "language": "C#",
-      "pushed_at": "2026-08-25T18:00:42Z",
-      "updated_at": "2026-09-05T21:25:29Z"
+      "pushed_at": "2026-09-06T18:09:50Z",
+      "updated_at": "2026-09-06T18:09:57Z"
     },
     {
       "id": 218981625,
@@ -90,7 +90,7 @@
       "html_url": "https://github.com/ravi-ojha/startuptoolbox",
       "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
       "stars": 532,
-      "forks": 82,
+      "forks": 83,
       "language": "Unknown",
       "pushed_at": "2026-09-04T18:37:07Z",
       "updated_at": "2026-09-04T18:37:13Z"
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 303,
-      "forks": 88,
+      "forks": 89,
       "language": "JavaScript",
       "pushed_at": "2026-09-05T20:38:12Z",
       "updated_at": "2026-09-05T20:38:16Z"
