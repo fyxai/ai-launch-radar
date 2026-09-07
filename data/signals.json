@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4233,
-      "forks": 415,
+      "stars": 4239,
+      "forks": 414,
       "language": "Rust",
-      "pushed_at": "2026-09-07T16:37:27Z",
-      "updated_at": "2026-09-07T17:11:16Z"
+      "pushed_at": "2026-09-07T22:19:43Z",
+      "updated_at": "2026-09-07T21:42:35Z"
     },
     {
       "id": 48127781,
@@ -78,11 +78,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 954,
+      "stars": 955,
       "forks": 127,
       "language": "C#",
       "pushed_at": "2026-09-06T18:09:50Z",
-      "updated_at": "2026-09-06T18:09:57Z"
+      "updated_at": "2026-09-07T21:15:44Z"
     },
     {
       "id": 218981625,
@@ -162,15 +162,15 @@
       "updated_at": "2026-09-05T13:32:08Z"
     },
     {
-      "id": 1323560068,
-      "full_name": "huanghe/startup-equity-guide",
-      "html_url": "https://github.com/huanghe/startup-equity-guide",
-      "description": "你手里的期权到底能不能拿走？机制拆解、四起实名案例、找律师实操手册，以及一份裁判文书数据研究。",
-      "stars": 110,
-      "forks": 5,
-      "language": "HTML",
-      "pushed_at": "2026-08-20T08:46:52Z",
-      "updated_at": "2026-08-30T03:35:22Z"
+      "id": 1359081910,
+      "full_name": "alvinunreal/awesome-submitlist",
+      "html_url": "https://github.com/alvinunreal/awesome-submitlist",
+      "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
+      "stars": 111,
+      "forks": 4,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-07T12:26:47Z",
+      "updated_at": "2026-09-07T21:53:34Z"
     }
   ]
 }
