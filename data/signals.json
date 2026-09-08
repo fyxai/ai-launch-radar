@@ -13,10 +13,10 @@
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "stars": 4247,
-      "forks": 414,
+      "forks": 415,
       "language": "Rust",
-      "pushed_at": "2026-09-08T16:10:28Z",
-      "updated_at": "2026-09-08T16:04:57Z"
+      "pushed_at": "2026-09-08T22:24:10Z",
+      "updated_at": "2026-09-08T21:56:12Z"
     },
     {
       "id": 48127781,
@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1032,
-      "forks": 122,
+      "stars": 1033,
+      "forks": 123,
       "language": "Python",
       "pushed_at": "2026-08-24T11:58:50Z",
-      "updated_at": "2026-09-07T11:08:20Z"
+      "updated_at": "2026-09-08T21:24:42Z"
     },
     {
       "id": 158286982,
@@ -89,11 +89,11 @@
       "full_name": "ravi-ojha/startuptoolbox",
       "html_url": "https://github.com/ravi-ojha/startuptoolbox",
       "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
-      "stars": 532,
+      "stars": 533,
       "forks": 83,
       "language": "Unknown",
       "pushed_at": "2026-09-04T18:37:07Z",
-      "updated_at": "2026-09-04T18:37:13Z"
+      "updated_at": "2026-09-08T17:39:15Z"
     },
     {
       "id": 922299292,
@@ -129,15 +129,15 @@
       "updated_at": "2026-09-08T06:44:05Z"
     },
     {
-      "id": 1257010968,
-      "full_name": "acogood/diffmode_free",
-      "html_url": "https://github.com/acogood/diffmode_free",
-      "description": "Free guerrilla growth tactics for startups, the kind your competitors won't come up with on their own. Runs in Claude Code or Codex: competitor read, buyer map, and 7 to 9 low-budget plays. ~90 min, local, Apache-2.0.",
-      "stars": 161,
-      "forks": 0,
-      "language": "Python",
-      "pushed_at": "2026-08-10T19:32:56Z",
-      "updated_at": "2026-09-04T10:31:30Z"
+      "id": 994132867,
+      "full_name": "DirectorySurf/awesome-launch-platforms",
+      "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
+      "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
+      "stars": 253,
+      "forks": 47,
+      "language": "Unknown",
+      "pushed_at": "2026-09-08T19:21:44Z",
+      "updated_at": "2026-09-08T19:27:10Z"
     },
     {
       "id": 780027215,
@@ -166,11 +166,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 112,
+      "stars": 113,
       "forks": 4,
       "language": "JavaScript",
       "pushed_at": "2026-09-07T12:26:47Z",
-      "updated_at": "2026-09-08T08:22:08Z"
+      "updated_at": "2026-09-08T21:53:08Z"
     }
   ]
 }
