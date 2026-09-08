@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4240,
+      "stars": 4245,
       "forks": 414,
       "language": "Rust",
-      "pushed_at": "2026-09-08T02:52:24Z",
-      "updated_at": "2026-09-08T03:31:26Z"
+      "pushed_at": "2026-09-08T04:12:03Z",
+      "updated_at": "2026-09-08T07:16:55Z"
     },
     {
       "id": 48127781,
@@ -27,7 +27,7 @@
       "forks": 272,
       "language": "Unknown",
       "pushed_at": "2026-08-26T21:03:38Z",
-      "updated_at": "2026-09-07T11:41:59Z"
+      "updated_at": "2026-09-08T04:48:35Z"
     },
     {
       "id": 69400040,
@@ -78,11 +78,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 955,
+      "stars": 954,
       "forks": 127,
       "language": "C#",
       "pushed_at": "2026-09-06T18:09:50Z",
-      "updated_at": "2026-09-07T21:15:44Z"
+      "updated_at": "2026-09-08T06:34:00Z"
     },
     {
       "id": 218981625,
@@ -122,11 +122,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 267,
+      "stars": 268,
       "forks": 27,
       "language": "Unknown",
       "pushed_at": "2026-09-07T12:43:33Z",
-      "updated_at": "2026-09-07T15:21:20Z"
+      "updated_at": "2026-09-08T06:44:05Z"
     },
     {
       "id": 1257010968,
@@ -170,7 +170,7 @@
       "forks": 4,
       "language": "JavaScript",
       "pushed_at": "2026-09-07T12:26:47Z",
-      "updated_at": "2026-09-08T03:30:30Z"
+      "updated_at": "2026-09-08T08:22:08Z"
     }
   ]
 }
