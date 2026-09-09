@@ -12,22 +12,33 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4257,
-      "forks": 408,
+      "stars": 4264,
+      "forks": 406,
       "language": "Rust",
-      "pushed_at": "2026-09-09T15:58:44Z",
-      "updated_at": "2026-09-09T15:51:01Z"
+      "pushed_at": "2026-09-09T22:18:39Z",
+      "updated_at": "2026-09-09T21:27:13Z"
     },
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2345,
-      "forks": 273,
+      "stars": 2346,
+      "forks": 274,
       "language": "Unknown",
       "pushed_at": "2026-08-26T21:03:38Z",
-      "updated_at": "2026-09-09T13:07:34Z"
+      "updated_at": "2026-09-09T16:23:23Z"
+    },
+    {
+      "id": 282588655,
+      "full_name": "Divide-By-0/ideas-for-projects-people-would-use",
+      "html_url": "https://github.com/Divide-By-0/ideas-for-projects-people-would-use",
+      "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
+      "stars": 2170,
+      "forks": 93,
+      "language": "Unknown",
+      "pushed_at": "2026-09-09T22:07:36Z",
+      "updated_at": "2026-09-09T22:07:45Z"
     },
     {
       "id": 69400040,
@@ -38,7 +49,7 @@
       "forks": 614,
       "language": "Python",
       "pushed_at": "2026-08-26T01:52:25Z",
-      "updated_at": "2026-08-30T16:37:05Z"
+      "updated_at": "2026-09-09T18:58:00Z"
     },
     {
       "id": 109404010,
@@ -67,11 +78,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1034,
+      "stars": 1035,
       "forks": 123,
       "language": "Python",
       "pushed_at": "2026-08-24T11:58:50Z",
-      "updated_at": "2026-09-09T05:41:55Z"
+      "updated_at": "2026-09-09T18:40:41Z"
     },
     {
       "id": 158286982,
@@ -160,17 +171,6 @@
       "language": "Unknown",
       "pushed_at": "2026-09-08T02:05:50Z",
       "updated_at": "2026-09-08T02:06:33Z"
-    },
-    {
-      "id": 1359081910,
-      "full_name": "alvinunreal/awesome-submitlist",
-      "html_url": "https://github.com/alvinunreal/awesome-submitlist",
-      "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 115,
-      "forks": 4,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-07T12:26:47Z",
-      "updated_at": "2026-09-09T05:48:26Z"
     }
   ]
 }
