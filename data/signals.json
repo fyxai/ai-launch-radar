@@ -5,29 +5,29 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 94,
+  "total_found": 95,
   "items": [
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4252,
-      "forks": 406,
+      "stars": 4257,
+      "forks": 408,
       "language": "Rust",
-      "pushed_at": "2026-09-09T04:22:25Z",
-      "updated_at": "2026-09-09T07:19:01Z"
+      "pushed_at": "2026-09-09T15:58:44Z",
+      "updated_at": "2026-09-09T15:51:01Z"
     },
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2344,
-      "forks": 272,
+      "stars": 2345,
+      "forks": 273,
       "language": "Unknown",
       "pushed_at": "2026-08-26T21:03:38Z",
-      "updated_at": "2026-09-08T04:48:35Z"
+      "updated_at": "2026-09-09T13:07:34Z"
     },
     {
       "id": 69400040,
@@ -79,7 +79,7 @@
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
       "stars": 953,
-      "forks": 127,
+      "forks": 128,
       "language": "C#",
       "pushed_at": "2026-09-06T18:09:50Z",
       "updated_at": "2026-09-09T04:41:14Z"
@@ -122,11 +122,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 268,
+      "stars": 270,
       "forks": 27,
       "language": "Unknown",
       "pushed_at": "2026-09-07T12:43:33Z",
-      "updated_at": "2026-09-08T06:44:05Z"
+      "updated_at": "2026-09-09T13:44:05Z"
     },
     {
       "id": 994132867,
