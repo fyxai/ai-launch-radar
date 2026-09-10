@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4269,
+      "stars": 4274,
       "forks": 407,
       "language": "Rust",
-      "pushed_at": "2026-09-10T01:40:27Z",
-      "updated_at": "2026-09-10T08:40:19Z"
+      "pushed_at": "2026-09-10T15:57:37Z",
+      "updated_at": "2026-09-10T15:43:21Z"
     },
     {
       "id": 48127781,
@@ -151,17 +151,6 @@
       "updated_at": "2026-09-08T19:27:10Z"
     },
     {
-      "id": 780027215,
-      "full_name": "AayushBharti/ai-saas-landing-starter",
-      "html_url": "https://github.com/AayushBharti/ai-saas-landing-starter",
-      "description": "🌈 Modern AI SaaS landing page with sleek parallax effects and bento box layouts.",
-      "stars": 139,
-      "forks": 21,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-24T10:15:30Z",
-      "updated_at": "2026-09-10T03:08:04Z"
-    },
-    {
       "id": 1179396737,
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
@@ -171,6 +160,17 @@
       "language": "Unknown",
       "pushed_at": "2026-09-10T06:28:56Z",
       "updated_at": "2026-09-08T02:06:33Z"
+    },
+    {
+      "id": 1359081910,
+      "full_name": "alvinunreal/awesome-submitlist",
+      "html_url": "https://github.com/alvinunreal/awesome-submitlist",
+      "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
+      "stars": 119,
+      "forks": 4,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-07T12:26:47Z",
+      "updated_at": "2026-09-10T15:53:10Z"
     }
   ]
 }
