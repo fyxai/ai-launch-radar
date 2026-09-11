@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4284,
+      "stars": 4288,
       "forks": 410,
       "language": "Rust",
-      "pushed_at": "2026-09-11T02:24:47Z",
-      "updated_at": "2026-09-11T05:48:01Z"
+      "pushed_at": "2026-09-11T16:00:21Z",
+      "updated_at": "2026-09-11T14:50:01Z"
     },
     {
       "id": 48127781,
@@ -133,11 +133,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 274,
+      "stars": 275,
       "forks": 27,
       "language": "Unknown",
       "pushed_at": "2026-09-07T12:43:33Z",
-      "updated_at": "2026-09-10T20:34:12Z"
+      "updated_at": "2026-09-11T14:04:08Z"
     },
     {
       "id": 994132867,
@@ -166,11 +166,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 120,
+      "stars": 121,
       "forks": 4,
       "language": "JavaScript",
       "pushed_at": "2026-09-07T12:26:47Z",
-      "updated_at": "2026-09-10T19:34:14Z"
+      "updated_at": "2026-09-11T12:24:23Z"
     }
   ]
 }
