@@ -5,29 +5,29 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 95,
+  "total_found": 96,
   "items": [
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4292,
+      "stars": 4294,
       "forks": 410,
       "language": "Rust",
       "pushed_at": "2026-09-11T23:33:29Z",
-      "updated_at": "2026-09-12T01:57:29Z"
+      "updated_at": "2026-09-12T06:17:38Z"
     },
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2347,
-      "forks": 275,
+      "stars": 2346,
+      "forks": 276,
       "language": "Unknown",
       "pushed_at": "2026-08-26T21:03:38Z",
-      "updated_at": "2026-09-10T06:25:17Z"
+      "updated_at": "2026-09-12T05:30:06Z"
     },
     {
       "id": 282588655,
@@ -72,17 +72,6 @@
       "language": "Unknown",
       "pushed_at": "2026-09-01T04:14:58Z",
       "updated_at": "2026-09-11T23:06:37Z"
-    },
-    {
-      "id": 1298346646,
-      "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
-      "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
-      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1035,
-      "forks": 123,
-      "language": "Python",
-      "pushed_at": "2026-08-24T11:58:50Z",
-      "updated_at": "2026-09-10T21:41:27Z"
     },
     {
       "id": 158286982,
@@ -166,11 +155,22 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 121,
+      "stars": 123,
       "forks": 4,
       "language": "JavaScript",
       "pushed_at": "2026-09-07T12:26:47Z",
-      "updated_at": "2026-09-11T12:24:23Z"
+      "updated_at": "2026-09-12T08:03:10Z"
+    },
+    {
+      "id": 1178461716,
+      "full_name": "ankitjha67/product-architect",
+      "html_url": "https://github.com/ankitjha67/product-architect",
+      "description": "The most comprehensive open-source product development system. 80 AI agents. 36 frameworks. Solo founder Day 0 → IPO.",
+      "stars": 109,
+      "forks": 23,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-02T10:56:39Z",
+      "updated_at": "2026-09-09T07:33:29Z"
     }
   ]
 }
