@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4299,
+      "stars": 4300,
       "forks": 410,
       "language": "Rust",
-      "pushed_at": "2026-09-12T16:31:24Z",
-      "updated_at": "2026-09-12T17:11:26Z"
+      "pushed_at": "2026-09-12T19:21:44Z",
+      "updated_at": "2026-09-12T20:42:41Z"
     },
     {
       "id": 48127781,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1062,
-      "forks": 281,
+      "forks": 282,
       "language": "Unknown",
       "pushed_at": "2026-09-01T04:14:58Z",
       "updated_at": "2026-09-12T15:46:06Z"
@@ -122,11 +122,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 276,
+      "stars": 277,
       "forks": 27,
       "language": "Unknown",
       "pushed_at": "2026-09-07T12:43:33Z",
-      "updated_at": "2026-09-11T22:00:05Z"
+      "updated_at": "2026-09-12T19:42:43Z"
     },
     {
       "id": 994132867,
@@ -167,7 +167,7 @@
       "html_url": "https://github.com/jplock/awesome-fintech",
       "description": "Curated list of awesome Fintech startup companies",
       "stars": 110,
-      "forks": 65,
+      "forks": 66,
       "language": "Unknown",
       "pushed_at": "2026-08-25T12:48:41Z",
       "updated_at": "2026-09-12T14:47:58Z"
