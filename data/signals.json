@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4294,
+      "stars": 4297,
       "forks": 410,
       "language": "Rust",
       "pushed_at": "2026-09-11T23:33:29Z",
-      "updated_at": "2026-09-12T06:17:38Z"
+      "updated_at": "2026-09-12T13:08:28Z"
     },
     {
       "id": 48127781,
@@ -45,11 +45,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1652,
+      "stars": 1653,
       "forks": 614,
       "language": "Python",
       "pushed_at": "2026-08-26T01:52:25Z",
-      "updated_at": "2026-09-09T18:58:00Z"
+      "updated_at": "2026-09-12T09:46:16Z"
     },
     {
       "id": 109404010,
@@ -67,22 +67,22 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1060,
-      "forks": 280,
+      "stars": 1061,
+      "forks": 281,
       "language": "Unknown",
       "pushed_at": "2026-09-01T04:14:58Z",
-      "updated_at": "2026-09-11T23:06:37Z"
+      "updated_at": "2026-09-12T13:02:46Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 953,
+      "stars": 954,
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-09-06T18:09:50Z",
-      "updated_at": "2026-09-09T04:41:14Z"
+      "updated_at": "2026-09-12T13:40:56Z"
     },
     {
       "id": 218981625,
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 303,
-      "forks": 90,
+      "forks": 91,
       "language": "JavaScript",
       "pushed_at": "2026-09-08T08:48:58Z",
       "updated_at": "2026-09-08T08:50:20Z"
@@ -155,22 +155,22 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 123,
+      "stars": 131,
       "forks": 4,
       "language": "JavaScript",
       "pushed_at": "2026-09-07T12:26:47Z",
-      "updated_at": "2026-09-12T08:03:10Z"
+      "updated_at": "2026-09-12T14:51:53Z"
     },
     {
-      "id": 1178461716,
-      "full_name": "ankitjha67/product-architect",
-      "html_url": "https://github.com/ankitjha67/product-architect",
-      "description": "The most comprehensive open-source product development system. 80 AI agents. 36 frameworks. Solo founder Day 0 → IPO.",
-      "stars": 109,
-      "forks": 23,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-02T10:56:39Z",
-      "updated_at": "2026-09-09T07:33:29Z"
+      "id": 477501459,
+      "full_name": "jplock/awesome-fintech",
+      "html_url": "https://github.com/jplock/awesome-fintech",
+      "description": "Curated list of awesome Fintech startup companies",
+      "stars": 110,
+      "forks": 65,
+      "language": "Unknown",
+      "pushed_at": "2026-08-25T12:48:41Z",
+      "updated_at": "2026-09-12T14:47:58Z"
     }
   ]
 }
