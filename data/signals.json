@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4300,
+      "stars": 4301,
       "forks": 410,
       "language": "Rust",
-      "pushed_at": "2026-09-12T19:21:44Z",
-      "updated_at": "2026-09-12T20:42:41Z"
+      "pushed_at": "2026-09-13T00:30:15Z",
+      "updated_at": "2026-09-12T23:43:27Z"
     },
     {
       "id": 48127781,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1062,
-      "forks": 282,
+      "forks": 283,
       "language": "Unknown",
       "pushed_at": "2026-09-01T04:14:58Z",
       "updated_at": "2026-09-12T15:46:06Z"
@@ -162,15 +162,15 @@
       "updated_at": "2026-09-12T03:29:13Z"
     },
     {
-      "id": 477501459,
-      "full_name": "jplock/awesome-fintech",
-      "html_url": "https://github.com/jplock/awesome-fintech",
-      "description": "Curated list of awesome Fintech startup companies",
+      "id": 1178461716,
+      "full_name": "ankitjha67/product-architect",
+      "html_url": "https://github.com/ankitjha67/product-architect",
+      "description": "The most comprehensive open-source product development system. 80 AI agents. 36 frameworks. Solo founder Day 0 → IPO.",
       "stars": 110,
-      "forks": 66,
-      "language": "Unknown",
-      "pushed_at": "2026-08-25T12:48:41Z",
-      "updated_at": "2026-09-12T14:47:58Z"
+      "forks": 23,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-02T10:56:39Z",
+      "updated_at": "2026-09-13T00:36:34Z"
     }
   ]
 }
