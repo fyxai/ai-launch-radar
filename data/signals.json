@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4329,
+      "stars": 4328,
       "forks": 414,
       "language": "Rust",
-      "pushed_at": "2026-09-15T16:08:36Z",
-      "updated_at": "2026-09-15T15:46:54Z"
+      "pushed_at": "2026-09-15T22:42:12Z",
+      "updated_at": "2026-09-15T22:02:05Z"
     },
     {
       "id": 48127781,
@@ -34,11 +34,11 @@
       "full_name": "Divide-By-0/ideas-for-projects-people-would-use",
       "html_url": "https://github.com/Divide-By-0/ideas-for-projects-people-would-use",
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
-      "stars": 2173,
+      "stars": 2174,
       "forks": 93,
       "language": "Unknown",
       "pushed_at": "2026-09-09T22:07:36Z",
-      "updated_at": "2026-09-14T19:23:56Z"
+      "updated_at": "2026-09-15T19:24:36Z"
     },
     {
       "id": 69400040,
@@ -48,7 +48,7 @@
       "stars": 1653,
       "forks": 614,
       "language": "Python",
-      "pushed_at": "2026-08-26T01:52:25Z",
+      "pushed_at": "2026-09-15T20:15:44Z",
       "updated_at": "2026-09-12T09:46:16Z"
     },
     {
@@ -78,11 +78,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 954,
+      "stars": 953,
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-09-06T18:09:50Z",
-      "updated_at": "2026-09-12T13:40:56Z"
+      "updated_at": "2026-09-15T17:54:52Z"
     },
     {
       "id": 218981625,
@@ -133,11 +133,11 @@
       "full_name": "DirectorySurf/awesome-launch-platforms",
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
-      "stars": 253,
-      "forks": 50,
+      "stars": 254,
+      "forks": 51,
       "language": "Unknown",
       "pushed_at": "2026-09-08T19:21:44Z",
-      "updated_at": "2026-09-14T12:11:28Z"
+      "updated_at": "2026-09-15T18:23:36Z"
     },
     {
       "id": 1359081910,
@@ -148,7 +148,7 @@
       "forks": 4,
       "language": "JavaScript",
       "pushed_at": "2026-09-14T12:41:13Z",
-      "updated_at": "2026-09-15T16:28:29Z"
+      "updated_at": "2026-09-15T17:25:57Z"
     },
     {
       "id": 1179396737,
