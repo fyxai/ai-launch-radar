@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4343,
+      "stars": 4345,
       "forks": 416,
       "language": "Rust",
-      "pushed_at": "2026-09-17T16:23:53Z",
-      "updated_at": "2026-09-17T16:01:29Z"
+      "pushed_at": "2026-09-17T22:41:52Z",
+      "updated_at": "2026-09-17T22:34:41Z"
     },
     {
       "id": 48127781,
@@ -34,11 +34,11 @@
       "full_name": "Divide-By-0/ideas-for-projects-people-would-use",
       "html_url": "https://github.com/Divide-By-0/ideas-for-projects-people-would-use",
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
-      "stars": 2175,
-      "forks": 93,
+      "stars": 2176,
+      "forks": 94,
       "language": "Unknown",
       "pushed_at": "2026-09-09T22:07:36Z",
-      "updated_at": "2026-09-17T03:08:20Z"
+      "updated_at": "2026-09-17T19:53:51Z"
     },
     {
       "id": 69400040,
@@ -48,8 +48,8 @@
       "stars": 1653,
       "forks": 614,
       "language": "Python",
-      "pushed_at": "2026-09-17T16:01:58Z",
-      "updated_at": "2026-09-12T09:46:16Z"
+      "pushed_at": "2026-09-17T20:02:42Z",
+      "updated_at": "2026-09-17T20:22:44Z"
     },
     {
       "id": 109404010,
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
       "stars": 254,
-      "forks": 52,
+      "forks": 53,
       "language": "Unknown",
       "pushed_at": "2026-09-16T17:15:53Z",
       "updated_at": "2026-09-16T17:15:59Z"
@@ -144,11 +144,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 151,
+      "stars": 153,
       "forks": 4,
       "language": "JavaScript",
       "pushed_at": "2026-09-14T12:41:13Z",
-      "updated_at": "2026-09-17T02:25:24Z"
+      "updated_at": "2026-09-17T22:20:03Z"
     },
     {
       "id": 1179396737,
@@ -156,7 +156,7 @@
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
       "stars": 138,
-      "forks": 12,
+      "forks": 13,
       "language": "Unknown",
       "pushed_at": "2026-09-12T03:29:11Z",
       "updated_at": "2026-09-14T14:10:44Z"
