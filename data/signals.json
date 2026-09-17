@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4340,
-      "forks": 415,
+      "stars": 4343,
+      "forks": 416,
       "language": "Rust",
-      "pushed_at": "2026-09-17T01:42:53Z",
-      "updated_at": "2026-09-17T07:38:58Z"
+      "pushed_at": "2026-09-17T16:23:53Z",
+      "updated_at": "2026-09-17T16:01:29Z"
     },
     {
       "id": 48127781,
@@ -48,7 +48,7 @@
       "stars": 1653,
       "forks": 614,
       "language": "Python",
-      "pushed_at": "2026-09-15T20:15:44Z",
+      "pushed_at": "2026-09-17T16:01:58Z",
       "updated_at": "2026-09-12T09:46:16Z"
     },
     {
@@ -78,11 +78,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 953,
+      "stars": 952,
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-09-06T18:09:50Z",
-      "updated_at": "2026-09-15T17:54:52Z"
+      "updated_at": "2026-09-17T12:49:37Z"
     },
     {
       "id": 218981625,
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
       "stars": 254,
-      "forks": 51,
+      "forks": 52,
       "language": "Unknown",
       "pushed_at": "2026-09-16T17:15:53Z",
       "updated_at": "2026-09-16T17:15:59Z"
