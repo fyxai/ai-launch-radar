@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4350,
+      "stars": 4351,
       "forks": 417,
       "language": "Rust",
-      "pushed_at": "2026-09-18T04:33:08Z",
-      "updated_at": "2026-09-18T08:50:11Z"
+      "pushed_at": "2026-09-18T15:57:59Z",
+      "updated_at": "2026-09-18T15:56:13Z"
     },
     {
       "id": 48127781,
       "full_name": "KrishMunot/awesome-startup",
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
-      "stars": 2348,
-      "forks": 277,
+      "stars": 2349,
+      "forks": 278,
       "language": "Unknown",
       "pushed_at": "2026-08-26T21:03:38Z",
-      "updated_at": "2026-09-15T14:07:30Z"
+      "updated_at": "2026-09-18T09:49:01Z"
     },
     {
       "id": 282588655,
@@ -67,11 +67,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1065,
-      "forks": 286,
+      "stars": 1066,
+      "forks": 287,
       "language": "Unknown",
       "pushed_at": "2026-09-14T15:46:33Z",
-      "updated_at": "2026-09-16T10:46:13Z"
+      "updated_at": "2026-09-18T09:48:45Z"
     },
     {
       "id": 158286982,
@@ -133,22 +133,22 @@
       "full_name": "DirectorySurf/awesome-launch-platforms",
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
-      "stars": 254,
+      "stars": 256,
       "forks": 53,
       "language": "Unknown",
       "pushed_at": "2026-09-16T17:15:53Z",
-      "updated_at": "2026-09-16T17:15:59Z"
+      "updated_at": "2026-09-18T14:58:22Z"
     },
     {
       "id": 1359081910,
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 154,
+      "stars": 155,
       "forks": 4,
       "language": "JavaScript",
       "pushed_at": "2026-09-14T12:41:13Z",
-      "updated_at": "2026-09-18T01:27:52Z"
+      "updated_at": "2026-09-18T14:50:35Z"
     },
     {
       "id": 1179396737,
