@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4345,
+      "stars": 4347,
       "forks": 416,
       "language": "Rust",
-      "pushed_at": "2026-09-17T22:41:52Z",
-      "updated_at": "2026-09-17T22:34:41Z"
+      "pushed_at": "2026-09-18T03:38:51Z",
+      "updated_at": "2026-09-18T00:29:03Z"
     },
     {
       "id": 48127781,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1065,
-      "forks": 285,
+      "forks": 286,
       "language": "Unknown",
       "pushed_at": "2026-09-14T15:46:33Z",
       "updated_at": "2026-09-16T10:46:13Z"
@@ -78,22 +78,22 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 952,
+      "stars": 953,
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-09-06T18:09:50Z",
-      "updated_at": "2026-09-17T12:49:37Z"
+      "updated_at": "2026-09-18T03:14:59Z"
     },
     {
       "id": 218981625,
       "full_name": "ravi-ojha/startuptoolbox",
       "html_url": "https://github.com/ravi-ojha/startuptoolbox",
       "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
-      "stars": 533,
+      "stars": 534,
       "forks": 83,
       "language": "Unknown",
       "pushed_at": "2026-09-04T18:37:07Z",
-      "updated_at": "2026-09-08T17:39:15Z"
+      "updated_at": "2026-09-17T23:34:58Z"
     },
     {
       "id": 922299292,
@@ -144,11 +144,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 153,
+      "stars": 154,
       "forks": 4,
       "language": "JavaScript",
       "pushed_at": "2026-09-14T12:41:13Z",
-      "updated_at": "2026-09-17T22:20:03Z"
+      "updated_at": "2026-09-18T01:27:52Z"
     },
     {
       "id": 1179396737,
