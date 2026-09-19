@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4352,
+      "stars": 4357,
       "forks": 417,
       "language": "Rust",
-      "pushed_at": "2026-09-18T22:20:22Z",
-      "updated_at": "2026-09-18T22:08:18Z"
+      "pushed_at": "2026-09-19T03:36:52Z",
+      "updated_at": "2026-09-19T03:21:17Z"
     },
     {
       "id": 48127781,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1066,
-      "forks": 287,
+      "forks": 288,
       "language": "Unknown",
       "pushed_at": "2026-09-14T15:46:33Z",
       "updated_at": "2026-09-18T09:48:45Z"
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 303,
-      "forks": 91,
+      "forks": 92,
       "language": "JavaScript",
       "pushed_at": "2026-09-14T18:49:09Z",
       "updated_at": "2026-09-14T18:49:14Z"
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
       "stars": 256,
-      "forks": 53,
+      "forks": 54,
       "language": "Unknown",
       "pushed_at": "2026-09-16T17:15:53Z",
       "updated_at": "2026-09-18T14:58:22Z"
