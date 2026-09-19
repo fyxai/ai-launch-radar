@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4360,
+      "stars": 4361,
       "forks": 416,
       "language": "Rust",
-      "pushed_at": "2026-09-19T05:15:47Z",
-      "updated_at": "2026-09-19T15:05:28Z"
+      "pushed_at": "2026-09-19T22:07:54Z",
+      "updated_at": "2026-09-19T21:58:07Z"
     },
     {
       "id": 48127781,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1066,
-      "forks": 288,
+      "forks": 287,
       "language": "Unknown",
       "pushed_at": "2026-09-14T15:46:33Z",
       "updated_at": "2026-09-18T09:48:45Z"
@@ -101,7 +101,7 @@
       "html_url": "https://github.com/ravi-ojha/startuptoolbox",
       "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
       "stars": 535,
-      "forks": 83,
+      "forks": 84,
       "language": "Unknown",
       "pushed_at": "2026-09-04T18:37:07Z",
       "updated_at": "2026-09-19T12:14:51Z"
@@ -133,11 +133,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 289,
+      "stars": 291,
       "forks": 28,
       "language": "Unknown",
-      "pushed_at": "2026-09-16T20:26:14Z",
-      "updated_at": "2026-09-19T18:26:23Z"
+      "pushed_at": "2026-09-19T20:15:04Z",
+      "updated_at": "2026-09-19T21:59:14Z"
     },
     {
       "id": 994132867,
@@ -145,7 +145,7 @@
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
       "stars": 256,
-      "forks": 54,
+      "forks": 53,
       "language": "Unknown",
       "pushed_at": "2026-09-16T17:15:53Z",
       "updated_at": "2026-09-18T14:58:22Z"
