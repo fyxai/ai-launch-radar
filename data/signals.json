@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4364,
+      "stars": 4365,
       "forks": 416,
       "language": "Rust",
-      "pushed_at": "2026-09-20T18:30:29Z",
-      "updated_at": "2026-09-20T18:22:35Z"
+      "pushed_at": "2026-09-20T22:08:08Z",
+      "updated_at": "2026-09-20T21:55:54Z"
     },
     {
       "id": 48127781,
@@ -101,7 +101,7 @@
       "html_url": "https://github.com/ravi-ojha/startuptoolbox",
       "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
       "stars": 535,
-      "forks": 84,
+      "forks": 83,
       "language": "Unknown",
       "pushed_at": "2026-09-04T18:37:07Z",
       "updated_at": "2026-09-19T12:14:51Z"
