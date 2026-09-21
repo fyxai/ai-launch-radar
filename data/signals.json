@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4365,
-      "forks": 416,
+      "stars": 4367,
+      "forks": 418,
       "language": "Rust",
-      "pushed_at": "2026-09-20T22:08:08Z",
-      "updated_at": "2026-09-20T21:55:54Z"
+      "pushed_at": "2026-09-21T02:04:43Z",
+      "updated_at": "2026-09-21T00:49:52Z"
     },
     {
       "id": 48127781,
@@ -24,7 +24,7 @@
       "html_url": "https://github.com/KrishMunot/awesome-startup",
       "description": ":sunglasses: All the required resources to build your own startup",
       "stars": 2353,
-      "forks": 280,
+      "forks": 281,
       "language": "Unknown",
       "pushed_at": "2026-08-26T21:03:38Z",
       "updated_at": "2026-09-20T15:41:31Z"
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1067,
-      "forks": 289,
+      "forks": 290,
       "language": "Unknown",
       "pushed_at": "2026-09-20T15:01:24Z",
       "updated_at": "2026-09-20T15:01:28Z"
@@ -79,7 +79,7 @@
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
       "stars": 1052,
-      "forks": 123,
+      "forks": 124,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
       "updated_at": "2026-09-20T13:51:44Z"
