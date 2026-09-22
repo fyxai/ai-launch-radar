@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4373,
+      "stars": 4374,
       "forks": 419,
       "language": "Rust",
-      "pushed_at": "2026-09-21T22:54:47Z",
-      "updated_at": "2026-09-21T22:15:26Z"
+      "pushed_at": "2026-09-22T02:34:40Z",
+      "updated_at": "2026-09-22T01:41:24Z"
     },
     {
       "id": 282588655,
@@ -56,11 +56,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1067,
+      "stars": 1068,
       "forks": 291,
       "language": "Unknown",
       "pushed_at": "2026-09-20T15:01:24Z",
-      "updated_at": "2026-09-21T05:50:40Z"
+      "updated_at": "2026-09-22T03:10:52Z"
     },
     {
       "id": 1298346646,
@@ -129,6 +129,17 @@
       "updated_at": "2026-09-21T18:13:31Z"
     },
     {
+      "id": 1178027836,
+      "full_name": "emotixco/claude-skills-founder",
+      "html_url": "https://github.com/emotixco/claude-skills-founder",
+      "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
+      "stars": 257,
+      "forks": 22,
+      "language": "Unknown",
+      "pushed_at": "2026-09-21T22:13:58Z",
+      "updated_at": "2026-09-22T02:23:10Z"
+    },
+    {
       "id": 994132867,
       "full_name": "DirectorySurf/awesome-launch-platforms",
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
@@ -140,26 +151,15 @@
       "updated_at": "2026-09-21T08:45:15Z"
     },
     {
-      "id": 1178027836,
-      "full_name": "emotixco/claude-skills-founder",
-      "html_url": "https://github.com/emotixco/claude-skills-founder",
-      "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 254,
-      "forks": 22,
-      "language": "Unknown",
-      "pushed_at": "2026-09-21T22:13:58Z",
-      "updated_at": "2026-09-21T22:13:51Z"
-    },
-    {
       "id": 1359081910,
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 156,
+      "stars": 157,
       "forks": 4,
       "language": "JavaScript",
       "pushed_at": "2026-09-21T12:43:38Z",
-      "updated_at": "2026-09-21T12:43:42Z"
+      "updated_at": "2026-09-22T02:00:11Z"
     },
     {
       "id": 1179396737,
