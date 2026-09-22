@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4380,
-      "forks": 419,
+      "stars": 4381,
+      "forks": 420,
       "language": "Rust",
-      "pushed_at": "2026-09-22T16:28:44Z",
-      "updated_at": "2026-09-22T16:25:43Z"
+      "pushed_at": "2026-09-22T22:31:49Z",
+      "updated_at": "2026-09-22T22:26:55Z"
     },
     {
       "id": 282588655,
@@ -67,22 +67,22 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1069,
+      "stars": 1070,
       "forks": 291,
       "language": "Unknown",
       "pushed_at": "2026-09-20T15:01:24Z",
-      "updated_at": "2026-09-22T10:31:29Z"
+      "updated_at": "2026-09-22T17:30:27Z"
     },
     {
       "id": 1298346646,
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1062,
+      "stars": 1063,
       "forks": 126,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-09-22T11:08:56Z"
+      "updated_at": "2026-09-22T17:39:54Z"
     },
     {
       "id": 158286982,
@@ -100,11 +100,11 @@
       "full_name": "ravi-ojha/startuptoolbox",
       "html_url": "https://github.com/ravi-ojha/startuptoolbox",
       "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
-      "stars": 535,
+      "stars": 536,
       "forks": 83,
       "language": "Unknown",
       "pushed_at": "2026-09-04T18:37:07Z",
-      "updated_at": "2026-09-19T12:14:51Z"
+      "updated_at": "2026-09-22T17:31:16Z"
     },
     {
       "id": 922299292,
@@ -122,11 +122,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 304,
+      "stars": 305,
       "forks": 92,
       "language": "JavaScript",
       "pushed_at": "2026-09-22T09:55:10Z",
-      "updated_at": "2026-09-22T09:55:14Z"
+      "updated_at": "2026-09-22T17:30:26Z"
     },
     {
       "id": 1311068285,
@@ -144,11 +144,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 261,
+      "stars": 264,
       "forks": 22,
       "language": "Unknown",
-      "pushed_at": "2026-09-22T14:01:02Z",
-      "updated_at": "2026-09-22T14:55:17Z"
+      "pushed_at": "2026-09-22T21:47:50Z",
+      "updated_at": "2026-09-22T22:17:04Z"
     },
     {
       "id": 994132867,
@@ -158,8 +158,8 @@
       "stars": 257,
       "forks": 54,
       "language": "Unknown",
-      "pushed_at": "2026-09-16T17:15:53Z",
-      "updated_at": "2026-09-22T14:51:26Z"
+      "pushed_at": "2026-09-22T21:43:22Z",
+      "updated_at": "2026-09-22T21:43:27Z"
     },
     {
       "id": 1359081910,
