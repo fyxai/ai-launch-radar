@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4387,
+      "stars": 4389,
       "forks": 422,
       "language": "Rust",
-      "pushed_at": "2026-09-23T16:17:54Z",
-      "updated_at": "2026-09-23T16:10:06Z"
+      "pushed_at": "2026-09-23T22:35:14Z",
+      "updated_at": "2026-09-23T22:15:49Z"
     },
     {
       "id": 282588655,
@@ -67,11 +67,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1071,
-      "forks": 294,
+      "stars": 1072,
+      "forks": 295,
       "language": "Unknown",
       "pushed_at": "2026-09-23T14:54:50Z",
-      "updated_at": "2026-09-23T14:54:56Z"
+      "updated_at": "2026-09-23T21:48:44Z"
     },
     {
       "id": 1298346646,
@@ -133,22 +133,22 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 300,
+      "stars": 301,
       "forks": 29,
       "language": "Unknown",
       "pushed_at": "2026-09-21T12:57:50Z",
-      "updated_at": "2026-09-22T11:36:44Z"
+      "updated_at": "2026-09-23T19:56:51Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 269,
-      "forks": 23,
+      "stars": 275,
+      "forks": 25,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-09-23T16:08:43Z"
+      "updated_at": "2026-09-23T22:15:04Z"
     },
     {
       "id": 994132867,
@@ -166,11 +166,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 158,
+      "stars": 159,
       "forks": 4,
       "language": "JavaScript",
       "pushed_at": "2026-09-21T12:43:38Z",
-      "updated_at": "2026-09-22T06:45:37Z"
+      "updated_at": "2026-09-23T20:09:15Z"
     }
   ]
 }
