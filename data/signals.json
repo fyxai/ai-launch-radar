@@ -12,33 +12,33 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5311,
-      "forks": 507,
+      "stars": 5312,
+      "forks": 506,
       "language": "Java",
       "pushed_at": "2026-09-22T15:14:22Z",
-      "updated_at": "2026-09-23T05:38:55Z"
+      "updated_at": "2026-09-23T15:53:57Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4385,
+      "stars": 4387,
       "forks": 422,
       "language": "Rust",
-      "pushed_at": "2026-09-23T04:15:59Z",
-      "updated_at": "2026-09-23T05:40:55Z"
+      "pushed_at": "2026-09-23T16:17:54Z",
+      "updated_at": "2026-09-23T16:10:06Z"
     },
     {
       "id": 282588655,
       "full_name": "Divide-By-0/ideas-for-projects-people-would-use",
       "html_url": "https://github.com/Divide-By-0/ideas-for-projects-people-would-use",
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
-      "stars": 2186,
+      "stars": 2187,
       "forks": 94,
       "language": "Unknown",
       "pushed_at": "2026-09-09T22:07:36Z",
-      "updated_at": "2026-09-22T05:14:18Z"
+      "updated_at": "2026-09-23T10:09:29Z"
     },
     {
       "id": 69400040,
@@ -68,10 +68,10 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1071,
-      "forks": 293,
+      "forks": 294,
       "language": "Unknown",
-      "pushed_at": "2026-09-20T15:01:24Z",
-      "updated_at": "2026-09-23T06:51:21Z"
+      "pushed_at": "2026-09-23T14:54:50Z",
+      "updated_at": "2026-09-23T14:54:56Z"
     },
     {
       "id": 1298346646,
@@ -89,11 +89,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 953,
+      "stars": 952,
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-09-06T18:09:50Z",
-      "updated_at": "2026-09-21T15:22:45Z"
+      "updated_at": "2026-09-23T12:58:29Z"
     },
     {
       "id": 218981625,
@@ -125,8 +125,8 @@
       "stars": 305,
       "forks": 93,
       "language": "JavaScript",
-      "pushed_at": "2026-09-23T07:22:45Z",
-      "updated_at": "2026-09-23T07:22:50Z"
+      "pushed_at": "2026-09-23T09:13:31Z",
+      "updated_at": "2026-09-23T09:13:36Z"
     },
     {
       "id": 1311068285,
@@ -144,22 +144,22 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 266,
-      "forks": 22,
+      "stars": 269,
+      "forks": 23,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-09-23T05:11:40Z"
+      "updated_at": "2026-09-23T16:08:43Z"
     },
     {
       "id": 994132867,
       "full_name": "DirectorySurf/awesome-launch-platforms",
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
-      "stars": 257,
+      "stars": 258,
       "forks": 54,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:43:22Z",
-      "updated_at": "2026-09-22T21:43:27Z"
+      "updated_at": "2026-09-23T10:48:18Z"
     },
     {
       "id": 1359081910,
