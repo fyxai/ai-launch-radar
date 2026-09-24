@@ -12,22 +12,22 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5312,
+      "stars": 5314,
       "forks": 506,
       "language": "Java",
       "pushed_at": "2026-09-22T15:14:22Z",
-      "updated_at": "2026-09-23T15:53:57Z"
+      "updated_at": "2026-09-24T14:25:34Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4389,
-      "forks": 423,
+      "stars": 4392,
+      "forks": 425,
       "language": "Rust",
-      "pushed_at": "2026-09-24T06:39:35Z",
-      "updated_at": "2026-09-24T05:45:43Z"
+      "pushed_at": "2026-09-24T16:38:43Z",
+      "updated_at": "2026-09-24T16:21:57Z"
     },
     {
       "id": 282588655,
@@ -78,22 +78,22 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1064,
+      "stars": 1063,
       "forks": 126,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-09-23T06:06:37Z"
+      "updated_at": "2026-09-24T15:08:11Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 954,
+      "stars": 955,
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-09-06T18:09:50Z",
-      "updated_at": "2026-09-24T06:55:12Z"
+      "updated_at": "2026-09-24T15:27:56Z"
     },
     {
       "id": 218981625,
@@ -133,11 +133,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 303,
+      "stars": 304,
       "forks": 29,
       "language": "Unknown",
       "pushed_at": "2026-09-21T12:57:50Z",
-      "updated_at": "2026-09-24T07:33:54Z"
+      "updated_at": "2026-09-24T13:46:38Z"
     },
     {
       "id": 1178027836,
