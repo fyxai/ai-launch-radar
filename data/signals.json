@@ -24,21 +24,21 @@
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "stars": 4392,
-      "forks": 425,
+      "forks": 424,
       "language": "Rust",
-      "pushed_at": "2026-09-24T16:38:43Z",
-      "updated_at": "2026-09-24T16:21:57Z"
+      "pushed_at": "2026-09-24T22:52:19Z",
+      "updated_at": "2026-09-24T22:44:27Z"
     },
     {
       "id": 282588655,
       "full_name": "Divide-By-0/ideas-for-projects-people-would-use",
       "html_url": "https://github.com/Divide-By-0/ideas-for-projects-people-would-use",
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
-      "stars": 2187,
+      "stars": 2188,
       "forks": 94,
       "language": "Unknown",
       "pushed_at": "2026-09-09T22:07:36Z",
-      "updated_at": "2026-09-23T10:09:29Z"
+      "updated_at": "2026-09-24T16:48:05Z"
     },
     {
       "id": 69400040,
@@ -78,11 +78,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1063,
+      "stars": 1064,
       "forks": 126,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-09-24T15:08:11Z"
+      "updated_at": "2026-09-24T19:46:58Z"
     },
     {
       "id": 158286982,
@@ -144,11 +144,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 277,
+      "stars": 279,
       "forks": 25,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-09-24T06:25:45Z"
+      "updated_at": "2026-09-24T21:56:17Z"
     },
     {
       "id": 994132867,
