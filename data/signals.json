@@ -12,11 +12,11 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5314,
+      "stars": 5315,
       "forks": 506,
       "language": "Java",
       "pushed_at": "2026-09-22T15:14:22Z",
-      "updated_at": "2026-09-24T14:25:34Z"
+      "updated_at": "2026-09-25T01:31:06Z"
     },
     {
       "id": 1092407718,
@@ -26,19 +26,19 @@
       "stars": 4392,
       "forks": 424,
       "language": "Rust",
-      "pushed_at": "2026-09-24T22:52:19Z",
-      "updated_at": "2026-09-24T22:44:27Z"
+      "pushed_at": "2026-09-25T03:35:37Z",
+      "updated_at": "2026-09-25T01:52:47Z"
     },
     {
       "id": 282588655,
       "full_name": "Divide-By-0/ideas-for-projects-people-would-use",
       "html_url": "https://github.com/Divide-By-0/ideas-for-projects-people-would-use",
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
-      "stars": 2188,
+      "stars": 2187,
       "forks": 94,
       "language": "Unknown",
       "pushed_at": "2026-09-09T22:07:36Z",
-      "updated_at": "2026-09-24T16:48:05Z"
+      "updated_at": "2026-09-25T03:11:16Z"
     },
     {
       "id": 69400040,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1073,
-      "forks": 295,
+      "forks": 296,
       "language": "Unknown",
       "pushed_at": "2026-09-23T14:54:50Z",
       "updated_at": "2026-09-24T06:12:38Z"
