@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4392,
+      "stars": 4393,
       "forks": 424,
       "language": "Rust",
-      "pushed_at": "2026-09-25T03:35:37Z",
-      "updated_at": "2026-09-25T01:52:47Z"
+      "pushed_at": "2026-09-25T06:39:20Z",
+      "updated_at": "2026-09-25T06:01:38Z"
     },
     {
       "id": 282588655,
@@ -78,11 +78,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1064,
+      "stars": 1065,
       "forks": 126,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-09-24T19:46:58Z"
+      "updated_at": "2026-09-25T09:01:40Z"
     },
     {
       "id": 158286982,
@@ -123,10 +123,10 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 305,
-      "forks": 93,
+      "forks": 94,
       "language": "JavaScript",
-      "pushed_at": "2026-09-23T09:13:31Z",
-      "updated_at": "2026-09-23T09:13:36Z"
+      "pushed_at": "2026-09-25T08:29:05Z",
+      "updated_at": "2026-09-25T08:29:10Z"
     },
     {
       "id": 1311068285,
@@ -144,11 +144,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 279,
+      "stars": 280,
       "forks": 25,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-09-24T21:56:17Z"
+      "updated_at": "2026-09-25T04:51:38Z"
     },
     {
       "id": 994132867,
