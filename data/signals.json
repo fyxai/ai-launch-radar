@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4393,
+      "stars": 4396,
       "forks": 424,
       "language": "Rust",
-      "pushed_at": "2026-09-25T06:39:20Z",
-      "updated_at": "2026-09-25T06:01:38Z"
+      "pushed_at": "2026-09-25T16:33:16Z",
+      "updated_at": "2026-09-25T16:35:42Z"
     },
     {
       "id": 282588655,
@@ -96,26 +96,15 @@
       "updated_at": "2026-09-24T15:27:56Z"
     },
     {
-      "id": 218981625,
-      "full_name": "ravi-ojha/startuptoolbox",
-      "html_url": "https://github.com/ravi-ojha/startuptoolbox",
-      "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
-      "stars": 536,
-      "forks": 83,
-      "language": "Unknown",
-      "pushed_at": "2026-09-04T18:37:07Z",
-      "updated_at": "2026-09-22T17:31:16Z"
-    },
-    {
       "id": 922299292,
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 528,
+      "stars": 527,
       "forks": 14,
       "language": "Swift",
       "pushed_at": "2026-09-18T20:26:36Z",
-      "updated_at": "2026-09-21T12:12:51Z"
+      "updated_at": "2026-09-25T16:09:13Z"
     },
     {
       "id": 72835816,
@@ -144,11 +133,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 280,
+      "stars": 281,
       "forks": 25,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-09-25T04:51:38Z"
+      "updated_at": "2026-09-25T16:24:15Z"
     },
     {
       "id": 994132867,
@@ -160,6 +149,17 @@
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:43:22Z",
       "updated_at": "2026-09-23T10:48:18Z"
+    },
+    {
+      "id": 470693636,
+      "full_name": "tuconnaisyouknow/BadUSB_keyloggerInjector",
+      "html_url": "https://github.com/tuconnaisyouknow/BadUSB_keyloggerInjector",
+      "description": "This script allows you to inject an invisible keylogger thanks to a Bad USB.",
+      "stars": 168,
+      "forks": 77,
+      "language": "Python",
+      "pushed_at": "2026-09-25T16:31:24Z",
+      "updated_at": "2026-09-25T16:31:32Z"
     },
     {
       "id": 1359081910,
