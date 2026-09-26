@@ -23,22 +23,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4402,
-      "forks": 424,
+      "stars": 4404,
+      "forks": 425,
       "language": "Rust",
-      "pushed_at": "2026-09-26T05:20:04Z",
-      "updated_at": "2026-09-26T08:31:59Z"
+      "pushed_at": "2026-09-26T15:56:15Z",
+      "updated_at": "2026-09-26T14:01:53Z"
     },
     {
       "id": 282588655,
       "full_name": "Divide-By-0/ideas-for-projects-people-would-use",
       "html_url": "https://github.com/Divide-By-0/ideas-for-projects-people-would-use",
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
-      "stars": 2187,
+      "stars": 2188,
       "forks": 94,
       "language": "Unknown",
       "pushed_at": "2026-09-09T22:07:36Z",
-      "updated_at": "2026-09-25T03:11:16Z"
+      "updated_at": "2026-09-26T12:08:16Z"
     },
     {
       "id": 69400040,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1073,
-      "forks": 296,
+      "forks": 297,
       "language": "Unknown",
       "pushed_at": "2026-09-23T14:54:50Z",
       "updated_at": "2026-09-24T06:12:38Z"
@@ -89,11 +89,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 955,
+      "stars": 956,
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-09-06T18:09:50Z",
-      "updated_at": "2026-09-24T15:27:56Z"
+      "updated_at": "2026-09-26T10:04:37Z"
     },
     {
       "id": 922299292,
@@ -133,11 +133,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 283,
+      "stars": 286,
       "forks": 25,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-09-25T20:54:25Z"
+      "updated_at": "2026-09-26T15:47:09Z"
     },
     {
       "id": 994132867,
