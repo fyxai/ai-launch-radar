@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4487,
-      "forks": 435,
+      "stars": 4489,
+      "forks": 434,
       "language": "Rust",
-      "pushed_at": "2026-09-29T17:46:34Z",
-      "updated_at": "2026-09-29T17:37:23Z"
+      "pushed_at": "2026-09-29T23:29:37Z",
+      "updated_at": "2026-09-29T22:46:13Z"
     },
     {
       "id": 282588655,
@@ -111,11 +111,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 307,
+      "stars": 308,
       "forks": 25,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-09-29T14:58:05Z"
+      "updated_at": "2026-09-29T18:09:36Z"
     },
     {
       "id": 1311068285,
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 305,
-      "forks": 95,
+      "forks": 96,
       "language": "JavaScript",
       "pushed_at": "2026-09-27T14:25:08Z",
       "updated_at": "2026-09-27T14:25:11Z"
