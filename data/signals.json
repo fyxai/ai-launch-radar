@@ -12,33 +12,33 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5315,
+      "stars": 5314,
       "forks": 506,
       "language": "Java",
       "pushed_at": "2026-09-22T15:14:22Z",
-      "updated_at": "2026-09-29T07:03:59Z"
+      "updated_at": "2026-09-29T11:31:49Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4483,
+      "stars": 4487,
       "forks": 435,
       "language": "Rust",
-      "pushed_at": "2026-09-29T06:11:48Z",
-      "updated_at": "2026-09-29T09:39:45Z"
+      "pushed_at": "2026-09-29T17:46:34Z",
+      "updated_at": "2026-09-29T17:37:23Z"
     },
     {
       "id": 282588655,
       "full_name": "Divide-By-0/ideas-for-projects-people-would-use",
       "html_url": "https://github.com/Divide-By-0/ideas-for-projects-people-would-use",
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
-      "stars": 2192,
-      "forks": 95,
+      "stars": 2191,
+      "forks": 96,
       "language": "Unknown",
       "pushed_at": "2026-09-09T22:07:36Z",
-      "updated_at": "2026-09-28T03:34:02Z"
+      "updated_at": "2026-09-29T16:46:52Z"
     },
     {
       "id": 69400040,
@@ -107,6 +107,17 @@
       "updated_at": "2026-09-25T16:09:13Z"
     },
     {
+      "id": 1178027836,
+      "full_name": "emotixco/claude-skills-founder",
+      "html_url": "https://github.com/emotixco/claude-skills-founder",
+      "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
+      "stars": 307,
+      "forks": 25,
+      "language": "Unknown",
+      "pushed_at": "2026-09-22T21:47:50Z",
+      "updated_at": "2026-09-29T14:58:05Z"
+    },
+    {
       "id": 1311068285,
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
@@ -114,19 +125,8 @@
       "stars": 305,
       "forks": 30,
       "language": "Unknown",
-      "pushed_at": "2026-09-28T14:07:15Z",
-      "updated_at": "2026-09-28T20:17:07Z"
-    },
-    {
-      "id": 1178027836,
-      "full_name": "emotixco/claude-skills-founder",
-      "html_url": "https://github.com/emotixco/claude-skills-founder",
-      "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 305,
-      "forks": 25,
-      "language": "Unknown",
-      "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-09-29T05:12:55Z"
+      "pushed_at": "2026-09-29T15:49:52Z",
+      "updated_at": "2026-09-29T15:53:57Z"
     },
     {
       "id": 72835816,
@@ -144,11 +144,11 @@
       "full_name": "DirectorySurf/awesome-launch-platforms",
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
-      "stars": 260,
-      "forks": 56,
+      "stars": 261,
+      "forks": 57,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:43:22Z",
-      "updated_at": "2026-09-28T07:23:00Z"
+      "updated_at": "2026-09-29T10:36:30Z"
     },
     {
       "id": 470693636,
