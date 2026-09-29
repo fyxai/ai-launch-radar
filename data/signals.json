@@ -12,22 +12,22 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5314,
+      "stars": 5315,
       "forks": 506,
       "language": "Java",
       "pushed_at": "2026-09-22T15:14:22Z",
-      "updated_at": "2026-09-28T17:07:23Z"
+      "updated_at": "2026-09-29T07:03:59Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4477,
+      "stars": 4483,
       "forks": 435,
       "language": "Rust",
-      "pushed_at": "2026-09-28T23:41:19Z",
-      "updated_at": "2026-09-28T23:38:42Z"
+      "pushed_at": "2026-09-29T06:11:48Z",
+      "updated_at": "2026-09-29T09:39:45Z"
     },
     {
       "id": 282588655,
@@ -118,6 +118,17 @@
       "updated_at": "2026-09-28T20:17:07Z"
     },
     {
+      "id": 1178027836,
+      "full_name": "emotixco/claude-skills-founder",
+      "html_url": "https://github.com/emotixco/claude-skills-founder",
+      "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
+      "stars": 305,
+      "forks": 25,
+      "language": "Unknown",
+      "pushed_at": "2026-09-22T21:47:50Z",
+      "updated_at": "2026-09-29T05:12:55Z"
+    },
+    {
       "id": 72835816,
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
@@ -127,17 +138,6 @@
       "language": "JavaScript",
       "pushed_at": "2026-09-27T14:25:08Z",
       "updated_at": "2026-09-27T14:25:11Z"
-    },
-    {
-      "id": 1178027836,
-      "full_name": "emotixco/claude-skills-founder",
-      "html_url": "https://github.com/emotixco/claude-skills-founder",
-      "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 304,
-      "forks": 25,
-      "language": "Unknown",
-      "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-09-28T17:39:10Z"
     },
     {
       "id": 994132867,
@@ -155,11 +155,11 @@
       "full_name": "tuconnaisyouknow/BadUSB_keyloggerInjector",
       "html_url": "https://github.com/tuconnaisyouknow/BadUSB_keyloggerInjector",
       "description": "This script allows you to inject an invisible keylogger thanks to a Bad USB.",
-      "stars": 168,
+      "stars": 169,
       "forks": 77,
       "language": "Python",
       "pushed_at": "2026-09-25T16:31:24Z",
-      "updated_at": "2026-09-25T16:31:32Z"
+      "updated_at": "2026-09-29T10:25:55Z"
     },
     {
       "id": 1359081910,
