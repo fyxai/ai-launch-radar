@@ -13,7 +13,7 @@
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
       "stars": 5316,
-      "forks": 506,
+      "forks": 505,
       "language": "Java",
       "pushed_at": "2026-09-22T15:14:22Z",
       "updated_at": "2026-09-30T08:34:00Z"
@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4497,
+      "stars": 4501,
       "forks": 435,
       "language": "Rust",
-      "pushed_at": "2026-09-30T20:35:34Z",
-      "updated_at": "2026-09-30T20:23:29Z"
+      "pushed_at": "2026-10-01T04:03:01Z",
+      "updated_at": "2026-10-01T04:32:54Z"
     },
     {
       "id": 282588655,
@@ -45,11 +45,11 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1654,
+      "stars": 1655,
       "forks": 614,
       "language": "Python",
       "pushed_at": "2026-09-17T20:02:42Z",
-      "updated_at": "2026-09-28T06:44:47Z"
+      "updated_at": "2026-10-01T02:59:01Z"
     },
     {
       "id": 109404010,
@@ -111,11 +111,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 314,
-      "forks": 25,
+      "stars": 318,
+      "forks": 26,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-09-30T18:04:31Z"
+      "updated_at": "2026-10-01T03:18:12Z"
     },
     {
       "id": 1311068285,
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 305,
-      "forks": 97,
+      "forks": 98,
       "language": "JavaScript",
       "pushed_at": "2026-09-27T14:25:08Z",
       "updated_at": "2026-09-27T14:25:11Z"
