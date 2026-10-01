@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4507,
+      "stars": 4513,
       "forks": 436,
       "language": "Rust",
-      "pushed_at": "2026-10-01T15:09:43Z",
-      "updated_at": "2026-10-01T14:54:04Z"
+      "pushed_at": "2026-10-01T20:50:08Z",
+      "updated_at": "2026-10-01T20:37:40Z"
     },
     {
       "id": 282588655,
@@ -59,8 +59,8 @@
       "stars": 1581,
       "forks": 97,
       "language": "JavaScript",
-      "pushed_at": "2026-09-30T14:07:39Z",
-      "updated_at": "2026-09-21T09:03:20Z"
+      "pushed_at": "2026-10-01T16:31:32Z",
+      "updated_at": "2026-10-01T16:31:34Z"
     },
     {
       "id": 76633312,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1074,
-      "forks": 303,
+      "forks": 304,
       "language": "Unknown",
       "pushed_at": "2026-09-30T14:05:18Z",
       "updated_at": "2026-09-30T14:07:57Z"
@@ -111,33 +111,33 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 333,
-      "forks": 26,
+      "stars": 340,
+      "forks": 27,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-10-01T14:49:30Z"
+      "updated_at": "2026-10-01T20:20:26Z"
     },
     {
       "id": 1311068285,
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 306,
+      "stars": 308,
       "forks": 30,
       "language": "Unknown",
       "pushed_at": "2026-09-29T15:49:52Z",
-      "updated_at": "2026-09-30T12:00:21Z"
+      "updated_at": "2026-10-01T20:07:14Z"
     },
     {
       "id": 72835816,
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 305,
+      "stars": 306,
       "forks": 98,
       "language": "JavaScript",
       "pushed_at": "2026-09-27T14:25:08Z",
-      "updated_at": "2026-09-27T14:25:11Z"
+      "updated_at": "2026-10-01T16:04:57Z"
     },
     {
       "id": 994132867,
@@ -145,7 +145,7 @@
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
       "stars": 261,
-      "forks": 58,
+      "forks": 59,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:43:22Z",
       "updated_at": "2026-09-29T10:36:30Z"
