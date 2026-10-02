@@ -23,22 +23,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4520,
+      "stars": 4521,
       "forks": 436,
       "language": "Rust",
-      "pushed_at": "2026-10-02T14:27:40Z",
-      "updated_at": "2026-10-02T13:41:36Z"
+      "pushed_at": "2026-10-02T20:23:21Z",
+      "updated_at": "2026-10-02T20:22:53Z"
     },
     {
       "id": 282588655,
       "full_name": "Divide-By-0/ideas-for-projects-people-would-use",
       "html_url": "https://github.com/Divide-By-0/ideas-for-projects-people-would-use",
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
-      "stars": 2191,
-      "forks": 96,
+      "stars": 2192,
+      "forks": 97,
       "language": "Unknown",
       "pushed_at": "2026-09-09T22:07:36Z",
-      "updated_at": "2026-09-29T16:46:52Z"
+      "updated_at": "2026-10-02T18:51:56Z"
     },
     {
       "id": 69400040,
@@ -78,11 +78,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1067,
+      "stars": 1066,
       "forks": 126,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-10-01T10:23:26Z"
+      "updated_at": "2026-10-02T15:16:09Z"
     },
     {
       "id": 158286982,
@@ -111,11 +111,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 370,
+      "stars": 374,
       "forks": 30,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-10-02T14:18:49Z"
+      "updated_at": "2026-10-02T19:54:26Z"
     },
     {
       "id": 1311068285,
