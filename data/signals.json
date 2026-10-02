@@ -12,22 +12,22 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5317,
-      "forks": 505,
+      "stars": 5316,
+      "forks": 504,
       "language": "Java",
       "pushed_at": "2026-09-22T15:14:22Z",
-      "updated_at": "2026-10-01T13:02:25Z"
+      "updated_at": "2026-10-02T07:28:32Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4515,
+      "stars": 4520,
       "forks": 436,
       "language": "Rust",
-      "pushed_at": "2026-10-02T04:20:21Z",
-      "updated_at": "2026-10-02T03:12:59Z"
+      "pushed_at": "2026-10-02T14:27:40Z",
+      "updated_at": "2026-10-02T13:41:36Z"
     },
     {
       "id": 282588655,
@@ -45,22 +45,22 @@
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1655,
+      "stars": 1656,
       "forks": 614,
       "language": "Python",
       "pushed_at": "2026-09-17T20:02:42Z",
-      "updated_at": "2026-10-01T02:59:01Z"
+      "updated_at": "2026-10-02T13:18:19Z"
     },
     {
       "id": 109404010,
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1581,
+      "stars": 1582,
       "forks": 97,
       "language": "JavaScript",
       "pushed_at": "2026-10-01T16:31:32Z",
-      "updated_at": "2026-10-01T16:31:34Z"
+      "updated_at": "2026-10-02T09:41:26Z"
     },
     {
       "id": 76633312,
@@ -89,11 +89,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 956,
+      "stars": 957,
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-09-06T18:09:50Z",
-      "updated_at": "2026-09-26T10:04:37Z"
+      "updated_at": "2026-10-02T12:25:42Z"
     },
     {
       "id": 922299292,
@@ -111,11 +111,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 356,
-      "forks": 28,
+      "stars": 370,
+      "forks": 30,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-10-02T04:23:26Z"
+      "updated_at": "2026-10-02T14:18:49Z"
     },
     {
       "id": 1311068285,
