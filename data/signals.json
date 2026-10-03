@@ -12,33 +12,33 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5316,
+      "stars": 5317,
       "forks": 504,
       "language": "Java",
       "pushed_at": "2026-09-22T15:14:22Z",
-      "updated_at": "2026-10-02T07:28:32Z"
+      "updated_at": "2026-10-03T02:40:09Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4521,
-      "forks": 436,
+      "stars": 4528,
+      "forks": 437,
       "language": "Rust",
-      "pushed_at": "2026-10-02T20:23:21Z",
-      "updated_at": "2026-10-02T20:22:53Z"
+      "pushed_at": "2026-10-03T03:48:35Z",
+      "updated_at": "2026-10-03T00:57:23Z"
     },
     {
       "id": 282588655,
       "full_name": "Divide-By-0/ideas-for-projects-people-would-use",
       "html_url": "https://github.com/Divide-By-0/ideas-for-projects-people-would-use",
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
-      "stars": 2192,
+      "stars": 2193,
       "forks": 97,
       "language": "Unknown",
       "pushed_at": "2026-09-09T22:07:36Z",
-      "updated_at": "2026-10-02T18:51:56Z"
+      "updated_at": "2026-10-03T04:07:50Z"
     },
     {
       "id": 69400040,
@@ -67,11 +67,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1074,
+      "stars": 1075,
       "forks": 304,
       "language": "Unknown",
       "pushed_at": "2026-09-30T14:05:18Z",
-      "updated_at": "2026-09-30T14:07:57Z"
+      "updated_at": "2026-10-03T00:49:56Z"
     },
     {
       "id": 1298346646,
@@ -90,7 +90,7 @@
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
       "stars": 957,
-      "forks": 128,
+      "forks": 127,
       "language": "C#",
       "pushed_at": "2026-09-06T18:09:50Z",
       "updated_at": "2026-10-02T12:25:42Z"
@@ -111,11 +111,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 374,
-      "forks": 30,
+      "stars": 380,
+      "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-10-02T19:54:26Z"
+      "updated_at": "2026-10-02T23:54:31Z"
     },
     {
       "id": 1311068285,
