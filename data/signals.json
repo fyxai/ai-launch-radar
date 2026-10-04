@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4543,
+      "stars": 4544,
       "forks": 440,
       "language": "Rust",
-      "pushed_at": "2026-10-03T22:26:04Z",
-      "updated_at": "2026-10-03T22:17:35Z"
+      "pushed_at": "2026-10-04T04:47:29Z",
+      "updated_at": "2026-10-04T04:22:21Z"
     },
     {
       "id": 282588655,
@@ -67,11 +67,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1076,
-      "forks": 303,
+      "stars": 1077,
+      "forks": 304,
       "language": "Unknown",
       "pushed_at": "2026-09-30T14:05:18Z",
-      "updated_at": "2026-10-03T04:17:59Z"
+      "updated_at": "2026-10-03T23:41:06Z"
     },
     {
       "id": 1298346646,
@@ -111,11 +111,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 403,
-      "forks": 36,
+      "stars": 406,
+      "forks": 37,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-10-03T20:50:10Z"
+      "updated_at": "2026-10-04T03:50:02Z"
     },
     {
       "id": 1311068285,
@@ -144,11 +144,11 @@
       "full_name": "DirectorySurf/awesome-launch-platforms",
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
-      "stars": 261,
+      "stars": 262,
       "forks": 60,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:43:22Z",
-      "updated_at": "2026-09-29T10:36:30Z"
+      "updated_at": "2026-10-03T23:41:15Z"
     },
     {
       "id": 470693636,
