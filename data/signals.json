@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4546,
-      "forks": 440,
+      "stars": 4548,
+      "forks": 441,
       "language": "Rust",
-      "pushed_at": "2026-10-04T12:08:08Z",
-      "updated_at": "2026-10-04T08:42:48Z"
+      "pushed_at": "2026-10-04T19:12:17Z",
+      "updated_at": "2026-10-04T17:25:15Z"
     },
     {
       "id": 282588655,
@@ -35,7 +35,7 @@
       "html_url": "https://github.com/Divide-By-0/ideas-for-projects-people-would-use",
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
       "stars": 2192,
-      "forks": 97,
+      "forks": 98,
       "language": "Unknown",
       "pushed_at": "2026-09-09T22:07:36Z",
       "updated_at": "2026-10-03T20:59:11Z"
@@ -85,17 +85,6 @@
       "updated_at": "2026-10-02T15:16:09Z"
     },
     {
-      "id": 158286982,
-      "full_name": "maximmax42/Discord-CustomRP",
-      "html_url": "https://github.com/maximmax42/Discord-CustomRP",
-      "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 958,
-      "forks": 128,
-      "language": "C#",
-      "pushed_at": "2026-09-06T18:09:50Z",
-      "updated_at": "2026-10-03T09:36:32Z"
-    },
-    {
       "id": 922299292,
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
@@ -111,11 +100,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 413,
+      "stars": 419,
       "forks": 37,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-10-04T11:10:42Z"
+      "updated_at": "2026-10-04T17:29:38Z"
     },
     {
       "id": 1311068285,
@@ -166,11 +155,22 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 163,
+      "stars": 164,
       "forks": 5,
       "language": "JavaScript",
       "pushed_at": "2026-09-28T13:48:49Z",
-      "updated_at": "2026-10-03T21:29:14Z"
+      "updated_at": "2026-10-04T14:04:28Z"
+    },
+    {
+      "id": 1179396737,
+      "full_name": "doanbactam/awesome-builder-programs",
+      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
+      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
+      "stars": 141,
+      "forks": 15,
+      "language": "Unknown",
+      "pushed_at": "2026-10-02T17:07:41Z",
+      "updated_at": "2026-10-02T17:07:44Z"
     }
   ]
 }
