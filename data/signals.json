@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4544,
+      "stars": 4546,
       "forks": 440,
       "language": "Rust",
-      "pushed_at": "2026-10-04T04:47:29Z",
-      "updated_at": "2026-10-04T04:22:21Z"
+      "pushed_at": "2026-10-04T12:08:08Z",
+      "updated_at": "2026-10-04T08:42:48Z"
     },
     {
       "id": 282588655,
@@ -67,11 +67,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1077,
-      "forks": 304,
+      "stars": 1078,
+      "forks": 303,
       "language": "Unknown",
       "pushed_at": "2026-09-30T14:05:18Z",
-      "updated_at": "2026-10-03T23:41:06Z"
+      "updated_at": "2026-10-04T12:20:21Z"
     },
     {
       "id": 1298346646,
@@ -90,7 +90,7 @@
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
       "stars": 958,
-      "forks": 127,
+      "forks": 128,
       "language": "C#",
       "pushed_at": "2026-09-06T18:09:50Z",
       "updated_at": "2026-10-03T09:36:32Z"
@@ -111,11 +111,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 406,
+      "stars": 413,
       "forks": 37,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-10-04T03:50:02Z"
+      "updated_at": "2026-10-04T11:10:42Z"
     },
     {
       "id": 1311068285,
