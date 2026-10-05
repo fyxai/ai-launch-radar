@@ -12,11 +12,11 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5318,
+      "stars": 5320,
       "forks": 504,
       "language": "Java",
       "pushed_at": "2026-09-22T15:14:22Z",
-      "updated_at": "2026-10-04T19:56:32Z"
+      "updated_at": "2026-10-05T03:22:22Z"
     },
     {
       "id": 1092407718,
@@ -26,8 +26,8 @@
       "stars": 4550,
       "forks": 442,
       "language": "Rust",
-      "pushed_at": "2026-10-04T22:41:13Z",
-      "updated_at": "2026-10-04T20:15:23Z"
+      "pushed_at": "2026-10-05T04:28:49Z",
+      "updated_at": "2026-10-05T03:38:41Z"
     },
     {
       "id": 282588655,
@@ -89,22 +89,22 @@
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 530,
+      "stars": 531,
       "forks": 15,
       "language": "Swift",
       "pushed_at": "2026-09-18T20:26:36Z",
-      "updated_at": "2026-10-03T14:30:58Z"
+      "updated_at": "2026-10-05T03:01:40Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 421,
+      "stars": 424,
       "forks": 37,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-10-04T22:09:25Z"
+      "updated_at": "2026-10-05T03:53:54Z"
     },
     {
       "id": 1311068285,
