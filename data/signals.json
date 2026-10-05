@@ -5,7 +5,7 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 96,
+  "total_found": 97,
   "items": [
     {
       "id": 304483342,
@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4550,
+      "stars": 4555,
       "forks": 442,
       "language": "Rust",
-      "pushed_at": "2026-10-05T04:28:49Z",
-      "updated_at": "2026-10-05T03:38:41Z"
+      "pushed_at": "2026-10-05T16:48:47Z",
+      "updated_at": "2026-10-05T16:46:38Z"
     },
     {
       "id": 282588655,
@@ -35,7 +35,7 @@
       "html_url": "https://github.com/Divide-By-0/ideas-for-projects-people-would-use",
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
       "stars": 2192,
-      "forks": 98,
+      "forks": 97,
       "language": "Unknown",
       "pushed_at": "2026-09-09T22:07:36Z",
       "updated_at": "2026-10-03T20:59:11Z"
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1078,
-      "forks": 304,
+      "forks": 306,
       "language": "Unknown",
       "pushed_at": "2026-09-30T14:05:18Z",
       "updated_at": "2026-10-04T12:20:21Z"
@@ -78,11 +78,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1066,
+      "stars": 1068,
       "forks": 127,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-10-02T15:16:09Z"
+      "updated_at": "2026-10-05T11:41:18Z"
     },
     {
       "id": 922299292,
@@ -100,11 +100,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 424,
+      "stars": 445,
       "forks": 37,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-10-05T03:53:54Z"
+      "updated_at": "2026-10-05T16:35:07Z"
     },
     {
       "id": 1311068285,
@@ -114,8 +114,8 @@
       "stars": 310,
       "forks": 30,
       "language": "Unknown",
-      "pushed_at": "2026-09-29T15:49:52Z",
-      "updated_at": "2026-10-04T21:39:12Z"
+      "pushed_at": "2026-10-05T14:52:56Z",
+      "updated_at": "2026-10-05T14:53:02Z"
     },
     {
       "id": 72835816,
@@ -155,11 +155,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 164,
+      "stars": 162,
       "forks": 5,
       "language": "JavaScript",
-      "pushed_at": "2026-09-28T13:48:49Z",
-      "updated_at": "2026-10-04T14:04:28Z"
+      "pushed_at": "2026-10-05T14:31:15Z",
+      "updated_at": "2026-10-05T14:31:19Z"
     },
     {
       "id": 1179396737,
@@ -167,7 +167,7 @@
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
       "stars": 141,
-      "forks": 15,
+      "forks": 14,
       "language": "Unknown",
       "pushed_at": "2026-10-02T17:07:41Z",
       "updated_at": "2026-10-02T17:07:44Z"
