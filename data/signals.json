@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4569,
+      "stars": 4576,
       "forks": 441,
       "language": "Rust",
-      "pushed_at": "2026-10-06T10:53:11Z",
-      "updated_at": "2026-10-06T10:43:03Z"
+      "pushed_at": "2026-10-06T18:02:21Z",
+      "updated_at": "2026-10-06T17:54:25Z"
     },
     {
       "id": 282588655,
@@ -67,11 +67,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1078,
+      "stars": 1079,
       "forks": 307,
       "language": "Unknown",
       "pushed_at": "2026-09-30T14:05:18Z",
-      "updated_at": "2026-10-04T12:20:21Z"
+      "updated_at": "2026-10-06T17:40:33Z"
     },
     {
       "id": 1298346646,
@@ -89,22 +89,22 @@
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 531,
+      "stars": 530,
       "forks": 15,
       "language": "Swift",
       "pushed_at": "2026-09-18T20:26:36Z",
-      "updated_at": "2026-10-05T03:01:40Z"
+      "updated_at": "2026-10-06T17:57:18Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 478,
+      "stars": 487,
       "forks": 37,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-10-06T10:55:26Z"
+      "updated_at": "2026-10-06T16:50:06Z"
     },
     {
       "id": 1311068285,
@@ -125,8 +125,8 @@
       "stars": 306,
       "forks": 99,
       "language": "JavaScript",
-      "pushed_at": "2026-10-06T08:50:15Z",
-      "updated_at": "2026-10-06T08:50:20Z"
+      "pushed_at": "2026-10-06T12:10:59Z",
+      "updated_at": "2026-10-06T12:11:04Z"
     },
     {
       "id": 994132867,
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
       "stars": 262,
-      "forks": 60,
+      "forks": 61,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:43:22Z",
       "updated_at": "2026-10-03T23:41:15Z"
