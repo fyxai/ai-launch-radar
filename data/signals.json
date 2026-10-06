@@ -26,8 +26,8 @@
       "stars": 4576,
       "forks": 441,
       "language": "Rust",
-      "pushed_at": "2026-10-06T18:02:21Z",
-      "updated_at": "2026-10-06T17:54:25Z"
+      "pushed_at": "2026-10-06T23:37:19Z",
+      "updated_at": "2026-10-06T23:29:25Z"
     },
     {
       "id": 282588655,
@@ -48,7 +48,7 @@
       "stars": 1656,
       "forks": 614,
       "language": "Python",
-      "pushed_at": "2026-09-17T20:02:42Z",
+      "pushed_at": "2026-10-06T21:29:20Z",
       "updated_at": "2026-10-02T13:18:19Z"
     },
     {
@@ -78,11 +78,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1068,
+      "stars": 1070,
       "forks": 127,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-10-06T05:12:40Z"
+      "updated_at": "2026-10-06T19:51:40Z"
     },
     {
       "id": 922299292,
@@ -100,11 +100,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 487,
+      "stars": 491,
       "forks": 37,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:47:50Z",
-      "updated_at": "2026-10-06T16:50:06Z"
+      "updated_at": "2026-10-06T22:39:39Z"
     },
     {
       "id": 1311068285,
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
       "stars": 262,
-      "forks": 61,
+      "forks": 62,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:43:22Z",
       "updated_at": "2026-10-03T23:41:15Z"
