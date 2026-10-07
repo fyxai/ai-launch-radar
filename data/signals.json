@@ -5,7 +5,7 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 97,
+  "total_found": 98,
   "items": [
     {
       "id": 304483342,
@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4584,
-      "forks": 443,
+      "stars": 4587,
+      "forks": 444,
       "language": "Rust",
-      "pushed_at": "2026-10-07T15:17:00Z",
-      "updated_at": "2026-10-07T14:55:44Z"
+      "pushed_at": "2026-10-07T20:58:43Z",
+      "updated_at": "2026-10-07T20:52:02Z"
     },
     {
       "id": 69400040,
@@ -37,8 +37,8 @@
       "stars": 1656,
       "forks": 614,
       "language": "Python",
-      "pushed_at": "2026-10-06T21:29:20Z",
-      "updated_at": "2026-10-02T13:18:19Z"
+      "pushed_at": "2026-10-07T18:07:25Z",
+      "updated_at": "2026-10-07T17:46:16Z"
     },
     {
       "id": 109404010,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1078,
-      "forks": 307,
+      "forks": 308,
       "language": "Unknown",
       "pushed_at": "2026-09-30T14:05:18Z",
       "updated_at": "2026-10-07T14:52:15Z"
@@ -89,11 +89,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 506,
-      "forks": 37,
+      "stars": 510,
+      "forks": 38,
       "language": "Shell",
-      "pushed_at": "2026-10-07T15:17:28Z",
-      "updated_at": "2026-10-07T14:41:39Z"
+      "pushed_at": "2026-10-07T16:03:22Z",
+      "updated_at": "2026-10-07T20:50:24Z"
     },
     {
       "id": 1311068285,
@@ -114,8 +114,8 @@
       "stars": 306,
       "forks": 99,
       "language": "JavaScript",
-      "pushed_at": "2026-10-06T12:10:59Z",
-      "updated_at": "2026-10-06T12:11:04Z"
+      "pushed_at": "2026-10-07T20:58:38Z",
+      "updated_at": "2026-10-07T20:58:43Z"
     },
     {
       "id": 994132867,
