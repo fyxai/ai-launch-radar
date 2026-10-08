@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4593,
-      "forks": 445,
+      "stars": 4595,
+      "forks": 444,
       "language": "Rust",
-      "pushed_at": "2026-10-08T15:15:23Z",
-      "updated_at": "2026-10-08T15:15:32Z"
+      "pushed_at": "2026-10-08T20:59:52Z",
+      "updated_at": "2026-10-08T20:58:14Z"
     },
     {
       "id": 69400040,
@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1072,
+      "stars": 1074,
       "forks": 127,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-10-08T09:36:57Z"
+      "updated_at": "2026-10-08T20:41:23Z"
     },
     {
       "id": 922299292,
@@ -89,11 +89,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 522,
-      "forks": 39,
+      "stars": 528,
+      "forks": 40,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-08T12:29:38Z"
+      "updated_at": "2026-10-08T20:37:27Z"
     },
     {
       "id": 1311068285,
