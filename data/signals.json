@@ -12,22 +12,22 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5321,
+      "stars": 5322,
       "forks": 504,
       "language": "Java",
       "pushed_at": "2026-10-07T13:28:24Z",
-      "updated_at": "2026-10-07T14:51:45Z"
+      "updated_at": "2026-10-08T03:12:32Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4587,
+      "stars": 4590,
       "forks": 444,
       "language": "Rust",
-      "pushed_at": "2026-10-07T20:58:43Z",
-      "updated_at": "2026-10-07T20:52:02Z"
+      "pushed_at": "2026-10-08T04:03:27Z",
+      "updated_at": "2026-10-08T03:15:59Z"
     },
     {
       "id": 69400040,
@@ -48,8 +48,8 @@
       "stars": 1583,
       "forks": 97,
       "language": "JavaScript",
-      "pushed_at": "2026-10-07T04:59:18Z",
-      "updated_at": "2026-10-03T19:20:08Z"
+      "pushed_at": "2026-10-07T21:21:15Z",
+      "updated_at": "2026-10-07T21:18:32Z"
     },
     {
       "id": 76633312,
@@ -67,11 +67,11 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1070,
+      "stars": 1071,
       "forks": 127,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-10-06T19:51:40Z"
+      "updated_at": "2026-10-08T00:06:35Z"
     },
     {
       "id": 922299292,
@@ -89,22 +89,22 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 510,
-      "forks": 38,
+      "stars": 517,
+      "forks": 39,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-07T20:50:24Z"
+      "updated_at": "2026-10-08T04:38:05Z"
     },
     {
       "id": 1311068285,
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 310,
+      "stars": 311,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-10-05T14:52:56Z",
-      "updated_at": "2026-10-05T14:53:02Z"
+      "updated_at": "2026-10-07T23:10:31Z"
     },
     {
       "id": 72835816,
