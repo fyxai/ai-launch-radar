@@ -12,22 +12,22 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5322,
+      "stars": 5321,
       "forks": 504,
       "language": "Java",
       "pushed_at": "2026-10-07T13:28:24Z",
-      "updated_at": "2026-10-08T03:12:32Z"
+      "updated_at": "2026-10-08T05:30:18Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4590,
-      "forks": 444,
+      "stars": 4593,
+      "forks": 445,
       "language": "Rust",
-      "pushed_at": "2026-10-08T04:03:27Z",
-      "updated_at": "2026-10-08T03:15:59Z"
+      "pushed_at": "2026-10-08T15:15:23Z",
+      "updated_at": "2026-10-08T15:15:32Z"
     },
     {
       "id": 69400040,
@@ -56,22 +56,22 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1078,
+      "stars": 1079,
       "forks": 308,
       "language": "Unknown",
       "pushed_at": "2026-09-30T14:05:18Z",
-      "updated_at": "2026-10-07T14:52:15Z"
+      "updated_at": "2026-10-08T07:56:20Z"
     },
     {
       "id": 1298346646,
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1071,
+      "stars": 1072,
       "forks": 127,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-10-08T00:06:35Z"
+      "updated_at": "2026-10-08T09:36:57Z"
     },
     {
       "id": 922299292,
@@ -89,22 +89,22 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 517,
+      "stars": 522,
       "forks": 39,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-08T04:38:05Z"
+      "updated_at": "2026-10-08T12:29:38Z"
     },
     {
       "id": 1311068285,
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 311,
+      "stars": 312,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-10-05T14:52:56Z",
-      "updated_at": "2026-10-07T23:10:31Z"
+      "updated_at": "2026-10-08T07:19:48Z"
     },
     {
       "id": 72835816,
@@ -145,10 +145,10 @@
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
       "stars": 155,
-      "forks": 5,
+      "forks": 6,
       "language": "JavaScript",
       "pushed_at": "2026-10-05T14:31:15Z",
-      "updated_at": "2026-10-07T08:02:21Z"
+      "updated_at": "2026-10-08T13:26:31Z"
     },
     {
       "id": 780027215,
