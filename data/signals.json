@@ -26,8 +26,8 @@
       "stars": 4599,
       "forks": 446,
       "language": "Rust",
-      "pushed_at": "2026-10-09T15:01:37Z",
-      "updated_at": "2026-10-09T14:55:16Z"
+      "pushed_at": "2026-10-09T20:36:22Z",
+      "updated_at": "2026-10-09T20:36:26Z"
     },
     {
       "id": 69400040,
@@ -46,7 +46,7 @@
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
       "stars": 1583,
-      "forks": 97,
+      "forks": 98,
       "language": "JavaScript",
       "pushed_at": "2026-10-07T21:21:15Z",
       "updated_at": "2026-10-07T21:18:32Z"
@@ -56,11 +56,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1079,
+      "stars": 1081,
       "forks": 310,
       "language": "Unknown",
       "pushed_at": "2026-09-30T14:05:18Z",
-      "updated_at": "2026-10-08T07:56:20Z"
+      "updated_at": "2026-10-09T19:08:02Z"
     },
     {
       "id": 1298346646,
@@ -78,33 +78,33 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 538,
+      "stars": 539,
       "forks": 40,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-09T12:27:30Z"
+      "updated_at": "2026-10-09T18:07:31Z"
     },
     {
       "id": 922299292,
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 531,
-      "forks": 15,
+      "stars": 532,
+      "forks": 16,
       "language": "Swift",
       "pushed_at": "2026-09-18T20:26:36Z",
-      "updated_at": "2026-10-07T05:50:49Z"
+      "updated_at": "2026-10-09T16:21:04Z"
     },
     {
       "id": 1311068285,
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 312,
+      "stars": 310,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-10-05T14:52:56Z",
-      "updated_at": "2026-10-08T07:19:48Z"
+      "updated_at": "2026-10-09T17:50:50Z"
     },
     {
       "id": 72835816,
@@ -129,6 +129,17 @@
       "updated_at": "2026-10-03T23:41:15Z"
     },
     {
+      "id": 1408082051,
+      "full_name": "Jakeschincariol/founder-skill",
+      "html_url": "https://github.com/Jakeschincariol/founder-skill",
+      "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+      "stars": 184,
+      "forks": 17,
+      "language": "Python",
+      "pushed_at": "2026-10-07T01:07:17Z",
+      "updated_at": "2026-10-09T20:35:23Z"
+    },
+    {
       "id": 470693636,
       "full_name": "tuconnaisyouknow/BadUSB_keyloggerInjector",
       "html_url": "https://github.com/tuconnaisyouknow/BadUSB_keyloggerInjector",
@@ -140,37 +151,26 @@
       "updated_at": "2026-10-09T11:41:57Z"
     },
     {
-      "id": 1408082051,
-      "full_name": "Jakeschincariol/founder-skill",
-      "html_url": "https://github.com/Jakeschincariol/founder-skill",
-      "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 171,
-      "forks": 17,
-      "language": "Python",
-      "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-09T14:39:22Z"
-    },
-    {
       "id": 1359081910,
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 156,
+      "stars": 155,
       "forks": 6,
       "language": "JavaScript",
       "pushed_at": "2026-10-05T14:31:15Z",
-      "updated_at": "2026-10-09T11:13:33Z"
+      "updated_at": "2026-10-09T17:42:46Z"
     },
     {
-      "id": 780027215,
-      "full_name": "AayushBharti/ai-saas-landing-starter",
-      "html_url": "https://github.com/AayushBharti/ai-saas-landing-starter",
-      "description": "🌈 Modern AI SaaS landing page with sleek parallax effects and bento box layouts.",
+      "id": 1179396737,
+      "full_name": "doanbactam/awesome-builder-programs",
+      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
+      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
       "stars": 143,
-      "forks": 23,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-07T06:16:39Z",
-      "updated_at": "2026-10-07T06:16:34Z"
+      "forks": 14,
+      "language": "Unknown",
+      "pushed_at": "2026-10-02T17:07:41Z",
+      "updated_at": "2026-10-09T18:55:33Z"
     }
   ]
 }
