@@ -5,40 +5,40 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 98,
+  "total_found": 99,
   "items": [
     {
       "id": 304483342,
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5321,
+      "stars": 5322,
       "forks": 504,
       "language": "Java",
       "pushed_at": "2026-10-07T13:28:24Z",
-      "updated_at": "2026-10-08T05:30:18Z"
+      "updated_at": "2026-10-09T01:29:47Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4595,
+      "stars": 4596,
       "forks": 444,
       "language": "Rust",
-      "pushed_at": "2026-10-08T20:59:52Z",
-      "updated_at": "2026-10-08T20:58:14Z"
+      "pushed_at": "2026-10-09T04:15:48Z",
+      "updated_at": "2026-10-09T01:52:28Z"
     },
     {
       "id": 69400040,
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1656,
+      "stars": 1657,
       "forks": 614,
       "language": "Python",
       "pushed_at": "2026-10-07T18:07:25Z",
-      "updated_at": "2026-10-07T17:46:16Z"
+      "updated_at": "2026-10-09T01:58:40Z"
     },
     {
       "id": 109404010,
@@ -67,11 +67,22 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1074,
+      "stars": 1076,
       "forks": 127,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-10-08T20:41:23Z"
+      "updated_at": "2026-10-08T23:47:12Z"
+    },
+    {
+      "id": 1178027836,
+      "full_name": "emotixco/claude-skills-founder",
+      "html_url": "https://github.com/emotixco/claude-skills-founder",
+      "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
+      "stars": 534,
+      "forks": 40,
+      "language": "Shell",
+      "pushed_at": "2026-10-07T16:03:22Z",
+      "updated_at": "2026-10-09T04:20:25Z"
     },
     {
       "id": 922299292,
@@ -83,17 +94,6 @@
       "language": "Swift",
       "pushed_at": "2026-09-18T20:26:36Z",
       "updated_at": "2026-10-07T05:50:49Z"
-    },
-    {
-      "id": 1178027836,
-      "full_name": "emotixco/claude-skills-founder",
-      "html_url": "https://github.com/emotixco/claude-skills-founder",
-      "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 528,
-      "forks": 40,
-      "language": "Shell",
-      "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-08T20:37:27Z"
     },
     {
       "id": 1311068285,
@@ -151,6 +151,17 @@
       "updated_at": "2026-10-08T13:26:31Z"
     },
     {
+      "id": 1408082051,
+      "full_name": "Jakeschincariol/founder-skill",
+      "html_url": "https://github.com/Jakeschincariol/founder-skill",
+      "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+      "stars": 151,
+      "forks": 16,
+      "language": "Python",
+      "pushed_at": "2026-10-07T01:07:17Z",
+      "updated_at": "2026-10-09T03:06:41Z"
+    },
+    {
       "id": 780027215,
       "full_name": "AayushBharti/ai-saas-landing-starter",
       "html_url": "https://github.com/AayushBharti/ai-saas-landing-starter",
@@ -160,17 +171,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-10-07T06:16:39Z",
       "updated_at": "2026-10-07T06:16:34Z"
-    },
-    {
-      "id": 1179396737,
-      "full_name": "doanbactam/awesome-builder-programs",
-      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
-      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 141,
-      "forks": 14,
-      "language": "Unknown",
-      "pushed_at": "2026-10-02T17:07:41Z",
-      "updated_at": "2026-10-02T17:07:44Z"
     }
   ]
 }
