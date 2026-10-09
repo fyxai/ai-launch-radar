@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4596,
-      "forks": 444,
+      "stars": 4599,
+      "forks": 446,
       "language": "Rust",
-      "pushed_at": "2026-10-09T04:15:48Z",
-      "updated_at": "2026-10-09T01:52:28Z"
+      "pushed_at": "2026-10-09T15:01:37Z",
+      "updated_at": "2026-10-09T14:55:16Z"
     },
     {
       "id": 69400040,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1079,
-      "forks": 308,
+      "forks": 310,
       "language": "Unknown",
       "pushed_at": "2026-09-30T14:05:18Z",
       "updated_at": "2026-10-08T07:56:20Z"
@@ -67,22 +67,22 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1076,
+      "stars": 1075,
       "forks": 127,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-10-08T23:47:12Z"
+      "updated_at": "2026-10-09T07:35:09Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 534,
+      "stars": 538,
       "forks": 40,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-09T04:20:25Z"
+      "updated_at": "2026-10-09T12:27:30Z"
     },
     {
       "id": 922299292,
@@ -111,11 +111,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 306,
+      "stars": 305,
       "forks": 99,
       "language": "JavaScript",
       "pushed_at": "2026-10-07T20:58:38Z",
-      "updated_at": "2026-10-07T20:58:43Z"
+      "updated_at": "2026-10-09T10:46:46Z"
     },
     {
       "id": 994132867,
@@ -133,33 +133,33 @@
       "full_name": "tuconnaisyouknow/BadUSB_keyloggerInjector",
       "html_url": "https://github.com/tuconnaisyouknow/BadUSB_keyloggerInjector",
       "description": "This script allows you to inject an invisible keylogger thanks to a Bad USB.",
-      "stars": 172,
+      "stars": 173,
       "forks": 78,
       "language": "Python",
       "pushed_at": "2026-09-25T16:31:24Z",
-      "updated_at": "2026-10-07T13:24:49Z"
-    },
-    {
-      "id": 1359081910,
-      "full_name": "alvinunreal/awesome-submitlist",
-      "html_url": "https://github.com/alvinunreal/awesome-submitlist",
-      "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 155,
-      "forks": 6,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-05T14:31:15Z",
-      "updated_at": "2026-10-08T13:26:31Z"
+      "updated_at": "2026-10-09T11:41:57Z"
     },
     {
       "id": 1408082051,
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 151,
-      "forks": 16,
+      "stars": 171,
+      "forks": 17,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-09T03:06:41Z"
+      "updated_at": "2026-10-09T14:39:22Z"
+    },
+    {
+      "id": 1359081910,
+      "full_name": "alvinunreal/awesome-submitlist",
+      "html_url": "https://github.com/alvinunreal/awesome-submitlist",
+      "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
+      "stars": 156,
+      "forks": 6,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-05T14:31:15Z",
+      "updated_at": "2026-10-09T11:13:33Z"
     },
     {
       "id": 780027215,
