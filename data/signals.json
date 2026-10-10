@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4599,
-      "forks": 446,
+      "stars": 4608,
+      "forks": 447,
       "language": "Rust",
-      "pushed_at": "2026-10-09T20:36:22Z",
-      "updated_at": "2026-10-09T20:36:26Z"
+      "pushed_at": "2026-10-10T02:15:07Z",
+      "updated_at": "2026-10-10T03:04:04Z"
     },
     {
       "id": 69400040,
@@ -56,33 +56,33 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1081,
+      "stars": 1082,
       "forks": 310,
       "language": "Unknown",
       "pushed_at": "2026-09-30T14:05:18Z",
-      "updated_at": "2026-10-09T19:08:02Z"
+      "updated_at": "2026-10-10T04:33:29Z"
     },
     {
       "id": 1298346646,
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1075,
-      "forks": 127,
+      "stars": 1076,
+      "forks": 125,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-10-09T07:35:09Z"
+      "updated_at": "2026-10-09T22:38:41Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 539,
-      "forks": 40,
+      "stars": 540,
+      "forks": 41,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-09T18:07:31Z"
+      "updated_at": "2026-10-09T21:47:36Z"
     },
     {
       "id": 922299292,
@@ -133,11 +133,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 184,
+      "stars": 192,
       "forks": 17,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-09T20:35:23Z"
+      "updated_at": "2026-10-10T03:19:39Z"
     },
     {
       "id": 470693636,
