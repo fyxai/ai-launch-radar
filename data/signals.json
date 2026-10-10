@@ -12,22 +12,22 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5322,
+      "stars": 5323,
       "forks": 504,
       "language": "Java",
-      "pushed_at": "2026-10-07T13:28:24Z",
-      "updated_at": "2026-10-09T01:29:47Z"
+      "pushed_at": "2026-10-10T23:06:27Z",
+      "updated_at": "2026-10-10T23:04:26Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4618,
+      "stars": 4619,
       "forks": 448,
       "language": "Rust",
-      "pushed_at": "2026-10-10T18:50:35Z",
-      "updated_at": "2026-10-10T18:51:36Z"
+      "pushed_at": "2026-10-10T22:18:08Z",
+      "updated_at": "2026-10-10T20:12:08Z"
     },
     {
       "id": 69400040,
@@ -133,11 +133,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 226,
+      "stars": 237,
       "forks": 22,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-10T19:42:10Z"
+      "updated_at": "2026-10-10T22:55:54Z"
     },
     {
       "id": 470693636,
@@ -166,11 +166,11 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 147,
+      "stars": 149,
       "forks": 14,
       "language": "Unknown",
       "pushed_at": "2026-10-02T17:07:41Z",
-      "updated_at": "2026-10-10T19:22:34Z"
+      "updated_at": "2026-10-10T22:56:14Z"
     }
   ]
 }
