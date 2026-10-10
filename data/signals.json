@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4615,
+      "stars": 4618,
       "forks": 448,
       "language": "Rust",
-      "pushed_at": "2026-10-10T02:15:07Z",
-      "updated_at": "2026-10-10T12:54:27Z"
+      "pushed_at": "2026-10-10T18:50:35Z",
+      "updated_at": "2026-10-10T18:51:36Z"
     },
     {
       "id": 69400040,
@@ -78,11 +78,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 543,
+      "stars": 547,
       "forks": 41,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-10T13:42:02Z"
+      "updated_at": "2026-10-10T19:43:07Z"
     },
     {
       "id": 922299292,
@@ -123,7 +123,7 @@
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
       "stars": 263,
-      "forks": 62,
+      "forks": 63,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:43:22Z",
       "updated_at": "2026-10-10T07:08:20Z"
@@ -133,11 +133,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 212,
-      "forks": 21,
+      "stars": 226,
+      "forks": 22,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-10T13:52:31Z"
+      "updated_at": "2026-10-10T19:42:10Z"
     },
     {
       "id": 470693636,
@@ -166,11 +166,11 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 143,
+      "stars": 147,
       "forks": 14,
       "language": "Unknown",
       "pushed_at": "2026-10-02T17:07:41Z",
-      "updated_at": "2026-10-09T18:55:33Z"
+      "updated_at": "2026-10-10T19:22:34Z"
     }
   ]
 }
