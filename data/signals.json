@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4608,
-      "forks": 447,
+      "stars": 4615,
+      "forks": 448,
       "language": "Rust",
       "pushed_at": "2026-10-10T02:15:07Z",
-      "updated_at": "2026-10-10T03:04:04Z"
+      "updated_at": "2026-10-10T12:54:27Z"
     },
     {
       "id": 69400040,
@@ -67,22 +67,22 @@
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1076,
+      "stars": 1080,
       "forks": 125,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-10-09T22:38:41Z"
+      "updated_at": "2026-10-10T12:56:37Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 540,
+      "stars": 543,
       "forks": 41,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-09T21:47:36Z"
+      "updated_at": "2026-10-10T13:42:02Z"
     },
     {
       "id": 922299292,
@@ -100,11 +100,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 310,
+      "stars": 311,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-10-05T14:52:56Z",
-      "updated_at": "2026-10-09T17:50:50Z"
+      "updated_at": "2026-10-10T09:55:32Z"
     },
     {
       "id": 72835816,
@@ -122,22 +122,22 @@
       "full_name": "DirectorySurf/awesome-launch-platforms",
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
-      "stars": 262,
+      "stars": 263,
       "forks": 62,
       "language": "Unknown",
       "pushed_at": "2026-09-22T21:43:22Z",
-      "updated_at": "2026-10-03T23:41:15Z"
+      "updated_at": "2026-10-10T07:08:20Z"
     },
     {
       "id": 1408082051,
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 192,
-      "forks": 17,
+      "stars": 212,
+      "forks": 21,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-10T03:19:39Z"
+      "updated_at": "2026-10-10T13:52:31Z"
     },
     {
       "id": 470693636,
