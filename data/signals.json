@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4619,
-      "forks": 448,
+      "stars": 4622,
+      "forks": 449,
       "language": "Rust",
       "pushed_at": "2026-10-10T22:18:08Z",
-      "updated_at": "2026-10-10T20:12:08Z"
+      "updated_at": "2026-10-11T03:30:43Z"
     },
     {
       "id": 69400040,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1082,
-      "forks": 310,
+      "forks": 309,
       "language": "Unknown",
       "pushed_at": "2026-09-30T14:05:18Z",
       "updated_at": "2026-10-10T04:33:29Z"
@@ -79,7 +79,7 @@
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
       "stars": 547,
-      "forks": 41,
+      "forks": 42,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
       "updated_at": "2026-10-10T19:43:07Z"
@@ -133,11 +133,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 237,
+      "stars": 246,
       "forks": 22,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-10T22:55:54Z"
+      "updated_at": "2026-10-11T01:59:23Z"
     },
     {
       "id": 470693636,
@@ -166,11 +166,11 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 149,
+      "stars": 151,
       "forks": 14,
       "language": "Unknown",
       "pushed_at": "2026-10-02T17:07:41Z",
-      "updated_at": "2026-10-10T22:56:14Z"
+      "updated_at": "2026-10-11T04:06:34Z"
     }
   ]
 }
