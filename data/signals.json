@@ -12,22 +12,22 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5323,
+      "stars": 5324,
       "forks": 504,
       "language": "Java",
       "pushed_at": "2026-10-10T23:06:27Z",
-      "updated_at": "2026-10-10T23:04:26Z"
+      "updated_at": "2026-10-13T06:42:35Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4651,
-      "forks": 451,
+      "stars": 4655,
+      "forks": 453,
       "language": "Rust",
-      "pushed_at": "2026-10-13T01:48:32Z",
-      "updated_at": "2026-10-13T01:33:36Z"
+      "pushed_at": "2026-10-13T03:11:11Z",
+      "updated_at": "2026-10-13T09:50:46Z"
     },
     {
       "id": 69400040,
@@ -56,55 +56,55 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1086,
-      "forks": 311,
+      "stars": 1087,
+      "forks": 313,
       "language": "Unknown",
       "pushed_at": "2026-09-30T14:05:18Z",
-      "updated_at": "2026-10-12T18:12:13Z"
+      "updated_at": "2026-10-13T07:16:24Z"
     },
     {
       "id": 1298346646,
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1086,
-      "forks": 126,
+      "stars": 1087,
+      "forks": 127,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-10-12T14:50:55Z"
+      "updated_at": "2026-10-13T10:14:36Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 590,
-      "forks": 44,
+      "stars": 599,
+      "forks": 46,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-12T23:45:20Z"
+      "updated_at": "2026-10-13T11:22:50Z"
     },
     {
       "id": 1408082051,
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 405,
-      "forks": 40,
+      "stars": 471,
+      "forks": 47,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-13T01:44:50Z"
+      "updated_at": "2026-10-13T11:26:54Z"
     },
     {
       "id": 1311068285,
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 315,
+      "stars": 316,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-10-12T15:39:48Z",
-      "updated_at": "2026-10-12T20:43:18Z"
+      "updated_at": "2026-10-13T11:23:46Z"
     },
     {
       "id": 72835816,
@@ -145,10 +145,21 @@
       "html_url": "https://github.com/tuconnaisyouknow/BadUSB_keyloggerInjector",
       "description": "This script allows you to inject an invisible keylogger thanks to a Bad USB.",
       "stars": 174,
-      "forks": 78,
+      "forks": 77,
       "language": "Python",
       "pushed_at": "2026-09-25T16:31:24Z",
       "updated_at": "2026-10-12T10:45:40Z"
+    },
+    {
+      "id": 1359081910,
+      "full_name": "alvinunreal/awesome-submitlist",
+      "html_url": "https://github.com/alvinunreal/awesome-submitlist",
+      "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
+      "stars": 158,
+      "forks": 6,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-12T15:16:48Z",
+      "updated_at": "2026-10-13T07:59:35Z"
     },
     {
       "id": 1179396737,
@@ -160,17 +171,6 @@
       "language": "Unknown",
       "pushed_at": "2026-10-02T17:07:41Z",
       "updated_at": "2026-10-12T17:43:10Z"
-    },
-    {
-      "id": 1359081910,
-      "full_name": "alvinunreal/awesome-submitlist",
-      "html_url": "https://github.com/alvinunreal/awesome-submitlist",
-      "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 157,
-      "forks": 6,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-12T15:16:48Z",
-      "updated_at": "2026-10-12T15:16:53Z"
     }
   ]
 }
