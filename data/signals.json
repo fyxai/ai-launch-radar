@@ -13,7 +13,7 @@
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
       "stars": 5324,
-      "forks": 504,
+      "forks": 503,
       "language": "Java",
       "pushed_at": "2026-10-10T23:06:27Z",
       "updated_at": "2026-10-13T06:42:35Z"
@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4658,
+      "stars": 4662,
       "forks": 453,
       "language": "Rust",
-      "pushed_at": "2026-10-13T18:56:27Z",
-      "updated_at": "2026-10-13T18:59:02Z"
+      "pushed_at": "2026-10-13T23:37:53Z",
+      "updated_at": "2026-10-13T23:37:55Z"
     },
     {
       "id": 69400040,
@@ -78,22 +78,22 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 603,
-      "forks": 46,
+      "stars": 612,
+      "forks": 47,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-13T18:57:12Z"
+      "updated_at": "2026-10-13T23:21:48Z"
     },
     {
       "id": 1408082051,
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 529,
-      "forks": 56,
+      "stars": 556,
+      "forks": 57,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-13T18:49:06Z"
+      "updated_at": "2026-10-13T23:29:49Z"
     },
     {
       "id": 1311068285,
@@ -155,11 +155,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 158,
+      "stars": 159,
       "forks": 6,
       "language": "JavaScript",
       "pushed_at": "2026-10-12T15:16:48Z",
-      "updated_at": "2026-10-13T07:59:35Z"
+      "updated_at": "2026-10-13T22:11:02Z"
     },
     {
       "id": 1179396737,
