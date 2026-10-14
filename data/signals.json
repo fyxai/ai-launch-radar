@@ -12,22 +12,22 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5322,
+      "stars": 5321,
       "forks": 504,
       "language": "Java",
       "pushed_at": "2026-10-10T23:06:27Z",
-      "updated_at": "2026-10-14T08:30:00Z"
+      "updated_at": "2026-10-14T11:45:48Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4666,
-      "forks": 454,
+      "stars": 4670,
+      "forks": 456,
       "language": "Rust",
-      "pushed_at": "2026-10-14T04:31:24Z",
-      "updated_at": "2026-10-14T08:01:30Z"
+      "pushed_at": "2026-10-14T16:42:45Z",
+      "updated_at": "2026-10-14T16:42:51Z"
     },
     {
       "id": 69400040,
@@ -45,22 +45,22 @@
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1583,
+      "stars": 1584,
       "forks": 98,
       "language": "JavaScript",
       "pushed_at": "2026-10-12T05:04:39Z",
-      "updated_at": "2026-10-07T21:18:32Z"
+      "updated_at": "2026-10-14T12:14:15Z"
     },
     {
       "id": 1298346646,
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1088,
+      "stars": 1089,
       "forks": 127,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-10-14T03:22:57Z"
+      "updated_at": "2026-10-14T10:24:20Z"
     },
     {
       "id": 76633312,
@@ -68,32 +68,32 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1086,
-      "forks": 314,
+      "forks": 318,
       "language": "Unknown",
       "pushed_at": "2026-10-14T06:11:00Z",
       "updated_at": "2026-10-14T06:11:04Z"
-    },
-    {
-      "id": 1178027836,
-      "full_name": "emotixco/claude-skills-founder",
-      "html_url": "https://github.com/emotixco/claude-skills-founder",
-      "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 619,
-      "forks": 48,
-      "language": "Shell",
-      "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-14T09:16:17Z"
     },
     {
       "id": 1408082051,
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 589,
-      "forks": 61,
+      "stars": 626,
+      "forks": 63,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-14T09:10:59Z"
+      "updated_at": "2026-10-14T16:35:47Z"
+    },
+    {
+      "id": 1178027836,
+      "full_name": "emotixco/claude-skills-founder",
+      "html_url": "https://github.com/emotixco/claude-skills-founder",
+      "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
+      "stars": 623,
+      "forks": 48,
+      "language": "Shell",
+      "pushed_at": "2026-10-07T16:03:22Z",
+      "updated_at": "2026-10-14T16:35:58Z"
     },
     {
       "id": 1311068285,
@@ -122,11 +122,11 @@
       "full_name": "thedaviddias/indie-dev-toolkit",
       "html_url": "https://github.com/thedaviddias/indie-dev-toolkit",
       "description": "🚀 A curated list of tools and resources for indie hackers, solo founders, and bootstrapped startups.",
-      "stars": 296,
+      "stars": 297,
       "forks": 42,
       "language": "Unknown",
       "pushed_at": "2026-10-09T23:04:00Z",
-      "updated_at": "2026-10-12T13:09:20Z"
+      "updated_at": "2026-10-14T12:23:34Z"
     },
     {
       "id": 994132867,
@@ -140,6 +140,17 @@
       "updated_at": "2026-10-12T17:03:13Z"
     },
     {
+      "id": 1359081910,
+      "full_name": "alvinunreal/awesome-submitlist",
+      "html_url": "https://github.com/alvinunreal/awesome-submitlist",
+      "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
+      "stars": 189,
+      "forks": 14,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-12T15:16:48Z",
+      "updated_at": "2026-10-14T16:38:48Z"
+    },
+    {
       "id": 470693636,
       "full_name": "tuconnaisyouknow/BadUSB_keyloggerInjector",
       "html_url": "https://github.com/tuconnaisyouknow/BadUSB_keyloggerInjector",
@@ -149,17 +160,6 @@
       "language": "Python",
       "pushed_at": "2026-09-25T16:31:24Z",
       "updated_at": "2026-10-12T10:45:40Z"
-    },
-    {
-      "id": 1359081910,
-      "full_name": "alvinunreal/awesome-submitlist",
-      "html_url": "https://github.com/alvinunreal/awesome-submitlist",
-      "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 160,
-      "forks": 6,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-12T15:16:48Z",
-      "updated_at": "2026-10-14T04:26:11Z"
     },
     {
       "id": 1179396737,
