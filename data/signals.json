@@ -13,7 +13,7 @@
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
       "stars": 5324,
-      "forks": 503,
+      "forks": 504,
       "language": "Java",
       "pushed_at": "2026-10-10T23:06:27Z",
       "updated_at": "2026-10-13T06:42:35Z"
@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4662,
-      "forks": 453,
+      "stars": 4666,
+      "forks": 454,
       "language": "Rust",
-      "pushed_at": "2026-10-13T23:37:53Z",
-      "updated_at": "2026-10-13T23:37:55Z"
+      "pushed_at": "2026-10-14T01:45:15Z",
+      "updated_at": "2026-10-14T03:23:46Z"
     },
     {
       "id": 69400040,
@@ -52,48 +52,48 @@
       "updated_at": "2026-10-07T21:18:32Z"
     },
     {
-      "id": 76633312,
-      "full_name": "Ibexoft/awesome-startup-tools-list",
-      "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
-      "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1087,
-      "forks": 313,
-      "language": "Unknown",
-      "pushed_at": "2026-10-13T14:08:04Z",
-      "updated_at": "2026-10-13T14:08:17Z"
-    },
-    {
       "id": 1298346646,
       "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "stars": 1087,
+      "stars": 1088,
       "forks": 127,
       "language": "Python",
       "pushed_at": "2026-09-19T09:09:02Z",
-      "updated_at": "2026-10-13T10:14:36Z"
+      "updated_at": "2026-10-14T03:22:57Z"
+    },
+    {
+      "id": 76633312,
+      "full_name": "Ibexoft/awesome-startup-tools-list",
+      "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
+      "description": "List of all tools (apps, services) that startups should use.",
+      "stars": 1086,
+      "forks": 313,
+      "language": "Unknown",
+      "pushed_at": "2026-10-13T14:08:04Z",
+      "updated_at": "2026-10-14T00:00:16Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 612,
+      "stars": 616,
       "forks": 47,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-13T23:21:48Z"
+      "updated_at": "2026-10-14T03:14:17Z"
     },
     {
       "id": 1408082051,
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 556,
-      "forks": 57,
+      "stars": 573,
+      "forks": 58,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-13T23:29:49Z"
+      "updated_at": "2026-10-14T03:54:00Z"
     },
     {
       "id": 1311068285,
