@@ -12,11 +12,11 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5324,
+      "stars": 5322,
       "forks": 504,
       "language": "Java",
       "pushed_at": "2026-10-10T23:06:27Z",
-      "updated_at": "2026-10-13T06:42:35Z"
+      "updated_at": "2026-10-14T08:30:00Z"
     },
     {
       "id": 1092407718,
@@ -26,8 +26,8 @@
       "stars": 4666,
       "forks": 454,
       "language": "Rust",
-      "pushed_at": "2026-10-14T01:45:15Z",
-      "updated_at": "2026-10-14T03:23:46Z"
+      "pushed_at": "2026-10-14T04:31:24Z",
+      "updated_at": "2026-10-14T08:01:30Z"
     },
     {
       "id": 69400040,
@@ -68,32 +68,32 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1086,
-      "forks": 313,
+      "forks": 314,
       "language": "Unknown",
-      "pushed_at": "2026-10-13T14:08:04Z",
-      "updated_at": "2026-10-14T00:00:16Z"
+      "pushed_at": "2026-10-14T06:11:00Z",
+      "updated_at": "2026-10-14T06:11:04Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 616,
-      "forks": 47,
+      "stars": 619,
+      "forks": 48,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-14T03:14:17Z"
+      "updated_at": "2026-10-14T09:16:17Z"
     },
     {
       "id": 1408082051,
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 573,
-      "forks": 58,
+      "stars": 589,
+      "forks": 61,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-14T03:54:00Z"
+      "updated_at": "2026-10-14T09:10:59Z"
     },
     {
       "id": 1311068285,
@@ -104,7 +104,7 @@
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-10-12T15:39:48Z",
-      "updated_at": "2026-10-13T16:37:26Z"
+      "updated_at": "2026-10-14T09:09:21Z"
     },
     {
       "id": 72835816,
@@ -155,11 +155,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 159,
+      "stars": 160,
       "forks": 6,
       "language": "JavaScript",
       "pushed_at": "2026-10-12T15:16:48Z",
-      "updated_at": "2026-10-13T22:11:02Z"
+      "updated_at": "2026-10-14T04:26:11Z"
     },
     {
       "id": 1179396737,
