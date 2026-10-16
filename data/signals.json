@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4701,
+      "stars": 4703,
       "forks": 457,
       "language": "Rust",
-      "pushed_at": "2026-10-16T16:13:32Z",
-      "updated_at": "2026-10-16T16:13:35Z"
+      "pushed_at": "2026-10-16T22:33:38Z",
+      "updated_at": "2026-10-16T22:33:42Z"
     },
     {
       "id": 69400040,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1087,
-      "forks": 320,
+      "forks": 321,
       "language": "Unknown",
       "pushed_at": "2026-10-14T06:11:00Z",
       "updated_at": "2026-10-14T20:50:47Z"
@@ -67,22 +67,33 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 849,
-      "forks": 90,
+      "stars": 867,
+      "forks": 92,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-16T15:46:27Z"
+      "updated_at": "2026-10-16T22:16:39Z"
+    },
+    {
+      "id": 557249295,
+      "full_name": "johackim/awesome-indiehackers",
+      "html_url": "https://github.com/johackim/awesome-indiehackers",
+      "description": "Awesome list about indie hackers",
+      "stars": 662,
+      "forks": 64,
+      "language": "Unknown",
+      "pushed_at": "2026-10-16T20:33:04Z",
+      "updated_at": "2026-10-16T20:33:08Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 649,
+      "stars": 654,
       "forks": 51,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-16T13:51:18Z"
+      "updated_at": "2026-10-16T20:15:38Z"
     },
     {
       "id": 922299292,
@@ -133,11 +144,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 269,
-      "forks": 29,
+      "stars": 276,
+      "forks": 37,
       "language": "JavaScript",
       "pushed_at": "2026-10-12T15:16:48Z",
-      "updated_at": "2026-10-16T12:01:12Z"
+      "updated_at": "2026-10-16T22:29:49Z"
     },
     {
       "id": 994132867,
@@ -151,23 +162,12 @@
       "updated_at": "2026-10-16T12:27:36Z"
     },
     {
-      "id": 470693636,
-      "full_name": "tuconnaisyouknow/BadUSB_keyloggerInjector",
-      "html_url": "https://github.com/tuconnaisyouknow/BadUSB_keyloggerInjector",
-      "description": "This script allows you to inject an invisible keylogger thanks to a Bad USB.",
-      "stars": 174,
-      "forks": 76,
-      "language": "Python",
-      "pushed_at": "2026-09-25T16:31:24Z",
-      "updated_at": "2026-10-12T10:45:40Z"
-    },
-    {
       "id": 1179396737,
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
       "stars": 160,
-      "forks": 15,
+      "forks": 16,
       "language": "Unknown",
       "pushed_at": "2026-10-16T03:05:54Z",
       "updated_at": "2026-10-16T03:05:59Z"
