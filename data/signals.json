@@ -12,22 +12,22 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5325,
+      "stars": 5326,
       "forks": 504,
       "language": "Java",
       "pushed_at": "2026-10-10T23:06:27Z",
-      "updated_at": "2026-10-17T02:31:01Z"
+      "updated_at": "2026-10-17T03:43:15Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4703,
+      "stars": 4705,
       "forks": 458,
       "language": "Rust",
-      "pushed_at": "2026-10-17T03:21:21Z",
-      "updated_at": "2026-10-17T01:26:25Z"
+      "pushed_at": "2026-10-17T08:17:25Z",
+      "updated_at": "2026-10-17T06:39:27Z"
     },
     {
       "id": 69400040,
@@ -67,11 +67,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 876,
-      "forks": 93,
+      "stars": 890,
+      "forks": 95,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-17T03:14:36Z"
+      "updated_at": "2026-10-17T08:12:12Z"
     },
     {
       "id": 557249295,
@@ -90,7 +90,7 @@
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
       "stars": 656,
-      "forks": 51,
+      "forks": 52,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
       "updated_at": "2026-10-17T02:54:09Z"
@@ -118,6 +118,17 @@
       "updated_at": "2026-10-16T13:54:14Z"
     },
     {
+      "id": 1359081910,
+      "full_name": "alvinunreal/awesome-submitlist",
+      "html_url": "https://github.com/alvinunreal/awesome-submitlist",
+      "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
+      "stars": 312,
+      "forks": 41,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-12T15:16:48Z",
+      "updated_at": "2026-10-17T08:17:13Z"
+    },
+    {
       "id": 72835816,
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
@@ -140,17 +151,6 @@
       "updated_at": "2026-10-14T12:23:34Z"
     },
     {
-      "id": 1359081910,
-      "full_name": "alvinunreal/awesome-submitlist",
-      "html_url": "https://github.com/alvinunreal/awesome-submitlist",
-      "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 291,
-      "forks": 40,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-12T15:16:48Z",
-      "updated_at": "2026-10-17T03:15:54Z"
-    },
-    {
       "id": 994132867,
       "full_name": "DirectorySurf/awesome-launch-platforms",
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
@@ -169,8 +169,8 @@
       "stars": 160,
       "forks": 16,
       "language": "Unknown",
-      "pushed_at": "2026-10-16T03:05:54Z",
-      "updated_at": "2026-10-16T03:05:59Z"
+      "pushed_at": "2026-10-17T06:29:22Z",
+      "updated_at": "2026-10-17T06:29:23Z"
     }
   ]
 }
