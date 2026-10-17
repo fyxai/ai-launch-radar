@@ -23,22 +23,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4705,
+      "stars": 4707,
       "forks": 458,
       "language": "Rust",
-      "pushed_at": "2026-10-17T12:56:55Z",
-      "updated_at": "2026-10-17T08:38:08Z"
+      "pushed_at": "2026-10-17T18:09:32Z",
+      "updated_at": "2026-10-17T17:26:32Z"
     },
     {
       "id": 69400040,
       "full_name": "tableau/TabPy",
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-      "stars": 1658,
+      "stars": 1657,
       "forks": 614,
       "language": "Python",
       "pushed_at": "2026-10-07T18:07:25Z",
-      "updated_at": "2026-10-12T11:13:37Z"
+      "updated_at": "2026-10-17T17:17:36Z"
     },
     {
       "id": 109404010,
@@ -67,11 +67,22 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 902,
-      "forks": 99,
+      "stars": 917,
+      "forks": 103,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-17T14:19:34Z"
+      "updated_at": "2026-10-17T17:46:17Z"
+    },
+    {
+      "id": 1178027836,
+      "full_name": "emotixco/claude-skills-founder",
+      "html_url": "https://github.com/emotixco/claude-skills-founder",
+      "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
+      "stars": 664,
+      "forks": 54,
+      "language": "Shell",
+      "pushed_at": "2026-10-17T17:30:44Z",
+      "updated_at": "2026-10-17T17:42:29Z"
     },
     {
       "id": 557249295,
@@ -83,17 +94,6 @@
       "language": "Unknown",
       "pushed_at": "2026-10-16T20:33:04Z",
       "updated_at": "2026-10-16T20:33:08Z"
-    },
-    {
-      "id": 1178027836,
-      "full_name": "emotixco/claude-skills-founder",
-      "html_url": "https://github.com/emotixco/claude-skills-founder",
-      "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 661,
-      "forks": 54,
-      "language": "Shell",
-      "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-17T12:19:32Z"
     },
     {
       "id": 922299292,
@@ -111,11 +111,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 351,
+      "stars": 352,
       "forks": 41,
       "language": "JavaScript",
       "pushed_at": "2026-10-12T15:16:48Z",
-      "updated_at": "2026-10-17T13:25:55Z"
+      "updated_at": "2026-10-17T16:24:39Z"
     },
     {
       "id": 1311068285,
