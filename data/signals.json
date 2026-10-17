@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4707,
-      "forks": 458,
+      "stars": 4710,
+      "forks": 459,
       "language": "Rust",
-      "pushed_at": "2026-10-17T18:09:32Z",
-      "updated_at": "2026-10-17T17:26:32Z"
+      "pushed_at": "2026-10-17T21:55:45Z",
+      "updated_at": "2026-10-17T21:55:48Z"
     },
     {
       "id": 69400040,
@@ -35,7 +35,7 @@
       "html_url": "https://github.com/tableau/TabPy",
       "description": "Execute Python code on the fly and display results in Tableau visualizations:",
       "stars": 1657,
-      "forks": 614,
+      "forks": 613,
       "language": "Python",
       "pushed_at": "2026-10-07T18:07:25Z",
       "updated_at": "2026-10-17T17:17:36Z"
@@ -46,7 +46,7 @@
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
       "stars": 1585,
-      "forks": 100,
+      "forks": 102,
       "language": "JavaScript",
       "pushed_at": "2026-10-16T05:47:36Z",
       "updated_at": "2026-10-16T22:46:19Z"
@@ -63,15 +63,26 @@
       "updated_at": "2026-10-17T13:04:19Z"
     },
     {
+      "id": 158286982,
+      "full_name": "maximmax42/Discord-CustomRP",
+      "html_url": "https://github.com/maximmax42/Discord-CustomRP",
+      "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
+      "stars": 962,
+      "forks": 128,
+      "language": "C#",
+      "pushed_at": "2026-10-17T19:35:03Z",
+      "updated_at": "2026-10-17T19:35:07Z"
+    },
+    {
       "id": 1408082051,
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 917,
-      "forks": 103,
+      "stars": 921,
+      "forks": 104,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-17T17:46:17Z"
+      "updated_at": "2026-10-17T21:56:01Z"
     },
     {
       "id": 1178027836,
@@ -81,8 +92,8 @@
       "stars": 664,
       "forks": 54,
       "language": "Shell",
-      "pushed_at": "2026-10-17T17:30:44Z",
-      "updated_at": "2026-10-17T17:42:29Z"
+      "pushed_at": "2026-10-17T18:46:00Z",
+      "updated_at": "2026-10-17T18:46:04Z"
     },
     {
       "id": 557249295,
@@ -160,17 +171,6 @@
       "language": "Unknown",
       "pushed_at": "2026-10-15T11:03:13Z",
       "updated_at": "2026-10-17T12:41:31Z"
-    },
-    {
-      "id": 1179396737,
-      "full_name": "doanbactam/awesome-builder-programs",
-      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
-      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 160,
-      "forks": 16,
-      "language": "Unknown",
-      "pushed_at": "2026-10-17T10:50:17Z",
-      "updated_at": "2026-10-17T10:50:20Z"
     }
   ]
 }
