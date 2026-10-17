@@ -5,18 +5,18 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 99,
+  "total_found": 100,
   "items": [
     {
       "id": 304483342,
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5324,
+      "stars": 5325,
       "forks": 504,
       "language": "Java",
       "pushed_at": "2026-10-10T23:06:27Z",
-      "updated_at": "2026-10-16T10:59:43Z"
+      "updated_at": "2026-10-17T02:31:01Z"
     },
     {
       "id": 1092407718,
@@ -24,10 +24,10 @@
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "stars": 4703,
-      "forks": 457,
+      "forks": 458,
       "language": "Rust",
-      "pushed_at": "2026-10-16T22:33:38Z",
-      "updated_at": "2026-10-16T22:33:42Z"
+      "pushed_at": "2026-10-17T03:21:21Z",
+      "updated_at": "2026-10-17T01:26:25Z"
     },
     {
       "id": 69400040,
@@ -45,11 +45,11 @@
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1584,
+      "stars": 1585,
       "forks": 100,
       "language": "JavaScript",
       "pushed_at": "2026-10-16T05:47:36Z",
-      "updated_at": "2026-10-14T12:14:15Z"
+      "updated_at": "2026-10-16T22:46:19Z"
     },
     {
       "id": 76633312,
@@ -67,11 +67,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 867,
-      "forks": 92,
+      "stars": 876,
+      "forks": 93,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-16T22:16:39Z"
+      "updated_at": "2026-10-17T03:14:36Z"
     },
     {
       "id": 557249295,
@@ -89,11 +89,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 654,
+      "stars": 656,
       "forks": 51,
       "language": "Shell",
       "pushed_at": "2026-10-07T16:03:22Z",
-      "updated_at": "2026-10-16T20:15:38Z"
+      "updated_at": "2026-10-17T02:54:09Z"
     },
     {
       "id": 922299292,
@@ -144,11 +144,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 276,
-      "forks": 37,
+      "stars": 291,
+      "forks": 40,
       "language": "JavaScript",
       "pushed_at": "2026-10-12T15:16:48Z",
-      "updated_at": "2026-10-16T22:29:49Z"
+      "updated_at": "2026-10-17T03:15:54Z"
     },
     {
       "id": 994132867,
