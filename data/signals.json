@@ -12,11 +12,11 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5327,
+      "stars": 5328,
       "forks": 504,
       "language": "Java",
       "pushed_at": "2026-10-10T23:06:27Z",
-      "updated_at": "2026-10-18T04:07:34Z"
+      "updated_at": "2026-10-18T20:21:23Z"
     },
     {
       "id": 1092407718,
@@ -26,8 +26,8 @@
       "stars": 4720,
       "forks": 461,
       "language": "Rust",
-      "pushed_at": "2026-10-18T17:23:52Z",
-      "updated_at": "2026-10-18T17:06:02Z"
+      "pushed_at": "2026-10-18T22:15:32Z",
+      "updated_at": "2026-10-18T21:52:41Z"
     },
     {
       "id": 69400040,
@@ -46,7 +46,7 @@
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
       "stars": 1585,
-      "forks": 103,
+      "forks": 106,
       "language": "JavaScript",
       "pushed_at": "2026-10-18T06:19:02Z",
       "updated_at": "2026-10-18T05:59:05Z"
@@ -67,11 +67,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 972,
+      "stars": 987,
       "forks": 111,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-18T18:24:03Z"
+      "updated_at": "2026-10-18T21:51:14Z"
     },
     {
       "id": 158286982,
@@ -82,18 +82,18 @@
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-10-18T17:57:03Z",
-      "updated_at": "2026-10-18T17:57:06Z"
+      "updated_at": "2026-10-18T19:12:34Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 665,
+      "stars": 666,
       "forks": 54,
       "language": "Shell",
       "pushed_at": "2026-10-17T18:46:00Z",
-      "updated_at": "2026-10-18T14:35:44Z"
+      "updated_at": "2026-10-18T21:53:09Z"
     },
     {
       "id": 557249295,
@@ -167,7 +167,7 @@
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
       "stars": 264,
-      "forks": 68,
+      "forks": 69,
       "language": "Unknown",
       "pushed_at": "2026-10-15T11:03:13Z",
       "updated_at": "2026-10-17T12:41:31Z"
