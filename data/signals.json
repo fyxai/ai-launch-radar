@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4710,
+      "stars": 4711,
       "forks": 459,
       "language": "Rust",
-      "pushed_at": "2026-10-17T21:55:45Z",
-      "updated_at": "2026-10-17T21:55:48Z"
+      "pushed_at": "2026-10-18T02:34:07Z",
+      "updated_at": "2026-10-18T00:11:48Z"
     },
     {
       "id": 69400040,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1087,
-      "forks": 320,
+      "forks": 321,
       "language": "Unknown",
       "pushed_at": "2026-10-14T06:11:00Z",
       "updated_at": "2026-10-17T13:04:19Z"
@@ -78,11 +78,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 921,
-      "forks": 104,
+      "stars": 927,
+      "forks": 106,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-17T21:56:01Z"
+      "updated_at": "2026-10-18T03:01:13Z"
     },
     {
       "id": 1178027836,
