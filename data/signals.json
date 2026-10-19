@@ -15,19 +15,19 @@
       "stars": 5328,
       "forks": 504,
       "language": "Java",
-      "pushed_at": "2026-10-10T23:06:27Z",
-      "updated_at": "2026-10-18T20:21:23Z"
+      "pushed_at": "2026-10-19T09:23:56Z",
+      "updated_at": "2026-10-19T08:48:13Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4723,
-      "forks": 462,
+      "stars": 4735,
+      "forks": 463,
       "language": "Rust",
-      "pushed_at": "2026-10-19T03:23:05Z",
-      "updated_at": "2026-10-19T01:34:41Z"
+      "pushed_at": "2026-10-19T05:08:58Z",
+      "updated_at": "2026-10-19T09:36:22Z"
     },
     {
       "id": 69400040,
@@ -48,7 +48,7 @@
       "stars": 1585,
       "forks": 106,
       "language": "JavaScript",
-      "pushed_at": "2026-10-18T06:19:02Z",
+      "pushed_at": "2026-10-19T04:55:05Z",
       "updated_at": "2026-10-18T05:59:05Z"
     },
     {
@@ -67,11 +67,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 1000,
-      "forks": 113,
+      "stars": 1030,
+      "forks": 115,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-19T03:29:08Z"
+      "updated_at": "2026-10-19T09:25:44Z"
     },
     {
       "id": 158286982,
@@ -89,11 +89,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 667,
-      "forks": 54,
+      "stars": 670,
+      "forks": 55,
       "language": "Shell",
       "pushed_at": "2026-10-17T18:46:00Z",
-      "updated_at": "2026-10-19T02:40:38Z"
+      "updated_at": "2026-10-19T05:12:45Z"
     },
     {
       "id": 557249295,
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
       "stars": 533,
-      "forks": 16,
+      "forks": 17,
       "language": "Swift",
       "pushed_at": "2026-10-16T03:43:22Z",
       "updated_at": "2026-10-16T03:43:26Z"
@@ -122,11 +122,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 353,
-      "forks": 41,
+      "stars": 356,
+      "forks": 43,
       "language": "JavaScript",
       "pushed_at": "2026-10-12T15:16:48Z",
-      "updated_at": "2026-10-18T17:08:48Z"
+      "updated_at": "2026-10-19T09:34:04Z"
     },
     {
       "id": 1311068285,
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
       "stars": 321,
-      "forks": 32,
+      "forks": 33,
       "language": "Unknown",
       "pushed_at": "2026-10-16T13:54:11Z",
       "updated_at": "2026-10-18T17:45:24Z"
