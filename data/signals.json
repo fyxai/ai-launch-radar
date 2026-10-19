@@ -12,22 +12,22 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5328,
+      "stars": 5329,
       "forks": 504,
       "language": "Java",
-      "pushed_at": "2026-10-19T09:23:56Z",
-      "updated_at": "2026-10-19T08:48:13Z"
+      "pushed_at": "2026-10-19T12:30:43Z",
+      "updated_at": "2026-10-19T14:03:40Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4735,
-      "forks": 463,
+      "stars": 4752,
+      "forks": 468,
       "language": "Rust",
-      "pushed_at": "2026-10-19T05:08:58Z",
-      "updated_at": "2026-10-19T09:36:22Z"
+      "pushed_at": "2026-10-19T18:26:48Z",
+      "updated_at": "2026-10-19T18:16:23Z"
     },
     {
       "id": 69400040,
@@ -56,22 +56,22 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1087,
-      "forks": 323,
+      "stars": 1088,
+      "forks": 327,
       "language": "Unknown",
       "pushed_at": "2026-10-14T06:11:00Z",
-      "updated_at": "2026-10-17T13:04:19Z"
+      "updated_at": "2026-10-19T15:05:38Z"
     },
     {
       "id": 1408082051,
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 1030,
-      "forks": 115,
+      "stars": 1062,
+      "forks": 123,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-19T09:25:44Z"
+      "updated_at": "2026-10-19T18:22:19Z"
     },
     {
       "id": 158286982,
@@ -81,30 +81,30 @@
       "stars": 962,
       "forks": 128,
       "language": "C#",
-      "pushed_at": "2026-10-18T17:57:03Z",
-      "updated_at": "2026-10-18T19:12:34Z"
+      "pushed_at": "2026-10-19T12:47:55Z",
+      "updated_at": "2026-10-19T12:40:47Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 670,
+      "stars": 673,
       "forks": 55,
       "language": "Shell",
       "pushed_at": "2026-10-17T18:46:00Z",
-      "updated_at": "2026-10-19T05:12:45Z"
+      "updated_at": "2026-10-19T14:09:38Z"
     },
     {
       "id": 557249295,
       "full_name": "johackim/awesome-indiehackers",
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
-      "stars": 662,
+      "stars": 660,
       "forks": 64,
       "language": "Unknown",
       "pushed_at": "2026-10-16T20:33:04Z",
-      "updated_at": "2026-10-16T20:33:08Z"
+      "updated_at": "2026-10-19T12:46:53Z"
     },
     {
       "id": 922299292,
@@ -122,11 +122,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 356,
-      "forks": 43,
+      "stars": 407,
+      "forks": 51,
       "language": "JavaScript",
-      "pushed_at": "2026-10-12T15:16:48Z",
-      "updated_at": "2026-10-19T09:34:04Z"
+      "pushed_at": "2026-10-19T13:06:42Z",
+      "updated_at": "2026-10-19T18:25:56Z"
     },
     {
       "id": 1311068285,
@@ -136,8 +136,8 @@
       "stars": 321,
       "forks": 33,
       "language": "Unknown",
-      "pushed_at": "2026-10-16T13:54:11Z",
-      "updated_at": "2026-10-18T17:45:24Z"
+      "pushed_at": "2026-10-19T13:31:58Z",
+      "updated_at": "2026-10-19T13:32:03Z"
     },
     {
       "id": 72835816,
@@ -156,7 +156,7 @@
       "html_url": "https://github.com/thedaviddias/indie-dev-toolkit",
       "description": "🚀 A curated list of tools and resources for indie hackers, solo founders, and bootstrapped startups.",
       "stars": 297,
-      "forks": 42,
+      "forks": 43,
       "language": "Unknown",
       "pushed_at": "2026-10-09T23:04:00Z",
       "updated_at": "2026-10-14T12:23:34Z"
@@ -167,7 +167,7 @@
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
       "stars": 264,
-      "forks": 69,
+      "forks": 70,
       "language": "Unknown",
       "pushed_at": "2026-10-15T11:03:13Z",
       "updated_at": "2026-10-17T12:41:31Z"
