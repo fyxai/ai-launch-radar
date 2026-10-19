@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4752,
-      "forks": 468,
+      "stars": 4758,
+      "forks": 469,
       "language": "Rust",
-      "pushed_at": "2026-10-19T18:26:48Z",
-      "updated_at": "2026-10-19T18:16:23Z"
+      "pushed_at": "2026-10-19T23:22:49Z",
+      "updated_at": "2026-10-19T23:21:48Z"
     },
     {
       "id": 69400040,
@@ -46,7 +46,7 @@
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
       "stars": 1585,
-      "forks": 106,
+      "forks": 108,
       "language": "JavaScript",
       "pushed_at": "2026-10-19T04:55:05Z",
       "updated_at": "2026-10-18T05:59:05Z"
@@ -56,22 +56,22 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1088,
-      "forks": 327,
+      "stars": 1089,
+      "forks": 328,
       "language": "Unknown",
       "pushed_at": "2026-10-14T06:11:00Z",
-      "updated_at": "2026-10-19T15:05:38Z"
+      "updated_at": "2026-10-19T21:01:28Z"
     },
     {
       "id": 1408082051,
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 1062,
-      "forks": 123,
+      "stars": 1083,
+      "forks": 128,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-19T18:22:19Z"
+      "updated_at": "2026-10-19T22:52:10Z"
     },
     {
       "id": 158286982,
@@ -111,22 +111,22 @@
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 533,
+      "stars": 532,
       "forks": 17,
       "language": "Swift",
       "pushed_at": "2026-10-16T03:43:22Z",
-      "updated_at": "2026-10-16T03:43:26Z"
+      "updated_at": "2026-10-19T22:21:05Z"
     },
     {
       "id": 1359081910,
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 407,
+      "stars": 460,
       "forks": 51,
       "language": "JavaScript",
       "pushed_at": "2026-10-19T13:06:42Z",
-      "updated_at": "2026-10-19T18:25:56Z"
+      "updated_at": "2026-10-19T23:18:46Z"
     },
     {
       "id": 1311068285,
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
       "stars": 321,
-      "forks": 33,
+      "forks": 34,
       "language": "Unknown",
       "pushed_at": "2026-10-19T13:31:58Z",
       "updated_at": "2026-10-19T13:32:03Z"
@@ -156,7 +156,7 @@
       "html_url": "https://github.com/thedaviddias/indie-dev-toolkit",
       "description": "🚀 A curated list of tools and resources for indie hackers, solo founders, and bootstrapped startups.",
       "stars": 297,
-      "forks": 43,
+      "forks": 44,
       "language": "Unknown",
       "pushed_at": "2026-10-09T23:04:00Z",
       "updated_at": "2026-10-14T12:23:34Z"
