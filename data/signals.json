@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4772,
-      "forks": 471,
+      "stars": 4779,
+      "forks": 477,
       "language": "Rust",
-      "pushed_at": "2026-10-20T05:37:55Z",
-      "updated_at": "2026-10-20T08:01:19Z"
+      "pushed_at": "2026-10-20T16:28:42Z",
+      "updated_at": "2026-10-20T16:09:00Z"
     },
     {
       "id": 69400040,
@@ -56,11 +56,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 1106,
-      "forks": 134,
+      "stars": 1142,
+      "forks": 139,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-20T09:14:24Z"
+      "updated_at": "2026-10-20T16:27:42Z"
     },
     {
       "id": 76633312,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1089,
-      "forks": 327,
+      "forks": 328,
       "language": "Unknown",
       "pushed_at": "2026-10-14T06:11:00Z",
       "updated_at": "2026-10-19T21:01:28Z"
@@ -78,22 +78,22 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 962,
+      "stars": 964,
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-10-19T12:47:55Z",
-      "updated_at": "2026-10-19T12:40:47Z"
+      "updated_at": "2026-10-20T14:11:33Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 675,
+      "stars": 677,
       "forks": 55,
       "language": "Shell",
       "pushed_at": "2026-10-17T18:46:00Z",
-      "updated_at": "2026-10-20T09:08:13Z"
+      "updated_at": "2026-10-20T16:23:13Z"
     },
     {
       "id": 557249295,
@@ -107,17 +107,6 @@
       "updated_at": "2026-10-19T12:46:53Z"
     },
     {
-      "id": 1359081910,
-      "full_name": "alvinunreal/awesome-submitlist",
-      "html_url": "https://github.com/alvinunreal/awesome-submitlist",
-      "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 534,
-      "forks": 51,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-19T13:06:42Z",
-      "updated_at": "2026-10-20T05:37:38Z"
-    },
-    {
       "id": 922299292,
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
@@ -127,6 +116,17 @@
       "language": "Swift",
       "pushed_at": "2026-10-16T03:43:22Z",
       "updated_at": "2026-10-19T22:21:05Z"
+    },
+    {
+      "id": 1359081910,
+      "full_name": "alvinunreal/awesome-submitlist",
+      "html_url": "https://github.com/alvinunreal/awesome-submitlist",
+      "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
+      "stars": 456,
+      "forks": 51,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-19T13:06:42Z",
+      "updated_at": "2026-10-20T16:10:19Z"
     },
     {
       "id": 1311068285,
@@ -144,11 +144,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 306,
+      "stars": 305,
       "forks": 106,
       "language": "JavaScript",
       "pushed_at": "2026-10-11T09:36:55Z",
-      "updated_at": "2026-10-18T12:32:06Z"
+      "updated_at": "2026-10-20T12:36:48Z"
     },
     {
       "id": 873944107,
