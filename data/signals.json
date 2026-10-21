@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4781,
+      "stars": 4785,
       "forks": 459,
       "language": "Rust",
-      "pushed_at": "2026-10-20T22:55:55Z",
-      "updated_at": "2026-10-20T22:40:09Z"
+      "pushed_at": "2026-10-21T01:39:20Z",
+      "updated_at": "2026-10-21T00:38:32Z"
     },
     {
       "id": 69400040,
@@ -56,11 +56,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 1185,
-      "forks": 144,
+      "stars": 1216,
+      "forks": 151,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-20T22:35:41Z"
+      "updated_at": "2026-10-21T03:14:55Z"
     },
     {
       "id": 76633312,
@@ -89,11 +89,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 680,
+      "stars": 681,
       "forks": 55,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-20T21:19:35Z"
+      "updated_at": "2026-10-21T02:57:24Z"
     },
     {
       "id": 557249295,
@@ -166,11 +166,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 253,
+      "stars": 254,
       "forks": 30,
       "language": "JavaScript",
       "pushed_at": "2026-10-19T13:06:42Z",
-      "updated_at": "2026-10-20T20:45:32Z"
+      "updated_at": "2026-10-21T00:47:16Z"
     }
   ]
 }
