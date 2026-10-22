@@ -5,29 +5,29 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 101,
+  "total_found": 100,
   "items": [
     {
       "id": 304483342,
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5329,
+      "stars": 5328,
       "forks": 504,
       "language": "Java",
       "pushed_at": "2026-10-19T12:30:43Z",
-      "updated_at": "2026-10-21T17:20:23Z"
+      "updated_at": "2026-10-22T13:11:54Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4823,
-      "forks": 463,
+      "stars": 4838,
+      "forks": 466,
       "language": "Rust",
-      "pushed_at": "2026-10-22T08:58:47Z",
-      "updated_at": "2026-10-22T09:03:29Z"
+      "pushed_at": "2026-10-22T16:43:24Z",
+      "updated_at": "2026-10-22T16:43:29Z"
     },
     {
       "id": 69400040,
@@ -56,11 +56,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 1334,
-      "forks": 173,
+      "stars": 1379,
+      "forks": 179,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-22T09:11:38Z"
+      "updated_at": "2026-10-22T16:35:41Z"
     },
     {
       "id": 76633312,
@@ -89,11 +89,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 696,
-      "forks": 55,
+      "stars": 703,
+      "forks": 58,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-22T05:37:29Z"
+      "updated_at": "2026-10-22T16:30:25Z"
     },
     {
       "id": 557249295,
@@ -122,11 +122,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 321,
+      "stars": 322,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-10-19T13:31:58Z",
-      "updated_at": "2026-10-19T13:32:03Z"
+      "updated_at": "2026-10-22T10:53:55Z"
     },
     {
       "id": 72835816,
@@ -166,11 +166,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 187,
+      "stars": 188,
       "forks": 25,
       "language": "JavaScript",
       "pushed_at": "2026-10-19T13:06:42Z",
-      "updated_at": "2026-10-22T06:32:21Z"
+      "updated_at": "2026-10-22T10:46:50Z"
     }
   ]
 }
