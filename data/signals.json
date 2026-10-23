@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4852,
-      "forks": 469,
+      "stars": 4860,
+      "forks": 470,
       "language": "Rust",
-      "pushed_at": "2026-10-23T03:43:56Z",
-      "updated_at": "2026-10-23T03:07:40Z"
+      "pushed_at": "2026-10-23T06:35:33Z",
+      "updated_at": "2026-10-23T08:46:25Z"
     },
     {
       "id": 69400040,
@@ -56,11 +56,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 1454,
-      "forks": 191,
+      "stars": 1473,
+      "forks": 200,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-23T03:39:28Z"
+      "updated_at": "2026-10-23T09:08:28Z"
     },
     {
       "id": 76633312,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1089,
-      "forks": 330,
+      "forks": 331,
       "language": "Unknown",
       "pushed_at": "2026-10-14T06:11:00Z",
       "updated_at": "2026-10-19T21:01:28Z"
@@ -89,11 +89,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 708,
+      "stars": 711,
       "forks": 58,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-23T02:18:48Z"
+      "updated_at": "2026-10-23T09:02:28Z"
     },
     {
       "id": 557249295,
@@ -155,22 +155,22 @@
       "full_name": "DirectorySurf/awesome-launch-platforms",
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
-      "stars": 263,
+      "stars": 264,
       "forks": 73,
       "language": "Unknown",
       "pushed_at": "2026-10-15T11:03:13Z",
-      "updated_at": "2026-10-20T16:53:01Z"
+      "updated_at": "2026-10-23T07:53:00Z"
     },
     {
       "id": 1359081910,
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 188,
+      "stars": 190,
       "forks": 25,
       "language": "JavaScript",
       "pushed_at": "2026-10-19T13:06:42Z",
-      "updated_at": "2026-10-22T10:46:50Z"
+      "updated_at": "2026-10-23T07:42:50Z"
     }
   ]
 }
