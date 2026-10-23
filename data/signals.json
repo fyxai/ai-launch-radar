@@ -12,22 +12,22 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5328,
+      "stars": 5329,
       "forks": 504,
       "language": "Java",
       "pushed_at": "2026-10-19T12:30:43Z",
-      "updated_at": "2026-10-22T13:11:54Z"
+      "updated_at": "2026-10-23T02:15:05Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4847,
-      "forks": 468,
+      "stars": 4852,
+      "forks": 469,
       "language": "Rust",
-      "pushed_at": "2026-10-22T22:58:01Z",
-      "updated_at": "2026-10-22T22:53:56Z"
+      "pushed_at": "2026-10-23T03:43:56Z",
+      "updated_at": "2026-10-23T03:07:40Z"
     },
     {
       "id": 69400040,
@@ -56,11 +56,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 1426,
-      "forks": 187,
+      "stars": 1454,
+      "forks": 191,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-22T22:47:51Z"
+      "updated_at": "2026-10-23T03:39:28Z"
     },
     {
       "id": 76633312,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1089,
-      "forks": 329,
+      "forks": 330,
       "language": "Unknown",
       "pushed_at": "2026-10-14T06:11:00Z",
       "updated_at": "2026-10-19T21:01:28Z"
@@ -89,11 +89,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 706,
+      "stars": 708,
       "forks": 58,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-22T22:39:10Z"
+      "updated_at": "2026-10-23T02:18:48Z"
     },
     {
       "id": 557249295,
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 306,
-      "forks": 109,
+      "forks": 110,
       "language": "JavaScript",
       "pushed_at": "2026-10-11T09:36:55Z",
       "updated_at": "2026-10-22T05:42:02Z"
