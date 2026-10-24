@@ -12,22 +12,22 @@
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5329,
+      "stars": 5330,
       "forks": 504,
       "language": "Java",
       "pushed_at": "2026-10-19T12:30:43Z",
-      "updated_at": "2026-10-23T02:15:05Z"
+      "updated_at": "2026-10-24T18:08:33Z"
     },
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4894,
-      "forks": 473,
+      "stars": 4896,
+      "forks": 474,
       "language": "Rust",
-      "pushed_at": "2026-10-24T15:08:24Z",
-      "updated_at": "2026-10-24T15:08:26Z"
+      "pushed_at": "2026-10-24T18:34:35Z",
+      "updated_at": "2026-10-24T18:14:21Z"
     },
     {
       "id": 69400040,
@@ -45,11 +45,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 1603,
-      "forks": 216,
+      "stars": 1623,
+      "forks": 221,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-24T15:15:06Z"
+      "updated_at": "2026-10-24T18:36:46Z"
     },
     {
       "id": 109404010,
@@ -59,8 +59,8 @@
       "stars": 1583,
       "forks": 97,
       "language": "JavaScript",
-      "pushed_at": "2026-10-24T05:46:38Z",
-      "updated_at": "2026-10-23T22:53:02Z"
+      "pushed_at": "2026-10-24T16:47:45Z",
+      "updated_at": "2026-10-24T16:47:46Z"
     },
     {
       "id": 76633312,
@@ -89,11 +89,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 721,
+      "stars": 723,
       "forks": 60,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-24T09:36:33Z"
+      "updated_at": "2026-10-24T18:09:50Z"
     },
     {
       "id": 557249295,
