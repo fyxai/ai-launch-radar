@@ -5,7 +5,7 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 100,
+  "total_found": 101,
   "items": [
     {
       "id": 304483342,
@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4882,
+      "stars": 4885,
       "forks": 473,
       "language": "Rust",
-      "pushed_at": "2026-10-23T22:50:03Z",
-      "updated_at": "2026-10-23T22:49:57Z"
+      "pushed_at": "2026-10-24T03:41:03Z",
+      "updated_at": "2026-10-24T03:10:01Z"
     },
     {
       "id": 69400040,
@@ -56,11 +56,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 1541,
-      "forks": 207,
+      "stars": 1560,
+      "forks": 209,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-23T22:42:21Z"
+      "updated_at": "2026-10-24T03:40:48Z"
     },
     {
       "id": 76633312,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1089,
-      "forks": 332,
+      "forks": 333,
       "language": "Unknown",
       "pushed_at": "2026-10-14T06:11:00Z",
       "updated_at": "2026-10-19T21:01:28Z"
@@ -89,11 +89,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 716,
+      "stars": 718,
       "forks": 59,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-23T21:39:05Z"
+      "updated_at": "2026-10-24T01:03:56Z"
     },
     {
       "id": 557249295,
@@ -155,11 +155,11 @@
       "full_name": "DirectorySurf/awesome-launch-platforms",
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
-      "stars": 264,
+      "stars": 263,
       "forks": 73,
       "language": "Unknown",
       "pushed_at": "2026-10-15T11:03:13Z",
-      "updated_at": "2026-10-23T07:53:00Z"
+      "updated_at": "2026-10-23T23:06:17Z"
     },
     {
       "id": 1359081910,
