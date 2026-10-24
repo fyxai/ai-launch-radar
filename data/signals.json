@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4885,
+      "stars": 4888,
       "forks": 473,
       "language": "Rust",
-      "pushed_at": "2026-10-24T03:41:03Z",
-      "updated_at": "2026-10-24T03:10:01Z"
+      "pushed_at": "2026-10-24T08:42:33Z",
+      "updated_at": "2026-10-24T08:34:03Z"
     },
     {
       "id": 69400040,
@@ -48,7 +48,7 @@
       "stars": 1583,
       "forks": 97,
       "language": "JavaScript",
-      "pushed_at": "2026-10-22T05:15:37Z",
+      "pushed_at": "2026-10-24T05:46:38Z",
       "updated_at": "2026-10-23T22:53:02Z"
     },
     {
@@ -56,11 +56,11 @@
       "full_name": "Jakeschincariol/founder-skill",
       "html_url": "https://github.com/Jakeschincariol/founder-skill",
       "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 1560,
+      "stars": 1577,
       "forks": 209,
       "language": "Python",
       "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-24T03:40:48Z"
+      "updated_at": "2026-10-24T08:42:21Z"
     },
     {
       "id": 76633312,
@@ -89,11 +89,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 718,
+      "stars": 720,
       "forks": 59,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-24T01:03:56Z"
+      "updated_at": "2026-10-24T07:53:23Z"
     },
     {
       "id": 557249295,
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 306,
-      "forks": 109,
+      "forks": 110,
       "language": "JavaScript",
       "pushed_at": "2026-10-11T09:36:55Z",
       "updated_at": "2026-10-22T05:42:02Z"
