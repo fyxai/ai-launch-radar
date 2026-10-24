@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4888,
+      "stars": 4894,
       "forks": 473,
       "language": "Rust",
-      "pushed_at": "2026-10-24T08:42:33Z",
-      "updated_at": "2026-10-24T08:34:03Z"
+      "pushed_at": "2026-10-24T15:08:24Z",
+      "updated_at": "2026-10-24T15:08:26Z"
     },
     {
       "id": 69400040,
@@ -41,6 +41,17 @@
       "updated_at": "2026-10-21T15:54:50Z"
     },
     {
+      "id": 1408082051,
+      "full_name": "Jakeschincariol/founder-skill",
+      "html_url": "https://github.com/Jakeschincariol/founder-skill",
+      "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+      "stars": 1603,
+      "forks": 216,
+      "language": "Python",
+      "pushed_at": "2026-10-07T01:07:17Z",
+      "updated_at": "2026-10-24T15:15:06Z"
+    },
+    {
       "id": 109404010,
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
@@ -52,26 +63,15 @@
       "updated_at": "2026-10-23T22:53:02Z"
     },
     {
-      "id": 1408082051,
-      "full_name": "Jakeschincariol/founder-skill",
-      "html_url": "https://github.com/Jakeschincariol/founder-skill",
-      "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-      "stars": 1577,
-      "forks": 209,
-      "language": "Python",
-      "pushed_at": "2026-10-07T01:07:17Z",
-      "updated_at": "2026-10-24T08:42:21Z"
-    },
-    {
       "id": 76633312,
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1089,
+      "stars": 1090,
       "forks": 333,
       "language": "Unknown",
       "pushed_at": "2026-10-14T06:11:00Z",
-      "updated_at": "2026-10-19T21:01:28Z"
+      "updated_at": "2026-10-24T09:33:37Z"
     },
     {
       "id": 158286982,
@@ -89,11 +89,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 720,
-      "forks": 59,
+      "stars": 721,
+      "forks": 60,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-24T07:53:23Z"
+      "updated_at": "2026-10-24T09:36:33Z"
     },
     {
       "id": 557249295,
