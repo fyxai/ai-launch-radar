@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4919,
-      "forks": 477,
+      "stars": 4924,
+      "forks": 479,
       "language": "Rust",
-      "pushed_at": "2026-10-25T18:45:22Z",
-      "updated_at": "2026-10-25T18:38:12Z"
+      "pushed_at": "2026-10-25T22:18:46Z",
+      "updated_at": "2026-10-25T21:20:34Z"
     },
     {
       "id": 69400040,
@@ -56,11 +56,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1090,
+      "stars": 1091,
       "forks": 334,
       "language": "Unknown",
       "pushed_at": "2026-10-14T06:11:00Z",
-      "updated_at": "2026-10-24T09:33:37Z"
+      "updated_at": "2026-10-25T20:17:08Z"
     },
     {
       "id": 158286982,
@@ -78,11 +78,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 728,
+      "stars": 729,
       "forks": 63,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-25T17:07:20Z"
+      "updated_at": "2026-10-25T19:09:28Z"
     },
     {
       "id": 557249295,
@@ -90,7 +90,7 @@
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
       "stars": 663,
-      "forks": 64,
+      "forks": 65,
       "language": "Unknown",
       "pushed_at": "2026-10-16T20:33:04Z",
       "updated_at": "2026-10-22T08:25:32Z"
