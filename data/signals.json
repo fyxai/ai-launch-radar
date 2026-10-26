@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4932,
-      "forks": 480,
+      "stars": 4937,
+      "forks": 481,
       "language": "Rust",
-      "pushed_at": "2026-10-26T03:37:09Z",
-      "updated_at": "2026-10-26T03:27:00Z"
+      "pushed_at": "2026-10-26T04:31:57Z",
+      "updated_at": "2026-10-26T09:46:51Z"
     },
     {
       "id": 109404010,
@@ -37,7 +37,7 @@
       "stars": 1583,
       "forks": 97,
       "language": "JavaScript",
-      "pushed_at": "2026-10-25T05:50:32Z",
+      "pushed_at": "2026-10-26T05:27:35Z",
       "updated_at": "2026-10-24T16:47:46Z"
     },
     {
@@ -45,11 +45,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1091,
-      "forks": 334,
+      "stars": 1092,
+      "forks": 337,
       "language": "Unknown",
       "pushed_at": "2026-10-14T06:11:00Z",
-      "updated_at": "2026-10-25T20:17:08Z"
+      "updated_at": "2026-10-26T08:26:50Z"
     },
     {
       "id": 158286982,
@@ -67,11 +67,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 729,
+      "stars": 731,
       "forks": 63,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-25T19:09:28Z"
+      "updated_at": "2026-10-26T08:23:04Z"
     },
     {
       "id": 557249295,
@@ -104,7 +104,7 @@
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-10-19T13:31:58Z",
-      "updated_at": "2026-10-24T20:17:59Z"
+      "updated_at": "2026-10-26T07:44:46Z"
     },
     {
       "id": 72835816,
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 306,
-      "forks": 110,
+      "forks": 111,
       "language": "JavaScript",
       "pushed_at": "2026-10-11T09:36:55Z",
       "updated_at": "2026-10-22T05:42:02Z"
@@ -133,22 +133,22 @@
       "full_name": "DirectorySurf/awesome-launch-platforms",
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
-      "stars": 263,
-      "forks": 73,
+      "stars": 264,
+      "forks": 74,
       "language": "Unknown",
       "pushed_at": "2026-10-15T11:03:13Z",
-      "updated_at": "2026-10-23T23:06:17Z"
+      "updated_at": "2026-10-26T08:32:58Z"
     },
     {
       "id": 1429583155,
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 215,
-      "forks": 24,
+      "stars": 241,
+      "forks": 25,
       "language": "Python",
-      "pushed_at": "2026-10-26T02:13:15Z",
-      "updated_at": "2026-10-26T03:37:40Z"
+      "pushed_at": "2026-10-26T05:23:19Z",
+      "updated_at": "2026-10-26T09:46:50Z"
     },
     {
       "id": 1359081910,
