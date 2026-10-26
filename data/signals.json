@@ -23,22 +23,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 4946,
+      "stars": 4951,
       "forks": 481,
       "language": "Rust",
-      "pushed_at": "2026-10-26T18:21:39Z",
-      "updated_at": "2026-10-26T18:17:57Z"
+      "pushed_at": "2026-10-26T23:35:51Z",
+      "updated_at": "2026-10-26T23:33:23Z"
     },
     {
       "id": 109404010,
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1583,
+      "stars": 1584,
       "forks": 97,
       "language": "JavaScript",
       "pushed_at": "2026-10-26T12:13:41Z",
-      "updated_at": "2026-10-26T12:13:28Z"
+      "updated_at": "2026-10-26T21:46:39Z"
     },
     {
       "id": 76633312,
@@ -46,7 +46,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1093,
-      "forks": 339,
+      "forks": 341,
       "language": "Unknown",
       "pushed_at": "2026-10-14T06:11:00Z",
       "updated_at": "2026-10-26T12:00:15Z"
@@ -56,22 +56,22 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 964,
-      "forks": 129,
+      "stars": 963,
+      "forks": 130,
       "language": "C#",
       "pushed_at": "2026-10-19T12:47:55Z",
-      "updated_at": "2026-10-20T14:11:33Z"
+      "updated_at": "2026-10-26T20:30:48Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 734,
+      "stars": 735,
       "forks": 65,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-26T17:41:11Z"
+      "updated_at": "2026-10-26T19:03:25Z"
     },
     {
       "id": 557249295,
@@ -96,6 +96,17 @@
       "updated_at": "2026-10-21T06:57:30Z"
     },
     {
+      "id": 1429583155,
+      "full_name": "huaxialucaicaizi/ai-startup-skills",
+      "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
+      "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
+      "stars": 327,
+      "forks": 28,
+      "language": "Python",
+      "pushed_at": "2026-10-26T20:08:33Z",
+      "updated_at": "2026-10-26T23:16:11Z"
+    },
+    {
       "id": 1311068285,
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
@@ -118,26 +129,15 @@
       "updated_at": "2026-10-26T12:02:08Z"
     },
     {
-      "id": 1429583155,
-      "full_name": "huaxialucaicaizi/ai-startup-skills",
-      "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-      "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 284,
-      "forks": 27,
-      "language": "Python",
-      "pushed_at": "2026-10-26T05:23:19Z",
-      "updated_at": "2026-10-26T18:11:55Z"
-    },
-    {
       "id": 994132867,
       "full_name": "DirectorySurf/awesome-launch-platforms",
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
-      "stars": 264,
+      "stars": 265,
       "forks": 74,
       "language": "Unknown",
       "pushed_at": "2026-10-15T11:03:13Z",
-      "updated_at": "2026-10-26T08:32:58Z"
+      "updated_at": "2026-10-26T22:01:01Z"
     },
     {
       "id": 1359081910,
