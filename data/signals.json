@@ -8,6 +8,17 @@
   "total_found": 103,
   "items": [
     {
+      "id": 1092407718,
+      "full_name": "macro-inc/macro",
+      "html_url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "stars": 5351,
+      "forks": 516,
+      "language": "Rust",
+      "pushed_at": "2026-10-28T20:47:36Z",
+      "updated_at": "2026-10-28T20:48:31Z"
+    },
+    {
       "id": 304483342,
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
@@ -17,17 +28,6 @@
       "language": "Java",
       "pushed_at": "2026-10-19T12:30:43Z",
       "updated_at": "2026-10-28T00:47:01Z"
-    },
-    {
-      "id": 1092407718,
-      "full_name": "macro-inc/macro",
-      "html_url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 5246,
-      "forks": 511,
-      "language": "Rust",
-      "pushed_at": "2026-10-28T14:53:30Z",
-      "updated_at": "2026-10-28T14:52:10Z"
     },
     {
       "id": 109404010,
@@ -46,7 +46,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1094,
-      "forks": 344,
+      "forks": 345,
       "language": "Unknown",
       "pushed_at": "2026-10-27T04:57:21Z",
       "updated_at": "2026-10-27T19:02:27Z"
@@ -60,18 +60,18 @@
       "forks": 130,
       "language": "C#",
       "pushed_at": "2026-10-27T14:39:42Z",
-      "updated_at": "2026-10-28T03:33:55Z"
+      "updated_at": "2026-10-28T17:50:54Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 748,
+      "stars": 749,
       "forks": 65,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-28T13:10:40Z"
+      "updated_at": "2026-10-28T18:54:09Z"
     },
     {
       "id": 557249295,
@@ -79,7 +79,7 @@
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
       "stars": 665,
-      "forks": 66,
+      "forks": 67,
       "language": "Unknown",
       "pushed_at": "2026-10-16T20:33:04Z",
       "updated_at": "2026-10-27T15:38:54Z"
@@ -100,11 +100,11 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 442,
+      "stars": 498,
       "forks": 32,
       "language": "Python",
       "pushed_at": "2026-10-28T03:13:11Z",
-      "updated_at": "2026-10-28T14:27:35Z"
+      "updated_at": "2026-10-28T19:56:32Z"
     },
     {
       "id": 1311068285,
@@ -123,10 +123,10 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 307,
-      "forks": 115,
+      "forks": 114,
       "language": "JavaScript",
-      "pushed_at": "2026-10-28T12:14:23Z",
-      "updated_at": "2026-10-28T13:55:09Z"
+      "pushed_at": "2026-10-28T15:05:23Z",
+      "updated_at": "2026-10-28T15:05:29Z"
     },
     {
       "id": 994132867,
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
       "stars": 266,
-      "forks": 78,
+      "forks": 79,
       "language": "Unknown",
       "pushed_at": "2026-10-15T11:03:13Z",
       "updated_at": "2026-10-28T10:27:32Z"
@@ -144,11 +144,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 196,
+      "stars": 195,
       "forks": 25,
       "language": "JavaScript",
       "pushed_at": "2026-10-26T12:54:54Z",
-      "updated_at": "2026-10-27T18:03:52Z"
+      "updated_at": "2026-10-28T20:38:48Z"
     },
     {
       "id": 1179396737,
@@ -166,11 +166,11 @@
       "full_name": "AayushBharti/ai-saas-landing-starter",
       "html_url": "https://github.com/AayushBharti/ai-saas-landing-starter",
       "description": "🌈 Modern AI SaaS landing page with sleek parallax effects and bento box layouts.",
-      "stars": 148,
+      "stars": 149,
       "forks": 24,
       "language": "TypeScript",
       "pushed_at": "2026-10-26T10:20:21Z",
-      "updated_at": "2026-10-28T07:37:17Z"
+      "updated_at": "2026-10-28T17:45:08Z"
     }
   ]
 }
