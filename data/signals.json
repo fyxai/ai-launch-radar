@@ -23,11 +23,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 5149,
-      "forks": 505,
+      "stars": 5246,
+      "forks": 511,
       "language": "Rust",
-      "pushed_at": "2026-10-28T04:32:34Z",
-      "updated_at": "2026-10-28T02:40:07Z"
+      "pushed_at": "2026-10-28T14:53:30Z",
+      "updated_at": "2026-10-28T14:52:10Z"
     },
     {
       "id": 109404010,
@@ -37,8 +37,8 @@
       "stars": 1584,
       "forks": 97,
       "language": "JavaScript",
-      "pushed_at": "2026-10-27T05:57:48Z",
-      "updated_at": "2026-10-26T21:46:39Z"
+      "pushed_at": "2026-10-28T05:06:16Z",
+      "updated_at": "2026-10-28T05:06:19Z"
     },
     {
       "id": 76633312,
@@ -46,7 +46,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1094,
-      "forks": 342,
+      "forks": 344,
       "language": "Unknown",
       "pushed_at": "2026-10-27T04:57:21Z",
       "updated_at": "2026-10-27T19:02:27Z"
@@ -67,11 +67,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 744,
+      "stars": 748,
       "forks": 65,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-27T23:41:03Z"
+      "updated_at": "2026-10-28T13:10:40Z"
     },
     {
       "id": 557249295,
@@ -89,55 +89,55 @@
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 534,
+      "stars": 533,
       "forks": 17,
       "language": "Swift",
       "pushed_at": "2026-10-16T03:43:22Z",
-      "updated_at": "2026-10-21T06:57:30Z"
+      "updated_at": "2026-10-28T11:56:17Z"
     },
     {
       "id": 1429583155,
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 435,
+      "stars": 442,
       "forks": 32,
       "language": "Python",
       "pushed_at": "2026-10-28T03:13:11Z",
-      "updated_at": "2026-10-27T22:56:23Z"
+      "updated_at": "2026-10-28T14:27:35Z"
     },
     {
       "id": 1311068285,
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 328,
+      "stars": 329,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-10-26T13:14:56Z",
-      "updated_at": "2026-10-27T20:46:18Z"
+      "updated_at": "2026-10-28T08:35:57Z"
     },
     {
       "id": 72835816,
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 306,
+      "stars": 307,
       "forks": 115,
       "language": "JavaScript",
-      "pushed_at": "2026-10-26T12:02:03Z",
-      "updated_at": "2026-10-26T12:02:08Z"
+      "pushed_at": "2026-10-28T12:14:23Z",
+      "updated_at": "2026-10-28T13:55:09Z"
     },
     {
       "id": 994132867,
       "full_name": "DirectorySurf/awesome-launch-platforms",
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
-      "stars": 265,
-      "forks": 77,
+      "stars": 266,
+      "forks": 78,
       "language": "Unknown",
       "pushed_at": "2026-10-15T11:03:13Z",
-      "updated_at": "2026-10-26T22:01:01Z"
+      "updated_at": "2026-10-28T10:27:32Z"
     },
     {
       "id": 1359081910,
@@ -166,11 +166,11 @@
       "full_name": "AayushBharti/ai-saas-landing-starter",
       "html_url": "https://github.com/AayushBharti/ai-saas-landing-starter",
       "description": "🌈 Modern AI SaaS landing page with sleek parallax effects and bento box layouts.",
-      "stars": 147,
+      "stars": 148,
       "forks": 24,
       "language": "TypeScript",
       "pushed_at": "2026-10-26T10:20:21Z",
-      "updated_at": "2026-10-26T06:29:14Z"
+      "updated_at": "2026-10-28T07:37:17Z"
     }
   ]
 }
