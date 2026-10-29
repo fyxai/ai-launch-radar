@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 5507,
-      "forks": 525,
+      "stars": 5625,
+      "forks": 532,
       "language": "Rust",
-      "pushed_at": "2026-10-29T04:28:25Z",
-      "updated_at": "2026-10-29T04:45:25Z"
+      "pushed_at": "2026-10-29T14:59:30Z",
+      "updated_at": "2026-10-29T14:57:08Z"
     },
     {
       "id": 304483342,
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5335,
-      "forks": 505,
+      "stars": 5337,
+      "forks": 506,
       "language": "Java",
       "pushed_at": "2026-10-19T12:30:43Z",
-      "updated_at": "2026-10-29T03:43:50Z"
+      "updated_at": "2026-10-29T09:02:53Z"
     },
     {
       "id": 109404010,
@@ -37,41 +37,41 @@
       "stars": 1584,
       "forks": 97,
       "language": "JavaScript",
-      "pushed_at": "2026-10-28T05:06:16Z",
-      "updated_at": "2026-10-28T05:06:19Z"
+      "pushed_at": "2026-10-29T10:42:22Z",
+      "updated_at": "2026-10-29T10:42:28Z"
     },
     {
       "id": 76633312,
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
-      "stars": 1094,
+      "stars": 1095,
       "forks": 345,
       "language": "Unknown",
-      "pushed_at": "2026-10-27T04:57:21Z",
-      "updated_at": "2026-10-27T19:02:27Z"
+      "pushed_at": "2026-10-29T05:22:49Z",
+      "updated_at": "2026-10-29T06:11:30Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 964,
+      "stars": 963,
       "forks": 130,
       "language": "C#",
       "pushed_at": "2026-10-27T14:39:42Z",
-      "updated_at": "2026-10-28T17:50:54Z"
+      "updated_at": "2026-10-29T13:40:59Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 752,
+      "stars": 753,
       "forks": 65,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-29T02:05:49Z"
+      "updated_at": "2026-10-29T13:42:02Z"
     },
     {
       "id": 557249295,
@@ -79,10 +79,10 @@
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
       "stars": 665,
-      "forks": 67,
+      "forks": 66,
       "language": "Unknown",
-      "pushed_at": "2026-10-16T20:33:04Z",
-      "updated_at": "2026-10-27T15:38:54Z"
+      "pushed_at": "2026-10-29T12:31:00Z",
+      "updated_at": "2026-10-29T12:31:04Z"
     },
     {
       "id": 922299292,
@@ -100,11 +100,11 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 503,
+      "stars": 523,
       "forks": 32,
       "language": "Python",
       "pushed_at": "2026-10-28T03:13:11Z",
-      "updated_at": "2026-10-29T02:57:33Z"
+      "updated_at": "2026-10-29T14:52:30Z"
     },
     {
       "id": 1311068285,
@@ -125,8 +125,8 @@
       "stars": 307,
       "forks": 114,
       "language": "JavaScript",
-      "pushed_at": "2026-10-28T15:05:23Z",
-      "updated_at": "2026-10-28T15:05:29Z"
+      "pushed_at": "2026-10-29T08:34:50Z",
+      "updated_at": "2026-10-29T08:34:54Z"
     },
     {
       "id": 994132867,
