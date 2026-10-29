@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 5351,
-      "forks": 516,
+      "stars": 5507,
+      "forks": 525,
       "language": "Rust",
-      "pushed_at": "2026-10-28T20:47:36Z",
-      "updated_at": "2026-10-28T20:48:31Z"
+      "pushed_at": "2026-10-29T04:28:25Z",
+      "updated_at": "2026-10-29T04:45:25Z"
     },
     {
       "id": 304483342,
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5333,
+      "stars": 5335,
       "forks": 505,
       "language": "Java",
       "pushed_at": "2026-10-19T12:30:43Z",
-      "updated_at": "2026-10-28T00:47:01Z"
+      "updated_at": "2026-10-29T03:43:50Z"
     },
     {
       "id": 109404010,
@@ -67,11 +67,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 749,
+      "stars": 752,
       "forks": 65,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-28T18:54:09Z"
+      "updated_at": "2026-10-29T02:05:49Z"
     },
     {
       "id": 557249295,
@@ -100,11 +100,11 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 498,
+      "stars": 503,
       "forks": 32,
       "language": "Python",
       "pushed_at": "2026-10-28T03:13:11Z",
-      "updated_at": "2026-10-28T19:56:32Z"
+      "updated_at": "2026-10-29T02:57:33Z"
     },
     {
       "id": 1311068285,
