@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 5657,
-      "forks": 534,
+      "stars": 5738,
+      "forks": 537,
       "language": "Rust",
-      "pushed_at": "2026-10-30T04:44:27Z",
-      "updated_at": "2026-10-30T04:44:30Z"
+      "pushed_at": "2026-10-30T14:52:39Z",
+      "updated_at": "2026-10-30T14:51:37Z"
     },
     {
       "id": 304483342,
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5336,
+      "stars": 5337,
       "forks": 506,
       "language": "Java",
       "pushed_at": "2026-10-19T12:30:43Z",
-      "updated_at": "2026-10-30T01:10:31Z"
+      "updated_at": "2026-10-30T10:35:17Z"
     },
     {
       "id": 109404010,
@@ -46,7 +46,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools (apps, services) that startups should use.",
       "stars": 1095,
-      "forks": 344,
+      "forks": 345,
       "language": "Unknown",
       "pushed_at": "2026-10-29T05:22:49Z",
       "updated_at": "2026-10-29T06:11:30Z"
@@ -67,33 +67,33 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 758,
+      "stars": 760,
       "forks": 66,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-29T22:24:12Z"
+      "updated_at": "2026-10-30T14:35:07Z"
     },
     {
       "id": 557249295,
       "full_name": "johackim/awesome-indiehackers",
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
-      "stars": 665,
+      "stars": 664,
       "forks": 67,
       "language": "Unknown",
       "pushed_at": "2026-10-29T12:31:00Z",
-      "updated_at": "2026-10-29T12:31:04Z"
+      "updated_at": "2026-10-30T05:47:40Z"
     },
     {
       "id": 1429583155,
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 564,
-      "forks": 32,
+      "stars": 572,
+      "forks": 33,
       "language": "Python",
-      "pushed_at": "2026-10-28T03:13:11Z",
-      "updated_at": "2026-10-30T04:21:29Z"
+      "pushed_at": "2026-10-30T05:38:46Z",
+      "updated_at": "2026-10-30T14:46:24Z"
     },
     {
       "id": 922299292,
