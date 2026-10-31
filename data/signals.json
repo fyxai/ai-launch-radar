@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 5911,
-      "forks": 541,
+      "stars": 6010,
+      "forks": 550,
       "language": "Rust",
-      "pushed_at": "2026-10-31T04:32:16Z",
-      "updated_at": "2026-10-31T04:32:20Z"
+      "pushed_at": "2026-10-31T13:43:33Z",
+      "updated_at": "2026-10-31T14:18:12Z"
     },
     {
       "id": 304483342,
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5338,
+      "stars": 5337,
       "forks": 506,
       "language": "Java",
       "pushed_at": "2026-10-19T12:30:43Z",
-      "updated_at": "2026-10-31T00:51:56Z"
+      "updated_at": "2026-10-31T12:28:59Z"
     },
     {
       "id": 109404010,
@@ -45,11 +45,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
-      "stars": 1095,
+      "stars": 1096,
       "forks": 346,
       "language": "Unknown",
-      "pushed_at": "2026-10-29T05:22:49Z",
-      "updated_at": "2026-10-30T17:59:58Z"
+      "pushed_at": "2026-10-31T12:42:02Z",
+      "updated_at": "2026-10-31T12:42:06Z"
     },
     {
       "id": 158286982,
@@ -67,33 +67,33 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 764,
+      "stars": 765,
       "forks": 66,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-31T02:03:24Z"
+      "updated_at": "2026-10-31T09:47:49Z"
     },
     {
       "id": 557249295,
       "full_name": "johackim/awesome-indiehackers",
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
-      "stars": 664,
+      "stars": 665,
       "forks": 67,
       "language": "Unknown",
       "pushed_at": "2026-10-29T12:31:00Z",
-      "updated_at": "2026-10-30T05:47:40Z"
+      "updated_at": "2026-10-31T09:55:15Z"
     },
     {
       "id": 1429583155,
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 616,
+      "stars": 617,
       "forks": 33,
       "language": "Python",
       "pushed_at": "2026-10-31T03:04:45Z",
-      "updated_at": "2026-10-31T00:31:07Z"
+      "updated_at": "2026-10-31T13:24:04Z"
     },
     {
       "id": 922299292,
@@ -103,19 +103,19 @@
       "stars": 534,
       "forks": 17,
       "language": "Swift",
-      "pushed_at": "2026-10-16T03:43:22Z",
-      "updated_at": "2026-10-29T19:19:08Z"
+      "pushed_at": "2026-10-31T12:37:01Z",
+      "updated_at": "2026-10-31T12:37:05Z"
     },
     {
       "id": 1311068285,
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 329,
+      "stars": 330,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-10-26T13:14:56Z",
-      "updated_at": "2026-10-28T08:35:57Z"
+      "updated_at": "2026-10-31T11:57:26Z"
     },
     {
       "id": 72835816,
@@ -123,7 +123,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 307,
-      "forks": 113,
+      "forks": 114,
       "language": "JavaScript",
       "pushed_at": "2026-10-29T08:34:50Z",
       "updated_at": "2026-10-29T08:34:54Z"
@@ -133,11 +133,11 @@
       "full_name": "DirectorySurf/awesome-launch-platforms",
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
-      "stars": 268,
+      "stars": 269,
       "forks": 81,
       "language": "Unknown",
       "pushed_at": "2026-10-15T11:03:13Z",
-      "updated_at": "2026-10-30T04:32:10Z"
+      "updated_at": "2026-10-31T09:55:26Z"
     },
     {
       "id": 1359081910,
