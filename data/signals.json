@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 5822,
-      "forks": 538,
+      "stars": 5911,
+      "forks": 541,
       "language": "Rust",
-      "pushed_at": "2026-10-30T20:28:31Z",
-      "updated_at": "2026-10-30T20:26:29Z"
+      "pushed_at": "2026-10-31T04:32:16Z",
+      "updated_at": "2026-10-31T04:32:20Z"
     },
     {
       "id": 304483342,
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5337,
+      "stars": 5338,
       "forks": 506,
       "language": "Java",
       "pushed_at": "2026-10-19T12:30:43Z",
-      "updated_at": "2026-10-30T10:35:17Z"
+      "updated_at": "2026-10-31T00:51:56Z"
     },
     {
       "id": 109404010,
@@ -46,7 +46,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
       "stars": 1095,
-      "forks": 345,
+      "forks": 346,
       "language": "Unknown",
       "pushed_at": "2026-10-29T05:22:49Z",
       "updated_at": "2026-10-30T17:59:58Z"
@@ -67,11 +67,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 761,
+      "stars": 764,
       "forks": 66,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-30T17:19:22Z"
+      "updated_at": "2026-10-31T02:03:24Z"
     },
     {
       "id": 557249295,
@@ -89,11 +89,11 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 601,
+      "stars": 616,
       "forks": 33,
       "language": "Python",
-      "pushed_at": "2026-10-30T05:38:46Z",
-      "updated_at": "2026-10-30T20:21:31Z"
+      "pushed_at": "2026-10-31T03:04:45Z",
+      "updated_at": "2026-10-31T00:31:07Z"
     },
     {
       "id": 922299292,
@@ -134,7 +134,7 @@
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
       "stars": 268,
-      "forks": 80,
+      "forks": 81,
       "language": "Unknown",
       "pushed_at": "2026-10-15T11:03:13Z",
       "updated_at": "2026-10-30T04:32:10Z"
