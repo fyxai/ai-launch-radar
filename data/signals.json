@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6024,
-      "forks": 553,
+      "stars": 6028,
+      "forks": 555,
       "language": "Rust",
-      "pushed_at": "2026-10-31T19:13:19Z",
-      "updated_at": "2026-10-31T19:24:03Z"
+      "pushed_at": "2026-10-31T23:04:29Z",
+      "updated_at": "2026-10-31T23:05:50Z"
     },
     {
       "id": 304483342,
@@ -67,11 +67,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 765,
+      "stars": 767,
       "forks": 66,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-31T09:47:49Z"
+      "updated_at": "2026-10-31T21:15:19Z"
     },
     {
       "id": 557249295,
