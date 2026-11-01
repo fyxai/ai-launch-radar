@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6048,
+      "stars": 6056,
       "forks": 557,
       "language": "Rust",
-      "pushed_at": "2026-11-01T09:21:01Z",
-      "updated_at": "2026-11-01T12:56:14Z"
+      "pushed_at": "2026-11-01T19:43:18Z",
+      "updated_at": "2026-11-01T19:43:20Z"
     },
     {
       "id": 304483342,
@@ -37,8 +37,8 @@
       "stars": 1584,
       "forks": 97,
       "language": "JavaScript",
-      "pushed_at": "2026-11-01T05:39:45Z",
-      "updated_at": "2026-11-01T05:37:36Z"
+      "pushed_at": "2026-11-01T17:37:57Z",
+      "updated_at": "2026-11-01T17:37:55Z"
     },
     {
       "id": 76633312,
@@ -46,7 +46,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
       "stars": 1098,
-      "forks": 346,
+      "forks": 347,
       "language": "Unknown",
       "pushed_at": "2026-10-31T12:42:02Z",
       "updated_at": "2026-11-01T09:36:23Z"
@@ -67,11 +67,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 769,
-      "forks": 66,
+      "stars": 771,
+      "forks": 67,
       "language": "Markdown",
       "pushed_at": "2026-11-01T13:27:24Z",
-      "updated_at": "2026-11-01T13:27:28Z"
+      "updated_at": "2026-11-01T17:55:05Z"
     },
     {
       "id": 1429583155,
@@ -129,17 +129,6 @@
       "updated_at": "2026-11-01T09:40:19Z"
     },
     {
-      "id": 994132867,
-      "full_name": "DirectorySurf/awesome-launch-platforms",
-      "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
-      "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
-      "stars": 270,
-      "forks": 81,
-      "language": "Unknown",
-      "pushed_at": "2026-10-15T11:03:13Z",
-      "updated_at": "2026-11-01T09:41:05Z"
-    },
-    {
       "id": 1359081910,
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
@@ -171,6 +160,17 @@
       "language": "Unknown",
       "pushed_at": "2026-10-31T01:52:08Z",
       "updated_at": "2026-11-01T12:39:40Z"
+    },
+    {
+      "id": 780027215,
+      "full_name": "AayushBharti/ai-saas-landing-starter",
+      "html_url": "https://github.com/AayushBharti/ai-saas-landing-starter",
+      "description": "🌈 Modern AI SaaS landing page with sleek parallax effects and bento box layouts.",
+      "stars": 149,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-26T10:20:21Z",
+      "updated_at": "2026-10-28T17:45:08Z"
     }
   ]
 }
