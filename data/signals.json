@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6034,
-      "forks": 554,
+      "stars": 6048,
+      "forks": 557,
       "language": "Rust",
-      "pushed_at": "2026-11-01T04:47:01Z",
-      "updated_at": "2026-11-01T04:47:16Z"
+      "pushed_at": "2026-11-01T09:21:01Z",
+      "updated_at": "2026-11-01T12:56:14Z"
     },
     {
       "id": 304483342,
       "full_name": "zfdang/Android-Touch-Helper",
       "html_url": "https://github.com/zfdang/Android-Touch-Helper",
       "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5337,
+      "stars": 5338,
       "forks": 506,
       "language": "Java",
       "pushed_at": "2026-10-19T12:30:43Z",
-      "updated_at": "2026-10-31T12:28:59Z"
+      "updated_at": "2026-11-01T10:06:49Z"
     },
     {
       "id": 109404010,
@@ -37,63 +37,63 @@
       "stars": 1584,
       "forks": 97,
       "language": "JavaScript",
-      "pushed_at": "2026-10-30T18:08:44Z",
-      "updated_at": "2026-10-30T18:08:37Z"
+      "pushed_at": "2026-11-01T05:39:45Z",
+      "updated_at": "2026-11-01T05:37:36Z"
     },
     {
       "id": 76633312,
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
-      "stars": 1097,
+      "stars": 1098,
       "forks": 346,
       "language": "Unknown",
       "pushed_at": "2026-10-31T12:42:02Z",
-      "updated_at": "2026-10-31T17:41:30Z"
+      "updated_at": "2026-11-01T09:36:23Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 964,
+      "stars": 965,
       "forks": 130,
       "language": "C#",
       "pushed_at": "2026-10-30T15:45:58Z",
-      "updated_at": "2026-10-31T14:37:44Z"
+      "updated_at": "2026-11-01T14:13:07Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 768,
+      "stars": 769,
       "forks": 66,
       "language": "Markdown",
-      "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-11-01T02:48:55Z"
-    },
-    {
-      "id": 557249295,
-      "full_name": "johackim/awesome-indiehackers",
-      "html_url": "https://github.com/johackim/awesome-indiehackers",
-      "description": "Awesome list about indie hackers",
-      "stars": 666,
-      "forks": 67,
-      "language": "Unknown",
-      "pushed_at": "2026-10-29T12:31:00Z",
-      "updated_at": "2026-11-01T01:18:16Z"
+      "pushed_at": "2026-11-01T13:27:24Z",
+      "updated_at": "2026-11-01T13:27:28Z"
     },
     {
       "id": 1429583155,
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 617,
-      "forks": 33,
+      "stars": 733,
+      "forks": 63,
       "language": "Python",
       "pushed_at": "2026-10-31T03:04:45Z",
-      "updated_at": "2026-10-31T16:43:31Z"
+      "updated_at": "2026-11-01T12:06:51Z"
+    },
+    {
+      "id": 557249295,
+      "full_name": "johackim/awesome-indiehackers",
+      "html_url": "https://github.com/johackim/awesome-indiehackers",
+      "description": "Awesome list about indie hackers",
+      "stars": 665,
+      "forks": 67,
+      "language": "Unknown",
+      "pushed_at": "2026-10-29T12:31:00Z",
+      "updated_at": "2026-11-01T13:02:20Z"
     },
     {
       "id": 922299292,
@@ -111,33 +111,33 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 330,
+      "stars": 331,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-10-26T13:14:56Z",
-      "updated_at": "2026-10-31T11:57:26Z"
+      "updated_at": "2026-11-01T09:40:04Z"
     },
     {
       "id": 72835816,
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 307,
-      "forks": 114,
+      "stars": 308,
+      "forks": 116,
       "language": "JavaScript",
       "pushed_at": "2026-10-29T08:34:50Z",
-      "updated_at": "2026-10-29T08:34:54Z"
+      "updated_at": "2026-11-01T09:40:19Z"
     },
     {
       "id": 994132867,
       "full_name": "DirectorySurf/awesome-launch-platforms",
       "html_url": "https://github.com/DirectorySurf/awesome-launch-platforms",
       "description": "Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.",
-      "stars": 269,
+      "stars": 270,
       "forks": 81,
       "language": "Unknown",
       "pushed_at": "2026-10-15T11:03:13Z",
-      "updated_at": "2026-10-31T09:55:26Z"
+      "updated_at": "2026-11-01T09:41:05Z"
     },
     {
       "id": 1359081910,
@@ -155,22 +155,22 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 160,
-      "forks": 17,
+      "stars": 161,
+      "forks": 18,
       "language": "Unknown",
       "pushed_at": "2026-10-27T02:43:57Z",
-      "updated_at": "2026-10-27T02:42:52Z"
+      "updated_at": "2026-11-01T10:06:24Z"
     },
     {
-      "id": 780027215,
-      "full_name": "AayushBharti/ai-saas-landing-starter",
-      "html_url": "https://github.com/AayushBharti/ai-saas-landing-starter",
-      "description": "🌈 Modern AI SaaS landing page with sleek parallax effects and bento box layouts.",
-      "stars": 149,
-      "forks": 24,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-26T10:20:21Z",
-      "updated_at": "2026-10-28T17:45:08Z"
+      "id": 1258964095,
+      "full_name": "huaxialucaicaizi/business-plan-skill",
+      "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
+      "description": "这是一个用于沉淀商业计划书、路演材料、孵化器申请材料和项目介绍口径的 Codex skill 模板。",
+      "stars": 161,
+      "forks": 21,
+      "language": "Unknown",
+      "pushed_at": "2026-10-31T01:52:08Z",
+      "updated_at": "2026-11-01T12:39:40Z"
     }
   ]
 }
