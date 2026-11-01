@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6028,
-      "forks": 555,
+      "stars": 6034,
+      "forks": 554,
       "language": "Rust",
-      "pushed_at": "2026-10-31T23:04:29Z",
-      "updated_at": "2026-10-31T23:05:50Z"
+      "pushed_at": "2026-11-01T04:47:01Z",
+      "updated_at": "2026-11-01T04:47:16Z"
     },
     {
       "id": 304483342,
@@ -67,22 +67,22 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 767,
+      "stars": 768,
       "forks": 66,
       "language": "Markdown",
       "pushed_at": "2026-10-20T21:19:29Z",
-      "updated_at": "2026-10-31T21:15:19Z"
+      "updated_at": "2026-11-01T02:48:55Z"
     },
     {
       "id": 557249295,
       "full_name": "johackim/awesome-indiehackers",
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
-      "stars": 665,
+      "stars": 666,
       "forks": 67,
       "language": "Unknown",
       "pushed_at": "2026-10-29T12:31:00Z",
-      "updated_at": "2026-10-31T09:55:15Z"
+      "updated_at": "2026-11-01T01:18:16Z"
     },
     {
       "id": 1429583155,
