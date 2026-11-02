@@ -12,33 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6064,
-      "forks": 560,
+      "stars": 6079,
+      "forks": 565,
       "language": "Rust",
-      "pushed_at": "2026-11-02T04:50:18Z",
-      "updated_at": "2026-11-02T04:28:02Z"
-    },
-    {
-      "id": 304483342,
-      "full_name": "zfdang/Android-Touch-Helper",
-      "html_url": "https://github.com/zfdang/Android-Touch-Helper",
-      "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
-      "stars": 5338,
-      "forks": 506,
-      "language": "Java",
-      "pushed_at": "2026-10-19T12:30:43Z",
-      "updated_at": "2026-11-01T10:06:49Z"
+      "pushed_at": "2026-11-02T17:51:10Z",
+      "updated_at": "2026-11-02T17:49:23Z"
     },
     {
       "id": 109404010,
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1584,
+      "stars": 1585,
       "forks": 97,
       "language": "JavaScript",
-      "pushed_at": "2026-11-01T17:37:57Z",
-      "updated_at": "2026-11-01T17:37:55Z"
+      "pushed_at": "2026-11-02T06:10:59Z",
+      "updated_at": "2026-11-02T16:47:07Z"
     },
     {
       "id": 76633312,
@@ -46,7 +35,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
       "stars": 1098,
-      "forks": 347,
+      "forks": 349,
       "language": "Unknown",
       "pushed_at": "2026-10-31T12:42:02Z",
       "updated_at": "2026-11-01T09:36:23Z"
@@ -56,33 +45,33 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 965,
+      "stars": 966,
       "forks": 130,
       "language": "C#",
       "pushed_at": "2026-10-30T15:45:58Z",
-      "updated_at": "2026-11-01T14:13:07Z"
+      "updated_at": "2026-11-02T16:13:14Z"
     },
     {
       "id": 1429583155,
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 911,
-      "forks": 65,
+      "stars": 917,
+      "forks": 66,
       "language": "Python",
       "pushed_at": "2026-11-02T03:30:50Z",
-      "updated_at": "2026-11-02T03:30:55Z"
+      "updated_at": "2026-11-02T16:18:19Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 770,
+      "stars": 771,
       "forks": 67,
       "language": "Markdown",
       "pushed_at": "2026-11-01T13:27:24Z",
-      "updated_at": "2026-11-02T00:30:32Z"
+      "updated_at": "2026-11-02T14:03:44Z"
     },
     {
       "id": 557249295,
@@ -93,7 +82,18 @@
       "forks": 67,
       "language": "Unknown",
       "pushed_at": "2026-10-29T12:31:00Z",
-      "updated_at": "2026-11-01T13:02:20Z"
+      "updated_at": "2026-11-02T15:52:23Z"
+    },
+    {
+      "id": 233135728,
+      "full_name": "dstein64/vim-startuptime",
+      "html_url": "https://github.com/dstein64/vim-startuptime",
+      "description": "A plugin for viewing Vim and Neovim startup event timing information.",
+      "stars": 661,
+      "forks": 11,
+      "language": "Vim Script",
+      "pushed_at": "2026-11-02T15:59:52Z",
+      "updated_at": "2026-11-02T15:59:57Z"
     },
     {
       "id": 922299292,
@@ -114,8 +114,8 @@
       "stars": 331,
       "forks": 31,
       "language": "Unknown",
-      "pushed_at": "2026-10-26T13:14:56Z",
-      "updated_at": "2026-11-01T09:40:04Z"
+      "pushed_at": "2026-11-02T16:11:10Z",
+      "updated_at": "2026-11-02T16:11:15Z"
     },
     {
       "id": 72835816,
@@ -123,7 +123,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 308,
-      "forks": 116,
+      "forks": 117,
       "language": "JavaScript",
       "pushed_at": "2026-11-01T20:20:59Z",
       "updated_at": "2026-11-01T20:21:03Z"
@@ -133,11 +133,22 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 196,
-      "forks": 25,
+      "stars": 197,
+      "forks": 24,
       "language": "JavaScript",
-      "pushed_at": "2026-10-26T12:54:54Z",
-      "updated_at": "2026-10-31T19:38:45Z"
+      "pushed_at": "2026-11-02T15:42:50Z",
+      "updated_at": "2026-11-02T15:42:55Z"
+    },
+    {
+      "id": 1258964095,
+      "full_name": "huaxialucaicaizi/business-plan-skill",
+      "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
+      "description": "这是一个用于沉淀商业计划书、路演材料、孵化器申请材料和项目介绍口径的 Codex skill 模板。",
+      "stars": 162,
+      "forks": 22,
+      "language": "Unknown",
+      "pushed_at": "2026-10-31T01:52:08Z",
+      "updated_at": "2026-11-02T08:47:46Z"
     },
     {
       "id": 1179396737,
@@ -149,17 +160,6 @@
       "language": "Unknown",
       "pushed_at": "2026-10-27T02:43:57Z",
       "updated_at": "2026-11-01T10:06:24Z"
-    },
-    {
-      "id": 1258964095,
-      "full_name": "huaxialucaicaizi/business-plan-skill",
-      "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
-      "description": "这是一个用于沉淀商业计划书、路演材料、孵化器申请材料和项目介绍口径的 Codex skill 模板。",
-      "stars": 161,
-      "forks": 21,
-      "language": "Unknown",
-      "pushed_at": "2026-10-31T01:52:08Z",
-      "updated_at": "2026-11-02T04:46:16Z"
     },
     {
       "id": 780027215,
