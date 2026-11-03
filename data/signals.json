@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6106,
-      "forks": 568,
+      "stars": 6112,
+      "forks": 569,
       "language": "Rust",
-      "pushed_at": "2026-11-03T09:34:20Z",
-      "updated_at": "2026-11-03T11:36:58Z"
+      "pushed_at": "2026-11-03T19:12:40Z",
+      "updated_at": "2026-11-03T19:12:44Z"
     },
     {
       "id": 109404010,
@@ -35,7 +35,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
       "stars": 1098,
-      "forks": 350,
+      "forks": 349,
       "language": "Unknown",
       "pushed_at": "2026-11-03T06:52:53Z",
       "updated_at": "2026-11-03T06:52:57Z"
@@ -56,22 +56,22 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 931,
+      "stars": 801,
       "forks": 71,
       "language": "Python",
       "pushed_at": "2026-11-03T04:54:11Z",
-      "updated_at": "2026-11-03T10:20:11Z"
+      "updated_at": "2026-11-03T19:05:53Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 773,
+      "stars": 775,
       "forks": 67,
       "language": "Markdown",
       "pushed_at": "2026-11-03T07:46:57Z",
-      "updated_at": "2026-11-03T08:56:13Z"
+      "updated_at": "2026-11-03T17:37:27Z"
     },
     {
       "id": 557249295,
@@ -82,7 +82,7 @@
       "forks": 67,
       "language": "Unknown",
       "pushed_at": "2026-10-29T12:31:00Z",
-      "updated_at": "2026-11-02T15:52:23Z"
+      "updated_at": "2026-11-03T15:23:01Z"
     },
     {
       "id": 233135728,
@@ -111,11 +111,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 331,
+      "stars": 332,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-11-02T16:11:10Z",
-      "updated_at": "2026-11-02T16:11:15Z"
+      "updated_at": "2026-11-03T12:22:31Z"
     },
     {
       "id": 72835816,
@@ -148,7 +148,7 @@
       "forks": 22,
       "language": "Unknown",
       "pushed_at": "2026-11-03T04:54:07Z",
-      "updated_at": "2026-11-03T04:54:11Z"
+      "updated_at": "2026-11-03T19:10:34Z"
     },
     {
       "id": 1179396737,
