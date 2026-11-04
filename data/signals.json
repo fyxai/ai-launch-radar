@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6136,
+      "stars": 6142,
       "forks": 571,
       "language": "Rust",
-      "pushed_at": "2026-11-04T11:51:35Z",
-      "updated_at": "2026-11-04T11:51:37Z"
+      "pushed_at": "2026-11-04T19:21:58Z",
+      "updated_at": "2026-11-04T19:28:27Z"
     },
     {
       "id": 109404010,
@@ -34,11 +34,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
-      "stars": 1098,
-      "forks": 350,
+      "stars": 1099,
+      "forks": 351,
       "language": "Unknown",
       "pushed_at": "2026-11-03T06:52:53Z",
-      "updated_at": "2026-11-03T06:52:57Z"
+      "updated_at": "2026-11-04T16:05:41Z"
     },
     {
       "id": 158286982,
@@ -46,7 +46,7 @@
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
       "stars": 966,
-      "forks": 129,
+      "forks": 128,
       "language": "C#",
       "pushed_at": "2026-10-30T15:45:58Z",
       "updated_at": "2026-11-02T16:13:14Z"
@@ -56,22 +56,22 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 801,
+      "stars": 802,
       "forks": 41,
       "language": "Python",
-      "pushed_at": "2026-11-04T03:06:52Z",
-      "updated_at": "2026-11-03T19:05:53Z"
+      "pushed_at": "2026-11-04T13:52:41Z",
+      "updated_at": "2026-11-04T18:06:30Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 778,
+      "stars": 780,
       "forks": 67,
       "language": "Markdown",
       "pushed_at": "2026-11-03T07:46:57Z",
-      "updated_at": "2026-11-04T11:24:08Z"
+      "updated_at": "2026-11-04T16:38:22Z"
     },
     {
       "id": 557249295,
@@ -136,8 +136,8 @@
       "stars": 308,
       "forks": 119,
       "language": "JavaScript",
-      "pushed_at": "2026-11-01T20:20:59Z",
-      "updated_at": "2026-11-01T20:21:03Z"
+      "pushed_at": "2026-11-04T13:51:40Z",
+      "updated_at": "2026-11-04T13:51:46Z"
     },
     {
       "id": 1359081910,
@@ -151,17 +151,6 @@
       "updated_at": "2026-11-04T10:28:06Z"
     },
     {
-      "id": 1258964095,
-      "full_name": "huaxialucaicaizi/business-plan-skill",
-      "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
-      "description": "这是一个用于沉淀商业计划书、路演材料、孵化器申请材料和项目介绍口径的 Codex skill 模板。",
-      "stars": 162,
-      "forks": 21,
-      "language": "Unknown",
-      "pushed_at": "2026-11-04T01:51:59Z",
-      "updated_at": "2026-11-03T19:10:34Z"
-    },
-    {
       "id": 1179396737,
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
@@ -170,7 +159,18 @@
       "forks": 19,
       "language": "Unknown",
       "pushed_at": "2026-11-04T03:07:13Z",
-      "updated_at": "2026-11-04T03:07:17Z"
+      "updated_at": "2026-11-04T17:12:34Z"
+    },
+    {
+      "id": 780027215,
+      "full_name": "AayushBharti/ai-saas-landing-starter",
+      "html_url": "https://github.com/AayushBharti/ai-saas-landing-starter",
+      "description": "🌈 Modern AI SaaS landing page with sleek parallax effects and bento box layouts.",
+      "stars": 149,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-26T10:20:21Z",
+      "updated_at": "2026-10-28T17:45:08Z"
     }
   ]
 }
