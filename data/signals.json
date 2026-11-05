@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6159,
+      "stars": 6166,
       "forks": 572,
       "language": "Rust",
-      "pushed_at": "2026-11-05T11:51:51Z",
-      "updated_at": "2026-11-05T11:28:44Z"
+      "pushed_at": "2026-11-05T19:46:23Z",
+      "updated_at": "2026-11-05T19:46:27Z"
     },
     {
       "id": 109404010,
@@ -56,22 +56,22 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 803,
+      "stars": 806,
       "forks": 41,
       "language": "Python",
       "pushed_at": "2026-11-05T06:45:36Z",
-      "updated_at": "2026-11-05T06:45:43Z"
+      "updated_at": "2026-11-05T16:26:32Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 781,
+      "stars": 783,
       "forks": 67,
       "language": "Markdown",
       "pushed_at": "2026-11-03T07:46:57Z",
-      "updated_at": "2026-11-05T07:11:55Z"
+      "updated_at": "2026-11-05T19:18:23Z"
     },
     {
       "id": 557249295,
@@ -81,8 +81,8 @@
       "stars": 665,
       "forks": 67,
       "language": "Unknown",
-      "pushed_at": "2026-11-05T11:40:22Z",
-      "updated_at": "2026-11-05T11:40:27Z"
+      "pushed_at": "2026-11-05T13:58:10Z",
+      "updated_at": "2026-11-05T13:58:15Z"
     },
     {
       "id": 233135728,
@@ -133,22 +133,22 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 308,
+      "stars": 307,
       "forks": 119,
       "language": "JavaScript",
       "pushed_at": "2026-11-04T13:51:40Z",
-      "updated_at": "2026-11-04T13:51:46Z"
+      "updated_at": "2026-11-05T14:00:34Z"
     },
     {
       "id": 1359081910,
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 200,
-      "forks": 25,
+      "stars": 202,
+      "forks": 22,
       "language": "JavaScript",
       "pushed_at": "2026-11-02T15:42:50Z",
-      "updated_at": "2026-11-05T00:46:27Z"
+      "updated_at": "2026-11-05T18:07:58Z"
     },
     {
       "id": 1179396737,
@@ -162,15 +162,15 @@
       "updated_at": "2026-11-05T07:22:40Z"
     },
     {
-      "id": 780027215,
-      "full_name": "AayushBharti/ai-saas-landing-starter",
-      "html_url": "https://github.com/AayushBharti/ai-saas-landing-starter",
-      "description": "🌈 Modern AI SaaS landing page with sleek parallax effects and bento box layouts.",
-      "stars": 150,
-      "forks": 24,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-26T10:20:21Z",
-      "updated_at": "2026-11-05T04:01:58Z"
+      "id": 1258964095,
+      "full_name": "huaxialucaicaizi/business-plan-skill",
+      "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
+      "description": "这是一个用于沉淀商业计划书、路演材料、孵化器申请材料和项目介绍口径的 Codex skill 模板。",
+      "stars": 162,
+      "forks": 22,
+      "language": "Unknown",
+      "pushed_at": "2026-11-05T03:01:54Z",
+      "updated_at": "2026-11-05T18:09:50Z"
     }
   ]
 }
