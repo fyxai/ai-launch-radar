@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6166,
+      "stars": 6172,
       "forks": 572,
       "language": "Rust",
-      "pushed_at": "2026-11-05T19:46:23Z",
-      "updated_at": "2026-11-05T19:46:27Z"
+      "pushed_at": "2026-11-06T00:50:41Z",
+      "updated_at": "2026-11-06T00:50:27Z"
     },
     {
       "id": 109404010,
@@ -56,22 +56,22 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 806,
-      "forks": 41,
+      "stars": 917,
+      "forks": 62,
       "language": "Python",
       "pushed_at": "2026-11-05T06:45:36Z",
-      "updated_at": "2026-11-05T16:26:32Z"
+      "updated_at": "2026-11-06T00:46:16Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 783,
-      "forks": 67,
+      "stars": 785,
+      "forks": 68,
       "language": "Markdown",
       "pushed_at": "2026-11-03T07:46:57Z",
-      "updated_at": "2026-11-05T19:18:23Z"
+      "updated_at": "2026-11-05T21:45:32Z"
     },
     {
       "id": 557249295,
@@ -81,8 +81,8 @@
       "stars": 665,
       "forks": 67,
       "language": "Unknown",
-      "pushed_at": "2026-11-05T13:58:10Z",
-      "updated_at": "2026-11-05T13:58:15Z"
+      "pushed_at": "2026-11-06T00:14:37Z",
+      "updated_at": "2026-11-06T00:14:41Z"
     },
     {
       "id": 233135728,
@@ -100,11 +100,11 @@
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 534,
+      "stars": 533,
       "forks": 17,
       "language": "Swift",
       "pushed_at": "2026-10-31T12:37:01Z",
-      "updated_at": "2026-10-31T12:37:05Z"
+      "updated_at": "2026-11-06T00:46:55Z"
     },
     {
       "id": 834628174,
