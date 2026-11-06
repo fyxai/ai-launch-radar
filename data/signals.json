@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6179,
+      "stars": 6181,
       "forks": 574,
       "language": "Rust",
-      "pushed_at": "2026-11-06T18:59:20Z",
-      "updated_at": "2026-11-06T18:49:17Z"
+      "pushed_at": "2026-11-06T23:57:47Z",
+      "updated_at": "2026-11-06T23:51:58Z"
     },
     {
       "id": 109404010,
@@ -45,11 +45,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 968,
+      "stars": 967,
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-10-30T15:45:58Z",
-      "updated_at": "2026-11-06T13:14:03Z"
+      "updated_at": "2026-11-06T22:37:12Z"
     },
     {
       "id": 1429583155,
@@ -67,11 +67,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 787,
+      "stars": 789,
       "forks": 68,
       "language": "Markdown",
       "pushed_at": "2026-11-03T07:46:57Z",
-      "updated_at": "2026-11-06T17:21:23Z"
+      "updated_at": "2026-11-06T22:29:15Z"
     },
     {
       "id": 557249295,
