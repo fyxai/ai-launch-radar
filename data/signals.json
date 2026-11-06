@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6172,
-      "forks": 572,
+      "stars": 6178,
+      "forks": 574,
       "language": "Rust",
-      "pushed_at": "2026-11-06T00:50:41Z",
-      "updated_at": "2026-11-06T00:50:27Z"
+      "pushed_at": "2026-11-06T10:54:13Z",
+      "updated_at": "2026-11-06T09:22:44Z"
     },
     {
       "id": 109404010,
@@ -56,22 +56,22 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 917,
-      "forks": 62,
+      "stars": 922,
+      "forks": 64,
       "language": "Python",
-      "pushed_at": "2026-11-05T06:45:36Z",
-      "updated_at": "2026-11-06T00:46:16Z"
+      "pushed_at": "2026-11-06T03:06:48Z",
+      "updated_at": "2026-11-06T11:45:00Z"
     },
     {
       "id": 1178027836,
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 785,
+      "stars": 787,
       "forks": 68,
       "language": "Markdown",
       "pushed_at": "2026-11-03T07:46:57Z",
-      "updated_at": "2026-11-05T21:45:32Z"
+      "updated_at": "2026-11-06T08:54:28Z"
     },
     {
       "id": 557249295,
@@ -169,8 +169,8 @@
       "stars": 162,
       "forks": 22,
       "language": "Unknown",
-      "pushed_at": "2026-11-05T03:01:54Z",
-      "updated_at": "2026-11-05T18:09:50Z"
+      "pushed_at": "2026-11-06T02:56:11Z",
+      "updated_at": "2026-11-06T02:56:16Z"
     }
   ]
 }
