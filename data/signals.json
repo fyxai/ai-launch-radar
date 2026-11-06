@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6178,
+      "stars": 6179,
       "forks": 574,
       "language": "Rust",
-      "pushed_at": "2026-11-06T10:54:13Z",
-      "updated_at": "2026-11-06T09:22:44Z"
+      "pushed_at": "2026-11-06T18:59:20Z",
+      "updated_at": "2026-11-06T18:49:17Z"
     },
     {
       "id": 109404010,
@@ -34,33 +34,33 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
-      "stars": 1101,
+      "stars": 1100,
       "forks": 355,
       "language": "Unknown",
       "pushed_at": "2026-11-05T05:08:41Z",
-      "updated_at": "2026-11-05T11:07:50Z"
+      "updated_at": "2026-11-06T13:04:55Z"
     },
     {
       "id": 158286982,
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 967,
+      "stars": 968,
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-10-30T15:45:58Z",
-      "updated_at": "2026-11-05T10:17:51Z"
+      "updated_at": "2026-11-06T13:14:03Z"
     },
     {
       "id": 1429583155,
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 922,
+      "stars": 920,
       "forks": 64,
       "language": "Python",
       "pushed_at": "2026-11-06T03:06:48Z",
-      "updated_at": "2026-11-06T11:45:00Z"
+      "updated_at": "2026-11-06T12:58:06Z"
     },
     {
       "id": 1178027836,
@@ -71,7 +71,7 @@
       "forks": 68,
       "language": "Markdown",
       "pushed_at": "2026-11-03T07:46:57Z",
-      "updated_at": "2026-11-06T08:54:28Z"
+      "updated_at": "2026-11-06T17:21:23Z"
     },
     {
       "id": 557249295,
@@ -144,11 +144,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 202,
+      "stars": 200,
       "forks": 22,
       "language": "JavaScript",
       "pushed_at": "2026-11-02T15:42:50Z",
-      "updated_at": "2026-11-05T18:07:58Z"
+      "updated_at": "2026-11-06T18:31:42Z"
     },
     {
       "id": 1179396737,
@@ -166,11 +166,11 @@
       "full_name": "huaxialucaicaizi/business-plan-skill",
       "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
       "description": "这是一个用于沉淀商业计划书、路演材料、孵化器申请材料和项目介绍口径的 Codex skill 模板。",
-      "stars": 162,
+      "stars": 161,
       "forks": 22,
       "language": "Unknown",
       "pushed_at": "2026-11-06T02:56:11Z",
-      "updated_at": "2026-11-06T02:56:16Z"
+      "updated_at": "2026-11-06T12:32:49Z"
     }
   ]
 }
