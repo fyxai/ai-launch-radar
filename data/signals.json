@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6186,
-      "forks": 574,
+      "stars": 6192,
+      "forks": 578,
       "language": "Rust",
-      "pushed_at": "2026-11-07T05:38:44Z",
-      "updated_at": "2026-11-07T05:17:45Z"
+      "pushed_at": "2026-11-07T14:30:13Z",
+      "updated_at": "2026-11-07T12:04:02Z"
     },
     {
       "id": 109404010,
@@ -45,11 +45,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 967,
+      "stars": 966,
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-10-30T15:45:58Z",
-      "updated_at": "2026-11-06T22:37:12Z"
+      "updated_at": "2026-11-07T12:28:13Z"
     },
     {
       "id": 1429583155,
@@ -67,11 +67,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 789,
+      "stars": 792,
       "forks": 68,
       "language": "Markdown",
       "pushed_at": "2026-11-03T07:46:57Z",
-      "updated_at": "2026-11-06T22:29:15Z"
+      "updated_at": "2026-11-07T11:59:22Z"
     },
     {
       "id": 557249295,
@@ -105,6 +105,17 @@
       "language": "Swift",
       "pushed_at": "2026-10-31T12:37:01Z",
       "updated_at": "2026-11-06T00:46:55Z"
+    },
+    {
+      "id": 1165088446,
+      "full_name": "25H/MayeNano",
+      "html_url": "https://github.com/25H/MayeNano",
+      "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
+      "stars": 458,
+      "forks": 25,
+      "language": "C++",
+      "pushed_at": "2026-11-07T01:50:12Z",
+      "updated_at": "2026-11-07T12:56:59Z"
     },
     {
       "id": 834628174,
@@ -145,7 +156,7 @@
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
       "stars": 200,
-      "forks": 22,
+      "forks": 23,
       "language": "JavaScript",
       "pushed_at": "2026-11-02T15:42:50Z",
       "updated_at": "2026-11-06T18:31:42Z"
@@ -160,17 +171,6 @@
       "language": "Unknown",
       "pushed_at": "2026-11-04T03:07:13Z",
       "updated_at": "2026-11-05T07:22:40Z"
-    },
-    {
-      "id": 1258964095,
-      "full_name": "huaxialucaicaizi/business-plan-skill",
-      "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
-      "description": "这是一个用于沉淀商业计划书、路演材料、孵化器申请材料和项目介绍口径的 Codex skill 模板。",
-      "stars": 159,
-      "forks": 22,
-      "language": "Unknown",
-      "pushed_at": "2026-11-07T01:55:43Z",
-      "updated_at": "2026-11-07T04:16:31Z"
     }
   ]
 }
