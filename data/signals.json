@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6181,
+      "stars": 6186,
       "forks": 574,
       "language": "Rust",
-      "pushed_at": "2026-11-06T23:57:47Z",
-      "updated_at": "2026-11-06T23:51:58Z"
+      "pushed_at": "2026-11-07T05:38:44Z",
+      "updated_at": "2026-11-07T05:17:45Z"
     },
     {
       "id": 109404010,
@@ -35,7 +35,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
       "stars": 1100,
-      "forks": 355,
+      "forks": 356,
       "language": "Unknown",
       "pushed_at": "2026-11-05T05:08:41Z",
       "updated_at": "2026-11-06T13:04:55Z"
@@ -56,11 +56,11 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 920,
+      "stars": 921,
       "forks": 64,
       "language": "Python",
-      "pushed_at": "2026-11-06T03:06:48Z",
-      "updated_at": "2026-11-06T12:58:06Z"
+      "pushed_at": "2026-11-07T03:01:40Z",
+      "updated_at": "2026-11-07T05:05:17Z"
     },
     {
       "id": 1178027836,
@@ -122,11 +122,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 333,
+      "stars": 334,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-11-02T16:11:10Z",
-      "updated_at": "2026-11-03T23:40:49Z"
+      "updated_at": "2026-11-07T04:12:36Z"
     },
     {
       "id": 72835816,
@@ -166,11 +166,11 @@
       "full_name": "huaxialucaicaizi/business-plan-skill",
       "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
       "description": "这是一个用于沉淀商业计划书、路演材料、孵化器申请材料和项目介绍口径的 Codex skill 模板。",
-      "stars": 161,
+      "stars": 159,
       "forks": 22,
       "language": "Unknown",
-      "pushed_at": "2026-11-06T02:56:11Z",
-      "updated_at": "2026-11-06T12:32:49Z"
+      "pushed_at": "2026-11-07T01:55:43Z",
+      "updated_at": "2026-11-07T04:16:31Z"
     }
   ]
 }
