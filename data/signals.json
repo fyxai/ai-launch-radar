@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6196,
-      "forks": 578,
+      "stars": 6203,
+      "forks": 579,
       "language": "Rust",
-      "pushed_at": "2026-11-08T04:56:15Z",
-      "updated_at": "2026-11-08T03:42:44Z"
+      "pushed_at": "2026-11-08T10:30:05Z",
+      "updated_at": "2026-11-08T14:36:21Z"
     },
     {
       "id": 109404010,
@@ -67,11 +67,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 795,
+      "stars": 796,
       "forks": 69,
       "language": "Markdown",
       "pushed_at": "2026-11-03T07:46:57Z",
-      "updated_at": "2026-11-08T03:48:43Z"
+      "updated_at": "2026-11-08T14:21:17Z"
     },
     {
       "id": 557249295,
@@ -100,22 +100,22 @@
       "full_name": "FuzzyIdeas/StartupFolder",
       "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
       "description": "Run anything at startup by placing it in a special folder",
-      "stars": 533,
+      "stars": 532,
       "forks": 17,
       "language": "Swift",
       "pushed_at": "2026-10-31T12:37:01Z",
-      "updated_at": "2026-11-06T00:46:55Z"
+      "updated_at": "2026-11-08T14:35:08Z"
     },
     {
       "id": 1165088446,
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 460,
+      "stars": 462,
       "forks": 25,
       "language": "C++",
-      "pushed_at": "2026-11-07T01:50:12Z",
-      "updated_at": "2026-11-08T03:50:41Z"
+      "pushed_at": "2026-11-08T07:31:47Z",
+      "updated_at": "2026-11-08T14:29:21Z"
     },
     {
       "id": 834628174,
@@ -144,11 +144,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 308,
-      "forks": 119,
+      "stars": 309,
+      "forks": 120,
       "language": "JavaScript",
       "pushed_at": "2026-11-04T13:51:40Z",
-      "updated_at": "2026-11-07T19:28:55Z"
+      "updated_at": "2026-11-08T10:57:37Z"
     },
     {
       "id": 1359081910,
@@ -159,7 +159,7 @@
       "forks": 23,
       "language": "JavaScript",
       "pushed_at": "2026-11-02T15:42:50Z",
-      "updated_at": "2026-11-06T18:31:42Z"
+      "updated_at": "2026-11-08T13:58:57Z"
     },
     {
       "id": 1179396737,
