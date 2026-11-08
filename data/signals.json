@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6203,
+      "stars": 6204,
       "forks": 579,
       "language": "Rust",
-      "pushed_at": "2026-11-08T10:30:05Z",
-      "updated_at": "2026-11-08T14:36:21Z"
+      "pushed_at": "2026-11-08T20:11:55Z",
+      "updated_at": "2026-11-08T20:11:59Z"
     },
     {
       "id": 109404010,
@@ -111,11 +111,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 462,
-      "forks": 25,
+      "stars": 463,
+      "forks": 26,
       "language": "C++",
       "pushed_at": "2026-11-08T07:31:47Z",
-      "updated_at": "2026-11-08T14:29:21Z"
+      "updated_at": "2026-11-08T16:05:24Z"
     },
     {
       "id": 834628174,
@@ -133,11 +133,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 334,
+      "stars": 335,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-11-02T16:11:10Z",
-      "updated_at": "2026-11-07T04:12:36Z"
+      "updated_at": "2026-11-08T16:07:53Z"
     },
     {
       "id": 72835816,
