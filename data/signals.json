@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6204,
+      "stars": 6210,
       "forks": 579,
       "language": "Rust",
-      "pushed_at": "2026-11-08T20:11:55Z",
-      "updated_at": "2026-11-08T20:11:59Z"
+      "pushed_at": "2026-11-09T04:45:29Z",
+      "updated_at": "2026-11-09T04:31:22Z"
     },
     {
       "id": 109404010,
@@ -35,7 +35,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
       "stars": 1100,
-      "forks": 356,
+      "forks": 358,
       "language": "Unknown",
       "pushed_at": "2026-11-05T05:08:41Z",
       "updated_at": "2026-11-06T13:04:55Z"
@@ -45,11 +45,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 966,
+      "stars": 967,
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-11-07T18:15:04Z",
-      "updated_at": "2026-11-07T18:15:09Z"
+      "updated_at": "2026-11-08T22:19:38Z"
     },
     {
       "id": 1429583155,
@@ -71,7 +71,7 @@
       "forks": 69,
       "language": "Markdown",
       "pushed_at": "2026-11-03T07:46:57Z",
-      "updated_at": "2026-11-08T14:21:17Z"
+      "updated_at": "2026-11-08T22:45:37Z"
     },
     {
       "id": 557249295,
@@ -79,7 +79,7 @@
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
       "stars": 665,
-      "forks": 67,
+      "forks": 68,
       "language": "Unknown",
       "pushed_at": "2026-11-06T00:14:37Z",
       "updated_at": "2026-11-06T00:14:41Z"
