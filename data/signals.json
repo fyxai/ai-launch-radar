@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6232,
-      "forks": 582,
+      "stars": 6236,
+      "forks": 584,
       "language": "Rust",
-      "pushed_at": "2026-11-10T11:08:34Z",
-      "updated_at": "2026-11-10T10:40:37Z"
+      "pushed_at": "2026-11-10T21:39:10Z",
+      "updated_at": "2026-11-10T21:33:25Z"
     },
     {
       "id": 109404010,
@@ -67,11 +67,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 809,
+      "stars": 811,
       "forks": 71,
       "language": "Markdown",
       "pushed_at": "2026-11-03T07:46:57Z",
-      "updated_at": "2026-11-10T09:18:10Z"
+      "updated_at": "2026-11-10T21:38:39Z"
     },
     {
       "id": 557249295,
@@ -81,7 +81,7 @@
       "stars": 667,
       "forks": 68,
       "language": "Unknown",
-      "pushed_at": "2026-11-09T16:36:17Z",
+      "pushed_at": "2026-11-10T19:55:16Z",
       "updated_at": "2026-11-09T16:36:23Z"
     },
     {
@@ -133,11 +133,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 338,
+      "stars": 339,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-11-09T16:33:47Z",
-      "updated_at": "2026-11-09T22:10:15Z"
+      "updated_at": "2026-11-10T13:18:43Z"
     },
     {
       "id": 72835816,
@@ -145,7 +145,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 310,
-      "forks": 122,
+      "forks": 125,
       "language": "JavaScript",
       "pushed_at": "2026-11-04T13:51:40Z",
       "updated_at": "2026-11-10T09:11:33Z"
@@ -155,11 +155,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 202,
+      "stars": 203,
       "forks": 23,
       "language": "JavaScript",
       "pushed_at": "2026-11-09T16:10:34Z",
-      "updated_at": "2026-11-09T23:57:23Z"
+      "updated_at": "2026-11-10T13:17:02Z"
     },
     {
       "id": 1179396737,
