@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6236,
-      "forks": 584,
+      "stars": 6245,
+      "forks": 585,
       "language": "Rust",
-      "pushed_at": "2026-11-10T21:39:10Z",
-      "updated_at": "2026-11-10T21:33:25Z"
+      "pushed_at": "2026-11-11T04:23:48Z",
+      "updated_at": "2026-11-11T04:18:45Z"
     },
     {
       "id": 109404010,
@@ -37,8 +37,8 @@
       "stars": 1101,
       "forks": 360,
       "language": "Unknown",
-      "pushed_at": "2026-11-10T07:52:30Z",
-      "updated_at": "2026-11-10T07:52:33Z"
+      "pushed_at": "2026-11-11T04:43:25Z",
+      "updated_at": "2026-11-11T04:43:31Z"
     },
     {
       "id": 158286982,
@@ -59,7 +59,7 @@
       "stars": 924,
       "forks": 64,
       "language": "Python",
-      "pushed_at": "2026-11-10T05:00:22Z",
+      "pushed_at": "2026-11-11T03:07:24Z",
       "updated_at": "2026-11-10T05:00:29Z"
     },
     {
@@ -67,11 +67,11 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 811,
+      "stars": 816,
       "forks": 71,
       "language": "Markdown",
       "pushed_at": "2026-11-03T07:46:57Z",
-      "updated_at": "2026-11-10T21:38:39Z"
+      "updated_at": "2026-11-11T00:37:09Z"
     },
     {
       "id": 557249295,
@@ -79,10 +79,10 @@
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
       "stars": 667,
-      "forks": 68,
+      "forks": 69,
       "language": "Unknown",
       "pushed_at": "2026-11-10T19:55:16Z",
-      "updated_at": "2026-11-09T16:36:23Z"
+      "updated_at": "2026-11-10T21:48:02Z"
     },
     {
       "id": 233135728,
@@ -145,7 +145,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 310,
-      "forks": 125,
+      "forks": 124,
       "language": "JavaScript",
       "pushed_at": "2026-11-04T13:51:40Z",
       "updated_at": "2026-11-10T09:11:33Z"
