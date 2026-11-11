@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6245,
-      "forks": 585,
+      "stars": 6253,
+      "forks": 586,
       "language": "Rust",
-      "pushed_at": "2026-11-11T04:23:48Z",
-      "updated_at": "2026-11-11T04:18:45Z"
+      "pushed_at": "2026-11-11T15:54:08Z",
+      "updated_at": "2026-11-11T15:36:21Z"
     },
     {
       "id": 109404010,
@@ -34,11 +34,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
-      "stars": 1101,
-      "forks": 360,
+      "stars": 1102,
+      "forks": 358,
       "language": "Unknown",
       "pushed_at": "2026-11-11T04:43:25Z",
-      "updated_at": "2026-11-11T04:43:31Z"
+      "updated_at": "2026-11-11T09:15:01Z"
     },
     {
       "id": 158286982,
@@ -67,22 +67,22 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 816,
+      "stars": 818,
       "forks": 71,
       "language": "Markdown",
       "pushed_at": "2026-11-03T07:46:57Z",
-      "updated_at": "2026-11-11T00:37:09Z"
+      "updated_at": "2026-11-11T11:34:17Z"
     },
     {
       "id": 557249295,
       "full_name": "johackim/awesome-indiehackers",
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
-      "stars": 667,
+      "stars": 668,
       "forks": 69,
       "language": "Unknown",
-      "pushed_at": "2026-11-10T19:55:16Z",
-      "updated_at": "2026-11-10T21:48:02Z"
+      "pushed_at": "2026-11-11T13:35:11Z",
+      "updated_at": "2026-11-11T13:35:16Z"
     },
     {
       "id": 233135728,
@@ -111,11 +111,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 465,
+      "stars": 466,
       "forks": 26,
       "language": "C++",
       "pushed_at": "2026-11-08T07:31:47Z",
-      "updated_at": "2026-11-10T08:34:36Z"
+      "updated_at": "2026-11-11T13:04:22Z"
     },
     {
       "id": 834628174,
@@ -133,11 +133,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 339,
+      "stars": 340,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-11-09T16:33:47Z",
-      "updated_at": "2026-11-10T13:18:43Z"
+      "updated_at": "2026-11-11T15:50:32Z"
     },
     {
       "id": 72835816,
@@ -145,7 +145,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 310,
-      "forks": 124,
+      "forks": 123,
       "language": "JavaScript",
       "pushed_at": "2026-11-04T13:51:40Z",
       "updated_at": "2026-11-10T09:11:33Z"
@@ -155,11 +155,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 203,
+      "stars": 205,
       "forks": 23,
       "language": "JavaScript",
       "pushed_at": "2026-11-09T16:10:34Z",
-      "updated_at": "2026-11-10T13:17:02Z"
+      "updated_at": "2026-11-11T14:32:41Z"
     },
     {
       "id": 1179396737,
