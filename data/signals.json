@@ -5,18 +5,18 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 105,
+  "total_found": 106,
   "items": [
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6253,
+      "stars": 6259,
       "forks": 586,
       "language": "Rust",
-      "pushed_at": "2026-11-11T15:54:08Z",
-      "updated_at": "2026-11-11T15:36:21Z"
+      "pushed_at": "2026-11-11T22:27:08Z",
+      "updated_at": "2026-11-11T22:17:01Z"
     },
     {
       "id": 109404010,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
       "stars": 924,
-      "forks": 64,
+      "forks": 65,
       "language": "Python",
       "pushed_at": "2026-11-11T03:07:24Z",
       "updated_at": "2026-11-10T05:00:29Z"
@@ -67,22 +67,22 @@
       "full_name": "emotixco/claude-skills-founder",
       "html_url": "https://github.com/emotixco/claude-skills-founder",
       "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 818,
+      "stars": 821,
       "forks": 71,
       "language": "Markdown",
       "pushed_at": "2026-11-03T07:46:57Z",
-      "updated_at": "2026-11-11T11:34:17Z"
+      "updated_at": "2026-11-11T22:23:13Z"
     },
     {
       "id": 557249295,
       "full_name": "johackim/awesome-indiehackers",
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
-      "stars": 668,
+      "stars": 669,
       "forks": 69,
       "language": "Unknown",
       "pushed_at": "2026-11-11T13:35:11Z",
-      "updated_at": "2026-11-11T13:35:16Z"
+      "updated_at": "2026-11-11T20:25:24Z"
     },
     {
       "id": 233135728,
@@ -116,17 +116,6 @@
       "language": "C++",
       "pushed_at": "2026-11-08T07:31:47Z",
       "updated_at": "2026-11-11T13:04:22Z"
-    },
-    {
-      "id": 834628174,
-      "full_name": "convex/convex-saas",
-      "html_url": "https://github.com/convex/convex-saas",
-      "description": "A production-ready Convex Stack for your next SaaS application with Convex Auth, Stripe, TanStack, Resend, Tailwindcss, and shadcn.",
-      "stars": 377,
-      "forks": 49,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-28T23:08:40Z",
-      "updated_at": "2026-11-03T19:21:10Z"
     },
     {
       "id": 1311068285,
@@ -171,6 +160,17 @@
       "language": "Unknown",
       "pushed_at": "2026-11-10T08:36:30Z",
       "updated_at": "2026-11-10T08:36:17Z"
+    },
+    {
+      "id": 1258964095,
+      "full_name": "huaxialucaicaizi/business-plan-skill",
+      "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
+      "description": "这是一个用于沉淀商业计划书、路演材料、孵化器申请材料和项目介绍口径的 Codex skill 模板。",
+      "stars": 164,
+      "forks": 22,
+      "language": "Unknown",
+      "pushed_at": "2026-11-11T02:07:16Z",
+      "updated_at": "2026-11-10T14:00:17Z"
     }
   ]
 }
