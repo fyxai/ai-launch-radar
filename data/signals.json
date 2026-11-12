@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6265,
-      "forks": 587,
+      "stars": 6278,
+      "forks": 589,
       "language": "Rust",
-      "pushed_at": "2026-11-12T06:09:10Z",
-      "updated_at": "2026-11-12T05:29:23Z"
+      "pushed_at": "2026-11-12T16:37:07Z",
+      "updated_at": "2026-11-12T16:32:28Z"
     },
     {
       "id": 109404010,
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1585,
+      "stars": 1586,
       "forks": 98,
       "language": "JavaScript",
       "pushed_at": "2026-11-09T06:14:07Z",
-      "updated_at": "2026-11-04T11:02:01Z"
+      "updated_at": "2026-11-12T09:07:23Z"
     },
     {
       "id": 76633312,
@@ -35,7 +35,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
       "stars": 1102,
-      "forks": 358,
+      "forks": 359,
       "language": "Unknown",
       "pushed_at": "2026-11-11T04:43:25Z",
       "updated_at": "2026-11-11T09:15:01Z"
@@ -45,11 +45,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 967,
+      "stars": 965,
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-11-07T18:15:04Z",
-      "updated_at": "2026-11-08T22:19:38Z"
+      "updated_at": "2026-11-12T15:53:33Z"
     },
     {
       "id": 1429583155,
