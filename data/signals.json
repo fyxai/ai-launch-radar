@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6259,
-      "forks": 586,
+      "stars": 6265,
+      "forks": 587,
       "language": "Rust",
-      "pushed_at": "2026-11-11T22:27:08Z",
-      "updated_at": "2026-11-11T22:17:01Z"
+      "pushed_at": "2026-11-12T06:09:10Z",
+      "updated_at": "2026-11-12T05:29:23Z"
     },
     {
       "id": 109404010,
@@ -63,17 +63,6 @@
       "updated_at": "2026-11-10T05:00:29Z"
     },
     {
-      "id": 1178027836,
-      "full_name": "emotixco/claude-skills-founder",
-      "html_url": "https://github.com/emotixco/claude-skills-founder",
-      "description": "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
-      "stars": 821,
-      "forks": 71,
-      "language": "Markdown",
-      "pushed_at": "2026-11-03T07:46:57Z",
-      "updated_at": "2026-11-11T22:23:13Z"
-    },
-    {
       "id": 557249295,
       "full_name": "johackim/awesome-indiehackers",
       "html_url": "https://github.com/johackim/awesome-indiehackers",
@@ -83,17 +72,6 @@
       "language": "Unknown",
       "pushed_at": "2026-11-11T13:35:11Z",
       "updated_at": "2026-11-11T20:25:24Z"
-    },
-    {
-      "id": 233135728,
-      "full_name": "dstein64/vim-startuptime",
-      "html_url": "https://github.com/dstein64/vim-startuptime",
-      "description": "A plugin for viewing Vim and Neovim startup event timing information.",
-      "stars": 661,
-      "forks": 11,
-      "language": "Vim Script",
-      "pushed_at": "2026-11-02T15:59:52Z",
-      "updated_at": "2026-11-02T15:59:57Z"
     },
     {
       "id": 922299292,
@@ -144,11 +122,22 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 205,
+      "stars": 206,
       "forks": 23,
       "language": "JavaScript",
       "pushed_at": "2026-11-09T16:10:34Z",
-      "updated_at": "2026-11-11T14:32:41Z"
+      "updated_at": "2026-11-11T22:37:27Z"
+    },
+    {
+      "id": 73848752,
+      "full_name": "HenrikBengtsson/startup",
+      "html_url": "https://github.com/HenrikBengtsson/startup",
+      "description": ":wrench: R package: startup - Friendly R Startup Configuration",
+      "stars": 169,
+      "forks": 6,
+      "language": "R",
+      "pushed_at": "2026-11-12T04:58:42Z",
+      "updated_at": "2026-11-12T05:57:34Z"
     },
     {
       "id": 1179396737,
@@ -171,6 +160,17 @@
       "language": "Unknown",
       "pushed_at": "2026-11-11T02:07:16Z",
       "updated_at": "2026-11-10T14:00:17Z"
+    },
+    {
+      "id": 477501459,
+      "full_name": "jplock/awesome-fintech",
+      "html_url": "https://github.com/jplock/awesome-fintech",
+      "description": "Curated list of awesome Fintech startup companies",
+      "stars": 112,
+      "forks": 126,
+      "language": "Unknown",
+      "pushed_at": "2026-11-11T23:53:55Z",
+      "updated_at": "2026-11-11T23:53:57Z"
     }
   ]
 }
