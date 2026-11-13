@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6296,
-      "forks": 592,
+      "stars": 6302,
+      "forks": 593,
       "language": "Rust",
-      "pushed_at": "2026-11-13T11:46:11Z",
-      "updated_at": "2026-11-13T10:34:58Z"
+      "pushed_at": "2026-11-13T19:21:37Z",
+      "updated_at": "2026-11-13T17:46:05Z"
     },
     {
       "id": 109404010,
@@ -37,7 +37,7 @@
       "stars": 1104,
       "forks": 359,
       "language": "Unknown",
-      "pushed_at": "2026-11-11T04:43:25Z",
+      "pushed_at": "2026-11-13T13:39:03Z",
       "updated_at": "2026-11-13T07:22:26Z"
     },
     {
@@ -45,11 +45,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 965,
+      "stars": 967,
       "forks": 128,
       "language": "C#",
       "pushed_at": "2026-11-07T18:15:04Z",
-      "updated_at": "2026-11-12T15:53:33Z"
+      "updated_at": "2026-11-13T19:18:00Z"
     },
     {
       "id": 1429583155,
@@ -107,6 +107,17 @@
       "updated_at": "2026-11-11T15:50:32Z"
     },
     {
+      "id": 72835816,
+      "full_name": "pegaltier/awesome-utils-dev",
+      "html_url": "https://github.com/pegaltier/awesome-utils-dev",
+      "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
+      "stars": 311,
+      "forks": 123,
+      "language": "JavaScript",
+      "pushed_at": "2026-11-13T18:02:10Z",
+      "updated_at": "2026-11-12T21:13:23Z"
+    },
+    {
       "id": 1359081910,
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
@@ -115,7 +126,7 @@
       "forks": 23,
       "language": "JavaScript",
       "pushed_at": "2026-11-09T16:10:34Z",
-      "updated_at": "2026-11-13T07:50:36Z"
+      "updated_at": "2026-11-13T19:22:05Z"
     },
     {
       "id": 73848752,
@@ -129,6 +140,17 @@
       "updated_at": "2026-11-12T05:57:34Z"
     },
     {
+      "id": 1258964095,
+      "full_name": "huaxialucaicaizi/business-plan-skill",
+      "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
+      "description": "这是一个用于沉淀商业计划书、路演材料、孵化器申请材料和项目介绍口径的 Codex skill 模板。",
+      "stars": 165,
+      "forks": 22,
+      "language": "Unknown",
+      "pushed_at": "2026-11-13T02:46:31Z",
+      "updated_at": "2026-11-13T13:26:18Z"
+    },
+    {
       "id": 1179396737,
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
@@ -140,17 +162,6 @@
       "updated_at": "2026-11-10T08:36:17Z"
     },
     {
-      "id": 1258964095,
-      "full_name": "huaxialucaicaizi/business-plan-skill",
-      "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
-      "description": "这是一个用于沉淀商业计划书、路演材料、孵化器申请材料和项目介绍口径的 Codex skill 模板。",
-      "stars": 164,
-      "forks": 22,
-      "language": "Unknown",
-      "pushed_at": "2026-11-13T02:46:31Z",
-      "updated_at": "2026-11-10T14:00:17Z"
-    },
-    {
       "id": 477501459,
       "full_name": "jplock/awesome-fintech",
       "html_url": "https://github.com/jplock/awesome-fintech",
@@ -160,17 +171,6 @@
       "language": "Unknown",
       "pushed_at": "2026-11-11T23:53:55Z",
       "updated_at": "2026-11-11T23:53:57Z"
-    },
-    {
-      "id": 308613525,
-      "full_name": "alec-c4/kickstart",
-      "html_url": "https://github.com/alec-c4/kickstart",
-      "description": "Ruby on Rails application templates",
-      "stars": 106,
-      "forks": 8,
-      "language": "Ruby",
-      "pushed_at": "2026-11-11T19:30:24Z",
-      "updated_at": "2026-11-11T20:30:27Z"
     }
   ]
 }
