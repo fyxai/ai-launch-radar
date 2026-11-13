@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6278,
+      "stars": 6283,
       "forks": 589,
       "language": "Rust",
-      "pushed_at": "2026-11-12T16:37:07Z",
-      "updated_at": "2026-11-12T16:32:28Z"
+      "pushed_at": "2026-11-13T00:55:15Z",
+      "updated_at": "2026-11-13T00:50:41Z"
     },
     {
       "id": 109404010,
@@ -34,11 +34,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
-      "stars": 1102,
-      "forks": 359,
+      "stars": 1103,
+      "forks": 358,
       "language": "Unknown",
       "pushed_at": "2026-11-11T04:43:25Z",
-      "updated_at": "2026-11-11T09:15:01Z"
+      "updated_at": "2026-11-12T23:21:10Z"
     },
     {
       "id": 158286982,
@@ -67,11 +67,11 @@
       "full_name": "johackim/awesome-indiehackers",
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
-      "stars": 669,
+      "stars": 670,
       "forks": 69,
       "language": "Unknown",
       "pushed_at": "2026-11-11T13:35:11Z",
-      "updated_at": "2026-11-11T20:25:24Z"
+      "updated_at": "2026-11-12T18:48:33Z"
     },
     {
       "id": 922299292,
@@ -111,11 +111,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 310,
+      "stars": 311,
       "forks": 123,
       "language": "JavaScript",
       "pushed_at": "2026-11-04T13:51:40Z",
-      "updated_at": "2026-11-10T09:11:33Z"
+      "updated_at": "2026-11-12T21:13:23Z"
     },
     {
       "id": 1359081910,
@@ -167,7 +167,7 @@
       "html_url": "https://github.com/jplock/awesome-fintech",
       "description": "Curated list of awesome Fintech startup companies",
       "stars": 112,
-      "forks": 126,
+      "forks": 125,
       "language": "Unknown",
       "pushed_at": "2026-11-11T23:53:55Z",
       "updated_at": "2026-11-11T23:53:57Z"
