@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6313,
+      "stars": 6315,
       "forks": 594,
       "language": "Rust",
-      "pushed_at": "2026-11-14T11:12:36Z",
-      "updated_at": "2026-11-14T09:34:35Z"
+      "pushed_at": "2026-11-14T17:38:07Z",
+      "updated_at": "2026-11-14T16:05:31Z"
     },
     {
       "id": 109404010,
@@ -41,26 +41,15 @@
       "updated_at": "2026-11-13T07:22:26Z"
     },
     {
-      "id": 158286982,
-      "full_name": "maximmax42/Discord-CustomRP",
-      "html_url": "https://github.com/maximmax42/Discord-CustomRP",
-      "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 967,
-      "forks": 128,
-      "language": "C#",
-      "pushed_at": "2026-11-07T18:15:04Z",
-      "updated_at": "2026-11-13T19:18:00Z"
-    },
-    {
       "id": 1429583155,
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 925,
+      "stars": 926,
       "forks": 65,
       "language": "Python",
       "pushed_at": "2026-11-13T03:13:57Z",
-      "updated_at": "2026-11-14T08:13:35Z"
+      "updated_at": "2026-11-14T15:25:18Z"
     },
     {
       "id": 557249295,
@@ -83,17 +72,6 @@
       "language": "Swift",
       "pushed_at": "2026-11-10T09:00:40Z",
       "updated_at": "2026-11-10T09:00:44Z"
-    },
-    {
-      "id": 1165088446,
-      "full_name": "25H/MayeNano",
-      "html_url": "https://github.com/25H/MayeNano",
-      "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 466,
-      "forks": 26,
-      "language": "C++",
-      "pushed_at": "2026-11-08T07:31:47Z",
-      "updated_at": "2026-11-11T13:04:22Z"
     },
     {
       "id": 1311068285,
@@ -171,6 +149,28 @@
       "language": "Unknown",
       "pushed_at": "2026-11-11T23:53:55Z",
       "updated_at": "2026-11-11T23:53:57Z"
+    },
+    {
+      "id": 308613525,
+      "full_name": "alec-c4/kickstart",
+      "html_url": "https://github.com/alec-c4/kickstart",
+      "description": "Ruby on Rails application templates",
+      "stars": 106,
+      "forks": 8,
+      "language": "Ruby",
+      "pushed_at": "2026-11-11T19:30:24Z",
+      "updated_at": "2026-11-11T20:30:27Z"
+    },
+    {
+      "id": 918740399,
+      "full_name": "t3-sh/cloudcredits.io",
+      "html_url": "https://github.com/t3-sh/cloudcredits.io",
+      "description": "Massive community list of free credits and discounts for clouds, SaaS, tools, etc - with zero affiliations or ads.",
+      "stars": 89,
+      "forks": 24,
+      "language": "Astro",
+      "pushed_at": "2026-11-14T16:05:46Z",
+      "updated_at": "2026-11-12T18:10:59Z"
     }
   ]
 }
