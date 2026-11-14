@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6315,
-      "forks": 594,
+      "stars": 6319,
+      "forks": 593,
       "language": "Rust",
-      "pushed_at": "2026-11-14T17:38:07Z",
-      "updated_at": "2026-11-14T16:05:31Z"
+      "pushed_at": "2026-11-14T23:41:29Z",
+      "updated_at": "2026-11-14T22:14:18Z"
     },
     {
       "id": 109404010,
@@ -34,11 +34,11 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
-      "stars": 1104,
+      "stars": 1105,
       "forks": 359,
       "language": "Unknown",
       "pushed_at": "2026-11-13T13:39:03Z",
-      "updated_at": "2026-11-13T07:22:26Z"
+      "updated_at": "2026-11-14T18:28:28Z"
     },
     {
       "id": 1429583155,
@@ -56,11 +56,11 @@
       "full_name": "johackim/awesome-indiehackers",
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
-      "stars": 671,
-      "forks": 69,
+      "stars": 672,
+      "forks": 70,
       "language": "Unknown",
       "pushed_at": "2026-11-11T13:35:11Z",
-      "updated_at": "2026-11-14T03:20:06Z"
+      "updated_at": "2026-11-14T18:18:46Z"
     },
     {
       "id": 922299292,
@@ -118,6 +118,17 @@
       "updated_at": "2026-11-12T05:57:34Z"
     },
     {
+      "id": 1179396737,
+      "full_name": "doanbactam/awesome-builder-programs",
+      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
+      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
+      "stars": 165,
+      "forks": 20,
+      "language": "Unknown",
+      "pushed_at": "2026-11-10T08:36:30Z",
+      "updated_at": "2026-11-14T18:31:02Z"
+    },
+    {
       "id": 1258964095,
       "full_name": "huaxialucaicaizi/business-plan-skill",
       "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
@@ -127,17 +138,6 @@
       "language": "Unknown",
       "pushed_at": "2026-11-13T02:46:31Z",
       "updated_at": "2026-11-13T13:26:18Z"
-    },
-    {
-      "id": 1179396737,
-      "full_name": "doanbactam/awesome-builder-programs",
-      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
-      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 164,
-      "forks": 20,
-      "language": "Unknown",
-      "pushed_at": "2026-11-10T08:36:30Z",
-      "updated_at": "2026-11-10T08:36:17Z"
     },
     {
       "id": 477501459,
