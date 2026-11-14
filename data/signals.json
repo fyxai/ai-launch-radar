@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6308,
+      "stars": 6313,
       "forks": 594,
       "language": "Rust",
-      "pushed_at": "2026-11-14T00:44:05Z",
-      "updated_at": "2026-11-13T23:58:42Z"
+      "pushed_at": "2026-11-14T11:12:36Z",
+      "updated_at": "2026-11-14T09:34:35Z"
     },
     {
       "id": 109404010,
@@ -56,22 +56,22 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 924,
+      "stars": 925,
       "forks": 65,
       "language": "Python",
       "pushed_at": "2026-11-13T03:13:57Z",
-      "updated_at": "2026-11-10T05:00:29Z"
+      "updated_at": "2026-11-14T08:13:35Z"
     },
     {
       "id": 557249295,
       "full_name": "johackim/awesome-indiehackers",
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
-      "stars": 670,
+      "stars": 671,
       "forks": 69,
       "language": "Unknown",
       "pushed_at": "2026-11-11T13:35:11Z",
-      "updated_at": "2026-11-12T18:48:33Z"
+      "updated_at": "2026-11-14T03:20:06Z"
     },
     {
       "id": 922299292,
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 311,
-      "forks": 123,
+      "forks": 124,
       "language": "JavaScript",
       "pushed_at": "2026-11-13T18:02:10Z",
       "updated_at": "2026-11-12T21:13:23Z"
@@ -126,7 +126,7 @@
       "forks": 23,
       "language": "JavaScript",
       "pushed_at": "2026-11-09T16:10:34Z",
-      "updated_at": "2026-11-13T23:46:21Z"
+      "updated_at": "2026-11-14T06:14:05Z"
     },
     {
       "id": 73848752,
