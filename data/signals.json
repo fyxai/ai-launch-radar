@@ -12,22 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6321,
+      "stars": 6327,
       "forks": 593,
       "language": "Rust",
-      "pushed_at": "2026-11-15T05:13:45Z",
-      "updated_at": "2026-11-15T04:56:49Z"
-    },
-    {
-      "id": 109404010,
-      "full_name": "bahmutov/start-server-and-test",
-      "html_url": "https://github.com/bahmutov/start-server-and-test",
-      "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1586,
-      "forks": 98,
-      "language": "JavaScript",
-      "pushed_at": "2026-11-09T06:14:07Z",
-      "updated_at": "2026-11-12T09:07:23Z"
+      "pushed_at": "2026-11-15T13:38:05Z",
+      "updated_at": "2026-11-15T14:42:31Z"
     },
     {
       "id": 76633312,
@@ -35,7 +24,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
       "stars": 1105,
-      "forks": 359,
+      "forks": 362,
       "language": "Unknown",
       "pushed_at": "2026-11-13T13:39:03Z",
       "updated_at": "2026-11-14T18:28:28Z"
@@ -57,7 +46,7 @@
       "html_url": "https://github.com/johackim/awesome-indiehackers",
       "description": "Awesome list about indie hackers",
       "stars": 672,
-      "forks": 70,
+      "forks": 73,
       "language": "Unknown",
       "pushed_at": "2026-11-11T13:35:11Z",
       "updated_at": "2026-11-14T18:18:46Z"
@@ -90,7 +79,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 311,
-      "forks": 124,
+      "forks": 123,
       "language": "JavaScript",
       "pushed_at": "2026-11-13T18:02:10Z",
       "updated_at": "2026-11-12T21:13:23Z"
@@ -171,6 +160,17 @@
       "language": "Astro",
       "pushed_at": "2026-11-14T16:05:46Z",
       "updated_at": "2026-11-12T18:10:59Z"
+    },
+    {
+      "id": 195168031,
+      "full_name": "fessionalpro/professional-wings",
+      "html_url": "https://github.com/fessionalpro/professional-wings",
+      "description": "WingsBoot=BKB+BoT+SpringBoot: ①quickly achieve business goals; ②timely repay technical debt; ③safely refactor programs and business. We advocate defensive programming, May The `false` Be With You !",
+      "stars": 87,
+      "forks": 10,
+      "language": "Java",
+      "pushed_at": "2026-11-10T01:07:53Z",
+      "updated_at": "2026-11-14T11:15:23Z"
     }
   ]
 }
