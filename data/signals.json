@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6327,
-      "forks": 593,
+      "stars": 6334,
+      "forks": 594,
       "language": "Rust",
-      "pushed_at": "2026-11-15T13:38:05Z",
-      "updated_at": "2026-11-15T14:42:31Z"
+      "pushed_at": "2026-11-15T20:25:02Z",
+      "updated_at": "2026-11-15T20:31:43Z"
     },
     {
       "id": 76633312,
@@ -34,11 +34,11 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 926,
+      "stars": 927,
       "forks": 65,
       "language": "Python",
       "pushed_at": "2026-11-13T03:13:57Z",
-      "updated_at": "2026-11-14T15:25:18Z"
+      "updated_at": "2026-11-15T16:21:38Z"
     },
     {
       "id": 557249295,
@@ -79,7 +79,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 311,
-      "forks": 123,
+      "forks": 124,
       "language": "JavaScript",
       "pushed_at": "2026-11-13T18:02:10Z",
       "updated_at": "2026-11-12T21:13:23Z"
