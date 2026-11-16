@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6334,
-      "forks": 594,
+      "stars": 6341,
+      "forks": 596,
       "language": "Rust",
-      "pushed_at": "2026-11-15T20:25:02Z",
-      "updated_at": "2026-11-15T20:31:43Z"
+      "pushed_at": "2026-11-16T05:12:44Z",
+      "updated_at": "2026-11-16T04:32:03Z"
     },
     {
       "id": 76633312,
@@ -34,11 +34,11 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 927,
+      "stars": 928,
       "forks": 65,
       "language": "Python",
-      "pushed_at": "2026-11-13T03:13:57Z",
-      "updated_at": "2026-11-15T16:21:38Z"
+      "pushed_at": "2026-11-16T03:20:50Z",
+      "updated_at": "2026-11-15T21:55:20Z"
     },
     {
       "id": 557249295,
@@ -125,7 +125,7 @@
       "stars": 165,
       "forks": 22,
       "language": "Unknown",
-      "pushed_at": "2026-11-13T02:46:31Z",
+      "pushed_at": "2026-11-16T02:29:24Z",
       "updated_at": "2026-11-13T13:26:18Z"
     },
     {
