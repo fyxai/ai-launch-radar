@@ -12,11 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6353,
-      "forks": 597,
+      "stars": 6355,
+      "forks": 598,
       "language": "Rust",
-      "pushed_at": "2026-11-17T02:47:43Z",
-      "updated_at": "2026-11-17T02:45:13Z"
+      "pushed_at": "2026-11-17T11:21:12Z",
+      "updated_at": "2026-11-17T11:19:35Z"
+    },
+    {
+      "id": 596620163,
+      "full_name": "NextJSTemplates/startup-nextjs",
+      "html_url": "https://github.com/NextJSTemplates/startup-nextjs",
+      "description": "Startup is free Next.js template for SaaS startups comes with all the essential pages, components, and sections you need to launch a complete business website.",
+      "stars": 1688,
+      "forks": 585,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-17T10:21:09Z",
+      "updated_at": "2026-11-12T01:35:25Z"
     },
     {
       "id": 109404010,
@@ -26,7 +37,7 @@
       "stars": 1587,
       "forks": 98,
       "language": "JavaScript",
-      "pushed_at": "2026-11-16T23:59:06Z",
+      "pushed_at": "2026-11-17T06:37:26Z",
       "updated_at": "2026-11-16T17:08:47Z"
     },
     {
@@ -127,17 +138,6 @@
       "language": "Unknown",
       "pushed_at": "2026-11-17T02:27:58Z",
       "updated_at": "2026-11-16T07:47:17Z"
-    },
-    {
-      "id": 1179396737,
-      "full_name": "doanbactam/awesome-builder-programs",
-      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
-      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 165,
-      "forks": 20,
-      "language": "Unknown",
-      "pushed_at": "2026-11-10T08:36:30Z",
-      "updated_at": "2026-11-14T18:31:02Z"
     },
     {
       "id": 477501459,
