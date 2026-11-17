@@ -12,33 +12,44 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6351,
-      "forks": 596,
+      "stars": 6353,
+      "forks": 597,
       "language": "Rust",
-      "pushed_at": "2026-11-16T17:58:13Z",
-      "updated_at": "2026-11-16T17:55:09Z"
+      "pushed_at": "2026-11-17T02:47:43Z",
+      "updated_at": "2026-11-17T02:45:13Z"
+    },
+    {
+      "id": 109404010,
+      "full_name": "bahmutov/start-server-and-test",
+      "html_url": "https://github.com/bahmutov/start-server-and-test",
+      "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
+      "stars": 1587,
+      "forks": 98,
+      "language": "JavaScript",
+      "pushed_at": "2026-11-16T23:59:06Z",
+      "updated_at": "2026-11-16T17:08:47Z"
     },
     {
       "id": 76633312,
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
-      "stars": 1105,
-      "forks": 364,
+      "stars": 1107,
+      "forks": 365,
       "language": "Unknown",
       "pushed_at": "2026-11-13T13:39:03Z",
-      "updated_at": "2026-11-14T18:28:28Z"
+      "updated_at": "2026-11-16T18:37:52Z"
     },
     {
       "id": 1429583155,
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 928,
+      "stars": 930,
       "forks": 65,
       "language": "Python",
       "pushed_at": "2026-11-16T03:20:50Z",
-      "updated_at": "2026-11-15T21:55:20Z"
+      "updated_at": "2026-11-17T01:19:40Z"
     },
     {
       "id": 557249295,
@@ -114,7 +125,7 @@
       "stars": 166,
       "forks": 22,
       "language": "Unknown",
-      "pushed_at": "2026-11-16T02:29:24Z",
+      "pushed_at": "2026-11-17T02:27:58Z",
       "updated_at": "2026-11-16T07:47:17Z"
     },
     {
@@ -160,17 +171,6 @@
       "language": "Astro",
       "pushed_at": "2026-11-14T16:05:46Z",
       "updated_at": "2026-11-12T18:10:59Z"
-    },
-    {
-      "id": 195168031,
-      "full_name": "fessionalpro/professional-wings",
-      "html_url": "https://github.com/fessionalpro/professional-wings",
-      "description": "WingsBoot=BKB+BoT+SpringBoot: ①quickly achieve business goals; ②timely repay technical debt; ③safely refactor programs and business. We advocate defensive programming, May The `false` Be With You !",
-      "stars": 87,
-      "forks": 10,
-      "language": "Java",
-      "pushed_at": "2026-11-10T01:07:53Z",
-      "updated_at": "2026-11-14T11:15:23Z"
     }
   ]
 }
