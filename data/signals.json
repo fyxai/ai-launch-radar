@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6367,
+      "stars": 6380,
       "forks": 602,
       "language": "Rust",
-      "pushed_at": "2026-11-18T06:21:35Z",
-      "updated_at": "2026-11-18T05:39:48Z"
+      "pushed_at": "2026-11-18T16:58:44Z",
+      "updated_at": "2026-11-18T16:08:02Z"
     },
     {
       "id": 596620163,
@@ -27,7 +27,18 @@
       "forks": 585,
       "language": "TypeScript",
       "pushed_at": "2026-11-18T04:32:48Z",
-      "updated_at": "2026-11-18T05:54:42Z"
+      "updated_at": "2026-11-18T07:55:08Z"
+    },
+    {
+      "id": 309097908,
+      "full_name": "25H/Maya",
+      "html_url": "https://github.com/25H/Maya",
+      "description": "Maye 一个简洁小巧的快速启动工具",
+      "stars": 1644,
+      "forks": 128,
+      "language": "Less",
+      "pushed_at": "2026-11-18T11:34:21Z",
+      "updated_at": "2026-11-18T14:40:35Z"
     },
     {
       "id": 109404010,
@@ -46,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
       "stars": 1107,
-      "forks": 364,
+      "forks": 365,
       "language": "Unknown",
       "pushed_at": "2026-11-13T13:39:03Z",
       "updated_at": "2026-11-18T05:45:22Z"
@@ -57,21 +68,10 @@
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
       "stars": 931,
-      "forks": 65,
+      "forks": 66,
       "language": "Python",
-      "pushed_at": "2026-11-16T03:20:50Z",
+      "pushed_at": "2026-11-18T13:43:17Z",
       "updated_at": "2026-11-18T01:58:06Z"
-    },
-    {
-      "id": 557249295,
-      "full_name": "johackim/awesome-indiehackers",
-      "html_url": "https://github.com/johackim/awesome-indiehackers",
-      "description": "Awesome list about indie hackers",
-      "stars": 672,
-      "forks": 73,
-      "language": "Unknown",
-      "pushed_at": "2026-11-11T13:35:11Z",
-      "updated_at": "2026-11-14T18:18:46Z"
     },
     {
       "id": 1311068285,
@@ -90,9 +90,9 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 311,
-      "forks": 124,
+      "forks": 125,
       "language": "JavaScript",
-      "pushed_at": "2026-11-16T08:59:52Z",
+      "pushed_at": "2026-11-18T09:08:36Z",
       "updated_at": "2026-11-12T21:13:23Z"
     },
     {
@@ -111,11 +111,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 209,
-      "forks": 24,
+      "stars": 211,
+      "forks": 25,
       "language": "JavaScript",
       "pushed_at": "2026-11-16T06:39:53Z",
-      "updated_at": "2026-11-17T17:07:02Z"
+      "updated_at": "2026-11-18T16:13:12Z"
     },
     {
       "id": 73848752,
@@ -136,7 +136,7 @@
       "stars": 167,
       "forks": 22,
       "language": "Unknown",
-      "pushed_at": "2026-11-17T02:27:58Z",
+      "pushed_at": "2026-11-18T13:01:31Z",
       "updated_at": "2026-11-17T21:27:54Z"
     },
     {
@@ -145,7 +145,7 @@
       "html_url": "https://github.com/jplock/awesome-fintech",
       "description": "Curated list of awesome Fintech startup companies",
       "stars": 112,
-      "forks": 126,
+      "forks": 125,
       "language": "Unknown",
       "pushed_at": "2026-11-11T23:53:55Z",
       "updated_at": "2026-11-11T23:53:57Z"
