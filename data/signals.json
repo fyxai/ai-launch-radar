@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6365,
-      "forks": 600,
+      "stars": 6367,
+      "forks": 602,
       "language": "Rust",
-      "pushed_at": "2026-11-17T23:20:09Z",
-      "updated_at": "2026-11-17T20:12:27Z"
+      "pushed_at": "2026-11-18T06:21:35Z",
+      "updated_at": "2026-11-18T05:39:48Z"
     },
     {
       "id": 596620163,
       "full_name": "NextJSTemplates/startup-nextjs",
       "html_url": "https://github.com/NextJSTemplates/startup-nextjs",
       "description": "Startup is free Next.js template for SaaS startups comes with all the essential pages, components, and sections you need to launch a complete business website.",
-      "stars": 1688,
+      "stars": 1687,
       "forks": 585,
       "language": "TypeScript",
-      "pushed_at": "2026-11-17T10:21:09Z",
-      "updated_at": "2026-11-12T01:35:25Z"
+      "pushed_at": "2026-11-18T04:32:48Z",
+      "updated_at": "2026-11-18T05:54:42Z"
     },
     {
       "id": 109404010,
@@ -46,21 +46,21 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
       "stars": 1107,
-      "forks": 365,
+      "forks": 364,
       "language": "Unknown",
       "pushed_at": "2026-11-13T13:39:03Z",
-      "updated_at": "2026-11-16T18:37:52Z"
+      "updated_at": "2026-11-18T05:45:22Z"
     },
     {
       "id": 1429583155,
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 930,
+      "stars": 931,
       "forks": 65,
       "language": "Python",
       "pushed_at": "2026-11-16T03:20:50Z",
-      "updated_at": "2026-11-17T01:19:40Z"
+      "updated_at": "2026-11-18T01:58:06Z"
     },
     {
       "id": 557249295,
@@ -74,26 +74,15 @@
       "updated_at": "2026-11-14T18:18:46Z"
     },
     {
-      "id": 922299292,
-      "full_name": "FuzzyIdeas/StartupFolder",
-      "html_url": "https://github.com/FuzzyIdeas/StartupFolder",
-      "description": "Run anything at startup by placing it in a special folder",
-      "stars": 533,
-      "forks": 17,
-      "language": "Swift",
-      "pushed_at": "2026-11-10T09:00:40Z",
-      "updated_at": "2026-11-10T09:00:44Z"
-    },
-    {
       "id": 1311068285,
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 340,
+      "stars": 341,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-11-16T15:59:57Z",
-      "updated_at": "2026-11-11T15:50:32Z"
+      "updated_at": "2026-11-18T04:38:25Z"
     },
     {
       "id": 72835816,
@@ -105,6 +94,17 @@
       "language": "JavaScript",
       "pushed_at": "2026-11-16T08:59:52Z",
       "updated_at": "2026-11-12T21:13:23Z"
+    },
+    {
+      "id": 672430732,
+      "full_name": "NextJSTemplates/solid-nextjs",
+      "html_url": "https://github.com/NextJSTemplates/solid-nextjs",
+      "description": "Solid is a free Next.js template specifically crafted for startups, SaaS, and software websites. ",
+      "stars": 265,
+      "forks": 91,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-18T04:13:42Z",
+      "updated_at": "2026-11-02T01:59:28Z"
     },
     {
       "id": 1359081910,
