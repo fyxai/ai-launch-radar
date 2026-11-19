@@ -12,22 +12,22 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6391,
-      "forks": 604,
+      "stars": 6406,
+      "forks": 606,
       "language": "Rust",
-      "pushed_at": "2026-11-19T11:42:36Z",
-      "updated_at": "2026-11-19T07:55:08Z"
+      "pushed_at": "2026-11-19T22:51:57Z",
+      "updated_at": "2026-11-19T22:49:55Z"
     },
     {
       "id": 596620163,
       "full_name": "NextJSTemplates/startup-nextjs",
       "html_url": "https://github.com/NextJSTemplates/startup-nextjs",
       "description": "Startup is free Next.js template for SaaS startups comes with all the essential pages, components, and sections you need to launch a complete business website.",
-      "stars": 1688,
-      "forks": 585,
+      "stars": 1687,
+      "forks": 586,
       "language": "TypeScript",
       "pushed_at": "2026-11-18T04:32:48Z",
-      "updated_at": "2026-11-18T17:27:15Z"
+      "updated_at": "2026-11-19T22:48:53Z"
     },
     {
       "id": 309097908,
@@ -45,11 +45,11 @@
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1588,
+      "stars": 1587,
       "forks": 98,
       "language": "JavaScript",
       "pushed_at": "2026-11-17T06:37:26Z",
-      "updated_at": "2026-11-19T04:32:18Z"
+      "updated_at": "2026-11-19T20:41:52Z"
     },
     {
       "id": 76633312,
@@ -60,7 +60,7 @@
       "forks": 367,
       "language": "Unknown",
       "pushed_at": "2026-11-13T13:39:03Z",
-      "updated_at": "2026-11-18T05:45:22Z"
+      "updated_at": "2026-11-19T20:15:52Z"
     },
     {
       "id": 1429583155,
@@ -89,11 +89,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 312,
+      "stars": 311,
       "forks": 124,
       "language": "JavaScript",
       "pushed_at": "2026-11-19T09:30:35Z",
-      "updated_at": "2026-11-19T08:19:56Z"
+      "updated_at": "2026-11-19T20:12:41Z"
     },
     {
       "id": 672430732,
@@ -111,11 +111,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 212,
+      "stars": 190,
       "forks": 25,
       "language": "JavaScript",
       "pushed_at": "2026-11-16T06:39:53Z",
-      "updated_at": "2026-11-19T09:59:25Z"
+      "updated_at": "2026-11-19T16:20:57Z"
     },
     {
       "id": 73848752,
