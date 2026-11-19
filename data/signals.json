@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6385,
-      "forks": 603,
+      "stars": 6391,
+      "forks": 604,
       "language": "Rust",
-      "pushed_at": "2026-11-19T01:43:35Z",
-      "updated_at": "2026-11-19T01:27:46Z"
+      "pushed_at": "2026-11-19T11:42:36Z",
+      "updated_at": "2026-11-19T07:55:08Z"
     },
     {
       "id": 596620163,
@@ -45,11 +45,11 @@
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1587,
+      "stars": 1588,
       "forks": 98,
       "language": "JavaScript",
       "pushed_at": "2026-11-17T06:37:26Z",
-      "updated_at": "2026-11-16T17:08:47Z"
+      "updated_at": "2026-11-19T04:32:18Z"
     },
     {
       "id": 76633312,
@@ -57,7 +57,7 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
       "stars": 1107,
-      "forks": 365,
+      "forks": 367,
       "language": "Unknown",
       "pushed_at": "2026-11-13T13:39:03Z",
       "updated_at": "2026-11-18T05:45:22Z"
@@ -89,11 +89,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 311,
-      "forks": 125,
+      "stars": 312,
+      "forks": 124,
       "language": "JavaScript",
-      "pushed_at": "2026-11-18T09:08:36Z",
-      "updated_at": "2026-11-12T21:13:23Z"
+      "pushed_at": "2026-11-19T09:30:35Z",
+      "updated_at": "2026-11-19T08:19:56Z"
     },
     {
       "id": 672430732,
@@ -111,11 +111,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 211,
+      "stars": 212,
       "forks": 25,
       "language": "JavaScript",
       "pushed_at": "2026-11-16T06:39:53Z",
-      "updated_at": "2026-11-18T16:13:12Z"
+      "updated_at": "2026-11-19T09:59:25Z"
     },
     {
       "id": 73848752,
@@ -151,17 +151,6 @@
       "updated_at": "2026-11-11T23:53:57Z"
     },
     {
-      "id": 308613525,
-      "full_name": "alec-c4/kickstart",
-      "html_url": "https://github.com/alec-c4/kickstart",
-      "description": "Ruby on Rails application templates",
-      "stars": 106,
-      "forks": 8,
-      "language": "Ruby",
-      "pushed_at": "2026-11-11T19:30:24Z",
-      "updated_at": "2026-11-11T20:30:27Z"
-    },
-    {
       "id": 918740399,
       "full_name": "t3-sh/cloudcredits.io",
       "html_url": "https://github.com/t3-sh/cloudcredits.io",
@@ -171,6 +160,17 @@
       "language": "Astro",
       "pushed_at": "2026-11-14T16:05:46Z",
       "updated_at": "2026-11-12T18:10:59Z"
+    },
+    {
+      "id": 1347853946,
+      "full_name": "ultrametricai/ultrametric",
+      "html_url": "https://github.com/ultrametricai/ultrametric",
+      "description": "The open startup repo — everything a founder needs to start and run a company in the agentic era: the comprehensive founder processes from an agentic lens, open documents, situations founders might find themselves in, law that governs the business logic, startup lore, open modules, artifacts and schema.",
+      "stars": 89,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-19T08:10:22Z",
+      "updated_at": "2026-11-19T12:06:33Z"
     }
   ]
 }
