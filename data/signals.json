@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6406,
+      "stars": 6413,
       "forks": 606,
       "language": "Rust",
-      "pushed_at": "2026-11-19T22:51:57Z",
-      "updated_at": "2026-11-19T22:49:55Z"
+      "pushed_at": "2026-11-20T06:00:36Z",
+      "updated_at": "2026-11-20T05:37:52Z"
     },
     {
       "id": 596620163,
@@ -67,22 +67,22 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 931,
+      "stars": 932,
       "forks": 66,
       "language": "Python",
       "pushed_at": "2026-11-18T13:43:17Z",
-      "updated_at": "2026-11-18T01:58:06Z"
+      "updated_at": "2026-11-19T23:36:15Z"
     },
     {
       "id": 1311068285,
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 341,
+      "stars": 342,
       "forks": 31,
       "language": "Unknown",
       "pushed_at": "2026-11-16T15:59:57Z",
-      "updated_at": "2026-11-18T04:38:25Z"
+      "updated_at": "2026-11-20T04:59:46Z"
     },
     {
       "id": 72835816,
@@ -90,7 +90,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 311,
-      "forks": 124,
+      "forks": 123,
       "language": "JavaScript",
       "pushed_at": "2026-11-19T09:30:35Z",
       "updated_at": "2026-11-19T20:12:41Z"
@@ -169,7 +169,7 @@
       "stars": 89,
       "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-11-19T08:10:22Z",
+      "pushed_at": "2026-11-20T05:52:17Z",
       "updated_at": "2026-11-19T12:06:33Z"
     }
   ]
