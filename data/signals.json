@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6420,
+      "stars": 6424,
       "forks": 609,
       "language": "Rust",
-      "pushed_at": "2026-11-21T11:58:14Z",
-      "updated_at": "2026-11-21T11:18:12Z"
+      "pushed_at": "2026-11-21T21:28:30Z",
+      "updated_at": "2026-11-21T17:46:12Z"
     },
     {
       "id": 596620163,
@@ -34,11 +34,11 @@
       "full_name": "25H/Maya",
       "html_url": "https://github.com/25H/Maya",
       "description": "Maye 一个简洁小巧的快速启动工具",
-      "stars": 1644,
+      "stars": 1643,
       "forks": 128,
       "language": "Less",
       "pushed_at": "2026-11-18T11:34:21Z",
-      "updated_at": "2026-11-20T12:55:37Z"
+      "updated_at": "2026-11-21T14:07:31Z"
     },
     {
       "id": 109404010,
@@ -57,10 +57,21 @@
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
       "stars": 1108,
-      "forks": 369,
+      "forks": 370,
       "language": "Unknown",
       "pushed_at": "2026-11-13T13:39:03Z",
       "updated_at": "2026-11-21T03:18:37Z"
+    },
+    {
+      "id": 158286982,
+      "full_name": "maximmax42/Discord-CustomRP",
+      "html_url": "https://github.com/maximmax42/Discord-CustomRP",
+      "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
+      "stars": 972,
+      "forks": 130,
+      "language": "C#",
+      "pushed_at": "2026-11-21T20:09:57Z",
+      "updated_at": "2026-11-19T20:17:19Z"
     },
     {
       "id": 1429583155,
@@ -133,22 +144,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 190,
+      "stars": 191,
       "forks": 25,
       "language": "JavaScript",
       "pushed_at": "2026-11-16T06:39:53Z",
-      "updated_at": "2026-11-19T16:20:57Z"
-    },
-    {
-      "id": 73848752,
-      "full_name": "HenrikBengtsson/startup",
-      "html_url": "https://github.com/HenrikBengtsson/startup",
-      "description": ":wrench: R package: startup - Friendly R Startup Configuration",
-      "stars": 169,
-      "forks": 6,
-      "language": "R",
-      "pushed_at": "2026-11-12T04:58:42Z",
-      "updated_at": "2026-11-12T05:57:34Z"
+      "updated_at": "2026-11-21T13:07:15Z"
     },
     {
       "id": 1258964095,
@@ -159,7 +159,7 @@
       "forks": 20,
       "language": "Unknown",
       "pushed_at": "2026-11-18T13:01:31Z",
-      "updated_at": "2026-11-21T02:41:53Z"
+      "updated_at": "2026-11-21T19:08:35Z"
     },
     {
       "id": 918740399,
