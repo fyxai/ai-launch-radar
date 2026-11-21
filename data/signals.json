@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6418,
-      "forks": 608,
+      "stars": 6420,
+      "forks": 609,
       "language": "Rust",
-      "pushed_at": "2026-11-21T01:05:45Z",
-      "updated_at": "2026-11-20T21:37:27Z"
+      "pushed_at": "2026-11-21T11:58:14Z",
+      "updated_at": "2026-11-21T11:18:12Z"
     },
     {
       "id": 596620163,
@@ -56,22 +56,22 @@
       "full_name": "Ibexoft/awesome-startup-tools-list",
       "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
       "description": "List of all tools startups should use.",
-      "stars": 1107,
+      "stars": 1108,
       "forks": 369,
       "language": "Unknown",
       "pushed_at": "2026-11-13T13:39:03Z",
-      "updated_at": "2026-11-19T20:15:52Z"
+      "updated_at": "2026-11-21T03:18:37Z"
     },
     {
       "id": 1429583155,
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 732,
-      "forks": 55,
+      "stars": 704,
+      "forks": 44,
       "language": "Python",
       "pushed_at": "2026-11-18T13:43:17Z",
-      "updated_at": "2026-11-21T00:58:24Z"
+      "updated_at": "2026-11-21T07:44:43Z"
     },
     {
       "id": 132757250,
@@ -85,15 +85,26 @@
       "updated_at": "2026-11-19T06:17:54Z"
     },
     {
+      "id": 218981625,
+      "full_name": "ravi-ojha/startuptoolbox",
+      "html_url": "https://github.com/ravi-ojha/startuptoolbox",
+      "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
+      "stars": 539,
+      "forks": 107,
+      "language": "Unknown",
+      "pushed_at": "2026-11-21T09:23:54Z",
+      "updated_at": "2026-11-18T11:18:22Z"
+    },
+    {
       "id": 1311068285,
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 342,
-      "forks": 31,
+      "stars": 344,
+      "forks": 30,
       "language": "Unknown",
       "pushed_at": "2026-11-16T15:59:57Z",
-      "updated_at": "2026-11-20T04:59:46Z"
+      "updated_at": "2026-11-21T10:13:21Z"
     },
     {
       "id": 72835816,
@@ -144,11 +155,11 @@
       "full_name": "huaxialucaicaizi/business-plan-skill",
       "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
       "description": "这是一个用于沉淀商业计划书、路演材料、孵化器申请材料和项目介绍口径的 Codex skill 模板。",
-      "stars": 162,
-      "forks": 21,
+      "stars": 161,
+      "forks": 20,
       "language": "Unknown",
       "pushed_at": "2026-11-18T13:01:31Z",
-      "updated_at": "2026-11-20T23:09:48Z"
+      "updated_at": "2026-11-21T02:41:53Z"
     },
     {
       "id": 918740399,
@@ -160,17 +171,6 @@
       "language": "Astro",
       "pushed_at": "2026-11-14T16:05:46Z",
       "updated_at": "2026-11-12T18:10:59Z"
-    },
-    {
-      "id": 1347853946,
-      "full_name": "ultrametricai/ultrametric",
-      "html_url": "https://github.com/ultrametricai/ultrametric",
-      "description": "The open startup repo — everything a founder needs to start and run a company in the agentic era: the comprehensive founder processes from an agentic lens, open documents, situations founders might find themselves in, law that governs the business logic, startup lore, open modules, artifacts and schema.",
-      "stars": 89,
-      "forks": 11,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-20T17:05:06Z",
-      "updated_at": "2026-11-19T12:06:33Z"
     }
   ]
 }
