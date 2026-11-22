@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6435,
-      "forks": 609,
+      "stars": 6436,
+      "forks": 608,
       "language": "Rust",
-      "pushed_at": "2026-11-22T15:53:41Z",
-      "updated_at": "2026-11-22T15:46:56Z"
+      "pushed_at": "2026-11-22T21:10:57Z",
+      "updated_at": "2026-11-22T21:23:59Z"
     },
     {
       "id": 596620163,
@@ -45,11 +45,11 @@
       "full_name": "bahmutov/start-server-and-test",
       "html_url": "https://github.com/bahmutov/start-server-and-test",
       "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
-      "stars": 1587,
+      "stars": 1586,
       "forks": 98,
       "language": "JavaScript",
       "pushed_at": "2026-11-17T06:37:26Z",
-      "updated_at": "2026-11-19T20:41:52Z"
+      "updated_at": "2026-11-22T16:44:40Z"
     },
     {
       "id": 76633312,
@@ -67,11 +67,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 972,
+      "stars": 973,
       "forks": 131,
       "language": "C#",
       "pushed_at": "2026-11-22T11:04:30Z",
-      "updated_at": "2026-11-19T20:17:19Z"
+      "updated_at": "2026-11-22T17:26:11Z"
     },
     {
       "id": 1429583155,
@@ -122,11 +122,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 311,
-      "forks": 124,
+      "stars": 310,
+      "forks": 125,
       "language": "JavaScript",
       "pushed_at": "2026-11-22T12:39:30Z",
-      "updated_at": "2026-11-19T20:12:41Z"
+      "updated_at": "2026-11-22T19:19:55Z"
     },
     {
       "id": 672430732,
