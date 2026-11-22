@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6424,
+      "stars": 6428,
       "forks": 609,
       "language": "Rust",
-      "pushed_at": "2026-11-21T21:28:30Z",
-      "updated_at": "2026-11-21T17:46:12Z"
+      "pushed_at": "2026-11-22T05:32:58Z",
+      "updated_at": "2026-11-22T04:22:40Z"
     },
     {
       "id": 596620163,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
       "stars": 972,
-      "forks": 130,
+      "forks": 131,
       "language": "C#",
       "pushed_at": "2026-11-21T20:09:57Z",
       "updated_at": "2026-11-19T20:17:19Z"
@@ -79,7 +79,7 @@
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
       "stars": 704,
-      "forks": 44,
+      "forks": 52,
       "language": "Python",
       "pushed_at": "2026-11-18T13:43:17Z",
       "updated_at": "2026-11-21T07:44:43Z"
@@ -145,7 +145,7 @@
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
       "stars": 191,
-      "forks": 25,
+      "forks": 26,
       "language": "JavaScript",
       "pushed_at": "2026-11-16T06:39:53Z",
       "updated_at": "2026-11-21T13:07:15Z"
@@ -155,22 +155,22 @@
       "full_name": "huaxialucaicaizi/business-plan-skill",
       "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
       "description": "这是一个用于沉淀商业计划书、路演材料、孵化器申请材料和项目介绍口径的 Codex skill 模板。",
-      "stars": 161,
-      "forks": 20,
+      "stars": 162,
+      "forks": 21,
       "language": "Unknown",
       "pushed_at": "2026-11-18T13:01:31Z",
-      "updated_at": "2026-11-21T19:08:35Z"
+      "updated_at": "2026-11-22T01:38:19Z"
     },
     {
-      "id": 918740399,
-      "full_name": "t3-sh/cloudcredits.io",
-      "html_url": "https://github.com/t3-sh/cloudcredits.io",
-      "description": "Massive community list of free credits and discounts for clouds, SaaS, tools, etc - with zero affiliations or ads.",
-      "stars": 89,
-      "forks": 24,
-      "language": "Astro",
-      "pushed_at": "2026-11-14T16:05:46Z",
-      "updated_at": "2026-11-12T18:10:59Z"
+      "id": 1347853946,
+      "full_name": "ultrametricai/ultrametric",
+      "html_url": "https://github.com/ultrametricai/ultrametric",
+      "description": "The open startup repo — everything a founder needs to start and run a company in the agentic era: the comprehensive founder processes from an agentic lens, open documents, situations founders might find themselves in, law that governs the business logic, startup lore, open modules, artifacts and schema.",
+      "stars": 90,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-21T06:20:54Z",
+      "updated_at": "2026-11-22T04:29:47Z"
     }
   ]
 }
