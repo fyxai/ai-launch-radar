@@ -5,18 +5,18 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 107,
+  "total_found": 109,
   "items": [
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6444,
-      "forks": 610,
+      "stars": 6448,
+      "forks": 607,
       "language": "Rust",
-      "pushed_at": "2026-11-23T06:15:39Z",
-      "updated_at": "2026-11-23T05:39:32Z"
+      "pushed_at": "2026-11-23T19:52:14Z",
+      "updated_at": "2026-11-23T19:16:15Z"
     },
     {
       "id": 596620163,
@@ -38,7 +38,7 @@
       "forks": 128,
       "language": "Less",
       "pushed_at": "2026-11-18T11:34:21Z",
-      "updated_at": "2026-11-23T00:22:58Z"
+      "updated_at": "2026-11-23T11:33:24Z"
     },
     {
       "id": 109404010,
@@ -48,19 +48,8 @@
       "stars": 1586,
       "forks": 98,
       "language": "JavaScript",
-      "pushed_at": "2026-11-17T06:37:26Z",
+      "pushed_at": "2026-11-23T13:53:45Z",
       "updated_at": "2026-11-22T16:44:40Z"
-    },
-    {
-      "id": 76633312,
-      "full_name": "Ibexoft/awesome-startup-tools-list",
-      "html_url": "https://github.com/Ibexoft/awesome-startup-tools-list",
-      "description": "List of all tools startups should use.",
-      "stars": 1109,
-      "forks": 371,
-      "language": "Unknown",
-      "pushed_at": "2026-11-13T13:39:03Z",
-      "updated_at": "2026-11-23T04:27:32Z"
     },
     {
       "id": 158286982,
@@ -89,22 +78,22 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 617,
+      "stars": 618,
       "forks": 77,
       "language": "JavaScript",
       "pushed_at": "2026-11-20T14:54:49Z",
-      "updated_at": "2026-11-19T06:17:54Z"
+      "updated_at": "2026-11-23T13:38:34Z"
     },
     {
       "id": 218981625,
       "full_name": "ravi-ojha/startuptoolbox",
       "html_url": "https://github.com/ravi-ojha/startuptoolbox",
       "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
-      "stars": 539,
-      "forks": 107,
+      "stars": 540,
+      "forks": 108,
       "language": "Unknown",
       "pushed_at": "2026-11-21T09:23:54Z",
-      "updated_at": "2026-11-18T11:18:22Z"
+      "updated_at": "2026-11-23T12:36:04Z"
     },
     {
       "id": 1311068285,
@@ -114,7 +103,7 @@
       "stars": 344,
       "forks": 30,
       "language": "Unknown",
-      "pushed_at": "2026-11-16T15:59:57Z",
+      "pushed_at": "2026-11-23T18:24:24Z",
       "updated_at": "2026-11-21T10:13:21Z"
     },
     {
@@ -133,44 +122,55 @@
       "full_name": "NextJSTemplates/solid-nextjs",
       "html_url": "https://github.com/NextJSTemplates/solid-nextjs",
       "description": "Solid is a free Next.js template specifically crafted for startups, SaaS, and software websites. ",
-      "stars": 265,
+      "stars": 266,
       "forks": 91,
       "language": "TypeScript",
       "pushed_at": "2026-11-18T04:13:42Z",
-      "updated_at": "2026-11-02T01:59:28Z"
+      "updated_at": "2026-11-23T11:53:43Z"
+    },
+    {
+      "id": 1159284606,
+      "full_name": "zupcode-com/awesome-free-services-for-your-next-startup-or-saas",
+      "html_url": "https://github.com/zupcode-com/awesome-free-services-for-your-next-startup-or-saas",
+      "description": "Build your next startup for FREE with services ranging from website design, app development, idea validation, user testing, saas feedback, seo audit, marketing hacks, growth consulting, fundraising help and many more services! by people from various subreddits. This list is curated manually and updated every week",
+      "stars": 233,
+      "forks": 30,
+      "language": "Unknown",
+      "pushed_at": "2026-11-23T07:16:48Z",
+      "updated_at": "2026-11-23T07:18:05Z"
     },
     {
       "id": 1359081910,
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 191,
+      "stars": 190,
       "forks": 26,
       "language": "JavaScript",
-      "pushed_at": "2026-11-16T06:39:53Z",
-      "updated_at": "2026-11-21T13:07:15Z"
+      "pushed_at": "2026-11-23T06:36:00Z",
+      "updated_at": "2026-11-23T08:21:04Z"
     },
     {
       "id": 1258964095,
       "full_name": "huaxialucaicaizi/business-plan-skill",
       "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
       "description": "这是一个用于沉淀商业计划书、路演材料、孵化器申请材料和项目介绍口径的 Codex skill 模板。",
-      "stars": 162,
-      "forks": 21,
+      "stars": 163,
+      "forks": 23,
       "language": "Unknown",
       "pushed_at": "2026-11-18T13:01:31Z",
-      "updated_at": "2026-11-22T01:38:19Z"
+      "updated_at": "2026-11-23T17:00:06Z"
     },
     {
       "id": 1347853946,
       "full_name": "ultrametricai/ultrametric",
       "html_url": "https://github.com/ultrametricai/ultrametric",
       "description": "The open startup repo — everything a founder needs to start and run a company in the agentic era: the comprehensive founder processes from an agentic lens, open documents, situations founders might find themselves in, law that governs the business logic, startup lore, open modules, artifacts and schema.",
-      "stars": 90,
+      "stars": 91,
       "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-11-23T05:49:15Z",
-      "updated_at": "2026-11-22T04:29:47Z"
+      "pushed_at": "2026-11-23T17:22:50Z",
+      "updated_at": "2026-11-23T07:32:34Z"
     }
   ]
 }
