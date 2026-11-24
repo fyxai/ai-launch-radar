@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6448,
+      "stars": 6455,
       "forks": 607,
       "language": "Rust",
-      "pushed_at": "2026-11-23T19:52:14Z",
-      "updated_at": "2026-11-23T19:16:15Z"
+      "pushed_at": "2026-11-24T04:32:51Z",
+      "updated_at": "2026-11-24T02:34:20Z"
     },
     {
       "id": 596620163,
@@ -67,11 +67,11 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 706,
+      "stars": 708,
       "forks": 52,
       "language": "Python",
       "pushed_at": "2026-11-18T13:43:17Z",
-      "updated_at": "2026-11-23T04:41:57Z"
+      "updated_at": "2026-11-24T03:48:43Z"
     },
     {
       "id": 132757250,
@@ -90,7 +90,7 @@
       "html_url": "https://github.com/ravi-ojha/startuptoolbox",
       "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
       "stars": 540,
-      "forks": 108,
+      "forks": 109,
       "language": "Unknown",
       "pushed_at": "2026-11-21T09:23:54Z",
       "updated_at": "2026-11-23T12:36:04Z"
@@ -112,7 +112,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 310,
-      "forks": 126,
+      "forks": 127,
       "language": "JavaScript",
       "pushed_at": "2026-11-22T12:39:30Z",
       "updated_at": "2026-11-22T19:19:55Z"
@@ -144,11 +144,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 190,
+      "stars": 191,
       "forks": 26,
       "language": "JavaScript",
       "pushed_at": "2026-11-23T06:36:00Z",
-      "updated_at": "2026-11-23T08:21:04Z"
+      "updated_at": "2026-11-24T03:02:36Z"
     },
     {
       "id": 1258964095,
