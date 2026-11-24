@@ -5,40 +5,18 @@
     "type": "github-search",
     "query": "topic:startup stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 109,
+  "total_found": 112,
   "items": [
     {
       "id": 1092407718,
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6455,
-      "forks": 607,
+      "stars": 6466,
+      "forks": 606,
       "language": "Rust",
-      "pushed_at": "2026-11-24T04:32:51Z",
-      "updated_at": "2026-11-24T02:34:20Z"
-    },
-    {
-      "id": 596620163,
-      "full_name": "NextJSTemplates/startup-nextjs",
-      "html_url": "https://github.com/NextJSTemplates/startup-nextjs",
-      "description": "Startup is free Next.js template for SaaS startups comes with all the essential pages, components, and sections you need to launch a complete business website.",
-      "stars": 1687,
-      "forks": 586,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-18T04:32:48Z",
-      "updated_at": "2026-11-19T22:48:53Z"
-    },
-    {
-      "id": 309097908,
-      "full_name": "25H/Maya",
-      "html_url": "https://github.com/25H/Maya",
-      "description": "Maye 一个简洁小巧的快速启动工具",
-      "stars": 1643,
-      "forks": 128,
-      "language": "Less",
-      "pushed_at": "2026-11-18T11:34:21Z",
-      "updated_at": "2026-11-23T11:33:24Z"
+      "pushed_at": "2026-11-24T19:23:11Z",
+      "updated_at": "2026-11-24T16:36:29Z"
     },
     {
       "id": 109404010,
@@ -56,11 +34,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 973,
+      "stars": 972,
       "forks": 131,
       "language": "C#",
       "pushed_at": "2026-11-22T11:04:30Z",
-      "updated_at": "2026-11-22T17:26:11Z"
+      "updated_at": "2026-11-24T17:58:04Z"
     },
     {
       "id": 1429583155,
@@ -89,11 +67,11 @@
       "full_name": "ravi-ojha/startuptoolbox",
       "html_url": "https://github.com/ravi-ojha/startuptoolbox",
       "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
-      "stars": 540,
-      "forks": 109,
+      "stars": 541,
+      "forks": 110,
       "language": "Unknown",
       "pushed_at": "2026-11-21T09:23:54Z",
-      "updated_at": "2026-11-23T12:36:04Z"
+      "updated_at": "2026-11-24T15:13:15Z"
     },
     {
       "id": 1311068285,
@@ -112,21 +90,10 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 310,
-      "forks": 127,
+      "forks": 129,
       "language": "JavaScript",
       "pushed_at": "2026-11-22T12:39:30Z",
       "updated_at": "2026-11-22T19:19:55Z"
-    },
-    {
-      "id": 672430732,
-      "full_name": "NextJSTemplates/solid-nextjs",
-      "html_url": "https://github.com/NextJSTemplates/solid-nextjs",
-      "description": "Solid is a free Next.js template specifically crafted for startups, SaaS, and software websites. ",
-      "stars": 266,
-      "forks": 91,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-18T04:13:42Z",
-      "updated_at": "2026-11-23T11:53:43Z"
     },
     {
       "id": 1159284606,
@@ -144,11 +111,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 191,
+      "stars": 190,
       "forks": 26,
       "language": "JavaScript",
       "pushed_at": "2026-11-23T06:36:00Z",
-      "updated_at": "2026-11-24T03:02:36Z"
+      "updated_at": "2026-11-24T09:23:00Z"
     },
     {
       "id": 1258964095,
@@ -169,8 +136,41 @@
       "stars": 91,
       "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-11-23T17:22:50Z",
+      "pushed_at": "2026-11-24T05:52:06Z",
       "updated_at": "2026-11-23T07:32:34Z"
+    },
+    {
+      "id": 1271631213,
+      "full_name": "cofoundy/brand-skills",
+      "html_url": "https://github.com/cofoundy/brand-skills",
+      "description": "Open-source brand skills that turn an idea into a real brand — name, identity, voice & brand book — without leaving your AI agent. Works in Claude Code, Cursor & 70+ agents.",
+      "stars": 84,
+      "forks": 14,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-23T18:52:21Z",
+      "updated_at": "2026-11-23T03:06:34Z"
+    },
+    {
+      "id": 1225800500,
+      "full_name": "theshubh77/awesome-saas-directories",
+      "html_url": "https://github.com/theshubh77/awesome-saas-directories",
+      "description": "A curated, community-driven list of the best places to launch your SaaS, get early users, and build SEO backlinks.",
+      "stars": 66,
+      "forks": 74,
+      "language": "Python",
+      "pushed_at": "2026-11-22T05:59:41Z",
+      "updated_at": "2026-11-23T07:32:40Z"
+    },
+    {
+      "id": 1470128152,
+      "full_name": "ZacedePa56/startup-optimizer-ai",
+      "html_url": "https://github.com/ZacedePa56/startup-optimizer-ai",
+      "description": "AI startup optimization: finds what slows boot, recommends safe disables.",
+      "stars": 66,
+      "forks": 0,
+      "language": "C++",
+      "pushed_at": "2026-11-24T12:23:24Z",
+      "updated_at": "2026-11-24T13:01:46Z"
     }
   ]
 }
