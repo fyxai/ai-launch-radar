@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6473,
-      "forks": 606,
+      "stars": 6482,
+      "forks": 607,
       "language": "Rust",
-      "pushed_at": "2026-11-25T03:22:33Z",
-      "updated_at": "2026-11-25T02:29:36Z"
+      "pushed_at": "2026-11-25T13:57:00Z",
+      "updated_at": "2026-11-25T13:43:38Z"
     },
     {
       "id": 109404010,
@@ -78,11 +78,11 @@
       "full_name": "AIDevGTM/gtm-cofounder",
       "html_url": "https://github.com/AIDevGTM/gtm-cofounder",
       "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT.",
-      "stars": 344,
+      "stars": 345,
       "forks": 30,
       "language": "Unknown",
       "pushed_at": "2026-11-23T18:24:24Z",
-      "updated_at": "2026-11-21T10:13:21Z"
+      "updated_at": "2026-11-25T12:58:29Z"
     },
     {
       "id": 72835816,
@@ -90,9 +90,9 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 310,
-      "forks": 129,
+      "forks": 130,
       "language": "JavaScript",
-      "pushed_at": "2026-11-22T12:39:30Z",
+      "pushed_at": "2026-11-25T10:00:30Z",
       "updated_at": "2026-11-22T19:19:55Z"
     },
     {
@@ -134,9 +134,9 @@
       "html_url": "https://github.com/ultrametricai/ultrametric",
       "description": "The open startup repo — everything a founder needs to start and run a company in the agentic era: the comprehensive founder processes from an agentic lens, open documents, situations founders might find themselves in, law that governs the business logic, startup lore, open modules, artifacts and schema.",
       "stars": 92,
-      "forks": 11,
+      "forks": 12,
       "language": "TypeScript",
-      "pushed_at": "2026-11-24T20:33:27Z",
+      "pushed_at": "2026-11-25T12:32:09Z",
       "updated_at": "2026-11-24T21:02:57Z"
     },
     {
@@ -144,11 +144,11 @@
       "full_name": "cofoundy/brand-skills",
       "html_url": "https://github.com/cofoundy/brand-skills",
       "description": "Open-source brand skills that turn an idea into a real brand — name, identity, voice & brand book — without leaving your AI agent. Works in Claude Code, Cursor & 70+ agents.",
-      "stars": 85,
+      "stars": 86,
       "forks": 14,
       "language": "TypeScript",
       "pushed_at": "2026-11-23T18:52:21Z",
-      "updated_at": "2026-11-24T22:20:44Z"
+      "updated_at": "2026-11-25T12:44:58Z"
     },
     {
       "id": 1225800500,
