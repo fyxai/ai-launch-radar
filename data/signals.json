@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6466,
+      "stars": 6473,
       "forks": 606,
       "language": "Rust",
-      "pushed_at": "2026-11-24T19:23:11Z",
-      "updated_at": "2026-11-24T16:36:29Z"
+      "pushed_at": "2026-11-25T03:22:33Z",
+      "updated_at": "2026-11-25T02:29:36Z"
     },
     {
       "id": 109404010,
@@ -34,11 +34,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 972,
+      "stars": 973,
       "forks": 131,
       "language": "C#",
       "pushed_at": "2026-11-22T11:04:30Z",
-      "updated_at": "2026-11-24T17:58:04Z"
+      "updated_at": "2026-11-25T02:34:15Z"
     },
     {
       "id": 1429583155,
@@ -56,11 +56,11 @@
       "full_name": "charlax/entrepreneurship-resources",
       "html_url": "https://github.com/charlax/entrepreneurship-resources",
       "description": "A list of articles, books, videos related to entrepreneurship",
-      "stars": 618,
+      "stars": 619,
       "forks": 77,
       "language": "JavaScript",
       "pushed_at": "2026-11-20T14:54:49Z",
-      "updated_at": "2026-11-23T13:38:34Z"
+      "updated_at": "2026-11-24T23:15:58Z"
     },
     {
       "id": 218981625,
@@ -111,44 +111,44 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 190,
+      "stars": 189,
       "forks": 26,
       "language": "JavaScript",
       "pushed_at": "2026-11-23T06:36:00Z",
-      "updated_at": "2026-11-24T09:23:00Z"
+      "updated_at": "2026-11-24T20:29:13Z"
     },
     {
-      "id": 1258964095,
-      "full_name": "huaxialucaicaizi/business-plan-skill",
-      "html_url": "https://github.com/huaxialucaicaizi/business-plan-skill",
-      "description": "这是一个用于沉淀商业计划书、路演材料、孵化器申请材料和项目介绍口径的 Codex skill 模板。",
-      "stars": 163,
-      "forks": 23,
+      "id": 1179396737,
+      "full_name": "doanbactam/awesome-builder-programs",
+      "html_url": "https://github.com/doanbactam/awesome-builder-programs",
+      "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
+      "stars": 165,
+      "forks": 20,
       "language": "Unknown",
-      "pushed_at": "2026-11-18T13:01:31Z",
-      "updated_at": "2026-11-23T17:00:06Z"
+      "pushed_at": "2026-11-25T01:47:33Z",
+      "updated_at": "2026-11-14T18:31:02Z"
     },
     {
       "id": 1347853946,
       "full_name": "ultrametricai/ultrametric",
       "html_url": "https://github.com/ultrametricai/ultrametric",
       "description": "The open startup repo — everything a founder needs to start and run a company in the agentic era: the comprehensive founder processes from an agentic lens, open documents, situations founders might find themselves in, law that governs the business logic, startup lore, open modules, artifacts and schema.",
-      "stars": 91,
+      "stars": 92,
       "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-11-24T05:52:06Z",
-      "updated_at": "2026-11-23T07:32:34Z"
+      "pushed_at": "2026-11-24T20:33:27Z",
+      "updated_at": "2026-11-24T21:02:57Z"
     },
     {
       "id": 1271631213,
       "full_name": "cofoundy/brand-skills",
       "html_url": "https://github.com/cofoundy/brand-skills",
       "description": "Open-source brand skills that turn an idea into a real brand — name, identity, voice & brand book — without leaving your AI agent. Works in Claude Code, Cursor & 70+ agents.",
-      "stars": 84,
+      "stars": 85,
       "forks": 14,
       "language": "TypeScript",
       "pushed_at": "2026-11-23T18:52:21Z",
-      "updated_at": "2026-11-23T03:06:34Z"
+      "updated_at": "2026-11-24T22:20:44Z"
     },
     {
       "id": 1225800500,
@@ -165,12 +165,12 @@
       "id": 1470128152,
       "full_name": "ZacedePa56/startup-optimizer-ai",
       "html_url": "https://github.com/ZacedePa56/startup-optimizer-ai",
-      "description": "AI startup optimization: finds what slows boot, recommends safe disables.",
+      "description": "AI startup optimization: finds what slows boot, recommends safe disables. | startup optimizer startup ai boot speed | Portable x64 prebuilt for Windows",
       "stars": 66,
       "forks": 0,
       "language": "C++",
-      "pushed_at": "2026-11-24T12:23:24Z",
-      "updated_at": "2026-11-24T13:01:46Z"
+      "pushed_at": "2026-11-24T21:46:54Z",
+      "updated_at": "2026-11-24T21:50:16Z"
     }
   ]
 }
