@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6482,
-      "forks": 607,
+      "stars": 6512,
+      "forks": 611,
       "language": "Rust",
-      "pushed_at": "2026-11-25T13:57:00Z",
-      "updated_at": "2026-11-25T13:43:38Z"
+      "pushed_at": "2026-11-26T00:00:20Z",
+      "updated_at": "2026-11-25T23:55:25Z"
     },
     {
       "id": 109404010,
@@ -34,11 +34,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 973,
+      "stars": 977,
       "forks": 131,
       "language": "C#",
-      "pushed_at": "2026-11-22T11:04:30Z",
-      "updated_at": "2026-11-25T02:34:15Z"
+      "pushed_at": "2026-11-25T17:25:40Z",
+      "updated_at": "2026-11-25T23:18:50Z"
     },
     {
       "id": 1429583155,
@@ -68,7 +68,7 @@
       "html_url": "https://github.com/ravi-ojha/startuptoolbox",
       "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
       "stars": 541,
-      "forks": 110,
+      "forks": 111,
       "language": "Unknown",
       "pushed_at": "2026-11-21T09:23:54Z",
       "updated_at": "2026-11-24T15:13:15Z"
@@ -89,11 +89,11 @@
       "full_name": "pegaltier/awesome-utils-dev",
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "stars": 310,
+      "stars": 311,
       "forks": 130,
       "language": "JavaScript",
       "pushed_at": "2026-11-25T10:00:30Z",
-      "updated_at": "2026-11-22T19:19:55Z"
+      "updated_at": "2026-11-25T23:41:35Z"
     },
     {
       "id": 1159284606,
@@ -151,26 +151,26 @@
       "updated_at": "2026-11-25T12:44:58Z"
     },
     {
+      "id": 1299572191,
+      "full_name": "carolinacherry/claude-first-customer-finder-skill",
+      "html_url": "https://github.com/carolinacherry/claude-first-customer-finder-skill",
+      "description": "Claude skill that finds evidence-backed potential first customers for your startup from public signals — ICP analysis, verified pain/buying signals, scored shortlist, outreach drafts, HTML report",
+      "stars": 72,
+      "forks": 9,
+      "language": "Python",
+      "pushed_at": "2026-11-18T19:22:22Z",
+      "updated_at": "2026-11-25T22:12:53Z"
+    },
+    {
       "id": 1225800500,
       "full_name": "theshubh77/awesome-saas-directories",
       "html_url": "https://github.com/theshubh77/awesome-saas-directories",
       "description": "A curated, community-driven list of the best places to launch your SaaS, get early users, and build SEO backlinks.",
-      "stars": 66,
+      "stars": 67,
       "forks": 74,
       "language": "Python",
-      "pushed_at": "2026-11-22T05:59:41Z",
-      "updated_at": "2026-11-23T07:32:40Z"
-    },
-    {
-      "id": 1470128152,
-      "full_name": "ZacedePa56/startup-optimizer-ai",
-      "html_url": "https://github.com/ZacedePa56/startup-optimizer-ai",
-      "description": "AI startup optimization: finds what slows boot, recommends safe disables. | startup optimizer startup ai boot speed | Portable x64 prebuilt for Windows",
-      "stars": 66,
-      "forks": 0,
-      "language": "C++",
-      "pushed_at": "2026-11-24T21:46:54Z",
-      "updated_at": "2026-11-24T21:50:16Z"
+      "pushed_at": "2026-11-25T18:27:35Z",
+      "updated_at": "2026-11-25T19:14:12Z"
     }
   ]
 }
