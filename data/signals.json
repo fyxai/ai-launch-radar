@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6545,
-      "forks": 616,
+      "stars": 6555,
+      "forks": 619,
       "language": "Rust",
-      "pushed_at": "2026-11-27T00:12:35Z",
-      "updated_at": "2026-11-26T23:54:45Z"
+      "pushed_at": "2026-11-27T11:36:31Z",
+      "updated_at": "2026-11-27T13:18:47Z"
     },
     {
       "id": 109404010,
@@ -45,11 +45,11 @@
       "full_name": "huaxialucaicaizi/ai-startup-skills",
       "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 710,
+      "stars": 711,
       "forks": 51,
       "language": "Python",
       "pushed_at": "2026-11-18T13:43:17Z",
-      "updated_at": "2026-11-26T08:54:34Z"
+      "updated_at": "2026-11-27T03:24:17Z"
     },
     {
       "id": 132757250,
@@ -92,7 +92,7 @@
       "stars": 311,
       "forks": 134,
       "language": "JavaScript",
-      "pushed_at": "2026-11-25T10:00:30Z",
+      "pushed_at": "2026-11-27T10:18:41Z",
       "updated_at": "2026-11-25T23:41:35Z"
     },
     {
@@ -111,11 +111,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 188,
+      "stars": 189,
       "forks": 25,
       "language": "JavaScript",
       "pushed_at": "2026-11-23T06:36:00Z",
-      "updated_at": "2026-11-26T02:59:24Z"
+      "updated_at": "2026-11-27T12:59:42Z"
     },
     {
       "id": 1179396737,
@@ -136,7 +136,7 @@
       "stars": 93,
       "forks": 12,
       "language": "TypeScript",
-      "pushed_at": "2026-11-26T08:48:45Z",
+      "pushed_at": "2026-11-27T13:20:15Z",
       "updated_at": "2026-11-26T22:07:31Z"
     },
     {
@@ -144,22 +144,22 @@
       "full_name": "cofoundy/brand-skills",
       "html_url": "https://github.com/cofoundy/brand-skills",
       "description": "Open-source brand skills that turn an idea into a real brand — name, identity, voice & brand book — without leaving your AI agent. Works in Claude Code, Cursor & 70+ agents.",
-      "stars": 86,
+      "stars": 87,
       "forks": 14,
       "language": "TypeScript",
       "pushed_at": "2026-11-23T18:52:21Z",
-      "updated_at": "2026-11-25T12:44:58Z"
+      "updated_at": "2026-11-27T11:00:32Z"
     },
     {
       "id": 1299572191,
       "full_name": "carolinacherry/claude-first-customer-finder-skill",
       "html_url": "https://github.com/carolinacherry/claude-first-customer-finder-skill",
       "description": "Claude skill that finds evidence-backed potential first customers for your startup from public signals — ICP analysis, verified pain/buying signals, scored shortlist, outreach drafts, HTML report",
-      "stars": 78,
-      "forks": 13,
+      "stars": 83,
+      "forks": 14,
       "language": "Python",
       "pushed_at": "2026-11-18T19:22:22Z",
-      "updated_at": "2026-11-26T21:05:12Z"
+      "updated_at": "2026-11-27T13:05:31Z"
     },
     {
       "id": 1225800500,
@@ -167,7 +167,7 @@
       "html_url": "https://github.com/theshubh77/awesome-saas-directories",
       "description": "A curated, community-driven list of the best places to launch your SaaS, get early users, and build SEO backlinks.",
       "stars": 67,
-      "forks": 74,
+      "forks": 77,
       "language": "Python",
       "pushed_at": "2026-11-25T18:27:35Z",
       "updated_at": "2026-11-25T19:14:12Z"
