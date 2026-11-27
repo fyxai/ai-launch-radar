@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6555,
-      "forks": 619,
+      "stars": 6569,
+      "forks": 623,
       "language": "Rust",
-      "pushed_at": "2026-11-27T11:36:31Z",
-      "updated_at": "2026-11-27T13:18:47Z"
+      "pushed_at": "2026-11-27T23:51:27Z",
+      "updated_at": "2026-11-27T23:47:47Z"
     },
     {
       "id": 109404010,
@@ -34,22 +34,11 @@
       "full_name": "maximmax42/Discord-CustomRP",
       "html_url": "https://github.com/maximmax42/Discord-CustomRP",
       "description": "Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.",
-      "stars": 977,
+      "stars": 978,
       "forks": 131,
       "language": "C#",
       "pushed_at": "2026-11-25T17:25:40Z",
-      "updated_at": "2026-11-25T23:18:50Z"
-    },
-    {
-      "id": 1429583155,
-      "full_name": "huaxialucaicaizi/ai-startup-skills",
-      "html_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-      "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "stars": 711,
-      "forks": 51,
-      "language": "Python",
-      "pushed_at": "2026-11-18T13:43:17Z",
-      "updated_at": "2026-11-27T03:24:17Z"
+      "updated_at": "2026-11-27T19:14:59Z"
     },
     {
       "id": 132757250,
@@ -68,10 +57,21 @@
       "html_url": "https://github.com/ravi-ojha/startuptoolbox",
       "description": "The startup founder toolbelt. A forever-updating crowdsourced collection.",
       "stars": 541,
-      "forks": 114,
+      "forks": 115,
       "language": "Unknown",
       "pushed_at": "2026-11-21T09:23:54Z",
       "updated_at": "2026-11-24T15:13:15Z"
+    },
+    {
+      "id": 1165088446,
+      "full_name": "25H/MayeNano",
+      "html_url": "https://github.com/25H/MayeNano",
+      "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
+      "stars": 481,
+      "forks": 27,
+      "language": "C++",
+      "pushed_at": "2026-11-27T14:02:12Z",
+      "updated_at": "2026-11-27T08:58:07Z"
     },
     {
       "id": 1311068285,
@@ -90,9 +90,9 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 311,
-      "forks": 134,
+      "forks": 136,
       "language": "JavaScript",
-      "pushed_at": "2026-11-27T10:18:41Z",
+      "pushed_at": "2026-11-27T20:38:47Z",
       "updated_at": "2026-11-25T23:41:35Z"
     },
     {
@@ -122,11 +122,11 @@
       "full_name": "doanbactam/awesome-builder-programs",
       "html_url": "https://github.com/doanbactam/awesome-builder-programs",
       "description": "A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.",
-      "stars": 165,
+      "stars": 166,
       "forks": 20,
       "language": "Unknown",
       "pushed_at": "2026-11-25T01:47:33Z",
-      "updated_at": "2026-11-14T18:31:02Z"
+      "updated_at": "2026-11-27T19:57:17Z"
     },
     {
       "id": 1347853946,
@@ -155,11 +155,11 @@
       "full_name": "carolinacherry/claude-first-customer-finder-skill",
       "html_url": "https://github.com/carolinacherry/claude-first-customer-finder-skill",
       "description": "Claude skill that finds evidence-backed potential first customers for your startup from public signals — ICP analysis, verified pain/buying signals, scored shortlist, outreach drafts, HTML report",
-      "stars": 83,
+      "stars": 84,
       "forks": 14,
       "language": "Python",
       "pushed_at": "2026-11-18T19:22:22Z",
-      "updated_at": "2026-11-27T13:05:31Z"
+      "updated_at": "2026-11-27T18:40:10Z"
     },
     {
       "id": 1225800500,
