@@ -12,11 +12,11 @@
       "full_name": "macro-inc/macro",
       "html_url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 6569,
-      "forks": 623,
+      "stars": 6573,
+      "forks": 621,
       "language": "Rust",
-      "pushed_at": "2026-11-27T23:51:27Z",
-      "updated_at": "2026-11-27T23:47:47Z"
+      "pushed_at": "2026-11-28T06:40:54Z",
+      "updated_at": "2026-11-28T04:34:49Z"
     },
     {
       "id": 109404010,
@@ -67,11 +67,11 @@
       "full_name": "25H/MayeNano",
       "html_url": "https://github.com/25H/MayeNano",
       "description": "Maye Nano 是一款专注于快速启动工具。我们深知效率的本质是减法而非加法，因此摒弃一切冗余，仅保留最极致的启动体验。它坚持绿色无污染设计，不产生系统垃圾，旨在为 Windows 提供一种更轻盈、更现代的操控方式。",
-      "stars": 481,
-      "forks": 27,
+      "stars": 482,
+      "forks": 28,
       "language": "C++",
       "pushed_at": "2026-11-27T14:02:12Z",
-      "updated_at": "2026-11-27T08:58:07Z"
+      "updated_at": "2026-11-28T06:24:24Z"
     },
     {
       "id": 1311068285,
@@ -90,7 +90,7 @@
       "html_url": "https://github.com/pegaltier/awesome-utils-dev",
       "description": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "stars": 311,
-      "forks": 136,
+      "forks": 138,
       "language": "JavaScript",
       "pushed_at": "2026-11-27T20:38:47Z",
       "updated_at": "2026-11-25T23:41:35Z"
@@ -111,11 +111,11 @@
       "full_name": "alvinunreal/awesome-submitlist",
       "html_url": "https://github.com/alvinunreal/awesome-submitlist",
       "description": "Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.",
-      "stars": 189,
-      "forks": 25,
+      "stars": 187,
+      "forks": 23,
       "language": "JavaScript",
       "pushed_at": "2026-11-23T06:36:00Z",
-      "updated_at": "2026-11-27T12:59:42Z"
+      "updated_at": "2026-11-28T05:09:33Z"
     },
     {
       "id": 1179396737,
@@ -136,7 +136,7 @@
       "stars": 93,
       "forks": 12,
       "language": "TypeScript",
-      "pushed_at": "2026-11-27T13:20:15Z",
+      "pushed_at": "2026-11-28T06:09:39Z",
       "updated_at": "2026-11-26T22:07:31Z"
     },
     {
@@ -155,11 +155,11 @@
       "full_name": "carolinacherry/claude-first-customer-finder-skill",
       "html_url": "https://github.com/carolinacherry/claude-first-customer-finder-skill",
       "description": "Claude skill that finds evidence-backed potential first customers for your startup from public signals — ICP analysis, verified pain/buying signals, scored shortlist, outreach drafts, HTML report",
-      "stars": 84,
+      "stars": 86,
       "forks": 14,
       "language": "Python",
       "pushed_at": "2026-11-18T19:22:22Z",
-      "updated_at": "2026-11-27T18:40:10Z"
+      "updated_at": "2026-11-28T04:32:54Z"
     },
     {
       "id": 1225800500,
